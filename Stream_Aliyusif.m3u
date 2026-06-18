@@ -4,7 +4,7 @@
 http://str.yodacdn.net/azertv/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img2/2555.png", İctimai TV
 #EXTGRP:🇦🇿 Azərbaycan 🇦🇿
-http://str.yodacdn.net/ictimaitele/index.m3u8
+https://live.itv.az/itv.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img2/9134.png", ATV
 #EXTGRP:🇦🇿 Azərbaycan 🇦🇿
 https://str.yodacdn.net/atv/index.m3u8

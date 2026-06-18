@@ -4,7 +4,7 @@
 http://str.yodacdn.net/azertv/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img2/2555.png", İctimai TV
 #EXTGRP:🇦🇿 Azərbaycan 🇦🇿
-https://live.itv.az/itv.m3u8
+https://by-kerimoff-azeri.bykerimoff.workers.dev/az/ictimai/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img2/9134.png", ATV
 #EXTGRP:🇦🇿 Azərbaycan 🇦🇿
 https://str.yodacdn.net/atv/index.m3u8
@@ -996,6 +996,43 @@ https://str.yodacdn.net/radio_int/index.m3u8
 #EXTINF:0 tvg-logo="https://i.postimg.cc/5t91Qkqr/In-Shot-20260603-212112160.png" group-title="🇦🇿 Azərbaycan radioları",ASAN radio 100.0 fm
 https://play.asanradio.az/
 
+#EXTM3U
+#EXTINF:-1 group-title="AzÉ™rbaycan TV",Now Music
+https://premiumiptv.bykerimoff.workers.dev/stream/nowmusic.m3u8
+#EXTINF:-1 group-title="AzÉ™rbaycan TV",Arb
+https://by-kerimoff-azeri.bykerimoff.workers.dev/az/arb/index.m3u8
+#EXTINF:-1 group-title="AzÉ™rbaycan TV",ARB 24
+https://by-kerimoff-azeri.bykerimoff.workers.dev/az/arb24/index.m3u8
+#EXTINF:-1 group-title="AzÉ™rbaycan TV",ARB Gunesh
+https://by-kerimoff-azeri.bykerimoff.workers.dev/az/arbgunesh/index.m3u8
+#EXTINF:-1 group-title="AzÉ™rbaycan TV",Baku tv
+https://by-kerimoff-azeri.bykerimoff.workers.dev/az/bakutv/index.m3u8
+#EXTINF:-1 group-title="AzÉ™rbaycan TV",cbc
+https://by-kerimoff-azeri.bykerimoff.workers.dev/az/cbc/index.m3u8
+#EXTINF:-1 group-title="AzÉ™rbaycan TV",Dunya tv
+https://by-kerimoff-azeri.bykerimoff.workers.dev/az/dunyatv/index.m3u8
+#EXTINF:-1 group-title="AzÉ™rbaycan TV",ictimai
+https://by-kerimoff-azeri.bykerimoff.workers.dev/az/ictimai/index.m3u8
+#EXTINF:-1 group-title="AzÉ™rbaycan TV",kanal s
+https://by-kerimoff-azeri.bykerimoff.workers.dev/az/kanals/index.m3u8
+#EXTINF:-1 group-title="AzÉ™rbaycan TV",medeniyyet
+https://by-kerimoff-azeri.bykerimoff.workers.dev/az/medeniyyet/index.m3u8
+#EXTINF:-1 group-title="AzÉ™rbaycan TV",mcj-shop
+https://by-kerimoff-azeri.bykerimoff.workers.dev/az/mcjshop/index.m3u8
+#EXTINF:-1 group-title="AzÉ™rbaycan TV",mtvaz
+https://by-kerimoff-azeri.bykerimoff.workers.dev/az/mtvaz/index.m3u8
+#EXTINF:-1 group-title="AzÉ™rbaycan TV",real tv
+https://by-kerimoff-azeri.bykerimoff.workers.dev/az/realtv/index.m3u8
+#EXTINF:-1 group-title="AzÉ™rbaycan TV",space tv
+https://by-kerimoff-azeri.bykerimoff.workers.dev/az/spacetv/index.m3u8
+#EXTINF:-1 group-title="AzÉ™rbaycan TV",tmb-az
+https://by-kerimoff-azeri.bykerimoff.workers.dev/az/tmbaz/index.m3u8
+#EXTINF:-1 group-title="AzÉ™rbaycan TV",tmb-tv
+https://by-kerimoff-azeri.bykerimoff.workers.dev/az/tmbtv/index.m3u8
+#EXTINF:-1 group-title="AzÉ™rbaycan TV",vip tv
+https://by-kerimoff-azeri.bykerimoff.workers.dev/az/viptv/index.m3u8
+#EXTINF:-1 group-title="AzÉ™rbaycan TV",xezer tv
+https://by-kerimoff-azeri.bykerimoff.workers.dev/az/xezertv/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="AZ: AZTV FHD" tvg-logo="https://cdn.countryflags.com/thumbs/azerbaijan/flag-round-250.png" group-title="AZ ✨ AZERBAYCAN",AZ: AZTV FHD
 http://enomaxtv.xyz:8080/aNDY6JaN/hpqAnwHXc8BY/793389
@@ -1231,6 +1268,7 @@ http://flussonic.izone.az:80/aztv/index.m3u8
 https://str.yodacdn.net/ictimaitele/index.m3u8
 #EXTINF:-1,iÇTİMAİ tv
 #EXTGRP:FLUSSONIC.IZONE.AZ
+https://live.itv.az/itv.m3u8
 http://flussonic.izone.az:80/ictimaitv/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/90PchBp3/GIF-20260409-002650-918.gif", ATV
 #EXTGRP:FLUSSONIC.IZONE.AZ

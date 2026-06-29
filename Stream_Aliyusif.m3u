@@ -631,6 +631,15 @@ https://catcast-bana-sor.biz-az.workers.dev/index.m3u8?id=playercnema-yirtici2.m
 https://catcast-bana-sor.biz-az.workers.dev/index.m3u8?id=playercinema-godzilla 1.m3u8
 #EXTINF:0 tvg-id="50748" tvg-name="PlayerCinema MAYMUNLAR" tvg-logo="https://img.catcast.tv/uploads/16032026/logos/50748-69b85589bb5e1.png" group-title="⚡️PLAYER TV🇦🇿DedMasterIPTV🇦🇿",PlayerCinema MAYMUNLAR
 https://catcast-bana-sor.biz-az.workers.dev/index.m3u8?id=playercinema-maymunlar.m3u8
+#EXTINF:-1 tvg-name="PlayerCinema_Obiriks-ve-Asteriks"tvg-logo="https://img.catcast.tv/uploads/23062026/logos/27208-6a3a9b03ae92e.png",PlayerCinema_Obiriks-ve-Asteriks
+#EXTGRP:⚡️PLAYER TV🇦🇿DedMasterIPTV🇦🇿
+https://catcast-bana-sor.biz-az.workers.dev/index.m3u8?id=playercinema_obiriks-ve-asteri.m3u8
+#EXTINF:-1 tvg-name="PlayerCinema_Peaky-Brinders_1"tvg-logo="https://img.catcast.tv/uploads/23062026/logos/27208-6a3a9a0cc71bc.png",PlayerCinema_Peaky-Brinders_1
+#EXTGRP:⚡️PLAYER TV🇦🇿DedMasterIPTV🇦🇿
+https://catcast-bana-sor.biz-az.workers.dev/index.m3u8?id=playercinema_peaky-brinders_1.m3u8
+#EXTINF:-1 tvg-name="PlayerCinema_BUTTERFLY_1"tvg-logo="https://img.catcast.tv/uploads/23062026/logos/27208-6a3a9effbf071.png",PlayerCinema_BUTTERFLY_1
+#EXTGRP:⚡️PLAYER TV🇦🇿DedMasterIPTV🇦🇿
+https://catcast-bana-sor.biz-az.workers.dev/index.m3u8?id=playercinema_butterfly_1.m3u8
 #EXTINF:0 tvg-id="50553" tvg-name="PlayerCinema Fantastika" tvg-logo="https://img.catcast.tv/uploads/17022026/logos/50553-69940bdfc4f57.png" group-title="⚡️PLAYER TV🇦🇿DedMasterIPTV🇦🇿",PlayerCinema Fantastika
 https://catcast-bana-sor.biz-az.workers.dev/index.m3u8?id=playercinema-fantastika.m3u8
 #EXTINF:0 tvg-id="50520" tvg-name="PlayerCinema John Wick" tvg-logo="https://img.catcast.tv/uploads/17022026/logos/50520-69940a585fb6f.png" group-title="⚡️PLAYER TV🇦🇿DedMasterIPTV🇦🇿",PlayerCinema John Wick
@@ -707,6 +716,12 @@ https://catcast-bana-sor.biz-az.workers.dev/index.m3u8?id=playerkomedi-kemalsuna
 https://catcast-bana-sor.biz-az.workers.dev/index.m3u8?id=playertrk-eneren.m3u8
 #EXTINF:0 tvg-id="50428" tvg-name="PlayerWWE" tvg-logo="https://img.catcast.tv/uploads/10022026/logos/50428-698b472767a59.png" group-title="⚡️PLAYER TV🇦🇿DedMasterIPTV🇦🇿",PlayerWWE
 https://catcast-bana-sor.biz-az.workers.dev/index.m3u8?id=playerwwe.m3u8
+#EXTINF:-1 tvg-name="PlayerCizgiFilm_Obiriks-ve-Asteriks"tvg-logo="https://img.catcast.tv/uploads/23062026/logos/27208-6a3a9b7b1a47e.png",PlayerCizgiFilm_Obiriks-ve-Asteriks
+#EXTGRP:⚡️PLAYER TV🇦🇿DedMasterIPTV🇦🇿
+https://catcast-bana-sor.biz-az.workers.dev/index.m3u8?id=playercizgifilm_obiriks-ve-ast.m3u8
+#EXTINF:-1 tvg-name="PlayerCizgiFilm_Disney"tvg-logo="https://img.catcast.tv/uploads/23062026/logos/27208-6a3a9a0cc71bc.png",PlayerCizgiFilm_Disney
+#EXTGRP:⚡️PLAYER TV🇦🇿DedMasterIPTV🇦🇿
+https://catcast-bana-sor.biz-az.workers.dev/index.m3u8?id=playercizgifilm_disney.m3u8
 #EXTINF:0 tvg-id="50958" tvg-name="PlayerCizgiFilm PANDA 1" tvg-logo="https://img.catcast.tv/uploads/03042026/logos/50958-69cfdb19cb169.png" group-title="⚡️PLAYER TV🇦🇿DedMasterIPTV🇦🇿",PlayerCizgiFilm PANDA 1
 https://catcast-bana-sor.biz-az.workers.dev/index.m3u8?id=playercizgifilm-panda1.m3u8
 #EXTINF:0 tvg-id="50959" tvg-name="PlayerCizgiFilm PANDA 2" tvg-logo="https://img.catcast.tv/uploads/03042026/logos/50959-69cfdb72e3a1c.png" group-title="⚡️PLAYER TV🇦🇿DedMasterIPTV🇦🇿",PlayerCizgiFilm PANDA 2
@@ -8759,7 +8774,7 @@ https://proud-river-e20b.pantonum1.workers.dev/viasathistory.m3u8
 http://umperisn.mywire.org/index.php?id=594657&token=DeaTHLesS
 #EXTINF:0 tvg-logo="https://i.postimg.cc/yNrKNHFV/In-Shot-20260111-160438896.png" group-title="🇹🇷 Belgesel 🇹🇷",DISCOVERY CHANNEL
 http://umperisn.mywire.org/index.php?id=594674&token=DeaTHLesS
-#EXTINF:0 tvg-logo="https://i.postimg.cc/Wb7Q3VvK/In-Shot-20260111-160647988.png" group-title="Türkiyə",INVESTIGATION DISCOVERY
+#EXTINF:0 tvg-logo="https://i.postimg.cc/Wb7Q3VvK/In-Shot-20260111-160647988.png" group-title="🇹🇷 Belgesel 🇹🇷",INVESTIGATION DISCOVERY
 http://umperisn.mywire.org/index.php?id=594672&token=DeaTHLesS
 #EXTINF:0 tvg-logo="https://i.postimg.cc/FshXNX4q/In-Shot-20260127-125514615.png" group-title="🇹🇷 Belgesel 🇹🇷",NATIONAL GEOGRAPHIC
 http://umperisn.mywire.org/index.php?id=594676&token=DeaTHLesS
@@ -8858,145 +8873,6 @@ https://kaktusimparatoru.lol/static/bs4.m3u8
 https://kaktusimparatoru.lol/static/bs5.m3u8
 #EXTINF:0 tvg-logo="https://i.postimg.cc/gJfhTS54/In-Shot-20260513-222037360.png" group-title="SPOR",Mackolik spor
 https://mackolik-live.ercdn.net/mackolik/mackolik_1080p.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="|TR| MaximTV Yerli Sinema TV 1 HD" tvg-logo="https://apkx.xyz/tv-tum-dunya-logolar/logolar/maxyerlisinema.png" group-title="TR/ SINEMA KANALLARI",|TR| MaximTV Yerli Sinema TV 1 HD
-http://storetvip.shop:8080/034nazim1907/19071907nazim/195058
-#EXTINF:-1 tvg-id="" tvg-name="|TR| MaximTV Yerli Sinema TV 2 HD" tvg-logo="https://apkx.xyz/tv-tum-dunya-logolar/logolar/maxyerlisinema.png" group-title="TR/ SINEMA KANALLARI",|TR| MaximTV Yerli Sinema TV 2 HD
-http://storetvip.shop:8080/034nazim1907/19071907nazim/195050
-#EXTINF:-1 tvg-id="" tvg-name="|TR| MaximTV Yerli Sinema TV 3 HD" tvg-logo="https://apkx.xyz/tv-tum-dunya-logolar/logolar/maxyerlisinema.png" group-title="TR/ SINEMA KANALLARI",|TR| MaximTV Yerli Sinema TV 3 HD
-http://storetvip.shop:8080/034nazim1907/19071907nazim/195051
-#EXTINF:-1 tvg-id="" tvg-name="|TR| MaximTV Yerli Sinema TV 4 HD" tvg-logo="https://apkx.xyz/tv-tum-dunya-logolar/logolar/maxyerlisinema.png" group-title="TR/ SINEMA KANALLARI",|TR| MaximTV Yerli Sinema TV 4 HD
-http://storetvip.shop:8080/034nazim1907/19071907nazim/195052
-#EXTINF:-1 tvg-id="" tvg-name="|TR| MaximTV Yerli Sinema TV 5 HD" tvg-logo="https://apkx.xyz/tv-tum-dunya-logolar/logolar/maxyerlisinema.png" group-title="TR/ SINEMA KANALLARI",|TR| MaximTV Yerli Sinema TV 5 HD
-http://storetvip.shop:8080/034nazim1907/19071907nazim/195053
-#EXTINF:-1 tvg-id="" tvg-name="|TR| MaximTV Yerli Sinema TV 6 HD" tvg-logo="https://apkx.xyz/tv-tum-dunya-logolar/logolar/maxyerlisinema.png" group-title="TR/ SINEMA KANALLARI",|TR| MaximTV Yerli Sinema TV 6 HD
-http://storetvip.shop:8080/034nazim1907/19071907nazim/195054
-#EXTINF:-1 tvg-id="" tvg-name="|TR| MaximTV Yerli Sinema TV 7 HD" tvg-logo="https://apkx.xyz/tv-tum-dunya-logolar/logolar/maxyerlisinema.png" group-title="TR/ SINEMA KANALLARI",|TR| MaximTV Yerli Sinema TV 7 HD
-http://storetvip.shop:8080/034nazim1907/19071907nazim/195055
-#EXTINF:-1 tvg-id="" tvg-name="|TR| MaximTV Yerli Sinema TV 8 HD" tvg-logo="https://apkx.xyz/tv-tum-dunya-logolar/logolar/maxyerlisinema.png" group-title="TR/ SINEMA KANALLARI",|TR| MaximTV Yerli Sinema TV 8 HD
-http://storetvip.shop:8080/034nazim1907/19071907nazim/195056
-#EXTINF:-1 tvg-id="" tvg-name="|TR| MaximTV Yerli Sinema TV 9 HD" tvg-logo="https://apkx.xyz/tv-tum-dunya-logolar/logolar/maxyerlisinema.png" group-title="TR/ SINEMA KANALLARI",|TR| MaximTV Yerli Sinema TV 9 HD
-http://storetvip.shop:8080/034nazim1907/19071907nazim/195057
-#EXTINF:-1 tvg-id="" tvg-name="|TR| MaximTV VIP Sinema 6 HD" tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/MaxLogolar/maxvipsinema.png" group-title="TR/ SINEMA KANALLARI",|TR| MaximTV VIP Sinema 6 HD
-http://storetvip.shop:8080/034nazim1907/19071907nazim/112208
-#EXTINF:-1 tvg-id="" tvg-name="TR: Sine Max TV 1 HD" tvg-logo="http://play" group-title="TR/ SINEMA KANALLARI",TR: Sine Max TV 1 HD
-http://storetvip.shop:8080/034nazim1907/19071907nazim/170441
-#EXTINF:-1 tvg-id="" tvg-name="TR: Sine Max TV 2 HD" tvg-logo="http://play" group-title="TR/ SINEMA KANALLARI",TR: Sine Max TV 2 HD
-http://storetvip.shop:8080/034nazim1907/19071907nazim/170442
-#EXTINF:-1 tvg-id="" tvg-name="TR: Sine Max TV 3 HD" tvg-logo="http://play" group-title="TR/ SINEMA KANALLARI",TR: Sine Max TV 3 HD
-http://storetvip.shop:8080/034nazim1907/19071907nazim/170443
-#EXTINF:-1 tvg-id="" tvg-name="TR: Sine Max TV 4 HD" tvg-logo="http://play" group-title="TR/ SINEMA KANALLARI",TR: Sine Max TV 4 HD
-http://storetvip.shop:8080/034nazim1907/19071907nazim/170444
-#EXTINF:-1 tvg-id="" tvg-name="TR: Sine Max TV 5 HD" tvg-logo="http://play" group-title="TR/ SINEMA KANALLARI",TR: Sine Max TV 5 HD
-http://storetvip.shop:8080/034nazim1907/19071907nazim/170445
-#EXTINF:-1 tvg-id="" tvg-name="TR: Sine Max TV 6 HD" tvg-logo="http://play" group-title="TR/ SINEMA KANALLARI",TR: Sine Max TV 6 HD
-http://storetvip.shop:8080/034nazim1907/19071907nazim/170446
-#EXTINF:-1 tvg-id="" tvg-name="TR: Sine Max TV 7 HD" tvg-logo="http://play" group-title="TR/ SINEMA KANALLARI",TR: Sine Max TV 7 HD
-http://storetvip.shop:8080/034nazim1907/19071907nazim/170447
-#EXTINF:-1 tvg-id="" tvg-name="TR: Sine Max TV 8 HD" tvg-logo="http://play" group-title="TR/ SINEMA KANALLARI",TR: Sine Max TV 8 HD
-http://storetvip.shop:8080/034nazim1907/19071907nazim/170448
-#EXTINF:-1 tvg-id="" tvg-name="TR: Sine Max TV 9 HD" tvg-logo="http://play" group-title="TR/ SINEMA KANALLARI",TR: Sine Max TV 9 HD
-http://storetvip.shop:8080/034nazim1907/19071907nazim/170449
-#EXTINF:-1 tvg-id="" tvg-name="TR: Sine Max TV 10 HD" tvg-logo="http://play" group-title="TR/ SINEMA KANALLARI",TR: Sine Max TV 10 HD
-http://storetvip.shop:8080/034nazim1907/19071907nazim/170450
-#EXTINF:-1 tvg-id="" tvg-name="|TR| beIN Box Office 1 FHD" tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/bein_box_office.png" group-title="TR/ BEIN SINEMA",|TR| beIN Box Office 1 FHD
-http://storetvip.shop:8080/034nazim1907/19071907nazim/6195
-#EXTINF:-1 tvg-id="" tvg-name="|TR| beIN Box Office 2 FHD" tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/bein_box_office_2.png" group-title="TR/ BEIN SINEMA",|TR| beIN Box Office 2 FHD
-http://storetvip.shop:8080/034nazim1907/19071907nazim/6196
-#EXTINF:-1 tvg-id="" tvg-name="|TR| beIN Box Office 3 FHD" tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/bein_box_office_3.png" group-title="TR/ BEIN SINEMA",|TR| beIN Box Office 3 FHD
-http://storetvip.shop:8080/034nazim1907/19071907nazim/6197
-#EXTINF:-1 tvg-id="" tvg-name="|TR| beIN Movies Action 1 FHD" tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/bein_movies_action.png" group-title="TR/ BEIN SINEMA",|TR| beIN Movies Action 1 FHD
-http://storetvip.shop:8080/034nazim1907/19071907nazim/6198
-#EXTINF:-1 tvg-id="" tvg-name="|TR| beIN Movies Action 2 FHD" tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/bein_movies_action_2.png" group-title="TR/ BEIN SINEMA",|TR| beIN Movies Action 2 FHD
-http://storetvip.shop:8080/034nazim1907/19071907nazim/6199
-#EXTINF:-1 tvg-id="" tvg-name="|TR| beIN Movies Premier 1 FHD" tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/bein_movies_premiere_1.png" group-title="TR/ BEIN SINEMA",|TR| beIN Movies Premier 1 FHD
-http://storetvip.shop:8080/034nazim1907/19071907nazim/6200
-#EXTINF:-1 tvg-id="" tvg-name="|TR| beIN Movies Premier 2 FHD" tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/bein_movies_premire_2.png" group-title="TR/ BEIN SINEMA",|TR| beIN Movies Premier 2 FHD
-http://storetvip.shop:8080/034nazim1907/19071907nazim/6201
-#EXTINF:-1 tvg-id="" tvg-name="|TR| beIN Movies Turk FHD" tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/bein_movies_turk.png" group-title="TR/ BEIN SINEMA",|TR| beIN Movies Turk FHD
-http://storetvip.shop:8080/034nazim1907/19071907nazim/6202
-#EXTINF:-1 tvg-id="" tvg-name="|TR| beIN Movies Family FHD" tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/bein_movies_family.png" group-title="TR/ BEIN SINEMA",|TR| beIN Movies Family FHD
-http://storetvip.shop:8080/034nazim1907/19071907nazim/6204
-#EXTINF:-1 tvg-id="" tvg-name="|TR| beIN Series SCI FI FHD" tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/bein_series_sc-fi.png" group-title="TR/ BEIN SINEMA",|TR| beIN Series SCI FI FHD
-http://storetvip.shop:8080/034nazim1907/19071907nazim/457101
-#EXTINF:-1 tvg-id="" tvg-name="|TR| beIN Series Vice FHD" tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/bein_series_vice.png" group-title="TR/ BEIN SINEMA",|TR| beIN Series Vice FHD
-http://storetvip.shop:8080/034nazim1907/19071907nazim/125800
-#EXTINF:-1 tvg-id="" tvg-name="|TR| beIN Series Comedy FHD" tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/bein_series_comedy.png" group-title="TR/ BEIN SINEMA",|TR| beIN Series Comedy FHD
-http://storetvip.shop:8080/034nazim1907/19071907nazim/6205
-#EXTINF:-1 tvg-id="" tvg-name="|TR| beIN Series Drama FHD" tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/bein_series_drama.png" group-title="TR/ BEIN SINEMA",|TR| beIN Series Drama FHD
-http://storetvip.shop:8080/034nazim1907/19071907nazim/457102
-#EXTINF:-1 tvg-id="" tvg-name="TR: Dizi Smart Premium HD+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/50/Logo_of_DiziSmart_Premium_HD.png" group-title="TR/ D-SMART SINEMA",TR: Dizi Smart Premium HD+
-http://storetvip.shop:8080/034nazim1907/19071907nazim/192219
-#EXTINF:-1 tvg-id="" tvg-name="|TR| Moviesmart Premium" tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/movismart_premium.png" group-title="TR/ D-SMART SINEMA",|TR| Moviesmart Premium
-http://storetvip.shop:8080/034nazim1907/19071907nazim/6183
-#EXTINF:-1 tvg-id="" tvg-name="|TR| Moviesmart Türk" tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/movismart_turk.png" group-title="TR/ D-SMART SINEMA",|TR| Moviesmart Türk
-http://storetvip.shop:8080/034nazim1907/19071907nazim/6182
-#EXTINF:-1 tvg-id="" tvg-name="|TR| Moviesmart Platin HD" tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/movismart_platin_2.png" group-title="TR/ D-SMART SINEMA",|TR| Moviesmart Platin HD
-http://storetvip.shop:8080/034nazim1907/19071907nazim/6184
-#EXTINF:-1 tvg-id="" tvg-name="|TR| Moviesmart Classic" tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/movismart_classic.png" group-title="TR/ D-SMART SINEMA",|TR| Moviesmart Classic
-http://storetvip.shop:8080/034nazim1907/19071907nazim/6188
-#EXTINF:-1 tvg-id="" tvg-name="|TR| Moviesmart Action" tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/movismart_action.png" group-title="TR/ D-SMART SINEMA",|TR| Moviesmart Action
-http://storetvip.shop:8080/034nazim1907/19071907nazim/6190
-#EXTINF:-1 tvg-id="" tvg-name="|TR| Sinema TV Aksiyon 1" tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/MaxLogolar/tivibu-sinema-logolar/sinematvaksiyon.png" group-title="TR/ TIVIBU SINEMA",|TR| Sinema TV Aksiyon 1
-http://storetvip.shop:8080/034nazim1907/19071907nazim/113293
-#EXTINF:-1 tvg-id="" tvg-name="|TR| Sinema TV Aksiyon 2" tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/MaxLogolar/tivibu-sinema-logolar/sinematvaksiyon.png" group-title="TR/ TIVIBU SINEMA",|TR| Sinema TV Aksiyon 2
-http://storetvip.shop:8080/034nazim1907/19071907nazim/574353
-#EXTINF:-1 tvg-id="" tvg-name="|TR| Sinema TV 1 HD" tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/MaxLogolar/tivibu-sinema-logolar/sinematvhd.png" group-title="TR/ TIVIBU SINEMA",|TR| Sinema TV 1 HD
-http://storetvip.shop:8080/034nazim1907/19071907nazim/113291
-#EXTINF:-1 tvg-id="" tvg-name="|TR| Sinema TV 2 HD" tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/MaxLogolar/tivibu-sinema-logolar/sinematvhd.png" group-title="TR/ TIVIBU SINEMA",|TR| Sinema TV 2 HD
-http://storetvip.shop:8080/034nazim1907/19071907nazim/123920
-#EXTINF:-1 tvg-id="" tvg-name="|TR| Sinema TV 1001" tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/MaxLogolar/tivibu-sinema-logolar/sinematv1001.png" group-title="TR/ TIVIBU SINEMA",|TR| Sinema TV 1001
-http://storetvip.shop:8080/034nazim1907/19071907nazim/123921
-#EXTINF:-1 tvg-id="" tvg-name="|TR| Sinema TV 1002" tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/MaxLogolar/tivibu-sinema-logolar/sinema-1002.png" group-title="TR/ TIVIBU SINEMA",|TR| Sinema TV 1002
-http://storetvip.shop:8080/034nazim1907/19071907nazim/123922
-#EXTINF:-1 tvg-id="" tvg-name="|TR| Sinema TV Aile 1" tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/MaxLogolar/tivibu-sinema-logolar/sinematvaile.png" group-title="TR/ TIVIBU SINEMA",|TR| Sinema TV Aile 1
-http://storetvip.shop:8080/034nazim1907/19071907nazim/123923
-#EXTINF:-1 tvg-id="" tvg-name="|TR| Sinema TV Aile 2" tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/MaxLogolar/tivibu-sinema-logolar/sinematvaile.png" group-title="TR/ TIVIBU SINEMA",|TR| Sinema TV Aile 2
-http://storetvip.shop:8080/034nazim1907/19071907nazim/574352
-#EXTINF:-1 tvg-id="" tvg-name="|TR| Sinema TV Komedi" tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/MaxLogolar/tivibu-sinema-logolar/sinematvkomedi.png" group-title="TR/ TIVIBU SINEMA",|TR| Sinema TV Komedi
-http://storetvip.shop:8080/034nazim1907/19071907nazim/123924
-#EXTINF:-1 tvg-id="" tvg-name="|TR| Sinema TV Yerli" tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/MaxLogolar/tivibu-sinema-logolar/sinematvyerli.png" group-title="TR/ TIVIBU SINEMA",|TR| Sinema TV Yerli
-http://storetvip.shop:8080/034nazim1907/19071907nazim/123925
-#EXTINF:-1 tvg-id="" tvg-name="|TR| Animasyon Sinema TV 1" tvg-logo="https://apkx.xyz/tv-tum-dunya-logolar/logolar/maxanimasyontv.png" group-title="TR/ ANIMASYON SINEMA",|TR| Animasyon Sinema TV 1
-http://storetvip.shop:8080/034nazim1907/19071907nazim/6364
-#EXTINF:-1 tvg-id="" tvg-name="|TR| Animasyon Sinema TV 2" tvg-logo="https://apkx.xyz/tv-tum-dunya-logolar/logolar/maxanimasyontv.png" group-title="TR/ ANIMASYON SINEMA",|TR| Animasyon Sinema TV 2
-http://storetvip.shop:8080/034nazim1907/19071907nazim/6365
-#EXTINF:-1 tvg-id="" tvg-name="|TR| Animasyon Sinema TV 3" tvg-logo="https://apkx.xyz/tv-tum-dunya-logolar/logolar/maxanimasyontv.png" group-title="TR/ ANIMASYON SINEMA",|TR| Animasyon Sinema TV 3
-http://storetvip.shop:8080/034nazim1907/19071907nazim/6366
-#EXTINF:-1 tvg-id="" tvg-name="|TR| Animasyon Sinema TV 4" tvg-logo="https://apkx.xyz/tv-tum-dunya-logolar/logolar/maxanimasyontv.png" group-title="TR/ ANIMASYON SINEMA",|TR| Animasyon Sinema TV 4
-http://storetvip.shop:8080/034nazim1907/19071907nazim/6367
-#EXTINF:-1 tvg-id="" tvg-name="|TR| Animasyon Sinema TV 5" tvg-logo="https://apkx.xyz/tv-tum-dunya-logolar/logolar/maxanimasyontv.png" group-title="TR/ ANIMASYON SINEMA",|TR| Animasyon Sinema TV 5
-http://storetvip.shop:8080/034nazim1907/19071907nazim/6368
-#EXTINF:-1 tvg-id="" tvg-name="|TR| Animasyon Sinema TV 6" tvg-logo="https://apkx.xyz/tv-tum-dunya-logolar/logolar/maxanimasyontv.png" group-title="TR/ ANIMASYON SINEMA",|TR| Animasyon Sinema TV 6
-http://storetvip.shop:8080/034nazim1907/19071907nazim/6369
-#EXTINF:-1 tvg-id="" tvg-name="|TR| Animasyon Sinema TV 7" tvg-logo="https://apkx.xyz/tv-tum-dunya-logolar/logolar/maxanimasyontv.png" group-title="TR/ ANIMASYON SINEMA",|TR| Animasyon Sinema TV 7
-http://storetvip.shop:8080/034nazim1907/19071907nazim/6370
-#EXTINF:-1 tvg-id="" tvg-name="|TR| Animasyon Sinema TV 8" tvg-logo="https://apkx.xyz/tv-tum-dunya-logolar/logolar/maxanimasyontv.png" group-title="TR/ ANIMASYON SINEMA",|TR| Animasyon Sinema TV 8
-http://storetvip.shop:8080/034nazim1907/19071907nazim/6371
-#EXTINF:-1 tvg-id="" tvg-name="|TR| Animasyon Sinema TV 9" tvg-logo="https://apkx.xyz/tv-tum-dunya-logolar/logolar/maxanimasyontv.png" group-title="TR/ ANIMASYON SINEMA",|TR| Animasyon Sinema TV 9
-http://storetvip.shop:8080/034nazim1907/19071907nazim/6372
-#EXTINF:-1 tvg-id="" tvg-name="|TR| Animasyon Sinema TV 10" tvg-logo="https://apkx.xyz/tv-tum-dunya-logolar/logolar/maxanimasyontv.png" group-title="TR/ ANIMASYON SINEMA",|TR| Animasyon Sinema TV 10
-http://storetvip.shop:8080/034nazim1907/19071907nazim/6373
-#EXTINF:-1 tvg-id="" tvg-name="|TR| Maxim Film Modu 1 HD" tvg-logo="https://apkx.xyz/tv-tum-dunya-logolar/logolar/maxfilmmodu.png" group-title="TR/ MAXIM FILM MODU",|TR| Maxim Film Modu 1 HD
-http://storetvip.shop:8080/034nazim1907/19071907nazim/350781
-#EXTINF:-1 tvg-id="" tvg-name="|TR| Maxim Film Modu 2 HD" tvg-logo="https://apkx.xyz/tv-tum-dunya-logolar/logolar/maxfilmmodu.png" group-title="TR/ MAXIM FILM MODU",|TR| Maxim Film Modu 2 HD
-http://storetvip.shop:8080/034nazim1907/19071907nazim/350782
-#EXTINF:-1 tvg-id="" tvg-name="|TR| Maxim Film Modu 3 HD" tvg-logo="https://apkx.xyz/tv-tum-dunya-logolar/logolar/maxfilmmodu.png" group-title="TR/ MAXIM FILM MODU",|TR| Maxim Film Modu 3 HD
-http://storetvip.shop:8080/034nazim1907/19071907nazim/350783
-#EXTINF:-1 tvg-id="" tvg-name="|TR| Maxim Film Modu 4 HD" tvg-logo="https://apkx.xyz/tv-tum-dunya-logolar/logolar/maxfilmmodu.png" group-title="TR/ MAXIM FILM MODU",|TR| Maxim Film Modu 4 HD
-http://storetvip.shop:8080/034nazim1907/19071907nazim/350784
-#EXTINF:-1 tvg-id="" tvg-name="|TR| Maxim Film Modu 5 HD" tvg-logo="https://apkx.xyz/tv-tum-dunya-logolar/logolar/maxfilmmodu.png" group-title="TR/ MAXIM FILM MODU",|TR| Maxim Film Modu 5 HD
-http://storetvip.shop:8080/034nazim1907/19071907nazim/350785
-#EXTINF:-1 tvg-id="" tvg-name="|TR| Maxim Film Modu 6 HD" tvg-logo="https://apkx.xyz/tv-tum-dunya-logolar/logolar/maxfilmmodu.png" group-title="TR/ MAXIM FILM MODU",|TR| Maxim Film Modu 6 HD
-http://storetvip.shop:8080/034nazim1907/19071907nazim/350786
-#EXTINF:-1 tvg-id="" tvg-name="|TR| Maxim Film Modu 7 HD" tvg-logo="https://apkx.xyz/tv-tum-dunya-logolar/logolar/maxfilmmodu.png" group-title="TR/ MAXIM FILM MODU",|TR| Maxim Film Modu 7 HD
-http://storetvip.shop:8080/034nazim1907/19071907nazim/350787
-#EXTINF:-1 tvg-id="" tvg-name="|TR| Maxim Film Modu 8 HD" tvg-logo="https://apkx.xyz/tv-tum-dunya-logolar/logolar/maxfilmmodu.png" group-title="TR/ MAXIM FILM MODU",|TR| Maxim Film Modu 8 HD
-http://storetvip.shop:8080/034nazim1907/19071907nazim/350788
-#EXTINF:-1 tvg-id="" tvg-name="|TR| Maxim Film Modu 9 HD" tvg-logo="https://apkx.xyz/tv-tum-dunya-logolar/logolar/maxfilmmodu.png" group-title="TR/ MAXIM FILM MODU",|TR| Maxim Film Modu 9 HD
-http://storetvip.shop:8080/034nazim1907/19071907nazim/350789
-#EXTINF:-1 tvg-id="" tvg-name="|TR| Maxim Film Modu 10 HD" tvg-logo="https://apkx.xyz/tv-tum-dunya-logolar/logolar/maxfilmmodu.png" group-title="TR/ MAXIM FILM MODU",|TR| Maxim Film Modu 10 HD
-http://storetvip.shop:8080/034nazim1907/19071907nazim/350790
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TR | SINEMA", TR: SINEBOX YESILCAM 1
 http://cms.weltiptv.com:8000/TVgddifCgS/OwEs0GdDxC/62589

@@ -7544,100 +7544,34 @@ http://46.32.176.50/karusel/index.m3u8
 #EXTINF:-1 group-title="IZONE", Nick jr
 http://46.32.176.50/nickelodeonjunior/index.m3u8
 
-#EXTINF:0 tvg-logo="https://i.postimg.cc/d3FYpSjR/In-Shot-20260621-202014193.png" group-title="CINEMA PLUS ",CPS Jakie Chan
+#EXTINF:0 tvg-logo="https://i.postimg.cc/d3FYpSjR/In-Shot-20260621-202014193.png" group-title="CPS Studio",CPS Jakie Chan
 http://hls127.freeott.top:8080/CPS_Jackie_Chan/video.m3u8
-#EXTINF:0 tvg-logo="https://i.postimg.cc/d3FYpSjR/In-Shot-20260621-202014193.png" group-title="CINEMA PLUS ",CPS Drama 
+#EXTINF:0 tvg-logo="https://i.postimg.cc/d3FYpSjR/In-Shot-20260621-202014193.png" group-title="CPS Studio",CPS Drama 
 http://hls127.freeott.top:8080/CPS_Drama/video.m3u8
-#EXTINF:0 tvg-logo="https://i.postimg.cc/d3FYpSjR/In-Shot-20260621-202014193.png" group-title="CINEMA PLUS ",CPS Western
+#EXTINF:0 tvg-logo="https://i.postimg.cc/d3FYpSjR/In-Shot-20260621-202014193.png" group-title="CPS Studio",CPS Western
 http://hls127.freeott.top:8080/CPS_Western/video.m3u8
-#EXTINF:0 tvg-logo="https://i.postimg.cc/d3FYpSjR/In-Shot-20260621-202014193.png" group-title="CINEMA PLUS ",CPS Fiction
+#EXTINF:0 tvg-logo="https://i.postimg.cc/d3FYpSjR/In-Shot-20260621-202014193.png" group-title="CPS Studio",CPS Fiction
 http://hls127.freeott.top:8080/CPS_Fiction/video.m3u8
-#EXTINF:0 tvg-logo="https://i.postimg.cc/d3FYpSjR/In-Shot-20260621-202014193.png" group-title="CINEMA PLUS ",CPS Comedy
+#EXTINF:0 tvg-logo="https://i.postimg.cc/d3FYpSjR/In-Shot-20260621-202014193.png" group-title="CPS Studio",CPS Comedy
 http://hls127.freeott.top:8080/CPS_Comedy/video.m3u8
-#EXTINF:0 tvg-logo="https://i.postimg.cc/d3FYpSjR/In-Shot-20260621-202014193.png" group-title="CINEMA PLUS ",CPS Anime
+#EXTINF:0 tvg-logo="https://i.postimg.cc/d3FYpSjR/In-Shot-20260621-202014193.png" group-title="CPS Studio",CPS Anime
 http://hls127.freeott.top:8080/CPS_Anime/video.m3u8
-#EXTINF:0 tvg-logo="https://i.postimg.cc/d3FYpSjR/In-Shot-20260621-202014193.png" group-title="CINEMA PLUS ",CPS USSR 
+#EXTINF:0 tvg-logo="https://i.postimg.cc/d3FYpSjR/In-Shot-20260621-202014193.png" group-title="CPS Studio",CPS USSR 
 http://hls127.freeott.top:8080/CPS_USSR/video.m3u8
-#EXTINF:0 tvg-logo="https://i.postimg.cc/d3FYpSjR/In-Shot-20260621-202014193.png" group-title="CINEMA PLUS ",CPS Action
+#EXTINF:0 tvg-logo="https://i.postimg.cc/d3FYpSjR/In-Shot-20260621-202014193.png" group-title="CPS Studio",CPS Action
 http://hls127.freeott.top:8080/CPS_Action/video.m3u8
-#EXTINF:0 tvg-logo="https://i.postimg.cc/d3FYpSjR/In-Shot-20260621-202014193.png" group-title="CINEMA PLUS ",CPS Fresh 
+#EXTINF:0 tvg-logo="https://i.postimg.cc/d3FYpSjR/In-Shot-20260621-202014193.png" group-title="CPS Studio",CPS Fresh 
 http://hls127.freeott.top:8080/CPS_Fresh/video.m3u8
-#EXTINF:0 tvg-logo="https://i.postimg.cc/d3FYpSjR/In-Shot-20260621-202014193.png" group-title="CINEMA PLUS ",CPS Oscar 
+#EXTINF:0 tvg-logo="https://i.postimg.cc/d3FYpSjR/In-Shot-20260621-202014193.png" group-title="CPS Studio",CPS Oscar 
 http://hls127.freeott.top:8080/CPS_Oscar/video.m3u8
-#EXTINF:0 tvg-logo="https://i.postimg.cc/d3FYpSjR/In-Shot-20260621-202014193.png" group-title="CINEMA PLUS ",CPS Cartoon 
+#EXTINF:0 tvg-logo="https://i.postimg.cc/d3FYpSjR/In-Shot-20260621-202014193.png" group-title="CPS Studio",CPS Cartoon 
 http://hls127.freeott.top:8080/CPS_Cartoon/video.m3u8
-#EXTINF:0 tvg-logo="https://i.postimg.cc/d3FYpSjR/In-Shot-20260621-202014193.png" group-title="CINEMA PLUS ",CPS Investigation 
+#EXTINF:0 tvg-logo="https://i.postimg.cc/d3FYpSjR/In-Shot-20260621-202014193.png" group-title="CPS Studio",CPS Investigation 
 http://hls127.freeott.top:8080/CPS_Investigation/video.m3u8
-#EXTINF:0 tvg-logo="https://i.postimg.cc/d3FYpSjR/In-Shot-20260621-202014193.png" group-title="CINEMA PLUS ",CPS Fresh UA
+#EXTINF:0 tvg-logo="https://i.postimg.cc/d3FYpSjR/In-Shot-20260621-202014193.png" group-title="CPS Studio",CPS Fresh UA
 http://hls127.freeott.top:8080/CPS_Fresh_UA/video.m3u8
-#EXTINF:0 tvg-logo="https://i.postimg.cc/d3FYpSjR/In-Shot-20260621-202014193.png" group-title="CINEMA PLUS ",CPS Mix 
+#EXTINF:0 tvg-logo="https://i.postimg.cc/d3FYpSjR/In-Shot-20260621-202014193.png" group-title="CPS Studio",CPS Mix 
 http://hls127.freeott.top:8080/CPS_Mix/video.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d3FYpSjR/In-Shot-20260621-202014193.png" group-title="CINEMA PLUS ",Fresh Rating
-http://91.204.123.202:80/422/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d3FYpSjR/In-Shot-20260621-202014193.png" group-title="CINEMA PLUS ",Fresh Cinema
-http://91.204.123.202:80/423/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d3FYpSjR/In-Shot-20260621-202014193.png" group-title="CINEMA PLUS ",Fresh Premiere
-http://91.204.123.202:80/424/index.m3u8
-#EXTINF:0 tvg-logo="https://i.postimg.cc/d3FYpSjR/In-Shot-20260621-202014193.png" group-title="CINEMA PLUS ",Fresh Kids
-http://91.204.123.202:80/425/index.m3u8
-#EXTINF:0 tvg-logo="https://i.postimg.cc/d3FYpSjR/In-Shot-20260621-202014193.png" group-title="CINEMA PLUS ",Fresh Comedy
-http://91.204.123.202:80/426/index.m3u8
-#EXTINF:0 tvg-logo="https://i.postimg.cc/d3FYpSjR/In-Shot-20260621-202014193.png" group-title="CINEMA PLUS ",Fresh Family
-http://91.204.123.202:80/427/index.m3u8
-#EXTINF:0 tvg-logo="https://i.postimg.cc/d3FYpSjR/In-Shot-20260621-202014193.png" group-title="CINEMA PLUS ",Fresh VHS
-http://91.204.123.202:80/428/index.m3u8
-#EXTINF:0 tvg-logo="https://i.postimg.cc/d3FYpSjR/In-Shot-20260621-202014193.png" group-title="CINEMA PLUS ",Fresh Fantastic
-http://91.204.123.202:80/429/index.m3u8
-#EXTINF:0 tvg-logo="https://i.postimg.cc/d3FYpSjR/In-Shot-20260621-202014193.png" group-title="CINEMA PLUS ",Fresh Series
-http://91.204.123.202:80/430/index.m3u8
-#EXTINF:0 tvg-logo="https://i.postimg.cc/d3FYpSjR/In-Shot-20260621-202014193.png" group-title="CINEMA PLUS ",Fresh Horror
-http://91.204.123.202:80/431/index.m3u8
-#EXTINF:0 tvg-logo="https://i.postimg.cc/d3FYpSjR/In-Shot-20260621-202014193.png" group-title="CINEMA PLUS ",Fresh Adventure
-http://91.204.123.202:80/432/index.m3u8
-#EXTINF:0 tvg-logo="https://i.postimg.cc/d3FYpSjR/In-Shot-20260621-202014193.png" group-title="CINEMA PLUS ",Fresh Romantic
-http://91.204.123.202:80/433/index.m3u8
-#EXTINF:0 tvg-logo="https://i.postimg.cc/d3FYpSjR/In-Shot-20260621-202014193.png" group-title="CINEMA PLUS ",Fresh Thriller
-http://91.204.123.202:80/434/index.m3u8
-#EXTINF:0 tvg-logo="https://i.postimg.cc/d3FYpSjR/In-Shot-20260621-202014193.png" group-title="CINEMA PLUS ",CineMan Катастрофы
-http://91.204.123.202:80/471/index.m3u8
-#EXTINF:0 tvg-logo="https://i.postimg.cc/d3FYpSjR/In-Shot-20260621-202014193.png" group-title="CINEMA PLUS ",CineMan Мелодрама
-http://91.204.123.202:80/472/index.m3u8
-#EXTINF:0 tvg-logo="https://i.postimg.cc/d3FYpSjR/In-Shot-20260621-202014193.png" group-title="CINEMA PLUS ",CineMan VHS
-http://91.204.123.202:80/474/index.m3u8
-#EXTINF:0 tvg-logo="https://i.postimg.cc/d3FYpSjR/In-Shot-20260621-202014193.png" group-title="CINEMA PLUS ",CineMan Cartoons Big
-http://91.204.123.202:80/348/index.m3u8
-#EXTINF:0 tvg-logo="https://i.postimg.cc/d3FYpSjR/In-Shot-20260621-202014193.png" group-title="CINEMA PLUS ",CineMan MiniSeries
-http://91.204.123.202:80/122/index.m3u8
-#EXTINF:0 tvg-logo="https://i.postimg.cc/d3FYpSjR/In-Shot-20260621-202014193.png" group-title="CINEMA PLUS ",CineMan
-http://91.204.123.202:80/349/index.m3u8
-#EXTINF:0 tvg-logo="https://i.postimg.cc/d3FYpSjR/In-Shot-20260621-202014193.png" group-title="CINEMA PLUS ",CineMan Top
-http://91.204.123.202:80/350/index.m3u8
-#EXTINF:0 tvg-logo="https://i.postimg.cc/d3FYpSjR/In-Shot-20260621-202014193.png" group-title="CINEMA PLUS ",CineMan Cartoons Short
-http://91.204.123.202:80/347/index.m3u8
-#EXTINF:0 tvg-logo="https://i.postimg.cc/d3FYpSjR/In-Shot-20260621-202014193.png" group-title="CINEMA PLUS ",CineMan Action
-http://91.204.123.202:80/351/index.m3u8
-#EXTINF:0 tvg-logo="https://i.postimg.cc/d3FYpSjR/In-Shot-20260621-202014193.png" group-title="CINEMA PLUS ",CineMan Thriller
-http://91.204.123.202:80/352/index.m3u8
-#EXTINF:0 tvg-logo="https://i.postimg.cc/d3FYpSjR/In-Shot-20260621-202014193.png" group-title="CINEMA PLUS ",CineMan Marvel
-http://91.204.123.202:80/354/index.m3u8
-#EXTINF:0 tvg-logo="https://i.postimg.cc/d3FYpSjR/In-Shot-20260621-202014193.png" group-title="CINEMA PLUS ",CineMan Ужасы
-http://91.204.123.202:80/355/index.m3u8
-#EXTINF:0 tvg-logo="https://i.postimg.cc/d3FYpSjR/In-Shot-20260621-202014193.png" group-title="CINEMA PLUS ",CineMan Комедия
-http://91.204.123.202:80/356/index.m3u8
-#EXTINF:0 tvg-logo="https://i.postimg.cc/d3FYpSjR/In-Shot-20260621-202014193.png" group-title="CINEMA PLUS ",CineMan Сваты
-http://91.204.123.202:80/359/index.m3u8
-#EXTINF:0 tvg-logo="https://i.postimg.cc/d3FYpSjR/In-Shot-20260621-202014193.png" group-title="CINEMA PLUS ",CineMan Симпсоны
-http://91.204.123.202:80/476/index.m3u8
-#EXTINF:0 tvg-logo="https://i.postimg.cc/d3FYpSjR/In-Shot-20260621-202014193.png" group-title="CINEMA PLUS ",CineMan Ментовские войны
-http://91.204.123.202:80/477/index.m3u8
-#EXTINF:0 tvg-logo="https://i.postimg.cc/d3FYpSjR/In-Shot-20260621-202014193.png" group-title="CINEMA PLUS ",CineMan Cartoons 90
-http://91.204.123.202:80/484/index.m3u8
-#EXTINF:0 tvg-logo="https://i.postimg.cc/d3FYpSjR/In-Shot-20260621-202014193.png" group-title="CINEMA PLUS ",CineMan Лесник
-http://91.204.123.202:80/115/index.m3u8
-#EXTINF:0 tvg-logo="https://i.postimg.cc/d3FYpSjR/In-Shot-20260621-202014193.png" group-title="CINEMA PLUS ",CineMan Скорая Помощь
-http://91.204.123.202:80/475/index.m3u8
-#EXTINF:0 tvg-logo="https://i.postimg.cc/d3FYpSjR/In-Shot-20260621-202014193.png" group-title="CINEMA PLUS ",BCU СССР HD
-http://91.204.123.202:80/488/index.m3u8
 
 #EXTINF:-1 tvg-name="cps action" tvg-logo="https://i.ibb.co/GvWH2Yf/image.png",CPS Action
 #EXTGRP:CPS Studio
@@ -8341,6 +8275,41 @@ http://teknom.store:2095/suleymanknpkgl21/f32Edxu38f/123072
 http://teknom.store:2095/suleymanknpkgl21/f32Edxu38f/70077
 #EXTINF:-1 tvg-id="" tvg-name="TR➾ MAXIMTV KEMAL SUNAL 3" tvg-logo="https://i.hizliresim.com/r5k8yxq.png" group-title="ŞABAN",TR➾ MAXIMTV KEMAL SUNAL 3
 http://teknom.store:2095/suleymanknpkgl21/f32Edxu38f/105268
+
+#EXTINF:-1 tvg-id="" tvg-name="ŞENER ŞEN 1" tvg-logo="https://www.tvlogolar.xyz/logo/Ozel/Sener.Sen.png" group-title="ŞABAN",ŞENER ŞEN 1
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/672070
+#EXTINF:-1 tvg-id="" tvg-name="ŞENER ŞEN 2" tvg-logo="https://www.tvlogolar.xyz/logo/Ozel/Sener.Sen.png" group-title="ŞABAN",ŞENER ŞEN 2
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/672069
+#EXTINF:-1 tvg-id="" tvg-name="ŞENER ŞEN 3" tvg-logo="https://www.tvlogolar.xyz/logo/Ozel/Sener.Sen.png" group-title="ŞABAN",ŞENER ŞEN 3
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/672068
+#EXTINF:-1 tvg-id="" tvg-name="ZEKİ VE METİN 1" tvg-logo="https://www.tvlogolar.xyz/logo/Ozel/Zeki.Metin.png" group-title="ŞABAN",ZEKİ VE METİN 1
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/672058
+#EXTINF:-1 tvg-id="" tvg-name="ZEKİ VE METİN 2" tvg-logo="https://www.tvlogolar.xyz/logo/Ozel/Zeki.Metin.png" group-title="ŞABAN",ZEKİ VE METİN 2
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/672057
+#EXTINF:-1 tvg-id="" tvg-name="ZEKİ VE METİN 3" tvg-logo="https://www.tvlogolar.xyz/logo/Ozel/Zeki.Metin.png" group-title="ŞABAN",ZEKİ VE METİN 3
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/672056
+#EXTINF:-1 tvg-id="" tvg-name="ZEKİ VE METİN 4" tvg-logo="https://www.tvlogolar.xyz/logo/Ozel/Zeki.Metin.png" group-title="ŞABAN",ZEKİ VE METİN 4
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/672055
+#EXTINF:-1 tvg-id="" tvg-name="ZEKİ VE METİN 5" tvg-logo="https://www.tvlogolar.xyz/logo/Ozel/Zeki.Metin.png" group-title="ŞABAN",ZEKİ VE METİN 5
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/672054
+#EXTINF:-1 tvg-id="" tvg-name="KEMAL SUNAL 1" tvg-logo="https://www.tvlogolar.xyz/logo/Ozel/Kemal.Sunal.png" group-title="ŞABAN",KEMAL SUNAL 1
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/672053
+#EXTINF:-1 tvg-id="" tvg-name="KEMAL SUNAL 2" tvg-logo="https://www.tvlogolar.xyz/logo/Ozel/Kemal.Sunal.png" group-title="ŞABAN",KEMAL SUNAL 2
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/672052
+#EXTINF:-1 tvg-id="" tvg-name="KEMAL SUNAL 3" tvg-logo="https://www.tvlogolar.xyz/logo/Ozel/Kemal.Sunal.png" group-title="ŞABAN",KEMAL SUNAL 3
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/672051
+#EXTINF:-1 tvg-id="" tvg-name="KEMAL SUNAL 4" tvg-logo="https://www.tvlogolar.xyz/logo/Ozel/Kemal.Sunal.png" group-title="ŞABAN",KEMAL SUNAL 4
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/672050
+#EXTINF:-1 tvg-id="" tvg-name="KEMAL SUNAL 5" tvg-logo="https://www.tvlogolar.xyz/logo/Ozel/Kemal.Sunal.png" group-title="ŞABAN",KEMAL SUNAL 5
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/672049
+#EXTINF:-1 tvg-id="" tvg-name="KEMAL SUNAL 6" tvg-logo="https://www.tvlogolar.xyz/logo/Ozel/Kemal.Sunal.png" group-title="ŞABAN",KEMAL SUNAL 6
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/672048
+#EXTINF:-1 tvg-id="" tvg-name="KEMAL SUNAL 7" tvg-logo="https://www.tvlogolar.xyz/logo/Ozel/Kemal.Sunal.png" group-title="ŞABAN",KEMAL SUNAL 7
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/672047
+#EXTINF:-1 tvg-id="" tvg-name="KEMAL SUNAL 8" tvg-logo="https://www.tvlogolar.xyz/logo/Ozel/Kemal.Sunal.png" group-title="ŞABAN",KEMAL SUNAL 8
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/672046
+#EXTINF:-1 tvg-id="" tvg-name="KEMAL SUNAL 9" tvg-logo="https://www.tvlogolar.xyz/logo/Ozel/Kemal.Sunal.png" group-title="ŞABAN",KEMAL SUNAL 9
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/672045
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/M4bnpjW.jpeg" group-title="ŞABAN",Kemal Sunal 1
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:67:7B:DD&stream=1472683&extension=ts
@@ -15124,6 +15093,1466 @@ http://main.light-ott.net:80/play/live.php?mac=00:1A:79:67:7B:DD&stream=197132&e
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:67:7B:DD&stream=197123&extension=ts
 #EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/SINEMATV-GRI.png" group-title="┃TR┃ SINEMA YABANCI",┃TR┃ SINEMA TV YERLI 2 HD
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:67:7B:DD&stream=197122&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="★☆★ TİVİBU & DSMART ★☆★" tvg-logo="https://www.lyngsat.com/logo/flag/az/tr.png" group-title="ᴛʀ • D-SMART&BEIN SINEMA",★☆★ TİVİBU & DSMART ★☆★
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/571909
+#EXTINF:-1 tvg-id="fxnetwork.tr" tvg-name="FX FHD" tvg-logo="https://tvlogo.nl/files/ch/TR/fx.png" group-title="ᴛʀ • D-SMART&BEIN SINEMA",FX FHD
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/571908
+#EXTINF:-1 tvg-id="fxnetwork.tr" tvg-name="FX HD" tvg-logo="https://tvlogo.nl/files/ch/TR/fx.png" group-title="ᴛʀ • D-SMART&BEIN SINEMA",FX HD
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/571907
+#EXTINF:-1 tvg-id="" tvg-name="EPIC DRAMA FHD" tvg-logo="https://tvlogo.nl/files/ch/TR/Epic_Drama.png" group-title="ᴛʀ • D-SMART&BEIN SINEMA",EPIC DRAMA FHD
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/571906
+#EXTINF:-1 tvg-id="" tvg-name="EPIC DRAMA HD" tvg-logo="https://tvlogo.nl/files/ch/TR/Epic_Drama.png" group-title="ᴛʀ • D-SMART&BEIN SINEMA",EPIC DRAMA HD
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/571905
+#EXTINF:-1 tvg-id="dizismartmax.tr" tvg-name="DIZI SMART MAX FHD" tvg-logo="https://tvlogo.nl/files/ch/TR/dizismart_max.png" group-title="ᴛʀ • D-SMART&BEIN SINEMA",DIZI SMART MAX FHD
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/571904
+#EXTINF:-1 tvg-id="dizismartmax.tr" tvg-name="DIZI SMART MAX HD" tvg-logo="https://tvlogo.nl/files/ch/TR/dizismart_max.png" group-title="ᴛʀ • D-SMART&BEIN SINEMA",DIZI SMART MAX HD
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/571903
+#EXTINF:-1 tvg-id="dizismartpremium.tr" tvg-name="DIZI SMART PREMIUM FHD" tvg-logo="https://tvlogo.nl/files/ch/TR/dizismart_premium.png" group-title="ᴛʀ • D-SMART&BEIN SINEMA",DIZI SMART PREMIUM FHD
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/571902
+#EXTINF:-1 tvg-id="dizismartpremium.tr" tvg-name="DIZI SMART PREMIUM HD" tvg-logo="https://tvlogo.nl/files/ch/TR/dizismart_premium.png" group-title="ᴛʀ • D-SMART&BEIN SINEMA",DIZI SMART PREMIUM HD
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/571901
+#EXTINF:-1 tvg-id="beinmoviesturk.tr" tvg-name="MOVIE SMART TURK FHD" tvg-logo="https://tvlogo.nl/files/ch/TR/movismart_turk.png" group-title="ᴛʀ • D-SMART&BEIN SINEMA",MOVIE SMART TURK FHD
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/571900
+#EXTINF:-1 tvg-id="beinmoviesturk.tr" tvg-name="MOVIE SMART TURK HD" tvg-logo="https://tvlogo.nl/files/ch/TR/movismart_turk.png" group-title="ᴛʀ • D-SMART&BEIN SINEMA",MOVIE SMART TURK HD
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/571899
+#EXTINF:-1 tvg-id="moviesmartclassic.tr" tvg-name="MOVIE SMART CLASSIC FHD" tvg-logo="https://tvlogo.nl/files/ch/TR/movismart_classic.png" group-title="ᴛʀ • D-SMART&BEIN SINEMA",MOVIE SMART CLASSIC FHD
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/571898
+#EXTINF:-1 tvg-id="moviesmartclassic.tr" tvg-name="MOVIE SMART CLASSIC HD" tvg-logo="https://tvlogo.nl/files/ch/TR/movismart_classic.png" group-title="ᴛʀ • D-SMART&BEIN SINEMA",MOVIE SMART CLASSIC HD
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/571897
+#EXTINF:-1 tvg-id="sinematvhd.tr" tvg-name="SINEMA TV FHD" tvg-logo="https://tvlogo.nl/files/ch/TR/sinema_tv.png" group-title="ᴛʀ • D-SMART&BEIN SINEMA",SINEMA TV FHD
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/571896
+#EXTINF:-1 tvg-id="sinematvhd.tr" tvg-name="SINEMA TV HD" tvg-logo="https://tvlogo.nl/files/ch/TR/sinema_tv.png" group-title="ᴛʀ • D-SMART&BEIN SINEMA",SINEMA TV HD
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/571895
+#EXTINF:-1 tvg-id="sinema2hd.tr" tvg-name="SINEMA TV 2 FHD" tvg-logo="https://tvlogo.nl/files/ch/TR/sinema_tv_2.png" group-title="ᴛʀ • D-SMART&BEIN SINEMA",SINEMA TV 2 FHD
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/571894
+#EXTINF:-1 tvg-id="sinema2hd.tr" tvg-name="SINEMA TV 2 HD" tvg-logo="https://tvlogo.nl/files/ch/TR/sinema_tv_2.png" group-title="ᴛʀ • D-SMART&BEIN SINEMA",SINEMA TV 2 HD
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/571893
+#EXTINF:-1 tvg-id="sinemayerli.tr" tvg-name="SINEMA TV YERLI FHD" tvg-logo="https://tvlogo.nl/files/ch/TR/sinema_yerli.png" group-title="ᴛʀ • D-SMART&BEIN SINEMA",SINEMA TV YERLI FHD
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/571892
+#EXTINF:-1 tvg-id="sinemayerli.tr" tvg-name="SINEMA TV YERLI HD" tvg-logo="https://tvlogo.nl/files/ch/TR/sinema_yerli.png" group-title="ᴛʀ • D-SMART&BEIN SINEMA",SINEMA TV YERLI HD
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/571891
+#EXTINF:-1 tvg-id="sinemayerli2.tr" tvg-name="SINEMA TV YERLI 2 FHD" tvg-logo="https://tvlogo.nl/files/ch/TR/sinemaYerli2.png" group-title="ᴛʀ • D-SMART&BEIN SINEMA",SINEMA TV YERLI 2 FHD
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/571890
+#EXTINF:-1 tvg-id="sinemayerli2.tr" tvg-name="SINEMA TV YERLI 2 HD" tvg-logo="https://tvlogo.nl/files/ch/TR/sinemaYerli2.png" group-title="ᴛʀ • D-SMART&BEIN SINEMA",SINEMA TV YERLI 2 HD
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/571889
+#EXTINF:-1 tvg-id="sinemaailehd.tr" tvg-name="SINEMA TV AILE FHD" tvg-logo="https://tvlogo.nl/files/ch/TR/sinema_aile.png" group-title="ᴛʀ • D-SMART&BEIN SINEMA",SINEMA TV AILE FHD
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/571888
+#EXTINF:-1 tvg-id="sinemaailehd.tr" tvg-name="SINEMA TV AILE HD" tvg-logo="https://tvlogo.nl/files/ch/TR/sinema_aile.png" group-title="ᴛʀ • D-SMART&BEIN SINEMA",SINEMA TV AILE HD
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/571887
+#EXTINF:-1 tvg-id="sinemaaile2hd.tr" tvg-name="SINEMA TV AILE 2 FHD" tvg-logo="https://r.resimlink.com/6_AVjRTM.png" group-title="ᴛʀ • D-SMART&BEIN SINEMA",SINEMA TV AILE 2 FHD
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/571886
+#EXTINF:-1 tvg-id="sinemaaile2hd.tr" tvg-name="SINEMA TV AILE 2 HD" tvg-logo="https://r.resimlink.com/6_AVjRTM.png" group-title="ᴛʀ • D-SMART&BEIN SINEMA",SINEMA TV AILE 2 HD
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/571885
+#EXTINF:-1 tvg-id="sinemaaksiyonhd.tr" tvg-name="SINEMA TV AKSIYON FHD" tvg-logo="https://tvlogo.nl/files/ch/TR/sinema_aksiyon.png" group-title="ᴛʀ • D-SMART&BEIN SINEMA",SINEMA TV AKSIYON FHD
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/571884
+#EXTINF:-1 tvg-id="sinemaaksiyonhd.tr" tvg-name="SINEMA TV AKSIYON HD" tvg-logo="https://tvlogo.nl/files/ch/TR/sinema_aksiyon.png" group-title="ᴛʀ • D-SMART&BEIN SINEMA",SINEMA TV AKSIYON HD
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/571883
+#EXTINF:-1 tvg-id="sinemaaksiyon2hd.tr" tvg-name="SINEMA TV AKSIYON 2 FHD" tvg-logo="https://tvlogo.nl/files/ch/TR/sinema_aksiyon2.png" group-title="ᴛʀ • D-SMART&BEIN SINEMA",SINEMA TV AKSIYON 2 FHD
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/571882
+#EXTINF:-1 tvg-id="sinemaaksiyon2hd.tr" tvg-name="SINEMA TV AKSIYON 2 HD" tvg-logo="https://tvlogo.nl/files/ch/TR/sinema_aksiyon2.png" group-title="ᴛʀ • D-SMART&BEIN SINEMA",SINEMA TV AKSIYON 2 HD
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/571881
+#EXTINF:-1 tvg-id="sinemakomedihd.tr" tvg-name="SINEMA TV KOMEDI FHD" tvg-logo="https://tvlogo.nl/files/ch/TR/sinema_komedi.png" group-title="ᴛʀ • D-SMART&BEIN SINEMA",SINEMA TV KOMEDI FHD
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/571880
+#EXTINF:-1 tvg-id="sinemakomedihd.tr" tvg-name="SINEMA TV KOMEDI HD" tvg-logo="https://tvlogo.nl/files/ch/TR/sinema_komedi.png" group-title="ᴛʀ • D-SMART&BEIN SINEMA",SINEMA TV KOMEDI HD
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/571879
+#EXTINF:-1 tvg-id="sinemakomedi2hd.tr" tvg-name="SINEMA TV KOMEDI 2 FHD" tvg-logo="https://tvlogo.nl/files/ch/TR/sinemaKomedi2.png" group-title="ᴛʀ • D-SMART&BEIN SINEMA",SINEMA TV KOMEDI 2 FHD
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/571878
+#EXTINF:-1 tvg-id="sinemakomedi2hd.tr" tvg-name="SINEMA TV KOMEDI 2 HD" tvg-logo="https://tvlogo.nl/files/ch/TR/sinemaKomedi2.png" group-title="ᴛʀ • D-SMART&BEIN SINEMA",SINEMA TV KOMEDI 2 HD
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/571877
+#EXTINF:-1 tvg-id="sinema1001hd.tr" tvg-name="SINEMA TV 1001 FHD" tvg-logo="https://tvlogo.nl/files/ch/TR/sinema_1001.png" group-title="ᴛʀ • D-SMART&BEIN SINEMA",SINEMA TV 1001 FHD
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/571876
+#EXTINF:-1 tvg-id="sinema1001hd.tr" tvg-name="SINEMA TV 1001 HD" tvg-logo="https://tvlogo.nl/files/ch/TR/sinema_1001.png" group-title="ᴛʀ • D-SMART&BEIN SINEMA",SINEMA TV 1001 HD
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/571875
+#EXTINF:-1 tvg-id="sinema1002.tr" tvg-name="SINEMA TV 1002 FHD" tvg-logo="https://tvlogo.nl/files/ch/TR/sinema1002.png" group-title="ᴛʀ • D-SMART&BEIN SINEMA",SINEMA TV 1002 FHD
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/571874
+#EXTINF:-1 tvg-id="sinema1002.tr" tvg-name="SINEMA TV 1002 HD" tvg-logo="https://tvlogo.nl/files/ch/TR/sinema1002.png" group-title="ᴛʀ • D-SMART&BEIN SINEMA",SINEMA TV 1002 HD
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/571873
+
+#EXTINF:-1 tvg-id="" tvg-name="★☆★ CINEMAXIMUM 7/24 ★☆★" tvg-logo="https://r.resimlink.com/Y9gBTKj1dkb.jpg" group-title="ᴛʀ • CINEMAXIMUM 7/24",★☆★ CINEMAXIMUM 7/24 ★☆★
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/646554
+#EXTINF:-1 tvg-id="" tvg-name="CINEMAXIMUM MACERA" tvg-logo="https://r.resimlink.com/Y9gBTKj1dkb.jpg" group-title="ᴛʀ • CINEMAXIMUM 7/24",CINEMAXIMUM MACERA
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/646666
+#EXTINF:-1 tvg-id="" tvg-name="CINEMAXIMUM ROMANTIK" tvg-logo="https://r.resimlink.com/Y9gBTKj1dkb.jpg" group-title="ᴛʀ • CINEMAXIMUM 7/24",CINEMAXIMUM ROMANTIK
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/646662
+#EXTINF:-1 tvg-id="" tvg-name="CINEMAXIMUM DRAM" tvg-logo="https://r.resimlink.com/Y9gBTKj1dkb.jpg" group-title="ᴛʀ • CINEMAXIMUM 7/24",CINEMAXIMUM DRAM
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/646665
+#EXTINF:-1 tvg-id="" tvg-name="CINEMAXIMUM BILIM KURGU" tvg-logo="https://r.resimlink.com/Y9gBTKj1dkb.jpg" group-title="ᴛʀ • CINEMAXIMUM 7/24",CINEMAXIMUM BILIM KURGU
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/646671
+#EXTINF:-1 tvg-id="" tvg-name="CINEMAXIMUM FANTASTIK" tvg-logo="https://r.resimlink.com/Y9gBTKj1dkb.jpg" group-title="ᴛʀ • CINEMAXIMUM 7/24",CINEMAXIMUM FANTASTIK
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/646669
+#EXTINF:-1 tvg-id="" tvg-name="CINEMAXIMUM KORKU" tvg-logo="https://r.resimlink.com/Y9gBTKj1dkb.jpg" group-title="ᴛʀ • CINEMAXIMUM 7/24",CINEMAXIMUM KORKU
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/646670
+#EXTINF:-1 tvg-id="" tvg-name="CINEMAXIMUM GERILIM" tvg-logo="https://r.resimlink.com/Y9gBTKj1dkb.jpg" group-title="ᴛʀ • CINEMAXIMUM 7/24",CINEMAXIMUM GERILIM
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/646664
+#EXTINF:-1 tvg-id="" tvg-name="CINE OFFICE 1" tvg-logo="http://sltv-logo.cms-s.com/logo/turkeyT/cine_office1.png" group-title="ᴛʀ • CINEMAXIMUM 7/24",CINE OFFICE 1
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/646644
+#EXTINF:-1 tvg-id="" tvg-name="CINE OFFICE 2" tvg-logo="http://sltv-logo.cms-s.com/logo/turkeyT/cine_office2.png" group-title="ᴛʀ • CINEMAXIMUM 7/24",CINE OFFICE 2
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/646643
+#EXTINF:-1 tvg-id="" tvg-name="CINE OFFICE 3" tvg-logo="http://sltv-logo.cms-s.com/logo/turkeyT/cine_office3.png" group-title="ᴛʀ • CINEMAXIMUM 7/24",CINE OFFICE 3
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/646642
+#EXTINF:-1 tvg-id="" tvg-name="CINE OFFICE 4" tvg-logo="http://sltv-logo.cms-s.com/logo/turkeyT/cine_office4.png" group-title="ᴛʀ • CINEMAXIMUM 7/24",CINE OFFICE 4
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/646641
+#EXTINF:-1 tvg-id="" tvg-name="CINE OFFICE 5" tvg-logo="http://sltv-logo.cms-s.com/logo/turkeyT/cine_office5.png" group-title="ᴛʀ • CINEMAXIMUM 7/24",CINE OFFICE 5
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/646640
+#EXTINF:-1 tvg-id="" tvg-name="CINE OFFICE 6" tvg-logo="http://sltv-logo.cms-s.com/logo/turkeyT/cine_office6.png" group-title="ᴛʀ • CINEMAXIMUM 7/24",CINE OFFICE 6
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/646639
+#EXTINF:-1 tvg-id="" tvg-name="CINE OFFICE 7" tvg-logo="http://sltv-logo.cms-s.com/logo/turkeyT/cine_office7.png" group-title="ᴛʀ • CINEMAXIMUM 7/24",CINE OFFICE 7
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/646638
+#EXTINF:-1 tvg-id="" tvg-name="CINE OFFICE 8" tvg-logo="http://sltv-logo.cms-s.com/logo/turkeyT/cine_office8.png" group-title="ᴛʀ • CINEMAXIMUM 7/24",CINE OFFICE 8
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/646637
+#EXTINF:-1 tvg-id="" tvg-name="CINE OFFICE 9" tvg-logo="http://sltv-logo.cms-s.com/logo/turkeyT/cine_office9.png" group-title="ᴛʀ • CINEMAXIMUM 7/24",CINE OFFICE 9
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/646636
+#EXTINF:-1 tvg-id="" tvg-name="CINE OFFICE 10" tvg-logo="http://sltv-logo.cms-s.com/logo/turkeyT/cine_office10.png" group-title="ᴛʀ • CINEMAXIMUM 7/24",CINE OFFICE 10
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/646635
+#EXTINF:-1 tvg-id="" tvg-name="CINE OFFICE 11" tvg-logo="http://sltv-logo.cms-s.com/logo/turkeyT/cine_office11.png" group-title="ᴛʀ • CINEMAXIMUM 7/24",CINE OFFICE 11
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/646634
+#EXTINF:-1 tvg-id="" tvg-name="CINE OFFICE 12" tvg-logo="http://sltv-logo.cms-s.com/logo/turkeyT/cine_office12.png" group-title="ᴛʀ • CINEMAXIMUM 7/24",CINE OFFICE 12
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/646633
+#EXTINF:-1 tvg-id="" tvg-name="CINE OFFICE 13" tvg-logo="http://sltv-logo.cms-s.com/logo/turkeyT/cine_office13.png" group-title="ᴛʀ • CINEMAXIMUM 7/24",CINE OFFICE 13
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/646632
+#EXTINF:-1 tvg-id="" tvg-name="CINE OFFICE 14" tvg-logo="http://sltv-logo.cms-s.com/logo/turkeyT/cine_office14.png" group-title="ᴛʀ • CINEMAXIMUM 7/24",CINE OFFICE 14
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/646631
+#EXTINF:-1 tvg-id="" tvg-name="CINE OFFICE 15" tvg-logo="http://sltv-logo.cms-s.com/logo/turkeyT/cine_office15.png" group-title="ᴛʀ • CINEMAXIMUM 7/24",CINE OFFICE 15
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/646630
+#EXTINF:-1 tvg-id="" tvg-name="CINE OFFICE 16" tvg-logo="http://sltv-logo.cms-s.com/logo/turkeyT/cine_office16.png" group-title="ᴛʀ • CINEMAXIMUM 7/24",CINE OFFICE 16
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/646629
+#EXTINF:-1 tvg-id="" tvg-name="CINE OFFICE 17" tvg-logo="http://sltv-logo.cms-s.com/logo/turkeyT/cine_office17.png" group-title="ᴛʀ • CINEMAXIMUM 7/24",CINE OFFICE 17
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/646628
+#EXTINF:-1 tvg-id="" tvg-name="CINE OFFICE 18" tvg-logo="http://sltv-logo.cms-s.com/logo/turkeyT/cine_office18.png" group-title="ᴛʀ • CINEMAXIMUM 7/24",CINE OFFICE 18
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/646627
+#EXTINF:-1 tvg-id="" tvg-name="CINE OFFICE 19" tvg-logo="http://sltv-logo.cms-s.com/logo/turkeyT/cine_office19.png" group-title="ᴛʀ • CINEMAXIMUM 7/24",CINE OFFICE 19
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/646626
+#EXTINF:-1 tvg-id="" tvg-name="CINE OFFICE 20" tvg-logo="http://sltv-logo.cms-s.com/logo/turkeyT/cine_office20.png" group-title="ᴛʀ • CINEMAXIMUM 7/24",CINE OFFICE 20
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/646625
+#EXTINF:-1 tvg-id="" tvg-name="CINE YESILCAM 1" tvg-logo="http://sltv-logo.cms-s.com/logo/turkeyT/cineYesilcam5.png" group-title="ᴛʀ • CINEMAXIMUM 7/24",CINE YESILCAM 1
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/646624
+#EXTINF:-1 tvg-id="" tvg-name="CINE YESILCAM 2" tvg-logo="http://sltv-logo.cms-s.com/logo/turkeyT/cineYesilcam2.png" group-title="ᴛʀ • CINEMAXIMUM 7/24",CINE YESILCAM 2
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/646623
+#EXTINF:-1 tvg-id="" tvg-name="CINE YESILCAM 3" tvg-logo="http://sltv-logo.cms-s.com/logo/turkeyT/cineYesilcam3.png" group-title="ᴛʀ • CINEMAXIMUM 7/24",CINE YESILCAM 3
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/646622
+#EXTINF:-1 tvg-id="" tvg-name="CINE YESILCAM 4" tvg-logo="http://sltv-logo.cms-s.com/logo/turkeyT/cineYesilcam4.png" group-title="ᴛʀ • CINEMAXIMUM 7/24",CINE YESILCAM 4
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/646621
+#EXTINF:-1 tvg-id="" tvg-name="CÜNEYT ARKIN TV" tvg-logo="http://sltv-logo.cms-s.com/logo/turkeyT/cuneyt_arkin.png" group-title="ᴛʀ • CINEMAXIMUM 7/24",CÜNEYT ARKIN TV
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/646620
+#EXTINF:-1 tvg-id="" tvg-name="KADIR INANIR TV" tvg-logo="http://sltv-logo.cms-s.com/logo/turkeyT/kadir_inanir.png" group-title="ᴛʀ • CINEMAXIMUM 7/24",KADIR INANIR TV
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/646619
+#EXTINF:-1 tvg-id="" tvg-name="HABABAM SINIFI TV" tvg-logo="http://sltv-logo.cms-s.com/logo/turkeyT/hababam_sinifi.png" group-title="ᴛʀ • CINEMAXIMUM 7/24",HABABAM SINIFI TV
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/646618
+#EXTINF:-1 tvg-id="" tvg-name="SENER SEN 7/24 FILM TV" tvg-logo="http://sltv-logo.cms-s.com/logo/turkeyT/sener_sen.png" group-title="ᴛʀ • CINEMAXIMUM 7/24",SENER SEN 7/24 FILM TV
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/646617
+#EXTINF:-1 tvg-id="" tvg-name="IBRAHIM TATLISES TV" tvg-logo="http://sltv-logo.cms-s.com/logo/turkeyT/ibrahim_tatlises.png" group-title="ᴛʀ • CINEMAXIMUM 7/24",IBRAHIM TATLISES TV
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/646616
+#EXTINF:-1 tvg-id="" tvg-name="ORHAN GENCEBAY TV" tvg-logo="http://sltv-logo.cms-s.com/logo/turkeyT/orhan_gencebay.png" group-title="ᴛʀ • CINEMAXIMUM 7/24",ORHAN GENCEBAY TV
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/646615
+#EXTINF:-1 tvg-id="" tvg-name="MÜJDE AR TV" tvg-logo="http://sltv-logo.cms-s.com/logo/turkeyT/m%c3%bcjda_ar.png" group-title="ᴛʀ • CINEMAXIMUM 7/24",MÜJDE AR TV
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/646614
+#EXTINF:-1 tvg-id="" tvg-name="FERDI TAYFUR TV" tvg-logo="http://sltv-logo.cms-s.com/logo/turkeyT/ferdi_tayfur.png" group-title="ᴛʀ • CINEMAXIMUM 7/24",FERDI TAYFUR TV
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/646613
+#EXTINF:-1 tvg-id="" tvg-name="SADRI ALISIK TV" tvg-logo="http://sltv-logo.cms-s.com/logo/turkeyT/sadri_alisik.png" group-title="ᴛʀ • CINEMAXIMUM 7/24",SADRI ALISIK TV
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/646611
+#EXTINF:-1 tvg-id="" tvg-name="TARIK AKAN TV" tvg-logo="http://sltv-logo.cms-s.com/logo/turkeyT/tarik_akan.png" group-title="ᴛʀ • CINEMAXIMUM 7/24",TARIK AKAN TV
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/646610
+#EXTINF:-1 tvg-id="" tvg-name="KARTAL TIBET TV" tvg-logo="http://sltv-logo.cms-s.com/logo/turkeyT/kartal_tibet.png" group-title="ᴛʀ • CINEMAXIMUM 7/24",KARTAL TIBET TV
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/646609
+#EXTINF:-1 tvg-id="" tvg-name="TÜRKAN SORAY TV" tvg-logo="http://sltv-logo.cms-s.com/logo/turkeyT/turkan_soray.png" group-title="ᴛʀ • CINEMAXIMUM 7/24",TÜRKAN SORAY TV
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/646608
+#EXTINF:-1 tvg-id="" tvg-name="YILMAZ GÜNEY TV" tvg-logo="http://sltv-logo.cms-s.com/logo/turkeyT/yilamz_guney.png" group-title="ᴛʀ • CINEMAXIMUM 7/24",YILMAZ GÜNEY TV
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/646607
+#EXTINF:-1 tvg-id="" tvg-name="KÜCÜK EMRAH TV" tvg-logo="http://sltv-logo.cms-s.com/logo/turkeyT/kucuk_emrah.png" group-title="ᴛʀ • CINEMAXIMUM 7/24",KÜCÜK EMRAH TV
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/646606
+#EXTINF:-1 tvg-id="" tvg-name="ZEKI METIN TV" tvg-logo="http://sltv-logo.cms-s.com/logo/turkeyT/zeki_metin.png" group-title="ᴛʀ • CINEMAXIMUM 7/24",ZEKI METIN TV
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/646605
+
+#EXTINF:-1 tvg-id="" tvg-name="★☆★ b**N ★☆★" tvg-logo="https://www.lyngsat.com/logo/flag/az/tr.png" group-title="ᴛʀ • D-SMART&BEIN SINEMA",★☆★ b**N ★☆★
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/571872
+#EXTINF:-1 tvg-id="beinmoviesturk.tr" tvg-name="b**N MOVIES TURK FHD" tvg-logo="https://www.tvlogolar.xyz/europa/turkey/Bein.Movies.TURK.eno.png" group-title="ᴛʀ • D-SMART&BEIN SINEMA",b**N MOVIES TURK FHD
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/571871
+#EXTINF:-1 tvg-id="beinmoviesturk.tr" tvg-name="b**N MOVIES TURK HD" tvg-logo="https://www.tvlogolar.xyz/europa/turkey/Bein.Movies.TURK.eno.png" group-title="ᴛʀ • D-SMART&BEIN SINEMA",b**N MOVIES TURK HD
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/571870
+#EXTINF:-1 tvg-id="" tvg-name="b**N MOVIES FAMILY FHD" tvg-logo="https://www.tvlogolar.xyz/europa/turkey/Bein.Movies.Family.eno.png" group-title="ᴛʀ • D-SMART&BEIN SINEMA",b**N MOVIES FAMILY FHD
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/571869
+#EXTINF:-1 tvg-id="" tvg-name="b**N MOVIES FAMILY HD" tvg-logo="https://www.tvlogolar.xyz/europa/turkey/Bein.Movies.Family.eno.png" group-title="ᴛʀ • D-SMART&BEIN SINEMA",b**N MOVIES FAMILY HD
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/571868
+#EXTINF:-1 tvg-id="" tvg-name="b**N MOVIES ACTION FHD" tvg-logo="https://www.tvlogolar.xyz/europa/turkey/Bein.Movies.Action.eno.png" group-title="ᴛʀ • D-SMART&BEIN SINEMA",b**N MOVIES ACTION FHD
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/571867
+#EXTINF:-1 tvg-id="" tvg-name="b**N MOVIES ACTION HD" tvg-logo="https://www.tvlogolar.xyz/europa/turkey/Bein.Movies.Action.eno.png" group-title="ᴛʀ • D-SMART&BEIN SINEMA",b**N MOVIES ACTION HD
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/571866
+#EXTINF:-1 tvg-id="beinmoviesstars.tr" tvg-name="b**N MOVIES STARS FHD" tvg-logo="https://www.tvlogolar.xyz/europa/turkey/Bein.Movies.Stars-2.eno.png" group-title="ᴛʀ • D-SMART&BEIN SINEMA",b**N MOVIES STARS FHD
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/571865
+#EXTINF:-1 tvg-id="beinmoviesstars.tr" tvg-name="b**N MOVIES STARS HD" tvg-logo="https://www.tvlogolar.xyz/europa/turkey/Bein.Movies.Stars-2.eno.png" group-title="ᴛʀ • D-SMART&BEIN SINEMA",b**N MOVIES STARS HD
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/571864
+#EXTINF:-1 tvg-id="beinmoviespremier.tr" tvg-name="b**N MOVIES PREMIERE FHD" tvg-logo="https://www.tvlogolar.xyz/europa/turkey/Bein.Movies.Premiere.Eno.png" group-title="ᴛʀ • D-SMART&BEIN SINEMA",b**N MOVIES PREMIERE FHD
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/571863
+#EXTINF:-1 tvg-id="beinmoviespremier.tr" tvg-name="b**N MOVIES PREMIERE HD" tvg-logo="https://www.tvlogolar.xyz/europa/turkey/Bein.Movies.Premiere.Eno.png" group-title="ᴛʀ • D-SMART&BEIN SINEMA",b**N MOVIES PREMIERE HD
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/571862
+#EXTINF:-1 tvg-id="beinmoviespremiere2.tr" tvg-name="b**N MOVIES PREMIERE 2 FHD" tvg-logo="https://www.tvlogolar.xyz/europa/turkey/Bein.Movies.Premiere-2.eno.png" group-title="ᴛʀ • D-SMART&BEIN SINEMA",b**N MOVIES PREMIERE 2 FHD
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/571861
+#EXTINF:-1 tvg-id="beinmoviespremiere2.tr" tvg-name="b**N MOVIES PREMIERE 2 HD" tvg-logo="https://www.tvlogolar.xyz/europa/turkey/Bein.Movies.Premiere-2.eno.png" group-title="ᴛʀ • D-SMART&BEIN SINEMA",b**N MOVIES PREMIERE 2 HD
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/571860
+#EXTINF:-1 tvg-id="beinboxoffice1.tr" tvg-name="b**N BOX OFFICE 1 FHD" tvg-logo="https://www.tvlogolar.xyz/europa/turkey/Bein.box.office.1.eno.png" group-title="ᴛʀ • D-SMART&BEIN SINEMA",b**N BOX OFFICE 1 FHD
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/571859
+#EXTINF:-1 tvg-id="beinboxoffice1.tr" tvg-name="b**N BOX OFFICE 1 HD" tvg-logo="https://www.tvlogolar.xyz/europa/turkey/Bein.box.office.1.eno.png" group-title="ᴛʀ • D-SMART&BEIN SINEMA",b**N BOX OFFICE 1 HD
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/571858
+#EXTINF:-1 tvg-id="" tvg-name="b**N BOX OFFICE 2 FHD" tvg-logo="https://www.tvlogolar.xyz/europa/turkey/Bein.box.office.2.eno.png" group-title="ᴛʀ • D-SMART&BEIN SINEMA",b**N BOX OFFICE 2 FHD
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/571857
+#EXTINF:-1 tvg-id="" tvg-name="b**N BOX OFFICE 2 HD" tvg-logo="https://www.tvlogolar.xyz/europa/turkey/Bein.box.office.2.eno.png" group-title="ᴛʀ • D-SMART&BEIN SINEMA",b**N BOX OFFICE 2 HD
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/571856
+#EXTINF:-1 tvg-id="" tvg-name="b**N BOX OFFICE 3 FHD" tvg-logo="https://www.tvlogolar.xyz/europa/turkey/Bein.box.office.3.eno.png" group-title="ᴛʀ • D-SMART&BEIN SINEMA",b**N BOX OFFICE 3 FHD
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/571855
+#EXTINF:-1 tvg-id="" tvg-name="b**N BOX OFFICE 3 HD" tvg-logo="https://www.tvlogolar.xyz/europa/turkey/Bein.box.office.3.eno.png" group-title="ᴛʀ • D-SMART&BEIN SINEMA",b**N BOX OFFICE 3 HD
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/571854
+#EXTINF:-1 tvg-id="" tvg-name="b**N SERIES 1 FHD" tvg-logo="https://www.tvlogolar.xyz/europa/turkey/bein-series-1.eno.png" group-title="ᴛʀ • D-SMART&BEIN SINEMA",b**N SERIES 1 FHD
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/571853
+#EXTINF:-1 tvg-id="" tvg-name="b**N SERIES 1 HD" tvg-logo="https://www.tvlogolar.xyz/europa/turkey/bein-series-1.eno.png" group-title="ᴛʀ • D-SMART&BEIN SINEMA",b**N SERIES 1 HD
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/571852
+#EXTINF:-1 tvg-id="" tvg-name="b**N SERIES 2 FHD" tvg-logo="https://www.tvlogolar.xyz/europa/turkey/bein-series-2.eno.png" group-title="ᴛʀ • D-SMART&BEIN SINEMA",b**N SERIES 2 FHD
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/571851
+#EXTINF:-1 tvg-id="" tvg-name="b**N SERIES 2 HD" tvg-logo="https://www.tvlogolar.xyz/europa/turkey/bein-series-2.eno.png" group-title="ᴛʀ • D-SMART&BEIN SINEMA",b**N SERIES 2 HD
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/571850
+#EXTINF:-1 tvg-id="" tvg-name="b**N SERIES 3 FHD" tvg-logo="https://www.tvlogolar.xyz/europa/turkey/bein-series-3.eno.png" group-title="ᴛʀ • D-SMART&BEIN SINEMA",b**N SERIES 3 FHD
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/571849
+#EXTINF:-1 tvg-id="" tvg-name="b**N SERIES 3 HD" tvg-logo="https://www.tvlogolar.xyz/europa/turkey/bein-series-3.eno.png" group-title="ᴛʀ • D-SMART&BEIN SINEMA",b**N SERIES 3 HD
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/571848
+#EXTINF:-1 tvg-id="" tvg-name="b**N SERIES 4 FHD" tvg-logo="https://www.tvlogolar.xyz/europa/turkey/bein-series-4eno.png" group-title="ᴛʀ • D-SMART&BEIN SINEMA",b**N SERIES 4 FHD
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/571847
+#EXTINF:-1 tvg-id="" tvg-name="b**N SERIES 4 HD" tvg-logo="https://www.tvlogolar.xyz/europa/turkey/bein-series-4eno.png" group-title="ᴛʀ • D-SMART&BEIN SINEMA",b**N SERIES 4 HD
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/571846
+
+
+#EXTINF:-1 tvg-id="" tvg-name="★☆★ SİNEMA MİX ★☆★" tvg-logo="https://tvlogo.nl/files/ch/TR/FOCUSSINEMA.png" group-title="ᴛʀ • REDBOX / CINEMA MIX",★☆★ SİNEMA MİX ★☆★
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/133800
+#EXTINF:-1 tvg-id="" tvg-name="PROTURK LOCA" tvg-logo="https://ihob.net/images/2021/08/29/P1.png" group-title="ᴛʀ • REDBOX / CINEMA MIX",PROTURK LOCA
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/151204
+#EXTINF:-1 tvg-id="" tvg-name="PROTURK ACTiON" tvg-logo="https://ihob.net/images/2021/08/29/P1.png" group-title="ᴛʀ • REDBOX / CINEMA MIX",PROTURK ACTiON
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/145261
+#EXTINF:-1 tvg-id="" tvg-name="PROTURK KORKU" tvg-logo="https://ihob.net/images/2021/08/29/P1.png" group-title="ᴛʀ • REDBOX / CINEMA MIX",PROTURK KORKU
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/145262
+#EXTINF:-1 tvg-id="" tvg-name="PROTURK WESTERN" tvg-logo="https://ihob.net/images/2021/08/29/P1.png" group-title="ᴛʀ • REDBOX / CINEMA MIX",PROTURK WESTERN
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/145264
+#EXTINF:-1 tvg-id="" tvg-name="PROTURK NETFLiX" tvg-logo="https://ihob.net/images/2021/08/29/P1.png" group-title="ᴛʀ • REDBOX / CINEMA MIX",PROTURK NETFLiX
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/145265
+#EXTINF:-1 tvg-id="" tvg-name="PROTURK 4K ULTRA" tvg-logo="https://ihob.net/images/2021/08/29/P1.png" group-title="ᴛʀ • REDBOX / CINEMA MIX",PROTURK 4K ULTRA
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/145266
+#EXTINF:-1 tvg-id="" tvg-name="PROTURK DRAM" tvg-logo="https://ihob.net/images/2021/08/29/P1.png" group-title="ᴛʀ • REDBOX / CINEMA MIX",PROTURK DRAM
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/118624
+#EXTINF:-1 tvg-id="" tvg-name="PROTURK FANTASTiC" tvg-logo="https://ihob.net/images/2021/08/29/P1.png" group-title="ᴛʀ • REDBOX / CINEMA MIX",PROTURK FANTASTiC
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/118625
+#EXTINF:-1 tvg-id="" tvg-name="PROTURK MACERA" tvg-logo="https://ihob.net/images/2021/08/29/P1.png" group-title="ᴛʀ • REDBOX / CINEMA MIX",PROTURK MACERA
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/118626
+#EXTINF:-1 tvg-id="" tvg-name="PROTURK ViZYON" tvg-logo="https://ihob.net/images/2021/08/29/P1.png" group-title="ᴛʀ • REDBOX / CINEMA MIX",PROTURK ViZYON
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/118628
+#EXTINF:-1 tvg-id="" tvg-name="PROTURK UZAKDOGU" tvg-logo="https://ihob.net/images/2021/08/29/P1.png" group-title="ᴛʀ • REDBOX / CINEMA MIX",PROTURK UZAKDOGU
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/118630
+#EXTINF:-1 tvg-id="" tvg-name="PROTURK Bilim Kurgu" tvg-logo="https://ihob.net/images/2021/08/29/P1.png" group-title="ᴛʀ • REDBOX / CINEMA MIX",PROTURK Bilim Kurgu
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/159270
+#EXTINF:-1 tvg-id="" tvg-name="PROTURK YERLİ" tvg-logo="https://ihob.net/images/2021/08/29/P1.png" group-title="ᴛʀ • REDBOX / CINEMA MIX",PROTURK YERLİ
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/159271
+#EXTINF:-1 tvg-id="" tvg-name="PROTURK ORJİNAL" tvg-logo="https://ihob.net/images/2021/08/29/P1.png" group-title="ᴛʀ • REDBOX / CINEMA MIX",PROTURK ORJİNAL
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/159272
+#EXTINF:-1 tvg-id="" tvg-name="TR➤ Usk Vizyon Cinema Altyazı" tvg-logo="https://i.hizliresim.com/4z4wmx4.png" group-title="ᴛʀ • REDBOX / CINEMA MIX",TR➤ Usk Vizyon Cinema Altyazı
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/543767
+#EXTINF:-1 tvg-id="" tvg-name="TR➤ Usk Vizyon Cinema Yerli" tvg-logo="https://i.hizliresim.com/4z4wmx4.png" group-title="ᴛʀ • REDBOX / CINEMA MIX",TR➤ Usk Vizyon Cinema Yerli
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/543768
+#EXTINF:-1 tvg-id="" tvg-name="TR➤ Usk Vizyon Cinema Dublaj" tvg-logo="https://i.hizliresim.com/4z4wmx4.png" group-title="ᴛʀ • REDBOX / CINEMA MIX",TR➤ Usk Vizyon Cinema Dublaj
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/543769
+#EXTINF:-1 tvg-id="" tvg-name="TR➤ Usk Vizyon Cinema Animasyon" tvg-logo="https://i.hizliresim.com/4z4wmx4.png" group-title="ᴛʀ • REDBOX / CINEMA MIX",TR➤ Usk Vizyon Cinema Animasyon
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/543770
+#EXTINF:-1 tvg-id="" tvg-name="TR➤ Arena Box Yeşilçam" tvg-logo="" group-title="ᴛʀ • REDBOX / CINEMA MIX",TR➤ Arena Box Yeşilçam
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/543771
+#EXTINF:-1 tvg-id="" tvg-name="TR➤ Arena Box Animasyon" tvg-logo="" group-title="ᴛʀ • REDBOX / CINEMA MIX",TR➤ Arena Box Animasyon
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/543772
+#EXTINF:-1 tvg-id="" tvg-name="TR➤ Nova Cinema 1" tvg-logo="" group-title="ᴛʀ • REDBOX / CINEMA MIX",TR➤ Nova Cinema 1
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/543773
+#EXTINF:-1 tvg-id="" tvg-name="TR➤ Nova Cinema 2" tvg-logo="" group-title="ᴛʀ • REDBOX / CINEMA MIX",TR➤ Nova Cinema 2
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/543774
+#EXTINF:-1 tvg-id="" tvg-name="TR➤ Nova Cinema 3" tvg-logo="" group-title="ᴛʀ • REDBOX / CINEMA MIX",TR➤ Nova Cinema 3
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/543775
+#EXTINF:-1 tvg-id="" tvg-name="TR➤ Nova Cinema 4" tvg-logo="" group-title="ᴛʀ • REDBOX / CINEMA MIX",TR➤ Nova Cinema 4
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/543776
+#EXTINF:-1 tvg-id="" tvg-name="TR➤ Nova Cinema 5" tvg-logo="" group-title="ᴛʀ • REDBOX / CINEMA MIX",TR➤ Nova Cinema 5
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/543777
+#EXTINF:-1 tvg-id="" tvg-name="TR➤ Nova Cinema 6" tvg-logo="" group-title="ᴛʀ • REDBOX / CINEMA MIX",TR➤ Nova Cinema 6
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/543778
+#EXTINF:-1 tvg-id="" tvg-name="TR➤ King Box Yeşilçam" tvg-logo="" group-title="ᴛʀ • REDBOX / CINEMA MIX",TR➤ King Box Yeşilçam
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/543779
+#EXTINF:-1 tvg-id="" tvg-name="TR➤ Mega Box Yeşilçam" tvg-logo="" group-title="ᴛʀ • REDBOX / CINEMA MIX",TR➤ Mega Box Yeşilçam
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/543780
+#EXTINF:-1 tvg-id="" tvg-name="TR➤ Mega Box Animsyon" tvg-logo="" group-title="ᴛʀ • REDBOX / CINEMA MIX",TR➤ Mega Box Animsyon
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/543781
+#EXTINF:-1 tvg-id="" tvg-name="TR➤ Mega Box Klip" tvg-logo="" group-title="ᴛʀ • REDBOX / CINEMA MIX",TR➤ Mega Box Klip
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/543782
+#EXTINF:-1 tvg-id="" tvg-name="TR➤ Real Box Action" tvg-logo="" group-title="ᴛʀ • REDBOX / CINEMA MIX",TR➤ Real Box Action
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/543783
+#EXTINF:-1 tvg-id="" tvg-name="TR➤ Real Box Yeşilçam" tvg-logo="" group-title="ᴛʀ • REDBOX / CINEMA MIX",TR➤ Real Box Yeşilçam
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/543784
+#EXTINF:-1 tvg-id="" tvg-name="TR➤ Real Box Animasyon" tvg-logo="" group-title="ᴛʀ • REDBOX / CINEMA MIX",TR➤ Real Box Animasyon
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/543785
+#EXTINF:-1 tvg-id="" tvg-name="TR➤ Real Box Kral Sakir" tvg-logo="" group-title="ᴛʀ • REDBOX / CINEMA MIX",TR➤ Real Box Kral Sakir
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/543786
+#EXTINF:-1 tvg-id="" tvg-name="TR➤ Dream Box Yeşilçam" tvg-logo="" group-title="ᴛʀ • REDBOX / CINEMA MIX",TR➤ Dream Box Yeşilçam
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/543787
+#EXTINF:-1 tvg-id="" tvg-name="TR➤ Film Box Yerli" tvg-logo="" group-title="ᴛʀ • REDBOX / CINEMA MIX",TR➤ Film Box Yerli
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/543788
+#EXTINF:-1 tvg-id="" tvg-name="TR➤ Film Box Yeşilçam" tvg-logo="" group-title="ᴛʀ • REDBOX / CINEMA MIX",TR➤ Film Box Yeşilçam
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/543789
+#EXTINF:-1 tvg-id="" tvg-name="TR➤  Smart Box Yeşilçam" tvg-logo="" group-title="ᴛʀ • REDBOX / CINEMA MIX",TR➤  Smart Box Yeşilçam
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/543790
+#EXTINF:-1 tvg-id="" tvg-name="TR➤  Smart Box Belgesel" tvg-logo="" group-title="ᴛʀ • REDBOX / CINEMA MIX",TR➤  Smart Box Belgesel
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/543791
+#EXTINF:-1 tvg-id="" tvg-name="TR➤ Global Box Yeşilçam" tvg-logo="" group-title="ᴛʀ • REDBOX / CINEMA MIX",TR➤ Global Box Yeşilçam
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/543792
+#EXTINF:-1 tvg-id="" tvg-name="TR➤ Global Box Disny +" tvg-logo="" group-title="ᴛʀ • REDBOX / CINEMA MIX",TR➤ Global Box Disny +
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/543793
+#EXTINF:-1 tvg-id="" tvg-name="TR ☪ Proturk Yeşilçam" tvg-logo="" group-title="ᴛʀ • REDBOX / CINEMA MIX",TR ☪ Proturk Yeşilçam
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/543794
+#EXTINF:-1 tvg-id="" tvg-name="TR ☪ Proturk Animasyon" tvg-logo="" group-title="ᴛʀ • REDBOX / CINEMA MIX",TR ☪ Proturk Animasyon
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/543795
+#EXTINF:-1 tvg-id="" tvg-name="TR➤ Fix Cinema Action" tvg-logo="https://iptvmarketi.com/FiX.png" group-title="ᴛʀ • REDBOX / CINEMA MIX",TR➤ Fix Cinema Action
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/210102
+#EXTINF:-1 tvg-id="" tvg-name="TR➤ Fix Cinema Bilimkurgu" tvg-logo="https://iptvmarketi.com/FiX.png" group-title="ᴛʀ • REDBOX / CINEMA MIX",TR➤ Fix Cinema Bilimkurgu
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/210103
+#EXTINF:-1 tvg-id="" tvg-name="TR➤ Fix Cinema Dram" tvg-logo="https://iptvmarketi.com/FiX.png" group-title="ᴛʀ • REDBOX / CINEMA MIX",TR➤ Fix Cinema Dram
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/210105
+#EXTINF:-1 tvg-id="" tvg-name="TR➤ Fix Cinema Fantastic" tvg-logo="https://iptvmarketi.com/FiX.png" group-title="ᴛʀ • REDBOX / CINEMA MIX",TR➤ Fix Cinema Fantastic
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/210106
+#EXTINF:-1 tvg-id="" tvg-name="TR➤ Fix Cinema Korku" tvg-logo="https://iptvmarketi.com/FiX.png" group-title="ᴛʀ • REDBOX / CINEMA MIX",TR➤ Fix Cinema Korku
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/210107
+#EXTINF:-1 tvg-id="" tvg-name="TR➤ Fix Cinema Macera" tvg-logo="https://iptvmarketi.com/FiX.png" group-title="ᴛʀ • REDBOX / CINEMA MIX",TR➤ Fix Cinema Macera
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/210108
+#EXTINF:-1 tvg-id="" tvg-name="TR➤ Fix Cinema Netflix" tvg-logo="https://iptvmarketi.com/FiX.png" group-title="ᴛʀ • REDBOX / CINEMA MIX",TR➤ Fix Cinema Netflix
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/210109
+#EXTINF:-1 tvg-id="" tvg-name="TR➤ Fix Cinema Yerli" tvg-logo="https://iptvmarketi.com/FiX.png" group-title="ᴛʀ • REDBOX / CINEMA MIX",TR➤ Fix Cinema Yerli
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/210110
+#EXTINF:-1 tvg-id="" tvg-name="SMARTBOX DRAM HD+" tvg-logo="https://ihob.net/images/2021/08/29/SMART.png" group-title="ᴛʀ • REDBOX / CINEMA MIX",SMARTBOX DRAM HD+
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/145056
+#EXTINF:-1 tvg-id="" tvg-name="SMARTBOX NETFLIX HD+" tvg-logo="https://ihob.net/images/2021/08/29/SMART.png" group-title="ᴛʀ • REDBOX / CINEMA MIX",SMARTBOX NETFLIX HD+
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/145057
+#EXTINF:-1 tvg-id="" tvg-name="SMARTBOX SAVAS HD+" tvg-logo="https://ihob.net/images/2021/08/29/SMART.png" group-title="ᴛʀ • REDBOX / CINEMA MIX",SMARTBOX SAVAS HD+
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/145058
+#EXTINF:-1 tvg-id="" tvg-name="SMARTBOX COMEDY HD+" tvg-logo="https://ihob.net/images/2021/08/29/SMART.png" group-title="ᴛʀ • REDBOX / CINEMA MIX",SMARTBOX COMEDY HD+
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/145059
+#EXTINF:-1 tvg-id="" tvg-name="SMARTBOX WESTERN HD+" tvg-logo="https://ihob.net/images/2021/08/29/SMART.png" group-title="ᴛʀ • REDBOX / CINEMA MIX",SMARTBOX WESTERN HD+
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/145060
+#EXTINF:-1 tvg-id="" tvg-name="SMARTBOX YERLI HD+" tvg-logo="https://ihob.net/images/2021/08/29/SMART.png" group-title="ᴛʀ • REDBOX / CINEMA MIX",SMARTBOX YERLI HD+
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/145061
+#EXTINF:-1 tvg-id="" tvg-name="SMARTBOX FANTASTiC" tvg-logo="https://ihob.net/images/2021/08/29/SMART.png" group-title="ᴛʀ • REDBOX / CINEMA MIX",SMARTBOX FANTASTiC
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/114594
+#EXTINF:-1 tvg-id="" tvg-name="SMARTBOX ACTiON" tvg-logo="https://ihob.net/images/2021/08/29/SMART.png" group-title="ᴛʀ • REDBOX / CINEMA MIX",SMARTBOX ACTiON
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/114595
+#EXTINF:-1 tvg-id="" tvg-name="SMARTBOX MACERA" tvg-logo="https://ihob.net/images/2021/08/29/SMART.png" group-title="ᴛʀ • REDBOX / CINEMA MIX",SMARTBOX MACERA
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/114596
+#EXTINF:-1 tvg-id="" tvg-name="SMARTBOX ROMANTiK" tvg-logo="https://ihob.net/images/2021/08/29/SMART.png" group-title="ᴛʀ • REDBOX / CINEMA MIX",SMARTBOX ROMANTiK
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/114599
+#EXTINF:-1 tvg-id="" tvg-name="SMARTBOX GERiLiM" tvg-logo="https://ihob.net/images/2021/08/29/SMART.png" group-title="ᴛʀ • REDBOX / CINEMA MIX",SMARTBOX GERiLiM
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/114600
+#EXTINF:-1 tvg-id="" tvg-name="SMARTBOX BiLiM KURGU" tvg-logo="https://ihob.net/images/2021/08/29/SMART.png" group-title="ᴛʀ • REDBOX / CINEMA MIX",SMARTBOX BiLiM KURGU
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/114606
+#EXTINF:-1 tvg-id="" tvg-name="SMART BOX KORKU" tvg-logo="https://ihob.net/images/2021/08/29/SMART.png" group-title="ᴛʀ • REDBOX / CINEMA MIX",SMART BOX KORKU
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/159279
+#EXTINF:-1 tvg-id="" tvg-name="SMART BOX WESTERN" tvg-logo="https://ihob.net/images/2021/08/29/SMART.png" group-title="ᴛʀ • REDBOX / CINEMA MIX",SMART BOX WESTERN
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/159282
+#EXTINF:-1 tvg-id="" tvg-name="SMART BOX COMEDY" tvg-logo="https://ihob.net/images/2021/08/29/SMART.png" group-title="ᴛʀ • REDBOX / CINEMA MIX",SMART BOX COMEDY
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/159283
+#EXTINF:-1 tvg-id="" tvg-name="HORRORBOX 1" tvg-logo="https://ihob.net/images/2021/08/29/HORROR.png" group-title="ᴛʀ • REDBOX / CINEMA MIX",HORRORBOX 1
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/118696
+#EXTINF:-1 tvg-id="" tvg-name="HORRORBOX 2" tvg-logo="https://ihob.net/images/2021/08/29/HORROR.png" group-title="ᴛʀ • REDBOX / CINEMA MIX",HORRORBOX 2
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/145104
+#EXTINF:-1 tvg-id="" tvg-name="HORRORBOX 3" tvg-logo="https://ihob.net/images/2021/08/29/HORROR.png" group-title="ᴛʀ • REDBOX / CINEMA MIX",HORRORBOX 3
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/159284
+#EXTINF:-1 tvg-id="" tvg-name="HORRORBOX 4" tvg-logo="https://ihob.net/images/2021/08/29/HORROR.png" group-title="ᴛʀ • REDBOX / CINEMA MIX",HORRORBOX 4
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/118698
+#EXTINF:-1 tvg-id="" tvg-name="HORRORBOX 5" tvg-logo="https://ihob.net/images/2021/08/29/HORROR.png" group-title="ᴛʀ • REDBOX / CINEMA MIX",HORRORBOX 5
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/118699
+#EXTINF:-1 tvg-id="" tvg-name="NEOCİNE ACTİON" tvg-logo="https://ihob.net/images/2021/08/29/noecine.png" group-title="ᴛʀ • REDBOX / CINEMA MIX",NEOCİNE ACTİON
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/159285
+#EXTINF:-1 tvg-id="" tvg-name="NEOCİNE GOLD" tvg-logo="https://ihob.net/images/2021/08/29/noecine.png" group-title="ᴛʀ • REDBOX / CINEMA MIX",NEOCİNE GOLD
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/159286
+#EXTINF:-1 tvg-id="" tvg-name="NEOCINE TURK" tvg-logo="https://ihob.net/images/2021/08/29/noecine.png" group-title="ᴛʀ • REDBOX / CINEMA MIX",NEOCINE TURK
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/145103
+#EXTINF:-1 tvg-id="" tvg-name="NEOCINE FANTASTIC" tvg-logo="https://ihob.net/images/2021/08/29/noecine.png" group-title="ᴛʀ • REDBOX / CINEMA MIX",NEOCINE FANTASTIC
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/118681
+#EXTINF:-1 tvg-id="" tvg-name="NEOCINE KORKU" tvg-logo="https://ihob.net/images/2021/08/29/noecine.png" group-title="ᴛʀ • REDBOX / CINEMA MIX",NEOCINE KORKU
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/118682
+#EXTINF:-1 tvg-id="" tvg-name="NEOCINE WESTERN" tvg-logo="https://ihob.net/images/2021/08/29/noecine.png" group-title="ᴛʀ • REDBOX / CINEMA MIX",NEOCINE WESTERN
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/118684
+#EXTINF:-1 tvg-id="" tvg-name="NEOCINE NETFLIX" tvg-logo="https://ihob.net/images/2021/08/29/noecine.png" group-title="ᴛʀ • REDBOX / CINEMA MIX",NEOCINE NETFLIX
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/118686
+#EXTINF:-1 tvg-id="" tvg-name="NEOCINE SPECİAL" tvg-logo="https://ihob.net/images/2021/08/29/noecine.png" group-title="ᴛʀ • REDBOX / CINEMA MIX",NEOCINE SPECİAL
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/118688
+#EXTINF:-1 tvg-id="" tvg-name="EPIC DRAMA HD+" tvg-logo="https://i.ibb.co/vYcTwFk/images.png" group-title="ᴛʀ • REDBOX / CINEMA MIX",EPIC DRAMA HD+
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/174910
+#EXTINF:-1 tvg-id="" tvg-name="FILMBOX ACTiON" tvg-logo="https://www.resimyukle.org/images/2021/08/09/b2119bc91ab0406c48f82b59bd343142.png" group-title="ᴛʀ • REDBOX / CINEMA MIX",FILMBOX ACTiON
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/145095
+#EXTINF:-1 tvg-id="" tvg-name="FILMBOX FANTASTiC" tvg-logo="https://www.resimyukle.org/images/2021/08/09/b2119bc91ab0406c48f82b59bd343142.png" group-title="ᴛʀ • REDBOX / CINEMA MIX",FILMBOX FANTASTiC
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/145096
+#EXTINF:-1 tvg-id="" tvg-name="FILMBOX FAMILY" tvg-logo="https://www.resimyukle.org/images/2021/08/09/b2119bc91ab0406c48f82b59bd343142.png" group-title="ᴛʀ • REDBOX / CINEMA MIX",FILMBOX FAMILY
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/145097
+#EXTINF:-1 tvg-id="" tvg-name="FILMBOX HORROR" tvg-logo="https://www.resimyukle.org/images/2021/08/09/b2119bc91ab0406c48f82b59bd343142.png" group-title="ᴛʀ • REDBOX / CINEMA MIX",FILMBOX HORROR
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/145098
+#EXTINF:-1 tvg-id="" tvg-name="FILMBOX DRAM" tvg-logo="https://www.resimyukle.org/images/2021/08/09/b2119bc91ab0406c48f82b59bd343142.png" group-title="ᴛʀ • REDBOX / CINEMA MIX",FILMBOX DRAM
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/145099
+#EXTINF:-1 tvg-id="" tvg-name="FILMBOX SCi-Fi" tvg-logo="https://www.resimyukle.org/images/2021/08/09/b2119bc91ab0406c48f82b59bd343142.png" group-title="ᴛʀ • REDBOX / CINEMA MIX",FILMBOX SCi-Fi
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/145100
+#EXTINF:-1 tvg-id="" tvg-name="FILMBOX COMEDY" tvg-logo="https://www.resimyukle.org/images/2021/08/09/b2119bc91ab0406c48f82b59bd343142.png" group-title="ᴛʀ • REDBOX / CINEMA MIX",FILMBOX COMEDY
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/118740
+#EXTINF:-1 tvg-id="" tvg-name="GLOBAL BOX Korku" tvg-logo="https://ihob.net/images/2021/08/29/GLO.png" group-title="ᴛʀ • REDBOX / CINEMA MIX",GLOBAL BOX Korku
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/159288
+#EXTINF:-1 tvg-id="" tvg-name="GLOBAL BOX Fantastic" tvg-logo="https://ihob.net/images/2021/08/29/GLO.png" group-title="ᴛʀ • REDBOX / CINEMA MIX",GLOBAL BOX Fantastic
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/159289
+#EXTINF:-1 tvg-id="" tvg-name="GLOBAL BOX Comedy" tvg-logo="https://ihob.net/images/2021/08/29/GLO.png" group-title="ᴛʀ • REDBOX / CINEMA MIX",GLOBAL BOX Comedy
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/159290
+#EXTINF:-1 tvg-id="" tvg-name="GLOBAL BOX Dram" tvg-logo="https://ihob.net/images/2021/08/29/GLO.png" group-title="ᴛʀ • REDBOX / CINEMA MIX",GLOBAL BOX Dram
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/159291
+#EXTINF:-1 tvg-id="" tvg-name="GLOBAL BOX Vizyon" tvg-logo="https://ihob.net/images/2021/08/29/GLO.png" group-title="ᴛʀ • REDBOX / CINEMA MIX",GLOBAL BOX Vizyon
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/159292
+#EXTINF:-1 tvg-id="" tvg-name="GLOBALBOX YERLi" tvg-logo="https://ihob.net/images/2021/08/29/GLO.png" group-title="ᴛʀ • REDBOX / CINEMA MIX",GLOBALBOX YERLi
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/145094
+#EXTINF:-1 tvg-id="" tvg-name="GLOBALBOX ACTiON" tvg-logo="https://ihob.net/images/2021/08/29/GLO.png" group-title="ᴛʀ • REDBOX / CINEMA MIX",GLOBALBOX ACTiON
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/118671
+#EXTINF:-1 tvg-id="" tvg-name="KINGBOX Action" tvg-logo="https://ihob.net/images/2021/08/29/KING.png" group-title="ᴛʀ • REDBOX / CINEMA MIX",KINGBOX Action
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/159303
+#EXTINF:-1 tvg-id="" tvg-name="KINGBOX Bilim Kurgu" tvg-logo="https://ihob.net/images/2021/08/29/KING.png" group-title="ᴛʀ • REDBOX / CINEMA MIX",KINGBOX Bilim Kurgu
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/159304
+#EXTINF:-1 tvg-id="" tvg-name="KINGBOX Fantastic" tvg-logo="https://ihob.net/images/2021/08/29/KING.png" group-title="ᴛʀ • REDBOX / CINEMA MIX",KINGBOX Fantastic
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/159305
+#EXTINF:-1 tvg-id="" tvg-name="KINGBOX Macera" tvg-logo="https://ihob.net/images/2021/08/29/KING.png" group-title="ᴛʀ • REDBOX / CINEMA MIX",KINGBOX Macera
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/159306
+#EXTINF:-1 tvg-id="" tvg-name="KINGBOX Dram" tvg-logo="https://ihob.net/images/2021/08/29/KING.png" group-title="ᴛʀ • REDBOX / CINEMA MIX",KINGBOX Dram
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/159308
+#EXTINF:-1 tvg-id="" tvg-name="KINGBOX Yerli" tvg-logo="https://ihob.net/images/2021/08/29/KING.png" group-title="ᴛʀ • REDBOX / CINEMA MIX",KINGBOX Yerli
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/159309
+#EXTINF:-1 tvg-id="" tvg-name="ARENABOX YERLI HD+" tvg-logo="https://ihob.net/images/2021/08/29/ARENA.png" group-title="ᴛʀ • REDBOX / CINEMA MIX",ARENABOX YERLI HD+
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/145069
+#EXTINF:-1 tvg-id="" tvg-name="ARENABOX Action" tvg-logo="https://ihob.net/images/2021/08/29/ARENA.png" group-title="ᴛʀ • REDBOX / CINEMA MIX",ARENABOX Action
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/159317
+#EXTINF:-1 tvg-id="" tvg-name="ARENABOX Dram" tvg-logo="https://ihob.net/images/2021/08/29/ARENA.png" group-title="ᴛʀ • REDBOX / CINEMA MIX",ARENABOX Dram
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/159318
+#EXTINF:-1 tvg-id="" tvg-name="ARENABOX BELGESEL" tvg-logo="https://ihob.net/images/2021/08/29/ARENA.png" group-title="ᴛʀ • REDBOX / CINEMA MIX",ARENABOX BELGESEL
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/159319
+#EXTINF:-1 tvg-id="" tvg-name="DREAMBOX Comedy" tvg-logo="https://ihob.net/images/2021/08/29/dream.png" group-title="ᴛʀ • REDBOX / CINEMA MIX",DREAMBOX Comedy
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/159325
+#EXTINF:-1 tvg-id="" tvg-name="DREAMBOX Dram" tvg-logo="https://ihob.net/images/2021/08/29/dream.png" group-title="ᴛʀ • REDBOX / CINEMA MIX",DREAMBOX Dram
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/159326
+#EXTINF:-1 tvg-id="" tvg-name="ARENABOX FANTASTIC HD+" tvg-logo="https://ihob.net/images/2021/08/29/ARENA.png" group-title="ᴛʀ • REDBOX / CINEMA MIX",ARENABOX FANTASTIC HD+
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/145071
+#EXTINF:-1 tvg-id="" tvg-name="ARENABOX BILIM KURGU HD+" tvg-logo="https://ihob.net/images/2021/08/29/ARENA.png" group-title="ᴛʀ • REDBOX / CINEMA MIX",ARENABOX BILIM KURGU HD+
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/118639
+#EXTINF:-1 tvg-id="" tvg-name="ARENABOX GERILIM HD+" tvg-logo="https://ihob.net/images/2021/08/29/ARENA.png" group-title="ᴛʀ • REDBOX / CINEMA MIX",ARENABOX GERILIM HD+
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/118641
+#EXTINF:-1 tvg-id="" tvg-name="ARENABOX COMEDY HD+" tvg-logo="https://ihob.net/images/2021/08/29/ARENA.png" group-title="ᴛʀ • REDBOX / CINEMA MIX",ARENABOX COMEDY HD+
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/118642
+#EXTINF:-1 tvg-id="" tvg-name="ARENABOX KORKU HD+" tvg-logo="https://ihob.net/images/2021/08/29/ARENA.png" group-title="ᴛʀ • REDBOX / CINEMA MIX",ARENABOX KORKU HD+
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/118643
+#EXTINF:-1 tvg-id="" tvg-name="ARENABOX MACERA HD+" tvg-logo="https://ihob.net/images/2021/08/29/ARENA.png" group-title="ᴛʀ • REDBOX / CINEMA MIX",ARENABOX MACERA HD+
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/118644
+#EXTINF:-1 tvg-id="" tvg-name="ARENABOX VIZYON HD+" tvg-logo="https://ihob.net/images/2021/08/29/ARENA.png" group-title="ᴛʀ • REDBOX / CINEMA MIX",ARENABOX VIZYON HD+
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/118645
+#EXTINF:-1 tvg-id="" tvg-name="MEGABOX MACERA HD+" tvg-logo="https://ihob.net/images/2021/08/29/MEGA.png" group-title="ᴛʀ • REDBOX / CINEMA MIX",MEGABOX MACERA HD+
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/145757
+#EXTINF:-1 tvg-id="" tvg-name="MEGABOX MARVEL HD+" tvg-logo="https://ihob.net/images/2021/08/29/MEGA.png" group-title="ᴛʀ • REDBOX / CINEMA MIX",MEGABOX MARVEL HD+
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/145074
+#EXTINF:-1 tvg-id="" tvg-name="MEGABOX ACTION HD+" tvg-logo="https://ihob.net/images/2021/08/29/MEGA.png" group-title="ᴛʀ • REDBOX / CINEMA MIX",MEGABOX ACTION HD+
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/118649
+#EXTINF:-1 tvg-id="" tvg-name="MEGABOX FANTASTIC HD+" tvg-logo="https://ihob.net/images/2021/08/29/MEGA.png" group-title="ᴛʀ • REDBOX / CINEMA MIX",MEGABOX FANTASTIC HD+
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/118650
+#EXTINF:-1 tvg-id="" tvg-name="MEGABOX KORKU HD+" tvg-logo="https://ihob.net/images/2021/08/29/MEGA.png" group-title="ᴛʀ • REDBOX / CINEMA MIX",MEGABOX KORKU HD+
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/118652
+#EXTINF:-1 tvg-id="" tvg-name="MEGABOX DRAM HD+" tvg-logo="https://ihob.net/images/2021/08/29/MEGA.png" group-title="ᴛʀ • REDBOX / CINEMA MIX",MEGABOX DRAM HD+
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/118654
+#EXTINF:-1 tvg-id="" tvg-name="MEGABOX GOLD HD+" tvg-logo="https://ihob.net/images/2021/08/29/MEGA.png" group-title="ᴛʀ • REDBOX / CINEMA MIX",MEGABOX GOLD HD+
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/118656
+#EXTINF:-1 tvg-id="" tvg-name="MEGABOX NETFLIX HD+" tvg-logo="https://ihob.net/images/2021/08/29/MEGA.png" group-title="ᴛʀ • REDBOX / CINEMA MIX",MEGABOX NETFLIX HD+
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/118658
+#EXTINF:-1 tvg-id="" tvg-name="MEGABOX WESTERN HD+" tvg-logo="https://ihob.net/images/2021/08/29/MEGA.png" group-title="ᴛʀ • REDBOX / CINEMA MIX",MEGABOX WESTERN HD+
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/118659
+#EXTINF:-1 tvg-id="" tvg-name="MEGABOX Bilim Kurgu" tvg-logo="https://ihob.net/images/2021/08/29/MEGA.png" group-title="ᴛʀ • REDBOX / CINEMA MIX",MEGABOX Bilim Kurgu
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/159320
+#EXTINF:-1 tvg-id="" tvg-name="MEGABOX Comedy" tvg-logo="https://ihob.net/images/2021/08/29/MEGA.png" group-title="ᴛʀ • REDBOX / CINEMA MIX",MEGABOX Comedy
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/159321
+#EXTINF:-1 tvg-id="" tvg-name="MEGABOX Vizyon" tvg-logo="https://ihob.net/images/2021/08/29/MEGA.png" group-title="ᴛʀ • REDBOX / CINEMA MIX",MEGABOX Vizyon
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/159322
+#EXTINF:-1 tvg-id="" tvg-name="MEGABOX Yerli" tvg-logo="https://ihob.net/images/2021/08/29/MEGA.png" group-title="ᴛʀ • REDBOX / CINEMA MIX",MEGABOX Yerli
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/159323
+#EXTINF:-1 tvg-id="" tvg-name="MEGABOX Ülke Seyahat" tvg-logo="https://ihob.net/images/2021/08/29/MEGA.png" group-title="ᴛʀ • REDBOX / CINEMA MIX",MEGABOX Ülke Seyahat
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/159324
+#EXTINF:-1 tvg-id="" tvg-name="REALBOX MACERA" tvg-logo="https://ihob.net/images/2021/08/29/REALBOX.png" group-title="ᴛʀ • REDBOX / CINEMA MIX",REALBOX MACERA
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/145082
+#EXTINF:-1 tvg-id="" tvg-name="REALBOX DRAM" tvg-logo="https://ihob.net/images/2021/08/29/REALBOX.png" group-title="ᴛʀ • REDBOX / CINEMA MIX",REALBOX DRAM
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/118703
+#EXTINF:-1 tvg-id="" tvg-name="REALBOX Bilim Kurgu" tvg-logo="https://ihob.net/images/2021/08/29/REALBOX.png" group-title="ᴛʀ • REDBOX / CINEMA MIX",REALBOX Bilim Kurgu
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/159314
+#EXTINF:-1 tvg-id="" tvg-name="REALBOX Western" tvg-logo="https://ihob.net/images/2021/08/29/REALBOX.png" group-title="ᴛʀ • REDBOX / CINEMA MIX",REALBOX Western
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/159315
+#EXTINF:-1 tvg-id="" tvg-name="REALBOX Yerli" tvg-logo="https://ihob.net/images/2021/08/29/REALBOX.png" group-title="ᴛʀ • REDBOX / CINEMA MIX",REALBOX Yerli
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/159316
+#EXTINF:-1 tvg-id="" tvg-name="REALBOX FANTASTiC" tvg-logo="https://ihob.net/images/2021/08/29/REALBOX.png" group-title="ᴛʀ • REDBOX / CINEMA MIX",REALBOX FANTASTiC
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/118704
+#EXTINF:-1 tvg-id="" tvg-name="REALBOX GERiLiM" tvg-logo="https://ihob.net/images/2021/08/29/REALBOX.png" group-title="ᴛʀ • REDBOX / CINEMA MIX",REALBOX GERiLiM
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/118705
+#EXTINF:-1 tvg-id="" tvg-name="REALBOX HiNT" tvg-logo="https://ihob.net/images/2021/08/29/REALBOX.png" group-title="ᴛʀ • REDBOX / CINEMA MIX",REALBOX HiNT
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/118706
+#EXTINF:-1 tvg-id="" tvg-name="REALBOX KORKU" tvg-logo="https://ihob.net/images/2021/08/29/REALBOX.png" group-title="ᴛʀ • REDBOX / CINEMA MIX",REALBOX KORKU
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/118707
+#EXTINF:-1 tvg-id="" tvg-name="DREAMBOX KORKU" tvg-logo="https://ihob.net/images/2021/08/29/dream.png" group-title="ᴛʀ • REDBOX / CINEMA MIX",DREAMBOX KORKU
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/145078
+#EXTINF:-1 tvg-id="" tvg-name="DREAMBOX GERiLiM" tvg-logo="https://ihob.net/images/2021/08/29/dream.png" group-title="ᴛʀ • REDBOX / CINEMA MIX",DREAMBOX GERiLiM
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/145079
+#EXTINF:-1 tvg-id="" tvg-name="DREAMBOX YERLi" tvg-logo="https://ihob.net/images/2021/08/29/dream.png" group-title="ᴛʀ • REDBOX / CINEMA MIX",DREAMBOX YERLi
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/145080
+#EXTINF:-1 tvg-id="" tvg-name="DREAMBOX ACTiON" tvg-logo="https://ihob.net/images/2021/08/29/dream.png" group-title="ᴛʀ • REDBOX / CINEMA MIX",DREAMBOX ACTiON
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/118713
+#EXTINF:-1 tvg-id="" tvg-name="DREAMBOX BiLiM KURGU" tvg-logo="https://ihob.net/images/2021/08/29/dream.png" group-title="ᴛʀ • REDBOX / CINEMA MIX",DREAMBOX BiLiM KURGU
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/118714
+#EXTINF:-1 tvg-id="" tvg-name="DREAMBOX FANTASTiC" tvg-logo="https://ihob.net/images/2021/08/29/dream.png" group-title="ᴛʀ • REDBOX / CINEMA MIX",DREAMBOX FANTASTiC
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/118715
+#EXTINF:-1 tvg-id="" tvg-name="DREAMBOX MACERA" tvg-logo="https://ihob.net/images/2021/08/29/dream.png" group-title="ᴛʀ • REDBOX / CINEMA MIX",DREAMBOX MACERA
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/118719
+#EXTINF:-1 tvg-id="" tvg-name="DREAMBOX SAVAS" tvg-logo="https://ihob.net/images/2021/08/29/dream.png" group-title="ᴛʀ • REDBOX / CINEMA MIX",DREAMBOX SAVAS
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/118721
+#EXTINF:-1 tvg-id="" tvg-name="DREAMBOX ROMANTiC" tvg-logo="https://ihob.net/images/2021/08/29/dream.png" group-title="ᴛʀ • REDBOX / CINEMA MIX",DREAMBOX ROMANTiC
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/118722
+#EXTINF:-1 tvg-id="" tvg-name="DREAMBOX NETFLiX" tvg-logo="https://ihob.net/images/2021/08/29/dream.png" group-title="ᴛʀ • REDBOX / CINEMA MIX",DREAMBOX NETFLiX
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/118723
+#EXTINF:-1 tvg-id="" tvg-name="★☆★ REDBOX VIP ★☆★" tvg-logo="https://logodix.com/logo/19547.png" group-title="ᴛʀ • REDBOX / CINEMA MIX",★☆★ REDBOX VIP ★☆★
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/157177
+#EXTINF:-1 tvg-id="" tvg-name="REDBOX ANIMASYON 1" tvg-logo="https://logodix.com/logo/19547.png" group-title="ᴛʀ • REDBOX / CINEMA MIX",REDBOX ANIMASYON 1
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/157191
+#EXTINF:-1 tvg-id="" tvg-name="REDBOX ANIMASYON 2" tvg-logo="https://logodix.com/logo/19547.png" group-title="ᴛʀ • REDBOX / CINEMA MIX",REDBOX ANIMASYON 2
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/157192
+#EXTINF:-1 tvg-id="" tvg-name="REDBOX AKSIYON 1" tvg-logo="https://logodix.com/logo/19547.png" group-title="ᴛʀ • REDBOX / CINEMA MIX",REDBOX AKSIYON 1
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/157188
+#EXTINF:-1 tvg-id="" tvg-name="REDBOX AKSIYON 2" tvg-logo="https://logodix.com/logo/19547.png" group-title="ᴛʀ • REDBOX / CINEMA MIX",REDBOX AKSIYON 2
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/157189
+#EXTINF:-1 tvg-id="" tvg-name="REDBOX AKSIYON 3" tvg-logo="https://logodix.com/logo/19547.png" group-title="ᴛʀ • REDBOX / CINEMA MIX",REDBOX AKSIYON 3
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/157190
+#EXTINF:-1 tvg-id="" tvg-name="REDBOX BILIMKURGU 1" tvg-logo="https://logodix.com/logo/19547.png" group-title="ᴛʀ • REDBOX / CINEMA MIX",REDBOX BILIMKURGU 1
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/157194
+#EXTINF:-1 tvg-id="" tvg-name="REDBOX BILIMKURGU 2" tvg-logo="https://logodix.com/logo/19547.png" group-title="ᴛʀ • REDBOX / CINEMA MIX",REDBOX BILIMKURGU 2
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/157195
+#EXTINF:-1 tvg-id="" tvg-name="REDBOX DRAMA 1" tvg-logo="https://logodix.com/logo/19547.png" group-title="ᴛʀ • REDBOX / CINEMA MIX",REDBOX DRAMA 1
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/157207
+#EXTINF:-1 tvg-id="" tvg-name="REDBOX DRAMA 2" tvg-logo="https://logodix.com/logo/19547.png" group-title="ᴛʀ • REDBOX / CINEMA MIX",REDBOX DRAMA 2
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/157208
+#EXTINF:-1 tvg-id="" tvg-name="REDBOX DRAMA 3" tvg-logo="https://logodix.com/logo/19547.png" group-title="ᴛʀ • REDBOX / CINEMA MIX",REDBOX DRAMA 3
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/157209
+#EXTINF:-1 tvg-id="" tvg-name="REDBOX KOMEDI 1" tvg-logo="https://logodix.com/logo/19547.png" group-title="ᴛʀ • REDBOX / CINEMA MIX",REDBOX KOMEDI 1
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/157210
+#EXTINF:-1 tvg-id="" tvg-name="REDBOX KOMEDI 2" tvg-logo="https://logodix.com/logo/19547.png" group-title="ᴛʀ • REDBOX / CINEMA MIX",REDBOX KOMEDI 2
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/157211
+#EXTINF:-1 tvg-id="" tvg-name="REDBOX KOMEDI 3" tvg-logo="https://logodix.com/logo/19547.png" group-title="ᴛʀ • REDBOX / CINEMA MIX",REDBOX KOMEDI 3
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/157212
+#EXTINF:-1 tvg-id="" tvg-name="REDBOX KORKU 1" tvg-logo="https://logodix.com/logo/19547.png" group-title="ᴛʀ • REDBOX / CINEMA MIX",REDBOX KORKU 1
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/157213
+#EXTINF:-1 tvg-id="" tvg-name="REDBOX KORKU 2" tvg-logo="https://logodix.com/logo/19547.png" group-title="ᴛʀ • REDBOX / CINEMA MIX",REDBOX KORKU 2
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/157214
+#EXTINF:-1 tvg-id="" tvg-name="REDBOX KORKU 3" tvg-logo="https://logodix.com/logo/19547.png" group-title="ᴛʀ • REDBOX / CINEMA MIX",REDBOX KORKU 3
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/157215
+#EXTINF:-1 tvg-id="" tvg-name="REDBOX CEM YILMAZ" tvg-logo="https://logodix.com/logo/19547.png" group-title="ᴛʀ • REDBOX / CINEMA MIX",REDBOX CEM YILMAZ
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/157206
+#EXTINF:-1 tvg-id="" tvg-name="REDBOX TURKCE SHOW" tvg-logo="https://logodix.com/logo/19547.png" group-title="ᴛʀ • REDBOX / CINEMA MIX",REDBOX TURKCE SHOW
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/157204
+#EXTINF:-1 tvg-id="" tvg-name="REDBOX KOMEDI 90'LAR" tvg-logo="https://logodix.com/logo/19547.png" group-title="ᴛʀ • REDBOX / CINEMA MIX",REDBOX KOMEDI 90'LAR
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/157205
+#EXTINF:-1 tvg-id="" tvg-name="REDBOX 007" tvg-logo="https://logodix.com/logo/19547.png" group-title="ᴛʀ • REDBOX / CINEMA MIX",REDBOX 007
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/157196
+#EXTINF:-1 tvg-id="" tvg-name="REDBOX BOXSET" tvg-logo="https://logodix.com/logo/19547.png" group-title="ᴛʀ • REDBOX / CINEMA MIX",REDBOX BOXSET
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/157183
+#EXTINF:-1 tvg-id="" tvg-name="REDBOX TURK BOXSET" tvg-logo="https://logodix.com/logo/19547.png" group-title="ᴛʀ • REDBOX / CINEMA MIX",REDBOX TURK BOXSET
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/157184
+#EXTINF:-1 tvg-id="" tvg-name="REDBOX PREMIERE" tvg-logo="https://logodix.com/logo/19547.png" group-title="ᴛʀ • REDBOX / CINEMA MIX",REDBOX PREMIERE
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/157198
+#EXTINF:-1 tvg-id="" tvg-name="REDBOX WESTERN" tvg-logo="https://logodix.com/logo/19547.png" group-title="ᴛʀ • REDBOX / CINEMA MIX",REDBOX WESTERN
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/157199
+#EXTINF:-1 tvg-id="" tvg-name="REDBOX STAR WARS" tvg-logo="https://logodix.com/logo/19547.png" group-title="ᴛʀ • REDBOX / CINEMA MIX",REDBOX STAR WARS
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/157200
+#EXTINF:-1 tvg-id="" tvg-name="REDBOX MARVEL" tvg-logo="https://logodix.com/logo/19547.png" group-title="ᴛʀ • REDBOX / CINEMA MIX",REDBOX MARVEL
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/157197
+#EXTINF:-1 tvg-id="" tvg-name="REDBOX MIX 1" tvg-logo="https://logodix.com/logo/19547.png" group-title="ᴛʀ • REDBOX / CINEMA MIX",REDBOX MIX 1
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/157216
+#EXTINF:-1 tvg-id="" tvg-name="REDBOX MIX 2" tvg-logo="https://logodix.com/logo/19547.png" group-title="ᴛʀ • REDBOX / CINEMA MIX",REDBOX MIX 2
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/157217
+#EXTINF:-1 tvg-id="" tvg-name="REDBOX MIX 3" tvg-logo="https://logodix.com/logo/19547.png" group-title="ᴛʀ • REDBOX / CINEMA MIX",REDBOX MIX 3
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/157218
+#EXTINF:-1 tvg-id="" tvg-name="REDBOX MIX 4" tvg-logo="https://logodix.com/logo/19547.png" group-title="ᴛʀ • REDBOX / CINEMA MIX",REDBOX MIX 4
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/157219
+#EXTINF:-1 tvg-id="" tvg-name="REDBOX MIX 5" tvg-logo="https://logodix.com/logo/19547.png" group-title="ᴛʀ • REDBOX / CINEMA MIX",REDBOX MIX 5
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/157220
+#EXTINF:-1 tvg-id="" tvg-name="REDBOX MIX 6" tvg-logo="https://logodix.com/logo/19547.png" group-title="ᴛʀ • REDBOX / CINEMA MIX",REDBOX MIX 6
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/157221
+#EXTINF:-1 tvg-id="" tvg-name="REDBOX MIX 7" tvg-logo="https://logodix.com/logo/19547.png" group-title="ᴛʀ • REDBOX / CINEMA MIX",REDBOX MIX 7
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/157222
+#EXTINF:-1 tvg-id="" tvg-name="REDBOX MIX 8" tvg-logo="https://logodix.com/logo/19547.png" group-title="ᴛʀ • REDBOX / CINEMA MIX",REDBOX MIX 8
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/157223
+#EXTINF:-1 tvg-id="" tvg-name="REDBOX MIX 9" tvg-logo="https://logodix.com/logo/19547.png" group-title="ᴛʀ • REDBOX / CINEMA MIX",REDBOX MIX 9
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/157224
+#EXTINF:-1 tvg-id="" tvg-name="REDBOX MIX 10" tvg-logo="https://logodix.com/logo/19547.png" group-title="ᴛʀ • REDBOX / CINEMA MIX",REDBOX MIX 10
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/157225
+#EXTINF:-1 tvg-id="" tvg-name="REDBOX 4K UHD" tvg-logo="https://logodix.com/logo/19547.png" group-title="ᴛʀ • REDBOX / CINEMA MIX",REDBOX 4K UHD
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/157178
+
+#EXTINF:-1 tvg-id="" tvg-name="★☆★ 7/24 DIZILER ★☆★" tvg-logo="https://www.lyngsat.com/logo/flag/az/tr.png" group-title="ᴛʀ • DIZI 7/24",★☆★ 7/24 DIZILER ★☆★
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/132468
+#EXTINF:-1 tvg-id="" tvg-name="KONUSANLAR" tvg-logo="https://i.ibb.co/cCxv7WF/zyro-image.png" group-title="ᴛʀ • DIZI 7/24",KONUSANLAR
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/159689
+#EXTINF:-1 tvg-id="" tvg-name="GULDUR GULDUR" tvg-logo="https://i.ibb.co/cCxv7WF/zyro-image.png" group-title="ᴛʀ • DIZI 7/24",GULDUR GULDUR
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/222351
+#EXTINF:-1 tvg-id="" tvg-name="KARDES PAYI" tvg-logo="https://i.ibb.co/cCxv7WF/zyro-image.png" group-title="ᴛʀ • DIZI 7/24",KARDES PAYI
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/546319
+#EXTINF:-1 tvg-id="" tvg-name="ISLER GUCLER" tvg-logo="https://i.ibb.co/cCxv7WF/zyro-image.png" group-title="ᴛʀ • DIZI 7/24",ISLER GUCLER
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/546314
+#EXTINF:-1 tvg-id="" tvg-name="ADA MASALI" tvg-logo="https://i.ibb.co/cCxv7WF/zyro-image.png" group-title="ᴛʀ • DIZI 7/24",ADA MASALI
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/546250
+#EXTINF:-1 tvg-id="" tvg-name="ADI SEVGI" tvg-logo="https://i.ibb.co/cCxv7WF/zyro-image.png" group-title="ᴛʀ • DIZI 7/24",ADI SEVGI
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/546276
+#EXTINF:-1 tvg-id="" tvg-name="ADINI FERIHA KOYDUM" tvg-logo="https://i.ibb.co/cCxv7WF/zyro-image.png" group-title="ᴛʀ • DIZI 7/24",ADINI FERIHA KOYDUM
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/546385
+#EXTINF:-1 tvg-id="" tvg-name="AH NEREDE" tvg-logo="https://i.ibb.co/cCxv7WF/zyro-image.png" group-title="ᴛʀ • DIZI 7/24",AH NEREDE
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/546275
+#EXTINF:-1 tvg-id="" tvg-name="AKINCI" tvg-logo="https://i.ibb.co/cCxv7WF/zyro-image.png" group-title="ᴛʀ • DIZI 7/24",AKINCI
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/546277
+#EXTINF:-1 tvg-id="" tvg-name="AKREP" tvg-logo="https://i.ibb.co/cCxv7WF/zyro-image.png" group-title="ᴛʀ • DIZI 7/24",AKREP
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/546278
+#EXTINF:-1 tvg-id="" tvg-name="AILE" tvg-logo="https://i.ibb.co/cCxv7WF/zyro-image.png" group-title="ᴛʀ • DIZI 7/24",AILE
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/546418
+#EXTINF:-1 tvg-id="" tvg-name="AILE SIRKETI" tvg-logo="https://i.ibb.co/cCxv7WF/zyro-image.png" group-title="ᴛʀ • DIZI 7/24",AILE SIRKETI
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/210305
+#EXTINF:-1 tvg-id="" tvg-name="ALDATMAK" tvg-logo="https://i.ibb.co/cCxv7WF/zyro-image.png" group-title="ᴛʀ • DIZI 7/24",ALDATMAK
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/546386
+#EXTINF:-1 tvg-id="" tvg-name="ALEV ALEV" tvg-logo="https://i.ibb.co/cCxv7WF/zyro-image.png" group-title="ᴛʀ • DIZI 7/24",ALEV ALEV
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/546279
+#EXTINF:-1 tvg-id="" tvg-name="ALI AYSEYI SEVIYOR" tvg-logo="https://i.ibb.co/cCxv7WF/zyro-image.png" group-title="ᴛʀ • DIZI 7/24",ALI AYSEYI SEVIYOR
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/546280
+#EXTINF:-1 tvg-id="" tvg-name="ALMAN KUZUSU" tvg-logo="https://i.ibb.co/cCxv7WF/zyro-image.png" group-title="ᴛʀ • DIZI 7/24",ALMAN KUZUSU
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/546373
+#EXTINF:-1 tvg-id="" tvg-name="ALPARSLAN BUYUK SELCUKLU" tvg-logo="https://i.ibb.co/cCxv7WF/zyro-image.png" group-title="ᴛʀ • DIZI 7/24",ALPARSLAN BUYUK SELCUKLU
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/546403
+#EXTINF:-1 tvg-id="" tvg-name="AL SANCAK" tvg-logo="https://i.ibb.co/cCxv7WF/zyro-image.png" group-title="ᴛʀ • DIZI 7/24",AL SANCAK
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/546419
+#EXTINF:-1 tvg-id="" tvg-name="ANKARANIN DIKMENI" tvg-logo="https://i.ibb.co/cCxv7WF/zyro-image.png" group-title="ᴛʀ • DIZI 7/24",ANKARANIN DIKMENI
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/546374
+#EXTINF:-1 tvg-id="" tvg-name="ANNENIN SIRRIDIR COCUK" tvg-logo="https://i.ibb.co/cCxv7WF/zyro-image.png" group-title="ᴛʀ • DIZI 7/24",ANNENIN SIRRIDIR COCUK
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/546281
+#EXTINF:-1 tvg-id="" tvg-name="ARIZA" tvg-logo="https://i.ibb.co/cCxv7WF/zyro-image.png" group-title="ᴛʀ • DIZI 7/24",ARIZA
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/210309
+#EXTINF:-1 tvg-id="" tvg-name="ASI" tvg-logo="https://i.ibb.co/cCxv7WF/zyro-image.png" group-title="ᴛʀ • DIZI 7/24",ASI
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/546375
+#EXTINF:-1 tvg-id="" tvg-name="ASK-I MEMNU" tvg-logo="https://i.ibb.co/cCxv7WF/zyro-image.png" group-title="ᴛʀ • DIZI 7/24",ASK-I MEMNU
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/210322
+#EXTINF:-1 tvg-id="" tvg-name="ASK MANTIK INTIKAM" tvg-logo="https://i.ibb.co/cCxv7WF/zyro-image.png" group-title="ᴛʀ • DIZI 7/24",ASK MANTIK INTIKAM
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/546253
+#EXTINF:-1 tvg-id="" tvg-name="ASK LAFTAN ANLAMAZ" tvg-logo="https://i.ibb.co/cCxv7WF/zyro-image.png" group-title="ᴛʀ • DIZI 7/24",ASK LAFTAN ANLAMAZ
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/546282
+#EXTINF:-1 tvg-id="" tvg-name="ASK YENIDEN" tvg-logo="https://i.ibb.co/cCxv7WF/zyro-image.png" group-title="ᴛʀ • DIZI 7/24",ASK YENIDEN
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/546283
+#EXTINF:-1 tvg-id="" tvg-name="ASLAN AILEM" tvg-logo="https://i.ibb.co/cCxv7WF/zyro-image.png" group-title="ᴛʀ • DIZI 7/24",ASLAN AILEM
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/546284
+#EXTINF:-1 tvg-id="" tvg-name="ASMALI KONAK" tvg-logo="https://i.ibb.co/cCxv7WF/zyro-image.png" group-title="ᴛʀ • DIZI 7/24",ASMALI KONAK
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/225609
+#EXTINF:-1 tvg-id="" tvg-name="ATES KUSLARI" tvg-logo="https://i.ibb.co/cCxv7WF/zyro-image.png" group-title="ᴛʀ • DIZI 7/24",ATES KUSLARI
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/546425
+#EXTINF:-1 tvg-id="" tvg-name="AVLU" tvg-logo="https://i.ibb.co/cCxv7WF/zyro-image.png" group-title="ᴛʀ • DIZI 7/24",AVLU
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/546285
+#EXTINF:-1 tvg-id="" tvg-name="AZIZ" tvg-logo="https://i.ibb.co/cCxv7WF/zyro-image.png" group-title="ᴛʀ • DIZI 7/24",AZIZ
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/546251
+#EXTINF:-1 tvg-id="" tvg-name="BABA" tvg-logo="https://i.ibb.co/cCxv7WF/zyro-image.png" group-title="ᴛʀ • DIZI 7/24",BABA
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/546387
+#EXTINF:-1 tvg-id="" tvg-name="BABA OCAGI" tvg-logo="https://i.ibb.co/cCxv7WF/zyro-image.png" group-title="ᴛʀ • DIZI 7/24",BABA OCAGI
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/546286
+#EXTINF:-1 tvg-id="" tvg-name="BABIL" tvg-logo="https://i.ibb.co/cCxv7WF/zyro-image.png" group-title="ᴛʀ • DIZI 7/24",BABIL
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/546287
+#EXTINF:-1 tvg-id="" tvg-name="BAHAR DALLARI" tvg-logo="https://i.ibb.co/cCxv7WF/zyro-image.png" group-title="ᴛʀ • DIZI 7/24",BAHAR DALLARI
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/546376
+#EXTINF:-1 tvg-id="" tvg-name="BAHT OYUNU" tvg-logo="https://i.ibb.co/cCxv7WF/zyro-image.png" group-title="ᴛʀ • DIZI 7/24",BAHT OYUNU
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/546259
+#EXTINF:-1 tvg-id="" tvg-name="BALKAN NINNISI" tvg-logo="https://i.ibb.co/cCxv7WF/zyro-image.png" group-title="ᴛʀ • DIZI 7/24",BALKAN NINNISI
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/546388
+#EXTINF:-1 tvg-id="" tvg-name="BANA SEVMEYI ANLAT" tvg-logo="https://i.ibb.co/cCxv7WF/zyro-image.png" group-title="ᴛʀ • DIZI 7/24",BANA SEVMEYI ANLAT
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/546288
+#EXTINF:-1 tvg-id="" tvg-name="BARAJ" tvg-logo="https://i.ibb.co/cCxv7WF/zyro-image.png" group-title="ᴛʀ • DIZI 7/24",BARAJ
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/546255
+#EXTINF:-1 tvg-id="" tvg-name="BARBAROSLAR  AKDENIZIN KILICI" tvg-logo="https://i.ibb.co/cCxv7WF/zyro-image.png" group-title="ᴛʀ • DIZI 7/24",BARBAROSLAR  AKDENIZIN KILICI
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/546289
+#EXTINF:-1 tvg-id="" tvg-name="BARBAROS HAYREDDIN SULTANIN FERMANI" tvg-logo="https://i.ibb.co/cCxv7WF/zyro-image.png" group-title="ᴛʀ • DIZI 7/24",BARBAROS HAYREDDIN SULTANIN FERMANI
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/546420
+#EXTINF:-1 tvg-id="" tvg-name="BASIM BELADA" tvg-logo="https://i.ibb.co/cCxv7WF/zyro-image.png" group-title="ᴛʀ • DIZI 7/24",BASIM BELADA
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/546421
+#EXTINF:-1 tvg-id="" tvg-name="BEN BU CIHANA SIĞMAZAM" tvg-logo="https://i.ibb.co/cCxv7WF/zyro-image.png" group-title="ᴛʀ • DIZI 7/24",BEN BU CIHANA SIĞMAZAM
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/546389
+#EXTINF:-1 tvg-id="" tvg-name="BENI BOYLE SEV" tvg-logo="https://i.ibb.co/cCxv7WF/zyro-image.png" group-title="ᴛʀ • DIZI 7/24",BENI BOYLE SEV
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/546290
+#EXTINF:-1 tvg-id="" tvg-name="BINBIR GECE" tvg-logo="https://i.ibb.co/cCxv7WF/zyro-image.png" group-title="ᴛʀ • DIZI 7/24",BINBIR GECE
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/210323
+#EXTINF:-1 tvg-id="" tvg-name="BENIM GUZEL AILEM" tvg-logo="https://i.ibb.co/cCxv7WF/zyro-image.png" group-title="ᴛʀ • DIZI 7/24",BENIM GUZEL AILEM
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/546422
+#EXTINF:-1 tvg-id="" tvg-name="BIR ANNENIN GUNAHI" tvg-logo="https://i.ibb.co/cCxv7WF/zyro-image.png" group-title="ᴛʀ • DIZI 7/24",BIR ANNENIN GUNAHI
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/546291
+#EXTINF:-1 tvg-id="" tvg-name="BIR KUCUK GUN ISIGI" tvg-logo="https://i.ibb.co/cCxv7WF/zyro-image.png" group-title="ᴛʀ • DIZI 7/24",BIR KUCUK GUN ISIGI
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/546390
+#EXTINF:-1 tvg-id="" tvg-name="BIR PERI MASALI" tvg-logo="https://i.ibb.co/cCxv7WF/zyro-image.png" group-title="ᴛʀ • DIZI 7/24",BIR PERI MASALI
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/546391
+#EXTINF:-1 tvg-id="" tvg-name="BIR ZAMANLAR CUKUROVA" tvg-logo="https://i.ibb.co/cCxv7WF/zyro-image.png" group-title="ᴛʀ • DIZI 7/24",BIR ZAMANLAR CUKUROVA
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/546261
+#EXTINF:-1 tvg-id="" tvg-name="BIR ZAMANLAR KIBRIS" tvg-logo="https://i.ibb.co/cCxv7WF/zyro-image.png" group-title="ᴛʀ • DIZI 7/24",BIR ZAMANLAR KIBRIS
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/546252
+#EXTINF:-1 tvg-id="" tvg-name="BUYUK VURGUN" tvg-logo="https://i.ibb.co/cCxv7WF/zyro-image.png" group-title="ᴛʀ • DIZI 7/24",BUYUK VURGUN
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/546292
+#EXTINF:-1 tvg-id="" tvg-name="BODRUM MASALI" tvg-logo="https://i.ibb.co/cCxv7WF/zyro-image.png" group-title="ᴛʀ • DIZI 7/24",BODRUM MASALI
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/552523
+#EXTINF:-1 tvg-id="" tvg-name="BOZKIR ARSLANI CELALEDDIN" tvg-logo="https://i.ibb.co/cCxv7WF/zyro-image.png" group-title="ᴛʀ • DIZI 7/24",BOZKIR ARSLANI CELALEDDIN
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/546249
+#EXTINF:-1 tvg-id="" tvg-name="CALIKUSU" tvg-logo="https://i.ibb.co/cCxv7WF/zyro-image.png" group-title="ᴛʀ • DIZI 7/24",CALIKUSU
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/219497
+#EXTINF:-1 tvg-id="" tvg-name="CAMDAKI KIZ" tvg-logo="https://i.ibb.co/cCxv7WF/zyro-image.png" group-title="ᴛʀ • DIZI 7/24",CAMDAKI KIZ
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/546404
+#EXTINF:-1 tvg-id="" tvg-name="CATI KATI ASK" tvg-logo="https://i.ibb.co/cCxv7WF/zyro-image.png" group-title="ᴛʀ • DIZI 7/24",CATI KATI ASK
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/546293
+#EXTINF:-1 tvg-id="" tvg-name="CESUR VE GUZEL" tvg-logo="https://i.ibb.co/cCxv7WF/zyro-image.png" group-title="ᴛʀ • DIZI 7/24",CESUR VE GUZEL
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/546377
+#EXTINF:-1 tvg-id="" tvg-name="CUKUR" tvg-logo="https://i.ibb.co/cCxv7WF/zyro-image.png" group-title="ᴛʀ • DIZI 7/24",CUKUR
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/546265
+#EXTINF:-1 tvg-id="" tvg-name="CUMHURIYET" tvg-logo="https://i.ibb.co/cCxv7WF/zyro-image.png" group-title="ᴛʀ • DIZI 7/24",CUMHURIYET
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/546295
+#EXTINF:-1 tvg-id="" tvg-name="CILEK KOKUSU" tvg-logo="https://i.ibb.co/cCxv7WF/zyro-image.png" group-title="ᴛʀ • DIZI 7/24",CILEK KOKUSU
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/546294
+#EXTINF:-1 tvg-id="" tvg-name="CICEK TAKSI" tvg-logo="https://i.ibb.co/cCxv7WF/zyro-image.png" group-title="ᴛʀ • DIZI 7/24",CICEK TAKSI
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/219502
+#EXTINF:-1 tvg-id="" tvg-name="COP ADAM" tvg-logo="https://i.ibb.co/cCxv7WF/zyro-image.png" group-title="ᴛʀ • DIZI 7/24",COP ADAM
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/546392
+#EXTINF:-1 tvg-id="" tvg-name="COCUKLAR DUYMASIN" tvg-logo="https://i.ibb.co/cCxv7WF/zyro-image.png" group-title="ᴛʀ • DIZI 7/24",COCUKLAR DUYMASIN
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/210312
+#EXTINF:-1 tvg-id="" tvg-name="DARMADUMAN" tvg-logo="https://i.ibb.co/cCxv7WF/zyro-image.png" group-title="ᴛʀ • DIZI 7/24",DARMADUMAN
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/546405
+#EXTINF:-1 tvg-id="" tvg-name="DILA HANIM" tvg-logo="https://i.ibb.co/cCxv7WF/zyro-image.png" group-title="ᴛʀ • DIZI 7/24",DILA HANIM
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/546296
+#EXTINF:-1 tvg-id="" tvg-name="DIRILIS ERTUGRUL" tvg-logo="https://i.ibb.co/cCxv7WF/zyro-image.png" group-title="ᴛʀ • DIZI 7/24",DIRILIS ERTUGRUL
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/546340
+#EXTINF:-1 tvg-id="" tvg-name="DOKUZ OGUZ" tvg-logo="https://i.ibb.co/cCxv7WF/zyro-image.png" group-title="ᴛʀ • DIZI 7/24",DOKUZ OGUZ
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/546423
+#EXTINF:-1 tvg-id="" tvg-name="DONENCE" tvg-logo="https://i.ibb.co/cCxv7WF/zyro-image.png" group-title="ᴛʀ • DIZI 7/24",DONENCE
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/546424
+#EXTINF:-1 tvg-id="" tvg-name="DOGDUGUN EV KADERINDIR" tvg-logo="https://i.ibb.co/cCxv7WF/zyro-image.png" group-title="ᴛʀ • DIZI 7/24",DOGDUGUN EV KADERINDIR
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/546256
+#EXTINF:-1 tvg-id="" tvg-name="DIRILIS ERTUGRUL 1. SEZON" tvg-logo="https://i.ibb.co/cCxv7WF/zyro-image.png" group-title="ᴛʀ • DIZI 7/24",DIRILIS ERTUGRUL 1. SEZON
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/210315
+#EXTINF:-1 tvg-id="" tvg-name="DIRILIS ERTUGRUL 2. SEZON" tvg-logo="https://i.ibb.co/cCxv7WF/zyro-image.png" group-title="ᴛʀ • DIZI 7/24",DIRILIS ERTUGRUL 2. SEZON
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/210316
+#EXTINF:-1 tvg-id="" tvg-name="DIRILIS ERTUGRUL 3. SEZON" tvg-logo="https://i.ibb.co/cCxv7WF/zyro-image.png" group-title="ᴛʀ • DIZI 7/24",DIRILIS ERTUGRUL 3. SEZON
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/210317
+#EXTINF:-1 tvg-id="" tvg-name="DIRILIS ERTUGRUL 4. SEZON" tvg-logo="https://i.ibb.co/cCxv7WF/zyro-image.png" group-title="ᴛʀ • DIZI 7/24",DIRILIS ERTUGRUL 4. SEZON
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/210318
+#EXTINF:-1 tvg-id="" tvg-name="DIRILIS ERTUGRUL 5. SEZON" tvg-logo="https://i.ibb.co/cCxv7WF/zyro-image.png" group-title="ᴛʀ • DIZI 7/24",DIRILIS ERTUGRUL 5. SEZON
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/210319
+#EXTINF:-1 tvg-id="" tvg-name="EGO" tvg-logo="https://i.ibb.co/cCxv7WF/zyro-image.png" group-title="ᴛʀ • DIZI 7/24",EGO
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/546426
+#EXTINF:-1 tvg-id="" tvg-name="ERKENCI KUS" tvg-logo="https://i.ibb.co/cCxv7WF/zyro-image.png" group-title="ᴛʀ • DIZI 7/24",ERKENCI KUS
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/546297
+#EXTINF:-1 tvg-id="" tvg-name="ESKIYA DUNYAYA HUKUMDAR OLMAZ" tvg-logo="https://i.ibb.co/cCxv7WF/zyro-image.png" group-title="ᴛʀ • DIZI 7/24",ESKIYA DUNYAYA HUKUMDAR OLMAZ
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/546298
+#EXTINF:-1 tvg-id="" tvg-name="ESREF SAATI" tvg-logo="https://i.ibb.co/cCxv7WF/zyro-image.png" group-title="ᴛʀ • DIZI 7/24",ESREF SAATI
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/546378
+#EXTINF:-1 tvg-id="" tvg-name="EVLILIK HAKKINDA HERSEY" tvg-logo="https://i.ibb.co/cCxv7WF/zyro-image.png" group-title="ᴛʀ • DIZI 7/24",EVLILIK HAKKINDA HERSEY
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/546300
+#EXTINF:-1 tvg-id="" tvg-name="EZEL" tvg-logo="https://i.ibb.co/cCxv7WF/zyro-image.png" group-title="ᴛʀ • DIZI 7/24",EZEL
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/546341
+#EXTINF:-1 tvg-id="" tvg-name="FATMA" tvg-logo="https://i.ibb.co/cCxv7WF/zyro-image.png" group-title="ᴛʀ • DIZI 7/24",FATMA
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/546254
+#EXTINF:-1 tvg-id="" tvg-name="FATMAGULUN SUCU NE" tvg-logo="https://i.ibb.co/cCxv7WF/zyro-image.png" group-title="ᴛʀ • DIZI 7/24",FATMAGULUN SUCU NE
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/546301
+#EXTINF:-1 tvg-id="" tvg-name="GECENIN UCUNDA" tvg-logo="https://i.ibb.co/cCxv7WF/zyro-image.png" group-title="ᴛʀ • DIZI 7/24",GECENIN UCUNDA
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/546407
+#EXTINF:-1 tvg-id="" tvg-name="GEL DESE ASK" tvg-logo="https://i.ibb.co/cCxv7WF/zyro-image.png" group-title="ᴛʀ • DIZI 7/24",GEL DESE ASK
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/546302
+#EXTINF:-1 tvg-id="" tvg-name="GENCLIGIM EYVAH" tvg-logo="https://i.ibb.co/cCxv7WF/zyro-image.png" group-title="ᴛʀ • DIZI 7/24",GENCLIGIM EYVAH
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/546303
+#EXTINF:-1 tvg-id="" tvg-name="GIZLI SAKLI" tvg-logo="https://i.ibb.co/cCxv7WF/zyro-image.png" group-title="ᴛʀ • DIZI 7/24",GIZLI SAKLI
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/546304
+#EXTINF:-1 tvg-id="" tvg-name="GULCEMAL" tvg-logo="https://i.ibb.co/cCxv7WF/zyro-image.png" group-title="ᴛʀ • DIZI 7/24",GULCEMAL
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/546428
+#EXTINF:-1 tvg-id="" tvg-name="GUL MASALİ" tvg-logo="https://i.ibb.co/cCxv7WF/zyro-image.png" group-title="ᴛʀ • DIZI 7/24",GUL MASALİ
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/546305
+#EXTINF:-1 tvg-id="" tvg-name="GULUMSE KADERINE" tvg-logo="https://i.ibb.co/cCxv7WF/zyro-image.png" group-title="ᴛʀ • DIZI 7/24",GULUMSE KADERINE
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/546306
+#EXTINF:-1 tvg-id="" tvg-name="GUNESI BEKLERKEN" tvg-logo="https://i.ibb.co/cCxv7WF/zyro-image.png" group-title="ᴛʀ • DIZI 7/24",GUNESI BEKLERKEN
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/546393
+#EXTINF:-1 tvg-id="" tvg-name="GURBET KADINI" tvg-logo="https://i.ibb.co/cCxv7WF/zyro-image.png" group-title="ᴛʀ • DIZI 7/24",GURBET KADINI
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/546384
+#EXTINF:-1 tvg-id="" tvg-name="GUVERCIN" tvg-logo="https://i.ibb.co/cCxv7WF/zyro-image.png" group-title="ᴛʀ • DIZI 7/24",GUVERCIN
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/546307
+#EXTINF:-1 tvg-id="" tvg-name="GUZEL GUNLER" tvg-logo="https://i.ibb.co/cCxv7WF/zyro-image.png" group-title="ᴛʀ • DIZI 7/24",GUZEL GUNLER
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/546408
+#EXTINF:-1 tvg-id="" tvg-name="GONUL DAGI" tvg-logo="https://i.ibb.co/cCxv7WF/zyro-image.png" group-title="ᴛʀ • DIZI 7/24",GONUL DAGI
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/546427
+#EXTINF:-1 tvg-id="" tvg-name="HAKIM" tvg-logo="https://i.ibb.co/cCxv7WF/zyro-image.png" group-title="ᴛʀ • DIZI 7/24",HAKIM
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/546308
+#EXTINF:-1 tvg-id="" tvg-name="HAYATIMIN NESESİ" tvg-logo="https://i.ibb.co/cCxv7WF/zyro-image.png" group-title="ᴛʀ • DIZI 7/24",HAYATIMIN NESESİ
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/546429
+#EXTINF:-1 tvg-id="" tvg-name="HAYATIMIN SANSI" tvg-logo="https://i.ibb.co/cCxv7WF/zyro-image.png" group-title="ᴛʀ • DIZI 7/24",HAYATIMIN SANSI
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/546434
+#EXTINF:-1 tvg-id="" tvg-name="HEKIMOGLU" tvg-logo="https://i.ibb.co/cCxv7WF/zyro-image.png" group-title="ᴛʀ • DIZI 7/24",HEKIMOGLU
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/546257
+#EXTINF:-1 tvg-id="" tvg-name="HERCAI" tvg-logo="https://i.ibb.co/cCxv7WF/zyro-image.png" group-title="ᴛʀ • DIZI 7/24",HERCAI
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/546342
+#EXTINF:-1 tvg-id="" tvg-name="HIZMETCILER" tvg-logo="https://i.ibb.co/cCxv7WF/zyro-image.png" group-title="ᴛʀ • DIZI 7/24",HIZMETCILER
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/546310
+#EXTINF:-1 tvg-id="" tvg-name="HISSELI HARIKALAR KUMPANYASI" tvg-logo="https://i.ibb.co/cCxv7WF/zyro-image.png" group-title="ᴛʀ • DIZI 7/24",HISSELI HARIKALAR KUMPANYASI
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/546309
+#EXTINF:-1 tvg-id="" tvg-name="MUHTESEM YUZYIL" tvg-logo="https://i.ibb.co/cCxv7WF/zyro-image.png" group-title="ᴛʀ • DIZI 7/24",MUHTESEM YUZYIL
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/222462
+#EXTINF:-1 tvg-id="" tvg-name="MARIA ILE MUSTAFA" tvg-logo="https://i.ibb.co/cCxv7WF/zyro-image.png" group-title="ᴛʀ • DIZI 7/24",MARIA ILE MUSTAFA
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/546258
+#EXTINF:-1 tvg-id="" tvg-name="MASUMLAR APARTMANI" tvg-logo="https://i.ibb.co/cCxv7WF/zyro-image.png" group-title="ᴛʀ • DIZI 7/24",MASUMLAR APARTMANI
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/546263
+#EXTINF:-1 tvg-id="" tvg-name="RAMO" tvg-logo="https://i.ibb.co/cCxv7WF/zyro-image.png" group-title="ᴛʀ • DIZI 7/24",RAMO
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/546266
+#EXTINF:-1 tvg-id="" tvg-name="MENAJERIMI ARA" tvg-logo="https://i.ibb.co/cCxv7WF/zyro-image.png" group-title="ᴛʀ • DIZI 7/24",MENAJERIMI ARA
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/546267
+#EXTINF:-1 tvg-id="" tvg-name="TOVBELER OLSUN" tvg-logo="https://i.ibb.co/cCxv7WF/zyro-image.png" group-title="ᴛʀ • DIZI 7/24",TOVBELER OLSUN
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/546268
+#EXTINF:-1 tvg-id="" tvg-name="SEN CAL KAPIMI" tvg-logo="https://i.ibb.co/cCxv7WF/zyro-image.png" group-title="ᴛʀ • DIZI 7/24",SEN CAL KAPIMI
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/546269
+#EXTINF:-1 tvg-id="" tvg-name="UYANIS BUYUK SELCUKLU" tvg-logo="https://i.ibb.co/cCxv7WF/zyro-image.png" group-title="ᴛʀ • DIZI 7/24",UYANIS BUYUK SELCUKLU
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/546271
+#EXTINF:-1 tvg-id="" tvg-name="TOZKOPARAN" tvg-logo="https://i.ibb.co/cCxv7WF/zyro-image.png" group-title="ᴛʀ • DIZI 7/24",TOZKOPARAN
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/546272
+#EXTINF:-1 tvg-id="" tvg-name="MUCIZE DOKTOR" tvg-logo="https://i.ibb.co/cCxv7WF/zyro-image.png" group-title="ᴛʀ • DIZI 7/24",MUCIZE DOKTOR
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/546273
+#EXTINF:-1 tvg-id="" tvg-name="ICERDE" tvg-logo="https://i.ibb.co/cCxv7WF/zyro-image.png" group-title="ᴛʀ • DIZI 7/24",ICERDE
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/546311
+#EXTINF:-1 tvg-id="" tvg-name="IFFET" tvg-logo="https://i.ibb.co/cCxv7WF/zyro-image.png" group-title="ᴛʀ • DIZI 7/24",IFFET
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/546312
+#EXTINF:-1 tvg-id="" tvg-name="ISIMSIZLER" tvg-logo="https://i.ibb.co/cCxv7WF/zyro-image.png" group-title="ᴛʀ • DIZI 7/24",ISIMSIZLER
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/546313
+#EXTINF:-1 tvg-id="" tvg-name="IYI GUNDE KOTU GUNDE" tvg-logo="https://i.ibb.co/cCxv7WF/zyro-image.png" group-title="ᴛʀ • DIZI 7/24",IYI GUNDE KOTU GUNDE
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/546315
+#EXTINF:-1 tvg-id="" tvg-name="KADIN" tvg-logo="https://i.ibb.co/cCxv7WF/zyro-image.png" group-title="ᴛʀ • DIZI 7/24",KADIN
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/546344
+#EXTINF:-1 tvg-id="" tvg-name="KAFA DOKTORU" tvg-logo="https://i.ibb.co/cCxv7WF/zyro-image.png" group-title="ᴛʀ • DIZI 7/24",KAFA DOKTORU
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/546316
+#EXTINF:-1 tvg-id="" tvg-name="KALK GIDELIM" tvg-logo="https://i.ibb.co/cCxv7WF/zyro-image.png" group-title="ᴛʀ • DIZI 7/24",KALK GIDELIM
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/546345
+#EXTINF:-1 tvg-id="" tvg-name="KALK GIDELIM EVE" tvg-logo="https://i.ibb.co/cCxv7WF/zyro-image.png" group-title="ᴛʀ • DIZI 7/24",KALK GIDELIM EVE
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/546260
+#EXTINF:-1 tvg-id="" tvg-name="KANUNSUZ TOPRAKLAR" tvg-logo="https://i.ibb.co/cCxv7WF/zyro-image.png" group-title="ᴛʀ • DIZI 7/24",KANUNSUZ TOPRAKLAR
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/546317
+#EXTINF:-1 tvg-id="" tvg-name="KAPIMDAKI DEDEKTIF" tvg-logo="https://i.ibb.co/cCxv7WF/zyro-image.png" group-title="ᴛʀ • DIZI 7/24",KAPIMDAKI DEDEKTIF
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/546410
+#EXTINF:-1 tvg-id="" tvg-name="KARA TAHTA" tvg-logo="https://i.ibb.co/cCxv7WF/zyro-image.png" group-title="ᴛʀ • DIZI 7/24",KARA TAHTA
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/546318
+#EXTINF:-1 tvg-id="" tvg-name="KARDESLERIM" tvg-logo="https://i.ibb.co/cCxv7WF/zyro-image.png" group-title="ᴛʀ • DIZI 7/24",KARDESLERIM
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/546435
+#EXTINF:-1 tvg-id="" tvg-name="KARA SEVDA" tvg-logo="https://i.ibb.co/cCxv7WF/zyro-image.png" group-title="ᴛʀ • DIZI 7/24",KARA SEVDA
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/546346
+#EXTINF:-1 tvg-id="" tvg-name="KASABA DOKTORU" tvg-logo="https://i.ibb.co/cCxv7WF/zyro-image.png" group-title="ᴛʀ • DIZI 7/24",KASABA DOKTORU
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/546411
+#EXTINF:-1 tvg-id="" tvg-name="KAVANOZDAKİ ADAM" tvg-logo="https://i.ibb.co/cCxv7WF/zyro-image.png" group-title="ᴛʀ • DIZI 7/24",KAVANOZDAKİ ADAM
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/546320
+#EXTINF:-1 tvg-id="" tvg-name="KEFARET" tvg-logo="https://i.ibb.co/cCxv7WF/zyro-image.png" group-title="ᴛʀ • DIZI 7/24",KEFARET
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/546321
+#EXTINF:-1 tvg-id="" tvg-name="KENDI DUSEN AGLAMAZ" tvg-logo="https://i.ibb.co/cCxv7WF/zyro-image.png" group-title="ᴛʀ • DIZI 7/24",KENDI DUSEN AGLAMAZ
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/546431
+#EXTINF:-1 tvg-id="" tvg-name="KIRALIK ASK" tvg-logo="https://i.ibb.co/cCxv7WF/zyro-image.png" group-title="ᴛʀ • DIZI 7/24",KIRALIK ASK
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/546322
+#EXTINF:-1 tvg-id="" tvg-name="KIRMIZI ODA" tvg-logo="https://i.ibb.co/cCxv7WF/zyro-image.png" group-title="ᴛʀ • DIZI 7/24",KIRMIZI ODA
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/546264
+#EXTINF:-1 tvg-id="" tvg-name="KIRMIZI KAMYON" tvg-logo="https://i.ibb.co/cCxv7WF/zyro-image.png" group-title="ᴛʀ • DIZI 7/24",KIRMIZI KAMYON
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/546347
+#EXTINF:-1 tvg-id="" tvg-name="KISMET" tvg-logo="https://i.ibb.co/cCxv7WF/zyro-image.png" group-title="ᴛʀ • DIZI 7/24",KISMET
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/546430
+#EXTINF:-1 tvg-id="" tvg-name=" KIZILCIK SERBERTI" tvg-logo="https://i.ibb.co/cCxv7WF/zyro-image.png" group-title="ᴛʀ • DIZI 7/24", KIZILCIK SERBERTI
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/546433
+#EXTINF:-1 tvg-id="" tvg-name=" KRALICE" tvg-logo="https://i.ibb.co/cCxv7WF/zyro-image.png" group-title="ᴛʀ • DIZI 7/24", KRALICE
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/546432
+#EXTINF:-1 tvg-id="" tvg-name="KUZEY YILDIZI ILK ASK" tvg-logo="https://i.ibb.co/cCxv7WF/zyro-image.png" group-title="ᴛʀ • DIZI 7/24",KUZEY YILDIZI ILK ASK
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/546262
+#EXTINF:-1 tvg-id="" tvg-name="KUSURSUZ KIRACI" tvg-logo="https://i.ibb.co/cCxv7WF/zyro-image.png" group-title="ᴛʀ • DIZI 7/24",KUSURSUZ KIRACI
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/546324
+#EXTINF:-1 tvg-id="" tvg-name="KUZEY GUNEY" tvg-logo="https://i.ibb.co/cCxv7WF/zyro-image.png" group-title="ᴛʀ • DIZI 7/24",KUZEY GUNEY
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/546348
+#EXTINF:-1 tvg-id="" tvg-name="KUZGUN" tvg-logo="https://i.ibb.co/cCxv7WF/zyro-image.png" group-title="ᴛʀ • DIZI 7/24",KUZGUN
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/546349
+#EXTINF:-1 tvg-id="" tvg-name="KURULUS OSMAN" tvg-logo="https://i.ibb.co/cCxv7WF/zyro-image.png" group-title="ᴛʀ • DIZI 7/24",KURULUS OSMAN
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/546436
+#EXTINF:-1 tvg-id="" tvg-name="KURULUS OSMANCIK" tvg-logo="https://i.ibb.co/cCxv7WF/zyro-image.png" group-title="ᴛʀ • DIZI 7/24",KURULUS OSMANCIK
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/546323
+#EXTINF:-1 tvg-id="" tvg-name="KURTLAR VADISI 1-150 B" tvg-logo="https://i.ibb.co/cCxv7WF/zyro-image.png" group-title="ᴛʀ • DIZI 7/24",KURTLAR VADISI 1-150 B
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/210324
+#EXTINF:-1 tvg-id="" tvg-name="KURTLAR VADISI 151-300 B" tvg-logo="https://i.ibb.co/cCxv7WF/zyro-image.png" group-title="ᴛʀ • DIZI 7/24",KURTLAR VADISI 151-300 B
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/210325
+#EXTINF:-1 tvg-id="" tvg-name="LUKUS HAYAT" tvg-logo="https://i.ibb.co/cCxv7WF/zyro-image.png" group-title="ᴛʀ • DIZI 7/24",LUKUS HAYAT
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/546325
+#EXTINF:-1 tvg-id="" tvg-name="MUHTESEM IKILI" tvg-logo="https://i.ibb.co/cCxv7WF/zyro-image.png" group-title="ᴛʀ • DIZI 7/24",MUHTESEM IKILI
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/546326
+#EXTINF:-1 tvg-id="" tvg-name="MUKEMMEL ESLESME" tvg-logo="https://i.ibb.co/cCxv7WF/zyro-image.png" group-title="ᴛʀ • DIZI 7/24",MUKEMMEL ESLESME
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/546327
+#EXTINF:-1 tvg-id="" tvg-name="OGLUM" tvg-logo="https://i.ibb.co/cCxv7WF/zyro-image.png" group-title="ᴛʀ • DIZI 7/24",OGLUM
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/546328
+#EXTINF:-1 tvg-id="" tvg-name="OGRETMEN" tvg-logo="https://i.ibb.co/cCxv7WF/zyro-image.png" group-title="ᴛʀ • DIZI 7/24",OGRETMEN
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/546329
+#EXTINF:-1 tvg-id="" tvg-name="PARMAK DAMGASI" tvg-logo="https://i.ibb.co/cCxv7WF/zyro-image.png" group-title="ᴛʀ • DIZI 7/24",PARMAK DAMGASI
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/546330
+#EXTINF:-1 tvg-id="" tvg-name="RUZGARIN KALBI" tvg-logo="https://i.ibb.co/cCxv7WF/zyro-image.png" group-title="ᴛʀ • DIZI 7/24",RUZGARIN KALBI
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/546331
+#EXTINF:-1 tvg-id="" tvg-name="SAMPIYON" tvg-logo="https://i.ibb.co/cCxv7WF/zyro-image.png" group-title="ᴛʀ • DIZI 7/24",SAMPIYON
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/546332
+#EXTINF:-1 tvg-id="" tvg-name="SANA SOZ" tvg-logo="https://i.ibb.co/cCxv7WF/zyro-image.png" group-title="ᴛʀ • DIZI 7/24",SANA SOZ
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/546333
+#EXTINF:-1 tvg-id="" tvg-name="SEDDULBAHIR 32.SAAT" tvg-logo="https://i.ibb.co/cCxv7WF/zyro-image.png" group-title="ᴛʀ • DIZI 7/24",SEDDULBAHIR 32.SAAT
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/546334
+#EXTINF:-1 tvg-id="" tvg-name="SENI KENDIME SAKLADIM" tvg-logo="https://i.ibb.co/cCxv7WF/zyro-image.png" group-title="ᴛʀ • DIZI 7/24",SENI KENDIME SAKLADIM
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/546335
+#EXTINF:-1 tvg-id="" tvg-name="SEREF SOZU" tvg-logo="https://i.ibb.co/cCxv7WF/zyro-image.png" group-title="ᴛʀ • DIZI 7/24",SEREF SOZU
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/546336
+#EXTINF:-1 tvg-id="" tvg-name="SEVMEK ZAMANI" tvg-logo="https://i.ibb.co/cCxv7WF/zyro-image.png" group-title="ᴛʀ • DIZI 7/24",SEVMEK ZAMANI
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/546337
+#EXTINF:-1 tvg-id="" tvg-name="SIYAH BEYAZ ASK" tvg-logo="https://i.ibb.co/cCxv7WF/zyro-image.png" group-title="ᴛʀ • DIZI 7/24",SIYAH BEYAZ ASK
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/546338
+#EXTINF:-1 tvg-id="" tvg-name="SON NEFESIME KADAR" tvg-logo="https://i.ibb.co/cCxv7WF/zyro-image.png" group-title="ᴛʀ • DIZI 7/24",SON NEFESIME KADAR
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/546339
+#EXTINF:-1 tvg-id="" tvg-name="ISTANBULLU GELIN" tvg-logo="https://i.ibb.co/cCxv7WF/zyro-image.png" group-title="ᴛʀ • DIZI 7/24",ISTANBULLU GELIN
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/546343
+#EXTINF:-1 tvg-id="" tvg-name="LALE DEVRI" tvg-logo="https://i.ibb.co/cCxv7WF/zyro-image.png" group-title="ᴛʀ • DIZI 7/24",LALE DEVRI
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/546350
+#EXTINF:-1 tvg-id="" tvg-name="MAHKUM" tvg-logo="https://i.ibb.co/cCxv7WF/zyro-image.png" group-title="ᴛʀ • DIZI 7/24",MAHKUM
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/546351
+#EXTINF:-1 tvg-id="" tvg-name="MEDCEZIR" tvg-logo="https://i.ibb.co/cCxv7WF/zyro-image.png" group-title="ᴛʀ • DIZI 7/24",MEDCEZIR
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/546352
+#EXTINF:-1 tvg-id="" tvg-name="MUHTESEM YUZYIL" tvg-logo="https://i.ibb.co/cCxv7WF/zyro-image.png" group-title="ᴛʀ • DIZI 7/24",MUHTESEM YUZYIL
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/546353
+#EXTINF:-1 tvg-id="" tvg-name="MUHTESEM YUZYIL KOSEM" tvg-logo="https://i.ibb.co/cCxv7WF/zyro-image.png" group-title="ᴛʀ • DIZI 7/24",MUHTESEM YUZYIL KOSEM
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/546354
+#EXTINF:-1 tvg-id="" tvg-name="PAPATYAM" tvg-logo="https://i.ibb.co/cCxv7WF/zyro-image.png" group-title="ᴛʀ • DIZI 7/24",PAPATYAM
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/546355
+#EXTINF:-1 tvg-id="" tvg-name="POYRAZ KARAYEL" tvg-logo="https://i.ibb.co/cCxv7WF/zyro-image.png" group-title="ᴛʀ • DIZI 7/24",POYRAZ KARAYEL
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/546356
+#EXTINF:-1 tvg-id="" tvg-name="SADAKATSIZ" tvg-logo="https://i.ibb.co/cCxv7WF/zyro-image.png" group-title="ᴛʀ • DIZI 7/24",SADAKATSIZ
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/546357
+#EXTINF:-1 tvg-id="" tvg-name="SEN ANLAT KARADENIZ" tvg-logo="https://i.ibb.co/cCxv7WF/zyro-image.png" group-title="ᴛʀ • DIZI 7/24",SEN ANLAT KARADENIZ
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/546358
+#EXTINF:-1 tvg-id="" tvg-name="SEVERSIN" tvg-logo="https://i.ibb.co/cCxv7WF/zyro-image.png" group-title="ᴛʀ • DIZI 7/24",SEVERSIN
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/546359
+#EXTINF:-1 tvg-id="" tvg-name="SON YAZ" tvg-logo="https://i.ibb.co/cCxv7WF/zyro-image.png" group-title="ᴛʀ • DIZI 7/24",SON YAZ
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/546360
+#EXTINF:-1 tvg-id="" tvg-name="TURKMEN DUGUNU" tvg-logo="https://i.ibb.co/cCxv7WF/zyro-image.png" group-title="ᴛʀ • DIZI 7/24",TURKMEN DUGUNU
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/546361
+#EXTINF:-1 tvg-id="" tvg-name="TUTUNAMAYANLAR" tvg-logo="https://i.ibb.co/cCxv7WF/zyro-image.png" group-title="ᴛʀ • DIZI 7/24",TUTUNAMAYANLAR
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/546362
+#EXTINF:-1 tvg-id="" tvg-name="UC ISTANBUL" tvg-logo="https://i.ibb.co/cCxv7WF/zyro-image.png" group-title="ᴛʀ • DIZI 7/24",UC ISTANBUL
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/546363
+#EXTINF:-1 tvg-id="" tvg-name="UC KURUS" tvg-logo="https://i.ibb.co/cCxv7WF/zyro-image.png" group-title="ᴛʀ • DIZI 7/24",UC KURUS
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/546364
+#EXTINF:-1 tvg-id="" tvg-name="ULAN ISTANBUL" tvg-logo="https://i.ibb.co/cCxv7WF/zyro-image.png" group-title="ᴛʀ • DIZI 7/24",ULAN ISTANBUL
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/546365
+#EXTINF:-1 tvg-id="" tvg-name="VATANIM SENSİN" tvg-logo="https://i.ibb.co/cCxv7WF/zyro-image.png" group-title="ᴛʀ • DIZI 7/24",VATANIM SENSİN
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/546366
+#EXTINF:-1 tvg-id="" tvg-name="VURGUN" tvg-logo="https://i.ibb.co/cCxv7WF/zyro-image.png" group-title="ᴛʀ • DIZI 7/24",VURGUN
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/546367
+#EXTINF:-1 tvg-id="" tvg-name="YA ISTIKLAL YA OLUM" tvg-logo="https://i.ibb.co/cCxv7WF/zyro-image.png" group-title="ᴛʀ • DIZI 7/24",YA ISTIKLAL YA OLUM
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/546368
+#EXTINF:-1 tvg-id="" tvg-name="YAHSI CAZIBE" tvg-logo="https://i.ibb.co/cCxv7WF/zyro-image.png" group-title="ᴛʀ • DIZI 7/24",YAHSI CAZIBE
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/546369
+#EXTINF:-1 tvg-id="" tvg-name="YENIDEN DOGMAK" tvg-logo="https://i.ibb.co/cCxv7WF/zyro-image.png" group-title="ᴛʀ • DIZI 7/24",YENIDEN DOGMAK
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/546370
+#EXTINF:-1 tvg-id="" tvg-name="YEDITEPE ISTANBUL" tvg-logo="https://i.ibb.co/cCxv7WF/zyro-image.png" group-title="ᴛʀ • DIZI 7/24",YEDITEPE ISTANBUL
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/546371
+#EXTINF:-1 tvg-id="" tvg-name="YENI HAYAT" tvg-logo="https://i.ibb.co/cCxv7WF/zyro-image.png" group-title="ᴛʀ • DIZI 7/24",YENI HAYAT
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/546372
+#EXTINF:-1 tvg-id="" tvg-name="PERIHAN ABLA" tvg-logo="https://i.ibb.co/cCxv7WF/zyro-image.png" group-title="ᴛʀ • DIZI 7/24",PERIHAN ABLA
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/546379
+#EXTINF:-1 tvg-id="" tvg-name="SEVDALUK" tvg-logo="https://i.ibb.co/cCxv7WF/zyro-image.png" group-title="ᴛʀ • DIZI 7/24",SEVDALUK
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/546380
+#EXTINF:-1 tvg-id="" tvg-name="SUBAT" tvg-logo="https://i.ibb.co/cCxv7WF/zyro-image.png" group-title="ᴛʀ • DIZI 7/24",SUBAT
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/546381
+#EXTINF:-1 tvg-id="" tvg-name="ZALIM ISTANBUL" tvg-logo="https://i.ibb.co/cCxv7WF/zyro-image.png" group-title="ᴛʀ • DIZI 7/24",ZALIM ISTANBUL
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/546382
+#EXTINF:-1 tvg-id="" tvg-name="ZUMDURDUANKA" tvg-logo="https://i.ibb.co/cCxv7WF/zyro-image.png" group-title="ᴛʀ • DIZI 7/24",ZUMDURDUANKA
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/546383
+#EXTINF:-1 tvg-id="" tvg-name="LEYLA ILE MECNUN" tvg-logo="https://i.ibb.co/cCxv7WF/zyro-image.png" group-title="ᴛʀ • DIZI 7/24",LEYLA ILE MECNUN
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/546394
+#EXTINF:-1 tvg-id="" tvg-name="SAKARYA FIRAT" tvg-logo="https://i.ibb.co/cCxv7WF/zyro-image.png" group-title="ᴛʀ • DIZI 7/24",SAKARYA FIRAT
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/546395
+#EXTINF:-1 tvg-id="" tvg-name="SEVKAT YERIMDAR" tvg-logo="https://i.ibb.co/cCxv7WF/zyro-image.png" group-title="ᴛʀ • DIZI 7/24",SEVKAT YERIMDAR
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/546396
+#EXTINF:-1 tvg-id="" tvg-name="YABANCI DAMAT" tvg-logo="https://i.ibb.co/cCxv7WF/zyro-image.png" group-title="ᴛʀ • DIZI 7/24",YABANCI DAMAT
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/546397
+#EXTINF:-1 tvg-id="" tvg-name="YAZLIKCILAR" tvg-logo="https://i.ibb.co/cCxv7WF/zyro-image.png" group-title="ᴛʀ • DIZI 7/24",YAZLIKCILAR
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/546398
+#EXTINF:-1 tvg-id="" tvg-name="YESIL DENIZ" tvg-logo="https://i.ibb.co/cCxv7WF/zyro-image.png" group-title="ᴛʀ • DIZI 7/24",YESIL DENIZ
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/546399
+#EXTINF:-1 tvg-id="" tvg-name="YUNUS EMRE" tvg-logo="https://i.ibb.co/cCxv7WF/zyro-image.png" group-title="ᴛʀ • DIZI 7/24",YUNUS EMRE
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/546400
+#EXTINF:-1 tvg-id="" tvg-name="YUZ YILLIK MUHUR GENC KAHRAMANLAR" tvg-logo="https://i.ibb.co/cCxv7WF/zyro-image.png" group-title="ᴛʀ • DIZI 7/24",YUZ YILLIK MUHUR GENC KAHRAMANLAR
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/546401
+#EXTINF:-1 tvg-id="" tvg-name="YUZ YILLIK MUHUR KADIN KAHRAMANLAR" tvg-logo="https://i.ibb.co/cCxv7WF/zyro-image.png" group-title="ᴛʀ • DIZI 7/24",YUZ YILLIK MUHUR KADIN KAHRAMANLAR
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/546402
+#EXTINF:-1 tvg-id="" tvg-name="IYILIK" tvg-logo="https://i.ibb.co/cCxv7WF/zyro-image.png" group-title="ᴛʀ • DIZI 7/24",IYILIK
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/546409
+#EXTINF:-1 tvg-id="" tvg-name="O KIZ" tvg-logo="https://i.ibb.co/cCxv7WF/zyro-image.png" group-title="ᴛʀ • DIZI 7/24",O KIZ
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/546412
+#EXTINF:-1 tvg-id="" tvg-name="TOZLUYAKA" tvg-logo="https://i.ibb.co/cCxv7WF/zyro-image.png" group-title="ᴛʀ • DIZI 7/24",TOZLUYAKA
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/546413
+#EXTINF:-1 tvg-id="" tvg-name="TUZAK" tvg-logo="https://i.ibb.co/cCxv7WF/zyro-image.png" group-title="ᴛʀ • DIZI 7/24",TUZAK
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/546414
+#EXTINF:-1 tvg-id="" tvg-name="UC KIZ KARDES" tvg-logo="https://i.ibb.co/cCxv7WF/zyro-image.png" group-title="ᴛʀ • DIZI 7/24",UC KIZ KARDES
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/546415
+#EXTINF:-1 tvg-id="" tvg-name="YALI CAPKINI" tvg-logo="https://i.ibb.co/cCxv7WF/zyro-image.png" group-title="ᴛʀ • DIZI 7/24",YALI CAPKINI
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/546416
+#EXTINF:-1 tvg-id="" tvg-name="YALNIZ KURT" tvg-logo="https://i.ibb.co/cCxv7WF/zyro-image.png" group-title="ᴛʀ • DIZI 7/24",YALNIZ KURT
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/546417
+#EXTINF:-1 tvg-id="" tvg-name="MAVI SURGUN" tvg-logo="https://i.ibb.co/cCxv7WF/zyro-image.png" group-title="ᴛʀ • DIZI 7/24",MAVI SURGUN
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/546437
+#EXTINF:-1 tvg-id="" tvg-name="OMER" tvg-logo="https://i.ibb.co/cCxv7WF/zyro-image.png" group-title="ᴛʀ • DIZI 7/24",OMER
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/546438
+#EXTINF:-1 tvg-id="" tvg-name="RUHUN DUYMAZ" tvg-logo="https://i.ibb.co/cCxv7WF/zyro-image.png" group-title="ᴛʀ • DIZI 7/24",RUHUN DUYMAZ
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/546439
+#EXTINF:-1 tvg-id="" tvg-name="SIPAHI" tvg-logo="https://i.ibb.co/cCxv7WF/zyro-image.png" group-title="ᴛʀ • DIZI 7/24",SIPAHI
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/546440
+#EXTINF:-1 tvg-id="" tvg-name="TACSIZ PRENSES" tvg-logo="https://i.ibb.co/cCxv7WF/zyro-image.png" group-title="ᴛʀ • DIZI 7/24",TACSIZ PRENSES
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/546441
+#EXTINF:-1 tvg-id="" tvg-name="TESKILAT" tvg-logo="https://i.ibb.co/cCxv7WF/zyro-image.png" group-title="ᴛʀ • DIZI 7/24",TESKILAT
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/546442
+#EXTINF:-1 tvg-id="" tvg-name="TESKILAT SEZON 2" tvg-logo="https://i.ibb.co/cCxv7WF/zyro-image.png" group-title="ᴛʀ • DIZI 7/24",TESKILAT SEZON 2
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/310386
+#EXTINF:-1 tvg-id="" tvg-name="TETIKCININ OGLU" tvg-logo="https://i.ibb.co/cCxv7WF/zyro-image.png" group-title="ᴛʀ • DIZI 7/24",TETIKCININ OGLU
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/546443
+#EXTINF:-1 tvg-id="" tvg-name="UVEY ANNE" tvg-logo="https://i.ibb.co/cCxv7WF/zyro-image.png" group-title="ᴛʀ • DIZI 7/24",UVEY ANNE
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/546444
+#EXTINF:-1 tvg-id="" tvg-name="YA COK SEVERSEN" tvg-logo="https://i.ibb.co/cCxv7WF/zyro-image.png" group-title="ᴛʀ • DIZI 7/24",YA COK SEVERSEN
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/546445
+#EXTINF:-1 tvg-id="" tvg-name="YARGI" tvg-logo="https://i.ibb.co/cCxv7WF/zyro-image.png" group-title="ᴛʀ • DIZI 7/24",YARGI
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/546446
+#EXTINF:-1 tvg-id="" tvg-name="YAZ SARKISI" tvg-logo="https://i.ibb.co/cCxv7WF/zyro-image.png" group-title="ᴛʀ • DIZI 7/24",YAZ SARKISI
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/546447
+#EXTINF:-1 tvg-id="" tvg-name="YUREK CIKMAZI" tvg-logo="https://i.ibb.co/cCxv7WF/zyro-image.png" group-title="ᴛʀ • DIZI 7/24",YUREK CIKMAZI
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/546448
+#EXTINF:-1 tvg-id="" tvg-name="YUZ YILLIK MUCİZE" tvg-logo="https://i.ibb.co/cCxv7WF/zyro-image.png" group-title="ᴛʀ • DIZI 7/24",YUZ YILLIK MUCİZE
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/546449
+#EXTINF:-1 tvg-id="" tvg-name="VEDA MEKTUBU" tvg-logo="https://i.ibb.co/cCxv7WF/zyro-image.png" group-title="ᴛʀ • DIZI 7/24",VEDA MEKTUBU
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/552525
+#EXTINF:-1 tvg-id="" tvg-name="SENDEN DAHA GUZEL" tvg-logo="https://i.ibb.co/cCxv7WF/zyro-image.png" group-title="ᴛʀ • DIZI 7/24",SENDEN DAHA GUZEL
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/552524
+#EXTINF:-1 tvg-id="" tvg-name="SIFIRINCI GUN" tvg-logo="https://i.ibb.co/cCxv7WF/zyro-image.png" group-title="ᴛʀ • DIZI 7/24",SIFIRINCI GUN
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/552522
+#EXTINF:-1 tvg-id="" tvg-name="SEFIRIN KIZI" tvg-logo="https://i.ibb.co/cCxv7WF/zyro-image.png" group-title="ᴛʀ • DIZI 7/24",SEFIRIN KIZI
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/546274
+
+#EXTINF:-1 tvg-id="" tvg-name="FILM 7/24 | YERLİ DRAMA SALON 1" tvg-logo="https://i.ibb.co/wcrK3tM/Drama.png" group-title="ᴛʀ • FILM 7/24",FILM 7/24 | YERLİ DRAMA SALON 1
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/572517
+#EXTINF:-1 tvg-id="" tvg-name="FILM 7/24 | YERLİ DRAMA SALON 2" tvg-logo="https://i.ibb.co/wcrK3tM/Drama.png" group-title="ᴛʀ • FILM 7/24",FILM 7/24 | YERLİ DRAMA SALON 2
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/572518
+#EXTINF:-1 tvg-id="" tvg-name="FILM 7/24 | YERLİ DRAMA SALON 3" tvg-logo="https://i.ibb.co/wcrK3tM/Drama.png" group-title="ᴛʀ • FILM 7/24",FILM 7/24 | YERLİ DRAMA SALON 3
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/572519
+#EXTINF:-1 tvg-id="" tvg-name="FILM 7/24 | YERLİ AKSIYON SALON 1" tvg-logo="https://i.ibb.co/qB0yMtJ/aksiyon.png" group-title="ᴛʀ • FILM 7/24",FILM 7/24 | YERLİ AKSIYON SALON 1
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/572520
+#EXTINF:-1 tvg-id="" tvg-name="FILM 7/24 | YERLİ AKSIYON SALON 2" tvg-logo="https://i.ibb.co/qB0yMtJ/aksiyon.png" group-title="ᴛʀ • FILM 7/24",FILM 7/24 | YERLİ AKSIYON SALON 2
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/572521
+#EXTINF:-1 tvg-id="" tvg-name="FILM 7/24 | YERLİ AKSIYON SALON 3" tvg-logo="https://i.ibb.co/qB0yMtJ/aksiyon.png" group-title="ᴛʀ • FILM 7/24",FILM 7/24 | YERLİ AKSIYON SALON 3
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/572522
+#EXTINF:-1 tvg-id="" tvg-name="FILM 7/24 | YERLİ KOMEDI SALON 1" tvg-logo="https://i.ibb.co/z6ryDpz/aksiyon.png" group-title="ᴛʀ • FILM 7/24",FILM 7/24 | YERLİ KOMEDI SALON 1
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/572523
+#EXTINF:-1 tvg-id="" tvg-name="FILM 7/24 | YERLİ KOMEDI SALON 2" tvg-logo="https://i.ibb.co/z6ryDpz/aksiyon.png" group-title="ᴛʀ • FILM 7/24",FILM 7/24 | YERLİ KOMEDI SALON 2
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/572524
+#EXTINF:-1 tvg-id="" tvg-name="FILM 7/24 | YERLİ KOMEDI SALON 3" tvg-logo="https://i.ibb.co/z6ryDpz/aksiyon.png" group-title="ᴛʀ • FILM 7/24",FILM 7/24 | YERLİ KOMEDI SALON 3
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/572525
+#EXTINF:-1 tvg-id="" tvg-name="FILM 7/24 | YERLİ KOMEDI SALON 4" tvg-logo="https://i.ibb.co/z6ryDpz/aksiyon.png" group-title="ᴛʀ • FILM 7/24",FILM 7/24 | YERLİ KOMEDI SALON 4
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/572526
+#EXTINF:-1 tvg-id="" tvg-name="FILM 7/24 | YERLİ KOMEDI SALON 5" tvg-logo="https://i.ibb.co/z6ryDpz/aksiyon.png" group-title="ᴛʀ • FILM 7/24",FILM 7/24 | YERLİ KOMEDI SALON 5
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/572527
+#EXTINF:-1 tvg-id="" tvg-name="FILM 7/24 | YERLİ KOMEDI SALON 6" tvg-logo="https://i.ibb.co/z6ryDpz/aksiyon.png" group-title="ᴛʀ • FILM 7/24",FILM 7/24 | YERLİ KOMEDI SALON 6
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/572528
+#EXTINF:-1 tvg-id="" tvg-name="FILM 7/24 | YERLİ KORKU SALON 1" tvg-logo="https://i.ibb.co/Pt5pjHX/Korku.png" group-title="ᴛʀ • FILM 7/24",FILM 7/24 | YERLİ KORKU SALON 1
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/572529
+#EXTINF:-1 tvg-id="" tvg-name="FILM 7/24 | YERLİ ROMANTIK SALON 1" tvg-logo="https://i.ibb.co/hs7v0kp/Romantik.png" group-title="ᴛʀ • FILM 7/24",FILM 7/24 | YERLİ ROMANTIK SALON 1
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/572530
+#EXTINF:-1 tvg-id="" tvg-name="FILM 7/24 EFSANE 1" tvg-logo="https://i.imgur.com/cEmCBqt.png" group-title="ᴛʀ • FILM 7/24",FILM 7/24 EFSANE 1
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/283925
+#EXTINF:-1 tvg-id="" tvg-name="FILM 7/24 EFSANE 2 " tvg-logo="https://i.imgur.com/cEmCBqt.png" group-title="ᴛʀ • FILM 7/24",FILM 7/24 EFSANE 2 
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/283926
+#EXTINF:-1 tvg-id="" tvg-name="FILM 7/24 EFSANE 3" tvg-logo="https://i.imgur.com/cEmCBqt.png" group-title="ᴛʀ • FILM 7/24",FILM 7/24 EFSANE 3
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/283927
+#EXTINF:-1 tvg-id="" tvg-name="FILM 7/24 EFSANE 4" tvg-logo="https://i.imgur.com/cEmCBqt.png" group-title="ᴛʀ • FILM 7/24",FILM 7/24 EFSANE 4
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/283928
+#EXTINF:-1 tvg-id="" tvg-name="FILM 7/24 JACKIE CHAN" tvg-logo="https://i.imgur.com/Xi3tXRK.png" group-title="ᴛʀ • FILM 7/24",FILM 7/24 JACKIE CHAN
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/210327
+#EXTINF:-1 tvg-id="" tvg-name="FILM 7/24 JAMES BOND" tvg-logo="https://i.imgur.com/D9mEWRV.png" group-title="ᴛʀ • FILM 7/24",FILM 7/24 JAMES BOND
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/210328
+#EXTINF:-1 tvg-id="" tvg-name="FILM 7/24 TOM CRUISE" tvg-logo="https://i.imgur.com/8Pmy34u.png" group-title="ᴛʀ • FILM 7/24",FILM 7/24 TOM CRUISE
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/210329
+#EXTINF:-1 tvg-id="" tvg-name="FILM 7/24 HOBBIT" tvg-logo="https://i.imgur.com/ix6TnO7.png" group-title="ᴛʀ • FILM 7/24",FILM 7/24 HOBBIT
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/210330
+#EXTINF:-1 tvg-id="" tvg-name="FILM 7/24 ORUMCEK ADAM" tvg-logo="https://i.imgur.com/Uta6CKt.png" group-title="ᴛʀ • FILM 7/24",FILM 7/24 ORUMCEK ADAM
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/210339
+#EXTINF:-1 tvg-id="" tvg-name="FILM 7/24 RECEP IVEDIK" tvg-logo="https://i.imgur.com/o4SL5Th.png" group-title="ᴛʀ • FILM 7/24",FILM 7/24 RECEP IVEDIK
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/210340
+#EXTINF:-1 tvg-id="" tvg-name="★☆★ 7/24 FILMLER ★☆★" tvg-logo="https://www.lyngsat.com/logo/flag/az/tr.png" group-title="ᴛʀ • FILM 7/24",★☆★ 7/24 FILMLER ★☆★
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/194930
+#EXTINF:-1 tvg-id="" tvg-name="7/24 GÖREVİMİZ TEHLİKE" tvg-logo="http://logo.eu01.live:8888/LOGOS/7gun24saatTR.png" group-title="ᴛʀ • FILM 7/24",7/24 GÖREVİMİZ TEHLİKE
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/194942
+#EXTINF:-1 tvg-id="" tvg-name="7/24 INDIANA JONES" tvg-logo="http://logo.eu01.live:8888/LOGOS/7gun24saatTR.png" group-title="ᴛʀ • FILM 7/24",7/24 INDIANA JONES
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/194933
+#EXTINF:-1 tvg-id="" tvg-name="7/24 HELLBOY" tvg-logo="http://logo.eu01.live:8888/LOGOS/7gun24saatTR.png" group-title="ᴛʀ • FILM 7/24",7/24 HELLBOY
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/194941
+#EXTINF:-1 tvg-id="" tvg-name="7/24 BRUCE LEE" tvg-logo="http://logo.eu01.live:8888/LOGOS/7gun24saatTR.png" group-title="ᴛʀ • FILM 7/24",7/24 BRUCE LEE
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/194944
+#EXTINF:-1 tvg-id="" tvg-name="7/24 VAN DAMME" tvg-logo="http://logo.eu01.live:8888/LOGOS/7gun24saatTR.png" group-title="ᴛʀ • FILM 7/24",7/24 VAN DAMME
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/194939
+#EXTINF:-1 tvg-id="" tvg-name="7/24 JOHNNY DEPP" tvg-logo="http://logo.eu01.live:8888/LOGOS/7gun24saatTR.png" group-title="ᴛʀ • FILM 7/24",7/24 JOHNNY DEPP
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/194938
+#EXTINF:-1 tvg-id="" tvg-name="7/24 ATA DEMİRER" tvg-logo="http://logo.eu01.live:8888/LOGOS/7gun24saatTR.png" group-title="ᴛʀ • FILM 7/24",7/24 ATA DEMİRER
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/194936
+#EXTINF:-1 tvg-id="" tvg-name="7/24 007 JAMES BOND" tvg-logo="http://logo.eu01.live:8888/LOGOS/7gun24saatTR.png" group-title="ᴛʀ • FILM 7/24",7/24 007 JAMES BOND
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/194947
+#EXTINF:-1 tvg-id="" tvg-name="7/24 HARRY POTTER" tvg-logo="http://logo.eu01.live:8888/LOGOS/7gun24saatTR.png" group-title="ᴛʀ • FILM 7/24",7/24 HARRY POTTER
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/194948
+#EXTINF:-1 tvg-id="" tvg-name="7/24 ROCKY BALBOA" tvg-logo="http://logo.eu01.live:8888/LOGOS/7gun24saatTR.png" group-title="ᴛʀ • FILM 7/24",7/24 ROCKY BALBOA
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/194949
+#EXTINF:-1 tvg-id="" tvg-name="7/24 RECEP IVEDIK" tvg-logo="http://logo.eu01.live:8888/LOGOS/7gun24saatTR.png" group-title="ᴛʀ • FILM 7/24",7/24 RECEP IVEDIK
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/194950
+#EXTINF:-1 tvg-id="" tvg-name="7/24 ALACAKARANLIK" tvg-logo="http://logo.eu01.live:8888/LOGOS/7gun24saatTR.png" group-title="ᴛʀ • FILM 7/24",7/24 ALACAKARANLIK
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/194951
+#EXTINF:-1 tvg-id="" tvg-name="7/24 OLUMCUL DENEY" tvg-logo="http://logo.eu01.live:8888/LOGOS/7gun24saatTR.png" group-title="ᴛʀ • FILM 7/24",7/24 OLUMCUL DENEY
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/194952
+#EXTINF:-1 tvg-id="" tvg-name="7/24 HOBBIT" tvg-logo="http://logo.eu01.live:8888/LOGOS/7gun24saatTR.png" group-title="ᴛʀ • FILM 7/24",7/24 HOBBIT
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/194953
+#EXTINF:-1 tvg-id="" tvg-name="7/24 SUPERMAN" tvg-logo="http://logo.eu01.live:8888/LOGOS/7gun24saatTR.png" group-title="ᴛʀ • FILM 7/24",7/24 SUPERMAN
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/194954
+#EXTINF:-1 tvg-id="" tvg-name="7/24 ORUMCEK ADAM" tvg-logo="http://logo.eu01.live:8888/LOGOS/7gun24saatTR.png" group-title="ᴛʀ • FILM 7/24",7/24 ORUMCEK ADAM
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/194955
+#EXTINF:-1 tvg-id="" tvg-name="7/24 BATMAN" tvg-logo="http://logo.eu01.live:8888/LOGOS/7gun24saatTR.png" group-title="ᴛʀ • FILM 7/24",7/24 BATMAN
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/194956
+#EXTINF:-1 tvg-id="" tvg-name="7/24 KARAYIP KORSANLARI" tvg-logo="http://logo.eu01.live:8888/LOGOS/7gun24saatTR.png" group-title="ᴛʀ • FILM 7/24",7/24 KARAYIP KORSANLARI
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/194957
+#EXTINF:-1 tvg-id="" tvg-name="7/24 ZOR OLUM" tvg-logo="http://logo.eu01.live:8888/LOGOS/7gun24saatTR.png" group-title="ᴛʀ • FILM 7/24",7/24 ZOR OLUM
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/194958
+#EXTINF:-1 tvg-id="" tvg-name="7/24 SON DURAK" tvg-logo="http://logo.eu01.live:8888/LOGOS/7gun24saatTR.png" group-title="ᴛʀ • FILM 7/24",7/24 SON DURAK
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/194960
+#EXTINF:-1 tvg-id="" tvg-name="7/24 POLİS AKADEMİSİ" tvg-logo="http://logo.eu01.live:8888/LOGOS/7gun24saatTR.png" group-title="ᴛʀ • FILM 7/24",7/24 POLİS AKADEMİSİ
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/194961
+#EXTINF:-1 tvg-id="" tvg-name="7/24 TESTERE " tvg-logo="http://logo.eu01.live:8888/LOGOS/7gun24saatTR.png" group-title="ᴛʀ • FILM 7/24",7/24 TESTERE 
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/194962
+#EXTINF:-1 tvg-id="" tvg-name="7/24 TERMINATOR" tvg-logo="http://logo.eu01.live:8888/LOGOS/7gun24saatTR.png" group-title="ᴛʀ • FILM 7/24",7/24 TERMINATOR
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/194963
+#EXTINF:-1 tvg-id="" tvg-name="7/24 X-MEN" tvg-logo="http://logo.eu01.live:8888/LOGOS/7gun24saatTR.png" group-title="ᴛʀ • FILM 7/24",7/24 X-MEN
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/194964
+#EXTINF:-1 tvg-id="" tvg-name="7/24 13. CUMA" tvg-logo="http://logo.eu01.live:8888/LOGOS/7gun24saatTR.png" group-title="ᴛʀ • FILM 7/24",7/24 13. CUMA
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/194965
+#EXTINF:-1 tvg-id="" tvg-name="7/24 TRANSFORMERS" tvg-logo="http://logo.eu01.live:8888/LOGOS/7gun24saatTR.png" group-title="ᴛʀ • FILM 7/24",7/24 TRANSFORMERS
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/194966
+#EXTINF:-1 tvg-id="" tvg-name="7/24 MUMYA" tvg-logo="http://logo.eu01.live:8888/LOGOS/7gun24saatTR.png" group-title="ᴛʀ • FILM 7/24",7/24 MUMYA
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/194967
+#EXTINF:-1 tvg-id="" tvg-name="7/24 THE BOURNE" tvg-logo="http://logo.eu01.live:8888/LOGOS/7gun24saatTR.png" group-title="ᴛʀ • FILM 7/24",7/24 THE BOURNE
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/194968
+#EXTINF:-1 tvg-id="" tvg-name="7/24 THE MATRIX" tvg-logo="http://logo.eu01.live:8888/LOGOS/7gun24saatTR.png" group-title="ᴛʀ • FILM 7/24",7/24 THE MATRIX
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/194969
+#EXTINF:-1 tvg-id="" tvg-name="7/24 STAR TREK" tvg-logo="http://logo.eu01.live:8888/LOGOS/7gun24saatTR.png" group-title="ᴛʀ • FILM 7/24",7/24 STAR TREK
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/194970
+#EXTINF:-1 tvg-id="" tvg-name="7/24 MAYMUNLAR CEHENEMI" tvg-logo="http://logo.eu01.live:8888/LOGOS/7gun24saatTR.png" group-title="ᴛʀ • FILM 7/24",7/24 MAYMUNLAR CEHENEMI
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/194971
+#EXTINF:-1 tvg-id="" tvg-name="7/24 ALIEN VS PREDATOR" tvg-logo="http://logo.eu01.live:8888/LOGOS/7gun24saatTR.png" group-title="ᴛʀ • FILM 7/24",7/24 ALIEN VS PREDATOR
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/194972
+#EXTINF:-1 tvg-id="" tvg-name="7/24 RAMBO" tvg-logo="http://logo.eu01.live:8888/LOGOS/7gun24saatTR.png" group-title="ᴛʀ • FILM 7/24",7/24 RAMBO
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/194973
+#EXTINF:-1 tvg-id="" tvg-name="7/24 MASKELI BESLER" tvg-logo="http://logo.eu01.live:8888/LOGOS/7gun24saatTR.png" group-title="ᴛʀ • FILM 7/24",7/24 MASKELI BESLER
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/194974
+#EXTINF:-1 tvg-id="" tvg-name="7/24 KARANLIKLAR ULKESI" tvg-logo="http://logo.eu01.live:8888/LOGOS/7gun24saatTR.png" group-title="ᴛʀ • FILM 7/24",7/24 KARANLIKLAR ULKESI
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/194976
+#EXTINF:-1 tvg-id="" tvg-name="7/24 IP-MAN" tvg-logo="http://logo.eu01.live:8888/LOGOS/7gun24saatTR.png" group-title="ᴛʀ • FILM 7/24",7/24 IP-MAN
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/194977
+#EXTINF:-1 tvg-id="" tvg-name="7/24 KORKU" tvg-logo="http://logo.eu01.live:8888/LOGOS/7gun24saatTR.png" group-title="ᴛʀ • FILM 7/24",7/24 KORKU
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/281690
+#EXTINF:-1 tvg-id="" tvg-name="7/24 ROCKY" tvg-logo="http://logo.eu01.live:8888/LOGOS/7gun24saatTR.png" group-title="ᴛʀ • FILM 7/24",7/24 ROCKY
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/281696
+
+#EXTINF:-1 tvg-id="" tvg-name="★☆★ EXXEN | NETFLIX | BLUTV ★☆★" tvg-logo="https://www.lyngsat.com/logo/flag/az/tr.png" group-title="ᴛʀ • EXXEN | NETFLIX | BLUTV",★☆★ EXXEN | NETFLIX | BLUTV ★☆★
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/94870
+#EXTINF:-1 tvg-id="" tvg-name="TR NETFLİX 7/24 | BLACK MIRROR" tvg-logo="https://i.ibb.co/G9RVbFF/logoxc.png" group-title="ᴛʀ • EXXEN | NETFLIX | BLUTV",TR NETFLİX 7/24 | BLACK MIRROR
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/701514
+#EXTINF:-1 tvg-id="" tvg-name="TR NETFLİX 7/24 | DARK" tvg-logo="https://i.ibb.co/G9RVbFF/logoxc.png" group-title="ᴛʀ • EXXEN | NETFLIX | BLUTV",TR NETFLİX 7/24 | DARK
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/701513
+#EXTINF:-1 tvg-id="" tvg-name="TR NETFLİX 7/24 | GEZEGENIMIZ" tvg-logo="https://i.ibb.co/G9RVbFF/logoxc.png" group-title="ᴛʀ • EXXEN | NETFLIX | BLUTV",TR NETFLİX 7/24 | GEZEGENIMIZ
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/701512
+#EXTINF:-1 tvg-id="" tvg-name="TR NETFLİX 7/24 | NARCOS" tvg-logo="https://i.ibb.co/G9RVbFF/logoxc.png" group-title="ᴛʀ • EXXEN | NETFLIX | BLUTV",TR NETFLİX 7/24 | NARCOS
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/701511
+#EXTINF:-1 tvg-id="" tvg-name="TR NETFLİX 7/24 | PEAKY BLINDERS" tvg-logo="https://i.ibb.co/G9RVbFF/logoxc.png" group-title="ᴛʀ • EXXEN | NETFLIX | BLUTV",TR NETFLİX 7/24 | PEAKY BLINDERS
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/701510
+#EXTINF:-1 tvg-id="" tvg-name="TR NETFLİX 7/24 | SON DANS" tvg-logo="https://i.ibb.co/G9RVbFF/logoxc.png" group-title="ᴛʀ • EXXEN | NETFLIX | BLUTV",TR NETFLİX 7/24 | SON DANS
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/701509
+#EXTINF:-1 tvg-id="" tvg-name="TR NETFLİX 7/24 | SQUID GAME" tvg-logo="https://i.ibb.co/G9RVbFF/logoxc.png" group-title="ᴛʀ • EXXEN | NETFLIX | BLUTV",TR NETFLİX 7/24 | SQUID GAME
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/701508
+#EXTINF:-1 tvg-id="" tvg-name="TR NETFLİX 7/24 | STRANGER THINGS" tvg-logo="https://i.ibb.co/G9RVbFF/logoxc.png" group-title="ᴛʀ • EXXEN | NETFLIX | BLUTV",TR NETFLİX 7/24 | STRANGER THINGS
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/701507
+#EXTINF:-1 tvg-id="" tvg-name="TR NETFLİX 7/24 | VEZIR GAMBITI" tvg-logo="https://i.ibb.co/G9RVbFF/logoxc.png" group-title="ᴛʀ • EXXEN | NETFLIX | BLUTV",TR NETFLİX 7/24 | VEZIR GAMBITI
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/701506
+#EXTINF:-1 tvg-id="" tvg-name="TR BLUTV 7/24 | 40" tvg-logo="https://r.resimlink.com/HU-wpJaT.png" group-title="ᴛʀ • EXXEN | NETFLIX | BLUTV",TR BLUTV 7/24 | 40
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/625148
+#EXTINF:-1 tvg-id="" tvg-name="TR BLUTV 7/24 | 7 YUZ" tvg-logo="https://r.resimlink.com/HU-wpJaT.png" group-title="ᴛʀ • EXXEN | NETFLIX | BLUTV",TR BLUTV 7/24 | 7 YUZ
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/625147
+#EXTINF:-1 tvg-id="" tvg-name="TR BLUTV 7/24 | ACANS" tvg-logo="https://r.resimlink.com/HU-wpJaT.png" group-title="ᴛʀ • EXXEN | NETFLIX | BLUTV",TR BLUTV 7/24 | ACANS
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/625146
+#EXTINF:-1 tvg-id="" tvg-name="TR BLUTV 7/24 | ALEF" tvg-logo="https://r.resimlink.com/HU-wpJaT.png" group-title="ᴛʀ • EXXEN | NETFLIX | BLUTV",TR BLUTV 7/24 | ALEF
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/625145
+#EXTINF:-1 tvg-id="" tvg-name="TR BLUTV 7/24 | AYNEN AYNEN" tvg-logo="https://r.resimlink.com/HU-wpJaT.png" group-title="ᴛʀ • EXXEN | NETFLIX | BLUTV",TR BLUTV 7/24 | AYNEN AYNEN
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/625144
+#EXTINF:-1 tvg-id="" tvg-name="TR BLUTV 7/24 | BAD BANKS" tvg-logo="https://r.resimlink.com/HU-wpJaT.png" group-title="ᴛʀ • EXXEN | NETFLIX | BLUTV",TR BLUTV 7/24 | BAD BANKS
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/625143
+#EXTINF:-1 tvg-id="" tvg-name="TR BLUTV 7/24 | BARTU BEN" tvg-logo="https://r.resimlink.com/HU-wpJaT.png" group-title="ᴛʀ • EXXEN | NETFLIX | BLUTV",TR BLUTV 7/24 | BARTU BEN
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/625142
+#EXTINF:-1 tvg-id="" tvg-name="TR BLUTV 7/24 | BIZE GEZMEK OLSUN" tvg-logo="https://r.resimlink.com/HU-wpJaT.png" group-title="ᴛʀ • EXXEN | NETFLIX | BLUTV",TR BLUTV 7/24 | BIZE GEZMEK OLSUN
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/625141
+#EXTINF:-1 tvg-id="" tvg-name="TR BLUTV 7/24 | BLACK SPACE" tvg-logo="https://r.resimlink.com/HU-wpJaT.png" group-title="ᴛʀ • EXXEN | NETFLIX | BLUTV",TR BLUTV 7/24 | BLACK SPACE
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/625140
+#EXTINF:-1 tvg-id="" tvg-name="TR BLUTV 7/24 | BONKIS" tvg-logo="https://r.resimlink.com/HU-wpJaT.png" group-title="ᴛʀ • EXXEN | NETFLIX | BLUTV",TR BLUTV 7/24 | BONKIS
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/625139
+#EXTINF:-1 tvg-id="" tvg-name="TR BLUTV 7/24 | BOOM IBRAHIM SELIM" tvg-logo="https://r.resimlink.com/HU-wpJaT.png" group-title="ᴛʀ • EXXEN | NETFLIX | BLUTV",TR BLUTV 7/24 | BOOM IBRAHIM SELIM
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/625138
+#EXTINF:-1 tvg-id="" tvg-name="TR BLUTV 7/24 | BUILDING OFF THE GRID" tvg-logo="https://r.resimlink.com/HU-wpJaT.png" group-title="ᴛʀ • EXXEN | NETFLIX | BLUTV",TR BLUTV 7/24 | BUILDING OFF THE GRID
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/625137
+#EXTINF:-1 tvg-id="" tvg-name="TR BLUTV 7/24 | BUNU BIR DUSUNUN" tvg-logo="https://r.resimlink.com/HU-wpJaT.png" group-title="ᴛʀ • EXXEN | NETFLIX | BLUTV",TR BLUTV 7/24 | BUNU BIR DUSUNUN
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/625136
+#EXTINF:-1 tvg-id="" tvg-name="TR BLUTV 7/24 | BUYUK TIKINMA" tvg-logo="https://r.resimlink.com/HU-wpJaT.png" group-title="ᴛʀ • EXXEN | NETFLIX | BLUTV",TR BLUTV 7/24 | BUYUK TIKINMA
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/625135
+#EXTINF:-1 tvg-id="" tvg-name="TR BLUTV 7/24 | BORU 2039" tvg-logo="https://r.resimlink.com/HU-wpJaT.png" group-title="ᴛʀ • EXXEN | NETFLIX | BLUTV",TR BLUTV 7/24 | BORU 2039
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/625134
+#EXTINF:-1 tvg-id="" tvg-name="TR BLUTV 7/24 | CIMEN TALKSHOW" tvg-logo="https://r.resimlink.com/HU-wpJaT.png" group-title="ᴛʀ • EXXEN | NETFLIX | BLUTV",TR BLUTV 7/24 | CIMEN TALKSHOW
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/625133
+#EXTINF:-1 tvg-id="" tvg-name="TR BLUTV 7/24 | CONVERSATIONS WITH FREIENDS" tvg-logo="https://r.resimlink.com/HU-wpJaT.png" group-title="ᴛʀ • EXXEN | NETFLIX | BLUTV",TR BLUTV 7/24 | CONVERSATIONS WITH FREIENDS
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/625132
+#EXTINF:-1 tvg-id="" tvg-name="TR BLUTV 7/24 | COYOTE PETERSON BRAVE THE WILD" tvg-logo="https://r.resimlink.com/HU-wpJaT.png" group-title="ᴛʀ • EXXEN | NETFLIX | BLUTV",TR BLUTV 7/24 | COYOTE PETERSON BRAVE THE WILD
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/625131
+#EXTINF:-1 tvg-id="" tvg-name="TR BLUTV 7/24 | DOGU" tvg-logo="https://r.resimlink.com/HU-wpJaT.png" group-title="ᴛʀ • EXXEN | NETFLIX | BLUTV",TR BLUTV 7/24 | DOGU
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/625130
+#EXTINF:-1 tvg-id="" tvg-name="TR BLUTV 7/24 | DUN DUNDUR" tvg-logo="https://r.resimlink.com/HU-wpJaT.png" group-title="ᴛʀ • EXXEN | NETFLIX | BLUTV",TR BLUTV 7/24 | DUN DUNDUR
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/625129
+#EXTINF:-1 tvg-id="" tvg-name="TR BLUTV 7/24 | ED STAFFORD FIRST MAN OUT" tvg-logo="https://r.resimlink.com/HU-wpJaT.png" group-title="ᴛʀ • EXXEN | NETFLIX | BLUTV",TR BLUTV 7/24 | ED STAFFORD FIRST MAN OUT
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/625128
+#EXTINF:-1 tvg-id="" tvg-name="TR BLUTV 7/24 | ED STAFFORDLA KURTULUS OYKULERI" tvg-logo="https://r.resimlink.com/HU-wpJaT.png" group-title="ᴛʀ • EXXEN | NETFLIX | BLUTV",TR BLUTV 7/24 | ED STAFFORDLA KURTULUS OYKULERI
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/625127
+#EXTINF:-1 tvg-id="" tvg-name="TR BLUTV 7/24 | EVEREST RESCUE" tvg-logo="https://r.resimlink.com/HU-wpJaT.png" group-title="ᴛʀ • EXXEN | NETFLIX | BLUTV",TR BLUTV 7/24 | EVEREST RESCUE
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/625126
+#EXTINF:-1 tvg-id="" tvg-name="TR BLUTV 7/24 | FI" tvg-logo="https://r.resimlink.com/HU-wpJaT.png" group-title="ᴛʀ • EXXEN | NETFLIX | BLUTV",TR BLUTV 7/24 | FI
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/625125
+#EXTINF:-1 tvg-id="" tvg-name="TR BLUTV 7/24 | HIC" tvg-logo="https://r.resimlink.com/HU-wpJaT.png" group-title="ᴛʀ • EXXEN | NETFLIX | BLUTV",TR BLUTV 7/24 | HIC
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/625124
+#EXTINF:-1 tvg-id="" tvg-name="TR BLUTV 7/24 | HOFFMAN FAMILY GOLD" tvg-logo="https://r.resimlink.com/HU-wpJaT.png" group-title="ᴛʀ • EXXEN | NETFLIX | BLUTV",TR BLUTV 7/24 | HOFFMAN FAMILY GOLD
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/625123
+#EXTINF:-1 tvg-id="" tvg-name="TR BLUTV 7/24 | ILK VE SON" tvg-logo="https://r.resimlink.com/HU-wpJaT.png" group-title="ᴛʀ • EXXEN | NETFLIX | BLUTV",TR BLUTV 7/24 | ILK VE SON
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/625122
+#EXTINF:-1 tvg-id="" tvg-name="TR BLUTV 7/24 | IN SEARCH OF MONSTERS" tvg-logo="https://r.resimlink.com/HU-wpJaT.png" group-title="ᴛʀ • EXXEN | NETFLIX | BLUTV",TR BLUTV 7/24 | IN SEARCH OF MONSTERS
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/625121
+#EXTINF:-1 tvg-id="" tvg-name="TR BLUTV 7/24 | INFINITI" tvg-logo="https://r.resimlink.com/HU-wpJaT.png" group-title="ᴛʀ • EXXEN | NETFLIX | BLUTV",TR BLUTV 7/24 | INFINITI
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/625120
+#EXTINF:-1 tvg-id="" tvg-name="TR BLUTV 7/24 | KAKAO VE SUT" tvg-logo="https://r.resimlink.com/HU-wpJaT.png" group-title="ᴛʀ • EXXEN | NETFLIX | BLUTV",TR BLUTV 7/24 | KAKAO VE SUT
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/625119
+#EXTINF:-1 tvg-id="" tvg-name="TR BLUTV 7/24 | KARSUNUN ODASI" tvg-logo="https://r.resimlink.com/HU-wpJaT.png" group-title="ᴛʀ • EXXEN | NETFLIX | BLUTV",TR BLUTV 7/24 | KARSUNUN ODASI
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/625118
+#EXTINF:-1 tvg-id="" tvg-name="TR BLUTV 7/24 | KILLING EVE" tvg-logo="https://r.resimlink.com/HU-wpJaT.png" group-title="ᴛʀ • EXXEN | NETFLIX | BLUTV",TR BLUTV 7/24 | KILLING EVE
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/625117
+#EXTINF:-1 tvg-id="" tvg-name="TR BLUTV 7/24 | KUTU" tvg-logo="https://r.resimlink.com/HU-wpJaT.png" group-title="ᴛʀ • EXXEN | NETFLIX | BLUTV",TR BLUTV 7/24 | KUTU
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/625116
+#EXTINF:-1 tvg-id="" tvg-name="TR BLUTV 7/24 | KIYMA" tvg-logo="https://r.resimlink.com/HU-wpJaT.png" group-title="ᴛʀ • EXXEN | NETFLIX | BLUTV",TR BLUTV 7/24 | KIYMA
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/625115
+#EXTINF:-1 tvg-id="" tvg-name="TR BLUTV 7/24 | LA JAURIA" tvg-logo="https://r.resimlink.com/HU-wpJaT.png" group-title="ᴛʀ • EXXEN | NETFLIX | BLUTV",TR BLUTV 7/24 | LA JAURIA
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/625114
+#EXTINF:-1 tvg-id="" tvg-name="TR BLUTV 7/24 | MAGARSUS" tvg-logo="https://r.resimlink.com/HU-wpJaT.png" group-title="ᴛʀ • EXXEN | NETFLIX | BLUTV",TR BLUTV 7/24 | MAGARSUS
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/625113
+#EXTINF:-1 tvg-id="" tvg-name="TR BLUTV 7/24 | MASAL SATOSU PERI HIRSIZI" tvg-logo="https://r.resimlink.com/HU-wpJaT.png" group-title="ᴛʀ • EXXEN | NETFLIX | BLUTV",TR BLUTV 7/24 | MASAL SATOSU PERI HIRSIZI
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/625112
+#EXTINF:-1 tvg-id="" tvg-name="TR BLUTV 7/24 | MASUM" tvg-logo="https://r.resimlink.com/HU-wpJaT.png" group-title="ᴛʀ • EXXEN | NETFLIX | BLUTV",TR BLUTV 7/24 | MASUM
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/625111
+#EXTINF:-1 tvg-id="" tvg-name="TR BLUTV 7/24 | MEAN GIRL MURDERS" tvg-logo="https://r.resimlink.com/HU-wpJaT.png" group-title="ᴛʀ • EXXEN | NETFLIX | BLUTV",TR BLUTV 7/24 | MEAN GIRL MURDERS
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/625110
+#EXTINF:-1 tvg-id="" tvg-name="TR BLUTV 7/24 | NON MI LASCIEARE" tvg-logo="https://r.resimlink.com/HU-wpJaT.png" group-title="ᴛʀ • EXXEN | NETFLIX | BLUTV",TR BLUTV 7/24 | NON MI LASCIEARE
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/625109
+#EXTINF:-1 tvg-id="" tvg-name="TR BLUTV 7/24 | NORMAL PEOPLE" tvg-logo="https://r.resimlink.com/HU-wpJaT.png" group-title="ᴛʀ • EXXEN | NETFLIX | BLUTV",TR BLUTV 7/24 | NORMAL PEOPLE
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/625108
+#EXTINF:-1 tvg-id="" tvg-name="TR BLUTV 7/24 | PAVYON" tvg-logo="https://r.resimlink.com/HU-wpJaT.png" group-title="ᴛʀ • EXXEN | NETFLIX | BLUTV",TR BLUTV 7/24 | PAVYON
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/625107
+#EXTINF:-1 tvg-id="" tvg-name="TR BLUTV 7/24 | PODACTO" tvg-logo="https://r.resimlink.com/HU-wpJaT.png" group-title="ᴛʀ • EXXEN | NETFLIX | BLUTV",TR BLUTV 7/24 | PODACTO
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/625106
+#EXTINF:-1 tvg-id="" tvg-name="TR BLUTV 7/24 | PRENS" tvg-logo="https://r.resimlink.com/HU-wpJaT.png" group-title="ᴛʀ • EXXEN | NETFLIX | BLUTV",TR BLUTV 7/24 | PRENS
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/625105
+#EXTINF:-1 tvg-id="" tvg-name="TR BLUTV 7/24 | RAILROAD ALASKA" tvg-logo="https://r.resimlink.com/HU-wpJaT.png" group-title="ᴛʀ • EXXEN | NETFLIX | BLUTV",TR BLUTV 7/24 | RAILROAD ALASKA
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/625104
+#EXTINF:-1 tvg-id="" tvg-name="TR BLUTV 7/24 | RAMY" tvg-logo="https://r.resimlink.com/HU-wpJaT.png" group-title="ᴛʀ • EXXEN | NETFLIX | BLUTV",TR BLUTV 7/24 | RAMY
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/625103
+#EXTINF:-1 tvg-id="" tvg-name="TR BLUTV 7/24 | SAHIPLI" tvg-logo="https://r.resimlink.com/HU-wpJaT.png" group-title="ᴛʀ • EXXEN | NETFLIX | BLUTV",TR BLUTV 7/24 | SAHIPLI
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/625102
+#EXTINF:-1 tvg-id="" tvg-name="TR BLUTV 7/24 | SAKLI" tvg-logo="https://r.resimlink.com/HU-wpJaT.png" group-title="ᴛʀ • EXXEN | NETFLIX | BLUTV",TR BLUTV 7/24 | SAKLI
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/625101
+#EXTINF:-1 tvg-id="" tvg-name="TR BLUTV 7/24 | SAYGI" tvg-logo="https://r.resimlink.com/HU-wpJaT.png" group-title="ᴛʀ • EXXEN | NETFLIX | BLUTV",TR BLUTV 7/24 | SAYGI
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/625100
+#EXTINF:-1 tvg-id="" tvg-name="TR BLUTV 7/24 | SEN BEN O" tvg-logo="https://r.resimlink.com/HU-wpJaT.png" group-title="ᴛʀ • EXXEN | NETFLIX | BLUTV",TR BLUTV 7/24 | SEN BEN O
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/625099
+#EXTINF:-1 tvg-id="" tvg-name="TR BLUTV 7/24 | SENORITA 89" tvg-logo="https://r.resimlink.com/HU-wpJaT.png" group-title="ᴛʀ • EXXEN | NETFLIX | BLUTV",TR BLUTV 7/24 | SENORITA 89
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/625098
+#EXTINF:-1 tvg-id="" tvg-name="TR BLUTV 7/24 | SEYYAR" tvg-logo="https://r.resimlink.com/HU-wpJaT.png" group-title="ᴛʀ • EXXEN | NETFLIX | BLUTV",TR BLUTV 7/24 | SEYYAR
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/625097
+#EXTINF:-1 tvg-id="" tvg-name="TR BLUTV 7/24 | SIFIR BIR ADANA" tvg-logo="https://r.resimlink.com/HU-wpJaT.png" group-title="ᴛʀ • EXXEN | NETFLIX | BLUTV",TR BLUTV 7/24 | SIFIR BIR ADANA
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/625096
+#EXTINF:-1 tvg-id="" tvg-name="TR BLUTV 7/24 | SOKAGIN COCUKLARI" tvg-logo="https://r.resimlink.com/HU-wpJaT.png" group-title="ᴛʀ • EXXEN | NETFLIX | BLUTV",TR BLUTV 7/24 | SOKAGIN COCUKLARI
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/625095
+#EXTINF:-1 tvg-id="" tvg-name="TR BLUTV 7/24 | THE HANDMAID S.TALE" tvg-logo="https://r.resimlink.com/HU-wpJaT.png" group-title="ᴛʀ • EXXEN | NETFLIX | BLUTV",TR BLUTV 7/24 | THE HANDMAID S.TALE
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/625094
+#EXTINF:-1 tvg-id="" tvg-name="TR BLUTV 7/24 | THREE MEN FOUR WHEELS" tvg-logo="https://r.resimlink.com/HU-wpJaT.png" group-title="ᴛʀ • EXXEN | NETFLIX | BLUTV",TR BLUTV 7/24 | THREE MEN FOUR WHEELS
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/625093
+#EXTINF:-1 tvg-id="" tvg-name="TR BLUTV 7/24 | YALNIZIM MESUT BEY" tvg-logo="https://r.resimlink.com/HU-wpJaT.png" group-title="ᴛʀ • EXXEN | NETFLIX | BLUTV",TR BLUTV 7/24 | YALNIZIM MESUT BEY
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/625092
+#EXTINF:-1 tvg-id="" tvg-name="TR BLUTV 7/24 | YESILCAM" tvg-logo="https://r.resimlink.com/HU-wpJaT.png" group-title="ᴛʀ • EXXEN | NETFLIX | BLUTV",TR BLUTV 7/24 | YESILCAM
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/625091
+#EXTINF:-1 tvg-id="" tvg-name="TR BLUTV 7/24 | ZERO ZERO ZERO" tvg-logo="https://r.resimlink.com/HU-wpJaT.png" group-title="ᴛʀ • EXXEN | NETFLIX | BLUTV",TR BLUTV 7/24 | ZERO ZERO ZERO
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/625090
+#EXTINF:-1 tvg-id="" tvg-name="DOGU DEMIRKOL ILE ALALADE SHOW" tvg-logo="https://i.ibb.co/cCxv7WF/zyro-image.png" group-title="ᴛʀ • EXXEN | NETFLIX | BLUTV",DOGU DEMIRKOL ILE ALALADE SHOW
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/546406
+#EXTINF:-1 tvg-id="" tvg-name="DIZI 24/7 VIKINGLER" tvg-logo="https://i.imgur.com/7ZLyzlC.png" group-title="ᴛʀ • EXXEN | NETFLIX | BLUTV",DIZI 24/7 VIKINGLER
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/210299
+#EXTINF:-1 tvg-id="" tvg-name="DIZI 24/7 GAME OF THRONES" tvg-logo="https://i.imgur.com/KJg7uMq.png" group-title="ᴛʀ • EXXEN | NETFLIX | BLUTV",DIZI 24/7 GAME OF THRONES
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/210300
+#EXTINF:-1 tvg-id="" tvg-name="CHICAGO P.D." tvg-logo="https://i.imgur.com/cmDAShJ.png" group-title="ᴛʀ • EXXEN | NETFLIX | BLUTV",CHICAGO P.D.
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/220029
+#EXTINF:-1 tvg-id="" tvg-name="DIZI 24/7 THE PROTECTOR [HAKAN MUHAFIZ]" tvg-logo="https://i.imgur.com/OEU41Qh.png" group-title="ᴛʀ • EXXEN | NETFLIX | BLUTV",DIZI 24/7 THE PROTECTOR [HAKAN MUHAFIZ]
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/210302
+#EXTINF:-1 tvg-id="" tvg-name="DIZI 24/7 TOLGSHOW FILTRESIZ [EXXEN]" tvg-logo="https://i.imgur.com/JXbpHu3.png" group-title="ᴛʀ • EXXEN | NETFLIX | BLUTV",DIZI 24/7 TOLGSHOW FILTRESIZ [EXXEN]
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/210303
+#EXTINF:-1 tvg-id="" tvg-name="DIZI 24/7 KONUSANLAR" tvg-logo="https://i.imgur.com/xtV5kdX.png" group-title="ᴛʀ • EXXEN | NETFLIX | BLUTV",DIZI 24/7 KONUSANLAR
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/219500
+#EXTINF:-1 tvg-id="" tvg-name="DIZI 24/7 KONUSANLAR YOU TUBE" tvg-logo="https://i.imgur.com/M8yEnu2.png" group-title="ᴛʀ • EXXEN | NETFLIX | BLUTV",DIZI 24/7 KONUSANLAR YOU TUBE
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/211724
+#EXTINF:-1 tvg-id="" tvg-name="DIZI 24/7 BEHZAT C" tvg-logo="https://i.imgur.com/nfvQEM5.png" group-title="ᴛʀ • EXXEN | NETFLIX | BLUTV",DIZI 24/7 BEHZAT C
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/210306
+
+#EXTINF:-1 tvg-id="" tvg-name="★☆★ YEŞİLÇAM ★☆★" tvg-logo="https://www.lyngsat.com/logo/flag/az/tr.png" group-title="ᴛʀ • YESILCAM",★☆★ YEŞİLÇAM ★☆★
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/133801
+#EXTINF:-1 tvg-id="" tvg-name="TARIK AKAN" tvg-logo="https://www.tvlogolar.xyz/logo/Ozel/Tarik.Akan.png" group-title="ᴛʀ • YESILCAM",TARIK AKAN
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/672076
+#EXTINF:-1 tvg-id="" tvg-name="KARTAL TİBET" tvg-logo="https://www.tvlogolar.xyz/logo/Ozel/kartal.tibet.png" group-title="ᴛʀ • YESILCAM",KARTAL TİBET
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/672075
+#EXTINF:-1 tvg-id="" tvg-name="KÜÇÜK EMRAH" tvg-logo="https://www.tvlogolar.xyz/logo/Ozel/KUCUK.EMRAH.png" group-title="ᴛʀ • YESILCAM",KÜÇÜK EMRAH
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/672074
+#EXTINF:-1 tvg-id="" tvg-name="TÜRKAN ŞORAY 1" tvg-logo="https://www.tvlogolar.xyz/logo/Ozel/Turkan.Soray.png" group-title="ᴛʀ • YESILCAM",TÜRKAN ŞORAY 1
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/672073
+#EXTINF:-1 tvg-id="" tvg-name="TÜRKAN ŞORAY 2" tvg-logo="https://www.tvlogolar.xyz/logo/Ozel/Turkan.Soray.png" group-title="ᴛʀ • YESILCAM",TÜRKAN ŞORAY 2
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/672072
+#EXTINF:-1 tvg-id="" tvg-name="TÜRKAN ŞORAY 3" tvg-logo="https://www.tvlogolar.xyz/logo/Ozel/Turkan.Soray.png" group-title="ᴛʀ • YESILCAM",TÜRKAN ŞORAY 3
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/672071
+#EXTINF:-1 tvg-id="" tvg-name="ŞENER ŞEN 1" tvg-logo="https://www.tvlogolar.xyz/logo/Ozel/Sener.Sen.png" group-title="ᴛʀ • YESILCAM",ŞENER ŞEN 1
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/672070
+#EXTINF:-1 tvg-id="" tvg-name="ŞENER ŞEN 2" tvg-logo="https://www.tvlogolar.xyz/logo/Ozel/Sener.Sen.png" group-title="ᴛʀ • YESILCAM",ŞENER ŞEN 2
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/672069
+#EXTINF:-1 tvg-id="" tvg-name="ŞENER ŞEN 3" tvg-logo="https://www.tvlogolar.xyz/logo/Ozel/Sener.Sen.png" group-title="ᴛʀ • YESILCAM",ŞENER ŞEN 3
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/672068
+#EXTINF:-1 tvg-id="" tvg-name="YILMAZ GÜNEY 1" tvg-logo="https://www.tvlogolar.xyz/logo/Ozel/YILMAZ.GUNEY.png" group-title="ᴛʀ • YESILCAM",YILMAZ GÜNEY 1
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/672067
+#EXTINF:-1 tvg-id="" tvg-name="YILMAZ GÜNEY 2" tvg-logo="https://www.tvlogolar.xyz/logo/Ozel/YILMAZ.GUNEY.png" group-title="ᴛʀ • YESILCAM",YILMAZ GÜNEY 2
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/672066
+#EXTINF:-1 tvg-id="" tvg-name="FERDİ TAYFUR 1" tvg-logo="https://www.tvlogolar.xyz/logo/Ozel/ferdi-tayfur.png" group-title="ᴛʀ • YESILCAM",FERDİ TAYFUR 1
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/672065
+#EXTINF:-1 tvg-id="" tvg-name="FERDİ TAYFUR 2" tvg-logo="https://www.tvlogolar.xyz/logo/Ozel/ferdi-tayfur.png" group-title="ᴛʀ • YESILCAM",FERDİ TAYFUR 2
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/672064
+#EXTINF:-1 tvg-id="" tvg-name="İBRAHİM TATLISES" tvg-logo="https://www.tvlogolar.xyz/logo/Ozel/Ibrahim.Tatlses.png" group-title="ᴛʀ • YESILCAM",İBRAHİM TATLISES
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/672063
+#EXTINF:-1 tvg-id="" tvg-name="ORHAN GENCEBAY" tvg-logo="https://www.tvlogolar.xyz/logo/Ozel/orhan-gencebay.png" group-title="ᴛʀ • YESILCAM",ORHAN GENCEBAY
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/672062
+#EXTINF:-1 tvg-id="" tvg-name="KADİR İNANIR 1" tvg-logo="https://www.tvlogolar.xyz/logo/Ozel/kadir.%C4%B0nanIr.png" group-title="ᴛʀ • YESILCAM",KADİR İNANIR 1
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/672061
+#EXTINF:-1 tvg-id="" tvg-name="KADİR İNANIR 2" tvg-logo="https://www.tvlogolar.xyz/logo/Ozel/kadir.%C4%B0nanIr.png" group-title="ᴛʀ • YESILCAM",KADİR İNANIR 2
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/672060
+#EXTINF:-1 tvg-id="" tvg-name="KADİR İNANIR 3" tvg-logo="https://www.tvlogolar.xyz/logo/Ozel/kadir.%C4%B0nanIr.png" group-title="ᴛʀ • YESILCAM",KADİR İNANIR 3
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/672059
+#EXTINF:-1 tvg-id="" tvg-name="ZEKİ VE METİN 1" tvg-logo="https://www.tvlogolar.xyz/logo/Ozel/Zeki.Metin.png" group-title="ᴛʀ • YESILCAM",ZEKİ VE METİN 1
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/672058
+#EXTINF:-1 tvg-id="" tvg-name="ZEKİ VE METİN 2" tvg-logo="https://www.tvlogolar.xyz/logo/Ozel/Zeki.Metin.png" group-title="ᴛʀ • YESILCAM",ZEKİ VE METİN 2
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/672057
+#EXTINF:-1 tvg-id="" tvg-name="ZEKİ VE METİN 3" tvg-logo="https://www.tvlogolar.xyz/logo/Ozel/Zeki.Metin.png" group-title="ᴛʀ • YESILCAM",ZEKİ VE METİN 3
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/672056
+#EXTINF:-1 tvg-id="" tvg-name="ZEKİ VE METİN 4" tvg-logo="https://www.tvlogolar.xyz/logo/Ozel/Zeki.Metin.png" group-title="ᴛʀ • YESILCAM",ZEKİ VE METİN 4
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/672055
+#EXTINF:-1 tvg-id="" tvg-name="ZEKİ VE METİN 5" tvg-logo="https://www.tvlogolar.xyz/logo/Ozel/Zeki.Metin.png" group-title="ᴛʀ • YESILCAM",ZEKİ VE METİN 5
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/672054
+#EXTINF:-1 tvg-id="" tvg-name="KEMAL SUNAL 1" tvg-logo="https://www.tvlogolar.xyz/logo/Ozel/Kemal.Sunal.png" group-title="ᴛʀ • YESILCAM",KEMAL SUNAL 1
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/672053
+#EXTINF:-1 tvg-id="" tvg-name="KEMAL SUNAL 2" tvg-logo="https://www.tvlogolar.xyz/logo/Ozel/Kemal.Sunal.png" group-title="ᴛʀ • YESILCAM",KEMAL SUNAL 2
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/672052
+#EXTINF:-1 tvg-id="" tvg-name="KEMAL SUNAL 3" tvg-logo="https://www.tvlogolar.xyz/logo/Ozel/Kemal.Sunal.png" group-title="ᴛʀ • YESILCAM",KEMAL SUNAL 3
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/672051
+#EXTINF:-1 tvg-id="" tvg-name="KEMAL SUNAL 4" tvg-logo="https://www.tvlogolar.xyz/logo/Ozel/Kemal.Sunal.png" group-title="ᴛʀ • YESILCAM",KEMAL SUNAL 4
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/672050
+#EXTINF:-1 tvg-id="" tvg-name="KEMAL SUNAL 5" tvg-logo="https://www.tvlogolar.xyz/logo/Ozel/Kemal.Sunal.png" group-title="ᴛʀ • YESILCAM",KEMAL SUNAL 5
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/672049
+#EXTINF:-1 tvg-id="" tvg-name="KEMAL SUNAL 6" tvg-logo="https://www.tvlogolar.xyz/logo/Ozel/Kemal.Sunal.png" group-title="ᴛʀ • YESILCAM",KEMAL SUNAL 6
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/672048
+#EXTINF:-1 tvg-id="" tvg-name="KEMAL SUNAL 7" tvg-logo="https://www.tvlogolar.xyz/logo/Ozel/Kemal.Sunal.png" group-title="ᴛʀ • YESILCAM",KEMAL SUNAL 7
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/672047
+#EXTINF:-1 tvg-id="" tvg-name="KEMAL SUNAL 8" tvg-logo="https://www.tvlogolar.xyz/logo/Ozel/Kemal.Sunal.png" group-title="ᴛʀ • YESILCAM",KEMAL SUNAL 8
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/672046
+#EXTINF:-1 tvg-id="" tvg-name="KEMAL SUNAL 9" tvg-logo="https://www.tvlogolar.xyz/logo/Ozel/Kemal.Sunal.png" group-title="ᴛʀ • YESILCAM",KEMAL SUNAL 9
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/672045
+#EXTINF:-1 tvg-id="" tvg-name="CÜNEYT ARKIN 1" tvg-logo="https://www.tvlogolar.xyz/logo/Ozel/Cuneyt.Arkin.png" group-title="ᴛʀ • YESILCAM",CÜNEYT ARKIN 1
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/672044
+#EXTINF:-1 tvg-id="" tvg-name="CÜNEYT ARKIN 2" tvg-logo="https://www.tvlogolar.xyz/logo/Ozel/Cuneyt.Arkin.png" group-title="ᴛʀ • YESILCAM",CÜNEYT ARKIN 2
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/672043
+#EXTINF:-1 tvg-id="" tvg-name="CÜNEYT ARKIN 3" tvg-logo="https://www.tvlogolar.xyz/logo/Ozel/Cuneyt.Arkin.png" group-title="ᴛʀ • YESILCAM",CÜNEYT ARKIN 3
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/672042
+#EXTINF:-1 tvg-id="" tvg-name="CÜNEYT ARKIN 4" tvg-logo="https://www.tvlogolar.xyz/logo/Ozel/Cuneyt.Arkin.png" group-title="ᴛʀ • YESILCAM",CÜNEYT ARKIN 4
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/672041
+#EXTINF:-1 tvg-id="" tvg-name="CÜNEYT ARKIN 5" tvg-logo="https://www.tvlogolar.xyz/logo/Ozel/Cuneyt.Arkin.png" group-title="ᴛʀ • YESILCAM",CÜNEYT ARKIN 5
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/672040
+#EXTINF:-1 tvg-id="" tvg-name="CÜNEYT ARKIN 6" tvg-logo="https://www.tvlogolar.xyz/logo/Ozel/Cuneyt.Arkin.png" group-title="ᴛʀ • YESILCAM",CÜNEYT ARKIN 6
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/672039
+#EXTINF:-1 tvg-id="" tvg-name="CÜNEYT ARKIN 7" tvg-logo="https://www.tvlogolar.xyz/logo/Ozel/Cuneyt.Arkin.png" group-title="ᴛʀ • YESILCAM",CÜNEYT ARKIN 7
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/672038
+#EXTINF:-1 tvg-id="" tvg-name="CÜNEYT ARKIN 8" tvg-logo="https://www.tvlogolar.xyz/logo/Ozel/Cuneyt.Arkin.png" group-title="ᴛʀ • YESILCAM",CÜNEYT ARKIN 8
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/672037
+#EXTINF:-1 tvg-id="" tvg-name="CÜNEYT ARKIN 9" tvg-logo="https://www.tvlogolar.xyz/logo/Ozel/Cuneyt.Arkin.png" group-title="ᴛʀ • YESILCAM",CÜNEYT ARKIN 9
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/672036
+#EXTINF:-1 tvg-id="" tvg-name="CÜNEYT ARKIN 10" tvg-logo="https://www.tvlogolar.xyz/logo/Ozel/Cuneyt.Arkin.png" group-title="ᴛʀ • YESILCAM",CÜNEYT ARKIN 10
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/672035
+#EXTINF:-1 tvg-id="" tvg-name="CÜNEYT ARKIN 11" tvg-logo="https://www.tvlogolar.xyz/logo/Ozel/Cuneyt.Arkin.png" group-title="ᴛʀ • YESILCAM",CÜNEYT ARKIN 11
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/672034
+#EXTINF:-1 tvg-id="" tvg-name="CÜNEYT ARKIN 12" tvg-logo="https://www.tvlogolar.xyz/logo/Ozel/Cuneyt.Arkin.png" group-title="ᴛʀ • YESILCAM",CÜNEYT ARKIN 12
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/672033
+#EXTINF:-1 tvg-id="" tvg-name="CÜNEYT ARKIN 13" tvg-logo="https://www.tvlogolar.xyz/logo/Ozel/Cuneyt.Arkin.png" group-title="ᴛʀ • YESILCAM",CÜNEYT ARKIN 13
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/672032
+#EXTINF:-1 tvg-id="" tvg-name="YEŞİLÇAM MİX 1" tvg-logo="https://www.tvlogolar.xyz/logo/Ozel/Yesilcam.png" group-title="ᴛʀ • YESILCAM",YEŞİLÇAM MİX 1
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/672031
+#EXTINF:-1 tvg-id="" tvg-name="YEŞİLÇAM MİX 2" tvg-logo="https://www.tvlogolar.xyz/logo/Ozel/Yesilcam.png" group-title="ᴛʀ • YESILCAM",YEŞİLÇAM MİX 2
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/672030
+#EXTINF:-1 tvg-id="" tvg-name="YEŞİLÇAM MİX 3" tvg-logo="https://www.tvlogolar.xyz/logo/Ozel/Yesilcam.png" group-title="ᴛʀ • YESILCAM",YEŞİLÇAM MİX 3
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/672029
+#EXTINF:-1 tvg-id="" tvg-name="YEŞİLÇAM MİX 4" tvg-logo="https://www.tvlogolar.xyz/logo/Ozel/Yesilcam.png" group-title="ᴛʀ • YESILCAM",YEŞİLÇAM MİX 4
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/672028
+#EXTINF:-1 tvg-id="" tvg-name="YEŞİLÇAM MİX 5" tvg-logo="https://www.tvlogolar.xyz/logo/Ozel/Yesilcam.png" group-title="ᴛʀ • YESILCAM",YEŞİLÇAM MİX 5
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/672027
+#EXTINF:-1 tvg-id="" tvg-name="YEŞİLÇAM MİX 6" tvg-logo="https://www.tvlogolar.xyz/logo/Ozel/Yesilcam.png" group-title="ᴛʀ • YESILCAM",YEŞİLÇAM MİX 6
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/672026
+#EXTINF:-1 tvg-id="" tvg-name="YEŞİLÇAM MİX 7" tvg-logo="https://www.tvlogolar.xyz/logo/Ozel/Yesilcam.png" group-title="ᴛʀ • YESILCAM",YEŞİLÇAM MİX 7
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/672025
+#EXTINF:-1 tvg-id="" tvg-name="YEŞİLÇAM SOKAĞI 1" tvg-logo="https://www.tvlogolar.xyz/logo/Ozel/YESILCAM.SOKAGI.png" group-title="ᴛʀ • YESILCAM",YEŞİLÇAM SOKAĞI 1
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/672024
+#EXTINF:-1 tvg-id="" tvg-name="YEŞİLÇAM SOKAĞI 2" tvg-logo="https://www.tvlogolar.xyz/logo/Ozel/YESILCAM.SOKAGI.png" group-title="ᴛʀ • YESILCAM",YEŞİLÇAM SOKAĞI 2
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/672023
+#EXTINF:-1 tvg-id="" tvg-name="YEŞİLÇAM SOKAĞI 3" tvg-logo="https://www.tvlogolar.xyz/logo/Ozel/YESILCAM.SOKAGI.png" group-title="ᴛʀ • YESILCAM",YEŞİLÇAM SOKAĞI 3
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/672022
+#EXTINF:-1 tvg-id="" tvg-name="YEŞİLÇAM SOKAĞI 4" tvg-logo="https://www.tvlogolar.xyz/logo/Ozel/YESILCAM.SOKAGI.png" group-title="ᴛʀ • YESILCAM",YEŞİLÇAM SOKAĞI 4
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/672021
+#EXTINF:-1 tvg-id="" tvg-name="YEŞİLÇAM SOKAĞI 5" tvg-logo="https://www.tvlogolar.xyz/logo/Ozel/YESILCAM.SOKAGI.png" group-title="ᴛʀ • YESILCAM",YEŞİLÇAM SOKAĞI 5
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/672020
+#EXTINF:-1 tvg-id="" tvg-name="YEŞİLÇAM SOKAĞI 6" tvg-logo="https://www.tvlogolar.xyz/logo/Ozel/YESILCAM.SOKAGI.png" group-title="ᴛʀ • YESILCAM",YEŞİLÇAM SOKAĞI 6
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/672019
+#EXTINF:-1 tvg-id="" tvg-name="YEŞİLÇAM SOKAĞI 7" tvg-logo="https://www.tvlogolar.xyz/logo/Ozel/YESILCAM.SOKAGI.png" group-title="ᴛʀ • YESILCAM",YEŞİLÇAM SOKAĞI 7
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/672018
+#EXTINF:-1 tvg-id="" tvg-name="NOSTALJI 1 [SIYAH BEYAZ]" tvg-logo="https://www.tvlogolar.xyz/logo/Ozel/NOSTALJI.jpg" group-title="ᴛʀ • YESILCAM",NOSTALJI 1 [SIYAH BEYAZ]
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/672017
+#EXTINF:-1 tvg-id="" tvg-name="NOSTALJI 2 [SIYAH BEYAZ]" tvg-logo="https://www.tvlogolar.xyz/logo/Ozel/NOSTALJI.jpg" group-title="ᴛʀ • YESILCAM",NOSTALJI 2 [SIYAH BEYAZ]
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/672016
+#EXTINF:-1 tvg-id="" tvg-name="NOSTALJI 3 [SIYAH BEYAZ]" tvg-logo="https://www.tvlogolar.xyz/logo/Ozel/NOSTALJI.jpg" group-title="ᴛʀ • YESILCAM",NOSTALJI 3 [SIYAH BEYAZ]
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/672015
+#EXTINF:-1 tvg-id="" tvg-name="NOSTALJI 4 [SIYAH BEYAZ]" tvg-logo="https://www.tvlogolar.xyz/logo/Ozel/NOSTALJI.jpg" group-title="ᴛʀ • YESILCAM",NOSTALJI 4 [SIYAH BEYAZ]
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/672014
+#EXTINF:-1 tvg-id="" tvg-name="NOSTALJI 5 [SIYAH BEYAZ]" tvg-logo="https://www.tvlogolar.xyz/logo/Ozel/NOSTALJI.jpg" group-title="ᴛʀ • YESILCAM",NOSTALJI 5 [SIYAH BEYAZ]
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/672013
+#EXTINF:-1 tvg-id="" tvg-name="NOSTALJI 6 [SIYAH BEYAZ]" tvg-logo="https://www.tvlogolar.xyz/logo/Ozel/NOSTALJI.jpg" group-title="ᴛʀ • YESILCAM",NOSTALJI 6 [SIYAH BEYAZ]
+http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/672012
+
 
 #EXTINF:-1 group-title="📺 Usba TV" tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg" ,Star Media
 https://live20.bozztv.com/giatvplayout7/ushba4/tracks-v1a1/mono.m3u8

@@ -290,6 +290,33 @@ https://catcast.ismailturret.workers.dev/best-hits.m3u8
 https://catcast.ismailturret.workers.dev/m-724.m3u8
 #EXTINF:0 tvg-logo="https://i.postimg.cc/gkykB4xc/In-Shot-20260209-101752277.png" group-title="🇦🇿 Azərbaycan 🇦🇿",MİX MUSİC
 https://catcast.ismailturret.workers.dev/karisikyayin.m3u8
+#EXTINF:0,concept-music
+#EXTGRP:🇦🇿 Azərbaycan 🇦🇿
+http://catcast.ismailturret.workers.dev/concept-music.m3u8
+#EXTINF:0 tvg-logo="https://img.catcast.tv/uploads/15082023/logos/21748-64db7e97da72c.png",SONG TV
+#EXTGRP:🇦🇿 Azərbaycan 🇦🇿
+http://catcast.ismailturret.workers.dev/song.m3u8
+#EXTINF:0,tv-stas
+#EXTGRP:🇦🇿 Azərbaycan 🇦🇿
+http://catcast.ismailturret.workers.dev/tv-stas.m3u8
+#EXTINF:0,М1
+#EXTGRP:🇦🇿 Azərbaycan 🇦🇿
+http://catcast.ismailturret.workers.dev/м1-2011.m3u8
+#EXTINF:0,VIVA TV
+#EXTGRP:🇦🇿 Azərbaycan 🇦🇿
+http://catcast.ismailturret.workers.dev/viva-tv90.m3u8
+#EXTINF:0,CLUB
+#EXTGRP:🇦🇿 Azərbaycan 🇦🇿
+http://catcast.ismailturret.workers.dev/club.m3u8
+#EXTINF:0,viva tv
+#EXTGRP:🇦🇿 Azərbaycan 🇦🇿
+http://catcast.ismailturret.workers.dev/vivatv.m3u8
+#EXTINF:0 tvg-logo="https://img.catcast.tv/uploads/07092025/banners/45441-68bd18b8dd828.jpg",Musicmax
+#EXTGRP:🇦🇿 Azərbaycan 🇦🇿
+http://catcast.ismailturret.workers.dev/musicmax.m3u8
+#EXTINF:0,dans tv
+#EXTGRP:🇦🇿 Azərbaycan 🇦🇿
+http://catcast.ismailturret.workers.dev/m-724.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8IdzWtT.png", Rihat TV music
 #EXTGRP:🇦🇿 Azərbaycan 🇦🇿
 https://pastebin.com/raw/xcEgRVmj
@@ -304,7 +331,7 @@ https://catcast.ismailturret.workers.dev/stv-az.m3u8
 https://catcast.ismailturret.workers.dev/stvaz.m3u8
 #EXTINF:-1 tvg-logo="https://img.catcast.tv/uploads/12072024/banners/47437-669061dfa8088.png",KANAL 65 Music original
 #EXTGRP:🇦🇿 Azərbaycan 🇦🇿
-https://pastebin.com/raw/jNXbkKuR
+http://catcast.ismailturret.workers.dev/kanal65.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tCz7czL.png",-Meyxana-tv
 #EXTGRP:🇦🇿 Azərbaycan 🇦🇿
 https://raw.githubusercontent.com/BY-KERIMOFF/by-kerimoff-stream/refs/heads/main/catcast/by-kerimoff-meyxana-tv.m3u8
@@ -473,6 +500,12 @@ https://pastebin.com/raw/60xEChv6
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tCz7czL.png",MR.BEAN mult
 #EXTGRP:🇦🇿 Azərbaycan 🇦🇿
 https://pastebin.com/raw/ZyFm7xDR
+#EXTINF:0 tvg-logo="https://img.catcast.tv/uploads/27042024/banners/46757-662d07c589149.png",Шоу Тома и Джерри
+#EXTGRP:🇦🇿 Azərbaycan 🇦🇿
+http://catcast.ismailturret.workers.dev/мультфильмшоу-томаиджерри.m3u8
+#EXTINF:0 tvg-logo="https://img.catcast.tv/uploads/28042024/banners/46775-662e075cc6109.png",Том и Джерри
+#EXTGRP:🇦🇿 Azərbaycan 🇦🇿
+http://catcast.ismailturret.workers.dev/том-иджерри.m3u8
 #EXTINF:0 tvg-logo="https://i.postimg.cc/zGBXDWXg/In-Shot-20260529-144002865.png" group-title="🇦🇿 Azərbaycan 🇦🇿",Maşa və Ayı
 https://catcast.ismailturret.workers.dev/ktv__
 #EXTINF:0 tvg-logo="https://i.postimg.cc/66VG0jS0/In-Shot-20251013-202038830.png" group-title="🇦🇿 Azərbaycan 🇦🇿",Çizgi Filmi

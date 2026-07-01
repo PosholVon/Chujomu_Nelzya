@@ -341,9 +341,6 @@ https://catcast.ismailturret.workers.dev/bayzan-slow.m3u8
 #EXTINF:-1 tvg-logo="https://img.catcast.tv/uploads/22112025/banners/48064-692173b54a5d2.png",SHOW_AZ music
 #EXTGRP:🇦🇿 Azərbaycan 🇦🇿
 http://catcast.ismailturret.workers.dev/showtvaz.m3u8
-#EXTINF:-1 tvg-logo="https://img.catcast.tv/uploads/22112025/banners/48064-692173b54a5d2.png",SHOW_AZ music
-#EXTGRP:🇦🇿 Azərbaycan 🇦🇿
-https://v2.catcast.tv/content/48064/seg-26818029-v1-a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/9MWGr1rn/In-Shot-20260209-105343609.png",Ulduz Music az
 #EXTGRP:🇦🇿 Azərbaycan 🇦🇿
 https://catcast.ismailturret.workers.dev/ulduz-tv.m3u8

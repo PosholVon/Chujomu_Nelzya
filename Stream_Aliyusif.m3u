@@ -1326,6 +1326,8 @@ http://enomaxtv.xyz:8080/aNDY6JaN/hpqAnwHXc8BY/793280
 #EXTINF:-1 tvg-id="" tvg-name="AZ: AZERI DINI 5 TV" tvg-logo="https://cdn.countryflags.com/thumbs/azerbaijan/flag-round-250.png" group-title="AZ ✨ AZERBAYCAN",AZ: AZERI DINI 5 TV
 http://enomaxtv.xyz:8080/aNDY6JaN/hpqAnwHXc8BY/793279
 
+#EXTINF:-1,Az TV
+https://stream8.cinerama.uz/1455/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Nf5t5wYV/GIF-20260409-031823-067.gif", AzTv
 #EXTGRP:FLUSSONIC.IZONE.AZ
 https://str.yodacdn.net/azertv/index.m3u8
@@ -21815,3 +21817,10 @@ http://jexywacp.tvclub.xyz/iptv/2VLF3G39GK7LBH/20001/index.m3u8
 
 #EXTINF:0 group-title="📺 Кинозал" tvg-id="7896" tvg-logo="http://epg.it999.ru/img/7896.png" tvg-rec="0",VB Назад в СССР HD
 http://jexywacp.tvclub.xyz/iptv/2VLF3G39GK7LBH/20175/index.m3u8
+
+sirvan
+http://euteck.xyz:2095/cfr1661/cfr1609cc00gg/102287
+htv sinema
+http://euteck.xyz:2095/cfr1661/cfr1609cc00gg/20588
+
+

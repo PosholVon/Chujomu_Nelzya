@@ -1327,6 +1327,7 @@ http://enomaxtv.xyz:8080/aNDY6JaN/hpqAnwHXc8BY/793280
 http://enomaxtv.xyz:8080/aNDY6JaN/hpqAnwHXc8BY/793279
 
 #EXTINF:-1,Az TV
+#EXTGRP:FLUSSONIC.IZONE.AZ
 https://stream8.cinerama.uz/1455/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Nf5t5wYV/GIF-20260409-031823-067.gif", AzTv
 #EXTGRP:FLUSSONIC.IZONE.AZ

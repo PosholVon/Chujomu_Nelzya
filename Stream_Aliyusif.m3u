@@ -107,10 +107,36 @@ https://i41.ozelip.com:3269/hybrid/play.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/wjChc8vs/logo-31.png", Deniz posdasıᵀᴿ
 #EXTGRP:🇦🇿 Azərbaycan 🇦🇿
 https://live.artidijitalmedya.com/artidijital_denizpostasi/denizpostasi/playlist.m3u8
+#EXTINF:0 tvg-logo="https://i.postimg.cc/3xZB0RxG/In-Shot-20260701-201517878.png" group-title="🇦🇿 Azərbaycan 🇦🇿",TVGO SINEMA 
+http://162.212.179.32/akamaissh101/ssh101/tvgo1/playlist.m3u8
+#EXTINF:0 tvg-logo="https://i.postimg.cc/QCsC7XtQ/In-Shot-20260701-201955712.png" group-title="🇦🇿 Azərbaycan 🇦🇿",TVGO KORKU 
+http://162.212.179.32/akamaissh101/ssh101/tvgokorku/playlist.m3u8
+#EXTINF:0 tvg-logo="https://i.postimg.cc/WzHRvnQp/In-Shot-20260701-202407740.png" group-title="🇦🇿 Azərbaycan 🇦🇿",TVGO YESILCAM 
+http://162.212.179.32/akamaissh101/ssh101/tvgoyesilcam1/playlist.m3u8
+#EXTINF:0 tvg-logo="https://i.postimg.cc/cH2N9Fsg/In-Shot-20260705-170341815.png" group-title="🇦🇿 Azərbaycan 🇦🇿",FILBOX 
+http://boztv.smartiptvworld.workers.dev/filmbox1.m3u8
+#EXTINF:0 tvg-logo="https://i.postimg.cc/3JLFPVsP/In-Shot-20260705-171025981.png" group-title="🇦🇿 Azərbaycan 🇦🇿",FIL TV 
+http://boztv.smartiptvworld.workers.dev/filgo.m3u8
+#EXTINF:0 tvg-logo="https://i.postimg.cc/vTQyJcJV/In-Shot-20260705-182348332.png" group-title="🇦🇿 Azərbaycan 🇦🇿",FILMAX 
+http://162.212.179.32/akamaissh101/ssh101/gotv/playlist.m3u8
+#EXTINF:0 tvg-logo="https://i.postimg.cc/zBBgSGBJ/In-Shot-20260705-173042068.png" group-title="🇦🇿 Azərbaycan 🇦🇿",FILODI 
+http://boztv.smartiptvworld.workers.dev/filodifmedya.m3u8
+#EXTINF:0 tvg-id="3"tvg-logo="https://i.postimg.cc/02GM2TTR/In-Shot-20260404-195317248.png"group-title="🇦🇿 Azərbaycan 🇦🇿",Boncuk TV
+http://104.238.23.191/BoncukTV/live/index.m3u8
 #EXTINF:0 tvg-logo="https://i.postimg.cc/3x17mQj8/In-Shot-20260527-200622950.png" group-title="🇦🇿 Azərbaycan 🇦🇿",KANAL 30
 http://162.212.179.32:80/akamaissh101/ssh101/kanal30/chunks.m3u8
 #EXTINF:0 tvg-logo="https://i.postimg.cc/wj2yvP7R/In-Shot-20260527-201833030.png" group-title="🇦🇿 Azərbaycan 🇦🇿",F MAX 
 http://162.212.179.32:80/akamaissh101/ssh101/kanalfmax/chunks.m3u8
+#EXTINF:0 tvg-logo="https://i.postimg.cc/C16Lz8vq/In-Shot-20260609-204543782.png" group-title="🇦🇿 Azərbaycan 🇦🇿",F ÇOCUK 
+http://162.212.179.32/akamaissh101/ssh101/maxitv/chunks.m3u8
+#EXTINF:0 tvg-logo="https://i.postimg.cc/C16Lz8vq/In-Shot-20260609-204543782.png" group-title="🇦🇿 Azərbaycan 🇦🇿",F MEDYA-CİNE 5 
+http://162.212.179.32/akamaissh101/ssh101/cinebes/chunks.m3u8
+#EXTINF:0 tvg-logo="https://i.postimg.cc/xd9sxbFy/In-Shot-20260703-193439906.png" group-title="🇦🇿 Azərbaycan 🇦🇿",F MUZIK 
+http://162.212.179.32/akamaissh101/ssh101/fmuzik/playlist.m3u8
+#EXTINF:0 tvg-logo="https://i.postimg.cc/zGt2FVDL/In-Shot-20260705-170752777.png" group-title="🇦🇿 Azərbaycan 🇦🇿",F KURTLAR VADISI
+http://boztv.smartiptvworld.workers.dev/dizi.m3u8
+#EXTINF:0 tvg-logo="https://i.postimg.cc/RhpJD5Wg/In-Shot-20260705-171316582.png" group-title="🇦🇿 Azərbaycan 🇦🇿",F YESILCAM 
+http://boztv.smartiptvworld.workers.dev/fmedya1.m3u8
 #EXTINF:0 tvg-logo="https://i.postimg.cc/tR5kJjpx/In-Shot-20260517-113022210.png" group-title="🇦🇿 Azərbaycan 🇦🇿",TE tv
 https://host.onlineradyotv.net:8081/tetv/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/mosaFHc.jpeg" group-title="🇦🇿 Azərbaycan 🇦🇿",TEBER STAR
@@ -400,7 +426,7 @@ https://catcast.ismailturret.workers.dev/viva-tvrussia.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/m1CQBN5.png", GemAZ HD
 #EXTGRP:🇦🇿 Azərbaycan 🇦🇿
-http://live.smartglwiz.workers.dev/?ID=GemAZ_HD
+http://80.225.233.237/GLPersian.php?ID=GemAZ_HD
 #EXTINF:-1 tvg-logo="https://knmusictv.com/wp-content/themes/tmbtvaz/img/tmbtv.png"  group-title="🇦🇿 Azərbaycan 🇦🇿", KN music box
 https://cdn4.yayin.com.tr/kntv/video.m3u8
 #EXTINF:-1 tvg-logo="http://team.ga/images/chIcons/2957.png"  group-title="🇦🇿 Azərbaycan 🇦🇿", Könül music
@@ -9804,6 +9830,24 @@ https://nord.ayakkabiparti.lol/bsstars/index.m3u8
 https://nord.ayakkabiparti.lol/bsturk/index.m3u8
 #EXTINF:0 tvg-logo="https://i.postimg.cc/4yNbQHKv/In-Shot-20260524-084601810.png" group-title="🇹🇷 Sinema Kanalları 🇹🇷",Moviesmart Turk
 https://nord.ayakkabiparti.lol/mvturk/index.m3u8
+#EXTINF:0 tvg-id="sinematv" tvg-name="Sinema Tv" tvg-logo="https://img.dsmartgo.com.tr/content/T/QU/22894/Thumbnail.png" group-title="🇹🇷 Sinema Kanalları 🇹🇷",Sinema Tv 
+https://proud-river-e20b.pantonum1.workers.dev/sinema.m3u8
+#EXTINF:0 tvg-id="sinematv2" tvg-name="Sinema Tv 2" tvg-logo="https://img.dsmartgo.com.tr/content/Y/3N/22904/Thumbnail.png" group-title="🇹🇷 Sinema Kanalları 🇹🇷",Sinema Tv 2 
+https://proud-river-e20b.pantonum1.workers.dev/sinema2.m3u8
+#EXTINF:0 tvg-id="sinemaaile" tvg-name="Sinema Aile" tvg-logo="https://img.dsmartgo.com.tr/content/-/EU/22897/Thumbnail.png" group-title="🇹🇷 Sinema Kanalları 🇹🇷",Sinema Aile 
+https://proud-river-e20b.pantonum1.workers.dev/sinemaaile.m3u8
+#EXTINF:0 tvg-id="sinemaaksiyon" tvg-name="Sinema Aksiyon" tvg-logo="https://img.dsmartgo.com.tr/content/t/tD/22896/Thumbnail.png" group-title="🇹🇷 Sinema Kanalları 🇹🇷",Sinema Aksiyon 
+https://proud-river-e20b.pantonum1.workers.dev/sinemaaksiyon.m3u8
+#EXTINF:0 tvg-id="sinemaaksiyon2" tvg-name="Sinema Aksiyon 2" tvg-logo="https://img.dsmartgo.com.tr/content/M/RG/22895/Thumbnail.png" group-title="🇹🇷 Sinema Kanalları 🇹🇷",Sinema Aksiyon 2
+https://proud-river-e20b.pantonum1.workers.dev/sinemaaksiyon2.m3u8
+#EXTINF:0 tvg-id="sinemakomedi" tvg-name="Sinema Komedi" tvg-logo="https://img.dsmartgo.com.tr/content/w/9a/22899/Thumbnail.png" group-title="🇹🇷 Sinema Kanalları 🇹🇷",Sinema Komedi 
+https://proud-river-e20b.pantonum1.workers.dev/sinemakomedi.m3u8
+#EXTINF:0 tvg-id="sinemakomedi2" tvg-name="Sinema Komedi 2" tvg-logo="https://img.dsmartgo.com.tr/content/o/oG/22900/Thumbnail.png" group-title="🇹🇷 Sinema Kanalları 🇹🇷",Sinema Komedi 2
+https://kiloyapar.denek1544.workers.dev/channel/U2luZW1hIFRWIEtvbWVkaSAy.m3u8
+#EXTINF:0 tvg-id="sinematv1001" tvg-name="Sinema Tv 1001" tvg-logo="https://img.dsmartgo.com.tr/content/g/6y/22901/Thumbnail.png" group-title="🇹🇷 Sinema Kanalları 🇹🇷",Sinema Tv 1001
+https://proud-river-e20b.pantonum1.workers.dev/sinema1001.m3u8
+#EXTINF:0 tvg-id="sinematv1002" tvg-name="Sinema Tv 1002" tvg-logo="https://img.dsmartgo.com.tr/content/C/XZ/22902/Thumbnail.png" group-title="🇹🇷 Sinema Kanalları 🇹🇷",Sinema Tv 1002
+https://proud-river-e20b.pantonum1.workers.dev/sinema1002.m3u8
 #EXTINF:0 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_m_vVKzWpm_LEriWFQTewLrMlSp0Et6frUrXP7qagTrpGE" group-title="🇹🇷 Sinema Kanalları 🇹🇷",YEŞİLÇAM ARZU FİLM 7/24
 http://live.yt-hls.workers.dev/UCUALYmnkEmx8vlxIbpr2gmw.m3u8
 #EXTINF:0 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_kKB21USxEgVZCcJsgoXGh1qx1DQgSgfn6hz3r-1HDv9dI" group-title="🇹🇷 Sinema Kanalları 🇹🇷",KEMAL SUNAL GÜLŞAH FİLM 7/24

@@ -71,6 +71,9 @@ https://a8.radyotelekom.com.tr:3179/stream/play.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/5N4mghBq/In-Shot-20260510-202245174.png", Diginet Cinema tv
 #EXTGRP:🇦🇿 Azərbaycan 🇦🇿
 https://a8.radyotelekom.com.tr:3276/stream/play.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eKqeMvf.png", Retro TV az
+#EXTGRP:🇦🇿 Azərbaycan 🇦🇿
+http://a8.radyotelekom.com.tr/p/3706/stream/play.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cRxhxdA.png", ŞİRVAN TV
 #EXTGRP:🇦🇿 Azərbaycan 🇦🇿
 https://pastebin.com/raw/C13XaXTB
@@ -1960,6 +1963,2512 @@ https://flussonic.mkpnet.ru/tv-2e0a7cc949958b60/video.m3u8
 #EXTINF:-1  group-title="60.Flussonic 🎡"  tvg-id="uspex" ,Успех
 https://flussonic.mkpnet.ru/tv-324fe9acc597fbc1/video.m3u8
 
+#EXTINF:0 tvg-rec="0",StrahTV Horror HD
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=31708/index.m3u8
+#EXTINF:0 tvg-rec="0",BOX Metall HD
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=31651/index.m3u8
+#EXTINF:0 tvg-rec="0",BCU Russia 90s HD
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=31658/index.m3u8
+#EXTINF:0 tvg-rec="0",Liberty Кино UKR FHD
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=31660/index.m3u8
+#EXTINF:0 tvg-rec="0",VeleS Магнитофон
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=31645/index.m3u8
+#EXTINF:0 tvg-rec="0",VeleS Movie Hits
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=31644/index.m3u8
+#EXTINF:0 tvg-rec="0",VeleS СССР
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=31643/index.m3u8
+#EXTINF:0 tvg-rec="0",VeleS Страшное
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=31642/index.m3u8
+#EXTINF:0 tvg-rec="0",VeleS Premiere
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=31641/index.m3u8
+#EXTINF:0 tvg-rec="0",VeleS Киноплёнка
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=31638/index.m3u8
+#EXTINF:0 tvg-rec="0",VeleS Киносерия
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=31640/index.m3u8
+#EXTINF:0 tvg-rec="0",VeleS 60fps
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=31637/index.m3u8
+#EXTINF:0 tvg-rec="0",Viasat Kino World orig
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=31447/index.m3u8
+#EXTINF:0 tvg-rec="0",Magic Russian HD
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=31630/index.m3u8
+#EXTINF:0 tvg-rec="0",KinoLiving
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=16018/index.m3u8
+#EXTINF:0 tvg-rec="0",VB Сваты HD
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=31624/index.m3u8
+#EXTINF:0 tvg-rec="0",CineMan Комедийные Сериалы
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=31628/index.m3u8
+#EXTINF:0 tvg-rec="0",CineMan Криминальные Сериалы
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=31626/index.m3u8
+#EXTINF:0 tvg-rec="0",Romance HD
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=2037/index.m3u8
+#EXTINF:0 tvg-rec="0",MM Кинофестиваль HD
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=31621/index.m3u8
+#EXTINF:0 tvg-rec="0",Suspense HD
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=2049/index.m3u8
+#EXTINF:0 tvg-rec="0",Sumiko HD
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=2163/index.m3u8
+#EXTINF:0 tvg-rec="7",Лавстори HD
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=2034/index.m3u8
+#EXTINF:0 tvg-rec="0",Советская киноклассика HD
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=2146/index.m3u8
+#EXTINF:0 tvg-rec="0",BOX Apocalypse HD
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=31655/index.m3u8
+#EXTINF:0 tvg-rec="0",HOT Cinema Family HD IL
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=2151/index.m3u8
+#EXTINF:0 tvg-rec="7",Viju TV1000 Новелла HD
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=2002/index.m3u8
+#EXTINF:0 tvg-rec="0",Мосфильм. Золотая коллекция +4 HD
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=17022/index.m3u8
+#EXTINF:0 tvg-rec="0",Феникс плюс Кино HD
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=16154/index.m3u8
+#EXTINF:0 tvg-rec="0",VHS-ка HD
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=5006/index.m3u8
+#EXTINF:0 tvg-rec="0",Viasat Kino Megahit HD
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=14141/index.m3u8
+#EXTINF:0 tvg-rec="0",Viasat Serial HD
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=17056/index.m3u8
+#EXTINF:0 tvg-rec="0",.black HD
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=20019/index.m3u8
+#EXTINF:0 tvg-rec="0",.sci-fi HD
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=20020/index.m3u8
+#EXTINF:0 tvg-rec="0",Scream HD
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=20021/index.m3u8
+#EXTINF:0 tvg-rec="0",Shot TV HD
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=20022/index.m3u8
+#EXTINF:0 tvg-rec="0",О!Кино
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=20023/index.m3u8
+#EXTINF:0 tvg-rec="0",4ever Drama HD UA
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=17051/index.m3u8
+#EXTINF:0 tvg-rec="0",NOW Series HD
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=15102/index.m3u8
+#EXTINF:0 tvg-rec="0",FilmZone Plus HD EE
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=20025/index.m3u8
+#EXTINF:0 tvg-rec="0",Duo 3 HD LT
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=20026/index.m3u8
+#EXTINF:0 tvg-rec="0",Turkish Dramas 3 HD IL
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=14220/index.m3u8
+#EXTINF:0 tvg-rec="0",Turkish Dramas 2 HD IL
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=14208/index.m3u8
+#EXTINF:0 tvg-rec="0",Turkish Dramas Plus HD IL
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=14207/index.m3u8
+#EXTINF:0 tvg-rec="0",Citrus Holiday
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=16089/index.m3u8
+#EXTINF:0 tvg-rec="0",VF Счастливы Вместе
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=9242/index.m3u8
+#EXTINF:0 tvg-rec="7",VF Бесстыжие
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=10075/index.m3u8
+#EXTINF:0 tvg-rec="7",VF Два с половиной человека
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=10062/index.m3u8
+#EXTINF:0 tvg-rec="0",VF С новым годом!
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=15524/index.m3u8
+#EXTINF:0 tvg-rec="0",VF Ёлки
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=14222/index.m3u8
+#EXTINF:0 tvg-rec="0",VF New Year
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=15522/index.m3u8
+#EXTINF:0 tvg-rec="0",VF Новогодний
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=17035/index.m3u8
+#EXTINF:0 tvg-rec="0",VF Гарри Поттер
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=14230/index.m3u8
+#EXTINF:0 tvg-rec="0",VF Карточный домик
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=14221/index.m3u8
+#EXTINF:0 tvg-rec="0",VF Секс в большом городе
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=14224/index.m3u8
+#EXTINF:0 tvg-rec="0",VF Disney Movie
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=15010/index.m3u8
+#EXTINF:0 tvg-rec="0",VF Теория большого взрыва
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=15009/index.m3u8
+#EXTINF:0 tvg-rec="7",VF Владимир Высоцкий 
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=10066/index.m3u8
+#EXTINF:0 tvg-rec="0",Timeless Dizi Channel
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=14006/index.m3u8
+#EXTINF:0 tvg-rec="0",TVR
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=14022/index.m3u8
+#EXTINF:0 tvg-rec="0",FX
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=6516/index.m3u8
+#EXTINF:0 tvg-rec="0",FX Life
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=9232/index.m3u8
+#EXTINF:0 tvg-rec="0",BOX M.Serial HD
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=19280/index.m3u8
+#EXTINF:0 tvg-rec="0",BOX Serial HD
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=19281/index.m3u8
+#EXTINF:0 tvg-rec="0",BCU TruMotion HD
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=17054/index.m3u8
+#EXTINF:0 tvg-rec="7",Viju TV1000 Русское
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=101/index.m3u8
+#EXTINF:0 tvg-rec="0",FX HD
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=19216/index.m3u8
+#EXTINF:0 tvg-rec="0",FX Comedy HD PL
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/monster/stream.php?stream=6107/index.m3u8
+#EXTINF:0 tvg-rec="0",Cinemax Hits HD US
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=6152/index.m3u8
+#EXTINF:0 tvg-rec="0",Canal+ Series HD FR
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=6008/index.m3u8
+#EXTINF:0 tvg-rec="7",Ностальгия
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=102/index.m3u8
+#EXTINF:0 tvg-rec="7",СТС Love
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=103/index.m3u8
+#EXTINF:0 tvg-rec="7",.sci-fi
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=110/index.m3u8
+#EXTINF:0 tvg-rec="7",Киномикс
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=509/index.m3u8
+#EXTINF:0 tvg-rec="7",Киносемья
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=125/index.m3u8
+#EXTINF:0 tvg-rec="7",Родное Кино
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=126/index.m3u8
+#EXTINF:0 tvg-rec="7",Viju TV1000 Action
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=131/index.m3u8
+#EXTINF:0 tvg-rec="7",Кинохит
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=516/index.m3u8
+#EXTINF:0 tvg-rec="7",Amedia 2
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=510/index.m3u8
+#EXTINF:0 tvg-rec="7",Наше Новое Кино
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=517/index.m3u8
+#EXTINF:0 tvg-rec="7",ТВ 21
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=525/index.m3u8
+#EXTINF:0 tvg-rec="7",Кинокомедия
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=145/index.m3u8
+#EXTINF:0 tvg-rec="7",Индийское Кино
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=146/index.m3u8
+#EXTINF:0 tvg-rec="7",Киносерия
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=148/index.m3u8
+#EXTINF:0 tvg-rec="7",Русский иллюзион
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=547/index.m3u8
+#EXTINF:0 tvg-rec="7",Еврокино
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=549/index.m3u8
+#EXTINF:0 tvg-rec="7",Кинеко
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=550/index.m3u8
+#EXTINF:0 tvg-rec="7",Сапфир
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=553/index.m3u8
+#EXTINF:0 tvg-rec="7",Дом Кино
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=154/index.m3u8
+#EXTINF:0 tvg-rec="7",Amedia 1
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=554/index.m3u8
+#EXTINF:0 tvg-rec="7",Amedia Premium
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=555/index.m3u8
+#EXTINF:0 tvg-rec="7",Amedia Hit
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=556/index.m3u8
+#EXTINF:0 tvg-rec="7",Viju TV1000
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=132/index.m3u8
+#EXTINF:0 tvg-rec="7",Мужское Кино
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=164/index.m3u8
+#EXTINF:0 tvg-rec="7",Hollywood
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=557/index.m3u8
+#EXTINF:0 tvg-rec="7",.red
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=559/index.m3u8
+#EXTINF:0 tvg-rec="7",2x2
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=702/index.m3u8
+#EXTINF:0 tvg-rec="7",.black
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=708/index.m3u8
+#EXTINF:0 tvg-rec="7",Русский бестселлер
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=905/index.m3u8
+#EXTINF:0 tvg-rec="7",Русский роман
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=906/index.m3u8
+#EXTINF:0 tvg-rec="7",Русский детектив
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=907/index.m3u8
+#EXTINF:0 tvg-rec="7",Любимое Кино
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=722/index.m3u8
+#EXTINF:0 tvg-rec="7",Киносвидание
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=728/index.m3u8
+#EXTINF:0 tvg-rec="7",Кино ТВ
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=732/index.m3u8
+#EXTINF:0 tvg-rec="7",Комедия
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=733/index.m3u8
+#EXTINF:0 tvg-rec="0",Eye Cyber HD
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=20220/index.m3u8
+#EXTINF:0 tvg-rec="7",FAN
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=734/index.m3u8
+#EXTINF:0 tvg-rec="7",НТВ Хит
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=741/index.m3u8
+#EXTINF:0 tvg-rec="0",FAN HD
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=16021/index.m3u8
+#EXTINF:0 tvg-rec="7",НТВ Сериал
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=744/index.m3u8
+#EXTINF:0 tvg-rec="7",НСТ
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=726/index.m3u8
+#EXTINF:0 tvg-rec="0",Индия
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=1001/index.m3u8
+#EXTINF:0 tvg-rec="0",FilmBox
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=1071/index.m3u8
+#EXTINF:0 tvg-rec="0",Дорама
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=1066/index.m3u8
+#EXTINF:0 tvg-rec="7",Мир Сериала
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=856/index.m3u8
+#EXTINF:0 tvg-rec="7",Ретро
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=2018/index.m3u8
+#EXTINF:0 tvg-rec="7",Иллюзион+
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=2038/index.m3u8
+#EXTINF:0 tvg-rec="7",Феникс плюс Кино
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=2039/index.m3u8
+#EXTINF:0 tvg-rec="0",.red HD
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=2062/index.m3u8
+#EXTINF:0 tvg-rec="0",Киноман
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=2121/index.m3u8
+#EXTINF:0 tvg-rec="0",Cinema
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=5051/index.m3u8
+#EXTINF:0 tvg-rec="0",Sky Cinema HD DE
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=2484/index.m3u8
+#EXTINF:0 tvg-rec="0",Sky Cinema Highlights HD DE
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=2485/index.m3u8
+#EXTINF:0 tvg-rec="0",Sky Atlantic HD DE
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=2488/index.m3u8
+#EXTINF:0 tvg-rec="0",Sky Cinema Family HD DE
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=2489/index.m3u8
+#EXTINF:0 tvg-rec="0",Sky Cinema Classics HD DE
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=2490/index.m3u8
+#EXTINF:0 tvg-rec="0",Sky Krimi HD DE
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=2491/index.m3u8
+#EXTINF:0 tvg-rec="0",Sky Arts HD DE
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=2494/index.m3u8
+#EXTINF:0 tvg-rec="0",Зал 1
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=2568/index.m3u8
+#EXTINF:0 tvg-rec="0",Зал 2
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=2569/index.m3u8
+#EXTINF:0 tvg-rec="0",Зал 3
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=2570/index.m3u8
+#EXTINF:0 tvg-rec="0",Зал 4
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=2571/index.m3u8
+#EXTINF:0 tvg-rec="0",Зал 5
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=2572/index.m3u8
+#EXTINF:0 tvg-rec="0",Зал 6
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=2573/index.m3u8
+#EXTINF:0 tvg-rec="0",Зал 7
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=2574/index.m3u8
+#EXTINF:0 tvg-rec="0",Зал 8
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=2575/index.m3u8
+#EXTINF:0 tvg-rec="0",Зал 9
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=2576/index.m3u8
+#EXTINF:0 tvg-rec="0",Зал 10
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=2577/index.m3u8
+#EXTINF:0 tvg-rec="0",Зал 11
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=2578/index.m3u8
+#EXTINF:0 tvg-rec="0",Зал 12
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=2579/index.m3u8
+#EXTINF:0 tvg-rec="0",Мосфильм. Золотая коллекция
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=6392/index.m3u8
+#EXTINF:0 tvg-rec="0",Trash HD
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=6396/index.m3u8
+#EXTINF:0 tvg-rec="0",M+ Acción ES
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=7065/index.m3u8
+#EXTINF:0 tvg-rec="0",M+ Comedia ES
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=7066/index.m3u8
+#EXTINF:0 tvg-rec="0",M+ Drama ES
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=7067/index.m3u8
+#EXTINF:0 tvg-rec="0",Премиальное HD
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=7222/index.m3u8
+#EXTINF:0 tvg-rec="0",RTL Passion HD DE
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=7230/index.m3u8
+#EXTINF:0 tvg-rec="0",Romance TV DE
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=7231/index.m3u8
+#EXTINF:0 tvg-rec="0",Киносемья HD
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=7244/index.m3u8
+#EXTINF:0 tvg-rec="0",Киносвидание HD
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=7245/index.m3u8
+#EXTINF:0 tvg-rec="0",Страшное HD
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=7247/index.m3u8
+#EXTINF:0 tvg-rec="0",Кинокомедия HD
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=7248/index.m3u8
+#EXTINF:0 tvg-rec="0",Киномикс HD
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=7249/index.m3u8
+#EXTINF:0 tvg-rec="0",Кинохит HD
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=7250/index.m3u8
+#EXTINF:0 tvg-rec="0",KinoJam 1 HD
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=7260/index.m3u8
+#EXTINF:0 tvg-rec="0",KinoJam 2 HD
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=7261/index.m3u8
+#EXTINF:0 tvg-rec="0",TVP Seriale HD PL
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=7281/index.m3u8
+#EXTINF:0 tvg-rec="0",Мосфильм. Золотая коллекция HD
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=7347/index.m3u8
+#EXTINF:0 tvg-rec="7",VF Adventure
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=10000/index.m3u8
+#EXTINF:0 tvg-rec="7",VF Anime
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=10001/index.m3u8
+#EXTINF:0 tvg-rec="7",VF Cartoon
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=10002/index.m3u8
+#EXTINF:0 tvg-rec="7",VF Comedy
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=10003/index.m3u8
+#EXTINF:0 tvg-rec="7",VF Family
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=10004/index.m3u8
+#EXTINF:0 tvg-rec="7",VF Fantasy
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=10005/index.m3u8
+#EXTINF:0 tvg-rec="7",VF Melodrama
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=10006/index.m3u8
+#EXTINF:0 tvg-rec="7",VF Mystic
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=10007/index.m3u8
+#EXTINF:0 tvg-rec="7",VF Ужасы
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=10008/index.m3u8
+#EXTINF:0 tvg-rec="7",VF VHS MIX
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=10009/index.m3u8
+#EXTINF:0 tvg-rec="7",VF Ужасы VHS
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=10010/index.m3u8
+#EXTINF:0 tvg-rec="7",VF Премьера
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=10051/index.m3u8
+#EXTINF:0 tvg-rec="7",VF Premiere
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=10052/index.m3u8
+#EXTINF:0 tvg-rec="7",VF Классика
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=10053/index.m3u8
+#EXTINF:0 tvg-rec="7",VF Classic
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=10054/index.m3u8
+#EXTINF:0 tvg-rec="7",VF Комедия
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=10055/index.m3u8
+#EXTINF:0 tvg-rec="7",VF Катастрофы
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=10080/index.m3u8
+#EXTINF:0 tvg-rec="7",VF Marvel
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=10081/index.m3u8
+#EXTINF:0 tvg-rec="7",VF Военные
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=10082/index.m3u8
+#EXTINF:0 tvg-rec="7",VF Наша победа
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=10083/index.m3u8
+#EXTINF:0 tvg-rec="7",VF Мосфильм
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=10084/index.m3u8
+#EXTINF:0 tvg-rec="7",VF Фильмы СССР
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=10085/index.m3u8
+#EXTINF:0 tvg-rec="7",VF Мультфильмы СССР
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=10086/index.m3u8
+#EXTINF:0 tvg-rec="7",VF Боевик
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=10087/index.m3u8
+#EXTINF:0 tvg-rec="7",FlixSnip HD
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=10060/index.m3u8
+#EXTINF:0 tvg-rec="0",Shot TV
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=526/index.m3u8
+#EXTINF:0 tvg-rec="7",CineMan
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=11004/index.m3u8
+#EXTINF:0 tvg-rec="7",CineMan Top
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=11005/index.m3u8
+#EXTINF:0 tvg-rec="7",CineMan Action
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=11006/index.m3u8
+#EXTINF:0 tvg-rec="7",CineMan Thriller
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=11007/index.m3u8
+#EXTINF:0 tvg-rec="7",CineMan Мелодрама
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=11008/index.m3u8
+#EXTINF:0 tvg-rec="7",CineMan Marvel
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=11009/index.m3u8
+#EXTINF:0 tvg-rec="7",CineMan Ужасы
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=11010/index.m3u8
+#EXTINF:0 tvg-rec="7",CineMan Комедия
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=11011/index.m3u8
+#EXTINF:0 tvg-rec="7",CineMan VHS
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=11012/index.m3u8
+#EXTINF:0 tvg-rec="7",CineMan РуКино
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=11013/index.m3u8
+#EXTINF:0 tvg-rec="7",CineMan Сваты
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=11014/index.m3u8
+#EXTINF:0 tvg-rec="0",CineMan Катастрофы
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=15106/index.m3u8
+#EXTINF:0 tvg-rec="0",CineMan Ментовские войны
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=16063/index.m3u8
+#EXTINF:0 tvg-rec="0",CineMan ПёС + Лихач
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=16064/index.m3u8
+#EXTINF:0 tvg-rec="0",CineMan Лесник
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=16065/index.m3u8
+#EXTINF:0 tvg-rec="7",StrahTV The X-Files
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=11055/index.m3u8
+#EXTINF:0 tvg-rec="7",StrahTV Интерны ТВ
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=11060/index.m3u8
+#EXTINF:0 tvg-rec="7",StrahTV СССР
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=11061/index.m3u8
+#EXTINF:0 tvg-rec="7",StrahTV Сваты
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=11062/index.m3u8
+#EXTINF:0 tvg-rec="7",StrahTV Универ ТВ
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=11063/index.m3u8
+#EXTINF:0 tvg-rec="7",PG USSR HD
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=11102/index.m3u8
+#EXTINF:0 tvg-rec="0",PG VHS HD
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=15000/index.m3u8
+#EXTINF:0 tvg-rec="0",VB VHS Classic
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=19429/index.m3u8
+#EXTINF:0 tvg-rec="0",VF TOP Series
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=11116/index.m3u8
+#EXTINF:0 tvg-rec="0",VF VHS Cartoon
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=11118/index.m3u8
+#EXTINF:0 tvg-rec="0",VF Art house
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=11119/index.m3u8
+#EXTINF:0 tvg-rec="0",VF Detective
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=11120/index.m3u8
+#EXTINF:0 tvg-rec="0",VF Fantastic
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=11121/index.m3u8
+#EXTINF:0 tvg-rec="0",VF Оскар
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=11122/index.m3u8
+#EXTINF:0 tvg-rec="0",VF Малыш
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=11123/index.m3u8
+#EXTINF:0 tvg-rec="0",TOP Великолепный Век HD
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=13001/index.m3u8
+#EXTINF:0 tvg-rec="0",TOP 80 S HD
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=13002/index.m3u8
+#EXTINF:0 tvg-rec="0",Premier Sports 2 HD UK
+#EXTGRP:🇦🇿 Azərbaycan
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=2069/index.m3u8
+#EXTINF:0 tvg-rec="0",TOP BUDO HD
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=13003/index.m3u8
+#EXTINF:0 tvg-rec="0",TOP Cinema HD
+
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=13004/index.m3u8
+#EXTINF:0 tvg-rec="0",TOP USSR HD
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=13005/index.m3u8
+#EXTINF:0 tvg-rec="0",TOP MIX HD
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=13006/index.m3u8
+#EXTINF:0 tvg-rec="0",MM 007 HD
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=13009/index.m3u8
+#EXTINF:0 tvg-rec="0",MM Love HD
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=13010/index.m3u8
+#EXTINF:0 tvg-rec="0",MM NewFilm 1 HD
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=13011/index.m3u8
+#EXTINF:0 tvg-rec="0",MM NewFilm 2 HD
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=13012/index.m3u8
+#EXTINF:0 tvg-rec="0",MM NewFilm 3 HD
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=13013/index.m3u8
+#EXTINF:0 tvg-rec="0",MM NewFilm RU HD
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=13014/index.m3u8
+#EXTINF:0 tvg-rec="0",MM Rock HD
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=13015/index.m3u8
+#EXTINF:0 tvg-rec="0",MM Tom and Jerry HD
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=13016/index.m3u8
+#EXTINF:0 tvg-rec="0",MM UFO HD
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=13017/index.m3u8
+#EXTINF:0 tvg-rec="0",MM USSR 1941-1945 HD
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=13018/index.m3u8
+#EXTINF:0 tvg-rec="0",MM USSR Комедия HD
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=13019/index.m3u8
+#EXTINF:0 tvg-rec="0",MM USSR Мультфильм HD
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=13020/index.m3u8
+#EXTINF:0 tvg-rec="0",MM USSR Сказки HD
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=13021/index.m3u8
+#EXTINF:0 tvg-rec="0",MM USSR Драма HD
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=13022/index.m3u8
+#EXTINF:0 tvg-rec="0",MM World Hits HD
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=13023/index.m3u8
+#EXTINF:0 tvg-rec="0",MM Агата Кристи HD
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=13024/index.m3u8
+#EXTINF:0 tvg-rec="0",MM Грайндхаус HD
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=13025/index.m3u8
+#EXTINF:0 tvg-rec="0",MM Honey HD
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=13026/index.m3u8
+#EXTINF:0 tvg-rec="0",MM Боевик Classic HD
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=13027/index.m3u8
+#EXTINF:0 tvg-rec="0",MM Боевик HD
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=13028/index.m3u8
+#EXTINF:0 tvg-rec="0",MM Вестерн HD
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=13029/index.m3u8
+#EXTINF:0 tvg-rec="0",MM Воронины HD
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=13031/index.m3u8
+#EXTINF:0 tvg-rec="0",MM Затмение HD
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=13032/index.m3u8
+#EXTINF:0 tvg-rec="0",MM История HD
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=13033/index.m3u8
+#EXTINF:0 tvg-rec="0",MM Катастрофа HD
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=13034/index.m3u8
+#EXTINF:0 tvg-rec="0",MM Квартирник HD
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=13035/index.m3u8
+#EXTINF:0 tvg-rec="0",MM Киберпанк HD
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=13036/index.m3u8
+#EXTINF:0 tvg-rec="0",MM Комедия Classic HD
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=13037/index.m3u8
+#EXTINF:0 tvg-rec="0",MM Комедия HD
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=13038/index.m3u8
+#EXTINF:0 tvg-rec="0",MM Криминал HD
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=13039/index.m3u8
+#EXTINF:0 tvg-rec="0",MM Крутые 90-е HD
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=13040/index.m3u8
+#EXTINF:0 tvg-rec="0",MM Кунг-Фу HD
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=13041/index.m3u8
+#EXTINF:0 tvg-rec="0",MM Lesson HD
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=13042/index.m3u8
+#EXTINF:0 tvg-rec="0",MM Smile HD
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=13043/index.m3u8
+#EXTINF:0 tvg-rec="0",MM Мифология HD
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=13044/index.m3u8
+#EXTINF:0 tvg-rec="0",MM Нуар HD
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=13045/index.m3u8
+#EXTINF:0 tvg-rec="0",MM Ситком 2.0 HD
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=13046/index.m3u8
+#EXTINF:0 tvg-rec="0",MM Погружение HD
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=13047/index.m3u8
+#EXTINF:0 tvg-rec="0",MM Приключения HD
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=13048/index.m3u8
+#EXTINF:0 tvg-rec="0",MM Полицейский с Рублёвки HD
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=13049/index.m3u8
+#EXTINF:0 tvg-rec="0",MM Роскино HD
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=13050/index.m3u8
+#EXTINF:0 tvg-rec="0",MM Сваты HD
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=13051/index.m3u8
+#EXTINF:0 tvg-rec="0",MM Ситком HD
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=13052/index.m3u8
+#EXTINF:0 tvg-rec="0",MM Скорость HD
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=13053/index.m3u8
+#EXTINF:0 tvg-rec="0",MM Спорт HD
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=13054/index.m3u8
+#EXTINF:0 tvg-rec="0",MM Стивен Кинг HD
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=13055/index.m3u8
+#EXTINF:0 tvg-rec="0",MM Супергерои HD
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=13056/index.m3u8
+#EXTINF:0 tvg-rec="0",MM Flip UHD
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=13057/index.m3u8
+#EXTINF:0 tvg-rec="0",MM Триллер HD
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=13058/index.m3u8
+#EXTINF:0 tvg-rec="0",MM Ужастик HD
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=13059/index.m3u8
+#EXTINF:0 tvg-rec="0",MM USSR Приключения HD
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=13060/index.m3u8
+#EXTINF:0 tvg-rec="0",MM Синематограф HD
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=13061/index.m3u8
+#EXTINF:0 tvg-rec="0",MM Фантастика HD
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=13062/index.m3u8
+#EXTINF:0 tvg-rec="0",MM Фобия HD
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=13063/index.m3u8
+#EXTINF:0 tvg-rec="0",MM Walt Disney HD
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=13064/index.m3u8
+#EXTINF:0 tvg-rec="0",MM Live Planet HD
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=13095/index.m3u8
+#EXTINF:0 tvg-rec="0",MM USSR Детектив HD
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=13096/index.m3u8
+#EXTINF:0 tvg-rec="0",MM Семейный 1 HD
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=13097/index.m3u8
+#EXTINF:0 tvg-rec="0",MM Семейный 2 HD
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=13098/index.m3u8
+#EXTINF:0 tvg-rec="0",MM Ужасы HD
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=13099/index.m3u8
+#EXTINF:0 tvg-rec="0",MM Ужасы Classic HD
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=14128/index.m3u8
+#EXTINF:0 tvg-rec="0",MM Celebrity HD
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=16084/index.m3u8
+#EXTINF:0 tvg-rec="0",MM Classic HD
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=16085/index.m3u8
+#EXTINF:0 tvg-rec="0",MM Драма HD
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=16086/index.m3u8
+#EXTINF:0 tvg-rec="0",VF Сваты
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=13080/index.m3u8
+#EXTINF:0 tvg-rec="0",VF Солдаты
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=13081/index.m3u8
+#EXTINF:0 tvg-rec="0",VF Тайны следствия
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=13082/index.m3u8
+#EXTINF:0 tvg-rec="0",VF Воронины
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=13083/index.m3u8
+#EXTINF:0 tvg-rec="0",VF Универ
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=13084/index.m3u8
+#EXTINF:0 tvg-rec="0",VF Series
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=13085/index.m3u8
+#EXTINF:0 tvg-rec="0",VF След
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=13086/index.m3u8
+#EXTINF:0 tvg-rec="0",VF Сериал
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=13087/index.m3u8
+#EXTINF:0 tvg-rec="0",VF Мыльные оперы
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=13088/index.m3u8
+#EXTINF:0 tvg-rec="0",VF Thriller
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=13089/index.m3u8
+#EXTINF:0 tvg-rec="0",VF Индия
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=13090/index.m3u8
+#EXTINF:0 tvg-rec="0",VF История
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=13091/index.m3u8
+#EXTINF:0 tvg-rec="0",VF Comics
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=13092/index.m3u8
+#EXTINF:0 tvg-rec="0",VF Криминал
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=13093/index.m3u8
+#EXTINF:0 tvg-rec="0",VF Клиника
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=13094/index.m3u8
+#EXTINF:0 tvg-rec="0",VF Луи де Фюнес
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=17000/index.m3u8
+#EXTINF:0 tvg-rec="0",VF Чернобыль
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=17001/index.m3u8
+#EXTINF:0 tvg-rec="0",VF The X-Files
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=17002/index.m3u8
+#EXTINF:0 tvg-rec="0",VF Сверхъестественное
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=17003/index.m3u8
+#EXTINF:0 tvg-rec="0",VF Леонид Гайдай
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=17004/index.m3u8
+#EXTINF:0 tvg-rec="0",VF Американская история ужасов
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=17005/index.m3u8
+#EXTINF:0 tvg-rec="0",VF Друзья
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=17006/index.m3u8
+#EXTINF:0 tvg-rec="0",VF СашаТаня
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=17008/index.m3u8
+#EXTINF:0 tvg-rec="0",VF Джеки Чан
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=17009/index.m3u8
+#EXTINF:0 tvg-rec="0",VF Наша Раша
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=17010/index.m3u8
+#EXTINF:0 tvg-rec="0",VF Привет из 90х
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=17011/index.m3u8
+#EXTINF:0 tvg-rec="0",VF Эльдар Рязанов
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=17012/index.m3u8
+#EXTINF:0 tvg-rec="0",VF Универ новая общага
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=17013/index.m3u8
+#EXTINF:0 tvg-rec="0",VF Ходячие мертвецы
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=17014/index.m3u8
+#EXTINF:0 tvg-rec="0",VF Реальные пацаны
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=17015/index.m3u8
+#EXTINF:0 tvg-rec="0",VF Доктор Хаус
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=17016/index.m3u8
+#EXTINF:0 tvg-rec="0",VF Без цензуры
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=17017/index.m3u8
+#EXTINF:0 tvg-rec="0",VF Городок
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=18097/index.m3u8
+#EXTINF:0 tvg-rec="0",VF Comedy Woman
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=18101/index.m3u8
+#EXTINF:0 tvg-rec="0",VF Игра престолов
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=18119/index.m3u8
+#EXTINF:0 tvg-rec="0",VF Одесская киностудия
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=18120/index.m3u8
+#EXTINF:0 tvg-rec="0",VF Ленфильм
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=18121/index.m3u8
+#EXTINF:0 tvg-rec="0",VF Киностудия им. Горького
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=18122/index.m3u8
+#EXTINF:0 tvg-rec="0",VF Рижская киностудия
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=18123/index.m3u8
+#EXTINF:0 tvg-rec="0",VF Свердловская киностудия
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=18124/index.m3u8
+#EXTINF:0 tvg-rec="0",VF Беларусьфильм
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=18125/index.m3u8
+#EXTINF:0 tvg-rec="0",VF Однажды в России
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=19286/index.m3u8
+#EXTINF:0 tvg-rec="0",VF Netflix
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=19427/index.m3u8
+#EXTINF:0 tvg-rec="0",VF HBO
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=19428/index.m3u8
+#EXTINF:0 tvg-rec="0",Z!Channel HD
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=14134/index.m3u8
+#EXTINF:0 tvg-rec="0",Z!Comedy HD
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=14135/index.m3u8
+#EXTINF:0 tvg-rec="0",Z!Crime HD
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=14136/index.m3u8
+#EXTINF:0 tvg-rec="0",Z!Horror HD
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=14137/index.m3u8
+#EXTINF:0 tvg-rec="0",Yosso TV Grand
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=14171/index.m3u8
+#EXTINF:0 tvg-rec="0",Yosso TV VHS
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=14172/index.m3u8
+#EXTINF:0 tvg-rec="0",Yosso TV Русские Фильмы
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=14174/index.m3u8
+#EXTINF:0 tvg-rec="0",Yosso TV Советские Фильмы
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=14175/index.m3u8
+#EXTINF:0 tvg-rec="0",Yosso TV New Кино
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=14177/index.m3u8
+#EXTINF:0 tvg-rec="0",Yosso TV Music Hits
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=14179/index.m3u8
+#EXTINF:0 tvg-rec="0",Yosso TV Трагичное
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=14219/index.m3u8
+#EXTINF:0 tvg-rec="0",Yosso TV Забавное
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=14234/index.m3u8
+#EXTINF:0 tvg-rec="0",Yosso TV Ковбойское
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=14235/index.m3u8
+#EXTINF:0 tvg-rec="0",Yosso TV Best
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=14236/index.m3u8
+#EXTINF:0 tvg-rec="0",Yosso TV Adrenaline
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=15105/index.m3u8
+#EXTINF:0 tvg-rec="0",Yosso TV Thriller
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=15168/index.m3u8
+#EXTINF:0 tvg-rec="0",Yosso TV Oblivion
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=15509/index.m3u8
+#EXTINF:0 tvg-rec="0",Yosso TV Adventure
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=15510/index.m3u8
+#EXTINF:0 tvg-rec="0",Yosso TV Мелодрама
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=19434/index.m3u8
+#EXTINF:0 tvg-rec="0",Yosso TV Netflix
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=20163/index.m3u8
+#EXTINF:0 tvg-rec="0",Yosso TV Disney
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=20164/index.m3u8
+#EXTINF:0 tvg-rec="0",Yosso TV Best 60fps
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=20165/index.m3u8
+#EXTINF:0 tvg-rec="0",Citrus Comedy
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=16151/index.m3u8
+#EXTINF:0 tvg-rec="0",Citrus Inquest
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=16152/index.m3u8
+#EXTINF:0 tvg-rec="0",Citrus History
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=18139/index.m3u8
+#EXTINF:0 tvg-rec="0",Твое ТВ HD
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=14229/index.m3u8
+#EXTINF:0 tvg-rec="0",BCU Media HD OLD
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=15024/index.m3u8
+#EXTINF:0 tvg-rec="0",BCU Marvel HD
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=15025/index.m3u8
+#EXTINF:0 tvg-rec="0",BCU Comedy HD
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=15026/index.m3u8
+#EXTINF:0 tvg-rec="0",BCU Reality OLD
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=16083/index.m3u8
+#EXTINF:0 tvg-rec="0",BCU Survival OLD
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=17020/index.m3u8
+#EXTINF:0 tvg-rec="0",BCU Romantic OLD
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=18052/index.m3u8
+#EXTINF:0 tvg-rec="0",Liberty DC FHD
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=15087/index.m3u8
+#EXTINF:0 tvg-rec="0",Liberty Ужасы 4K
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=15088/index.m3u8
+#EXTINF:0 tvg-rec="0",Liberty Триллеры 4K
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=15089/index.m3u8
+#EXTINF:0 tvg-rec="0",Liberty Марвел FHD
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=15090/index.m3u8
+#EXTINF:0 tvg-rec="0",Liberty Короткометражки FHD
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=15091/index.m3u8
+#EXTINF:0 tvg-rec="0",Liberty Мелодрамы FHD
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=15095/index.m3u8
+#EXTINF:0 tvg-rec="0",Liberty Боевики FHD
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=15096/index.m3u8
+#EXTINF:0 tvg-rec="0",Liberty Кино Микс 4K
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=15110/index.m3u8
+#EXTINF:0 tvg-rec="0",Liberty Симпсоны FHD
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=15111/index.m3u8
+#EXTINF:0 tvg-rec="0",Liberty Сваты FHD
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=15164/index.m3u8
+#EXTINF:0 tvg-rec="0",Liberty Южный Парк FHD
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=16053/index.m3u8
+#EXTINF:0 tvg-rec="0",Liberty Комедии FHD
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=16054/index.m3u8
+#EXTINF:0 tvg-rec="0",Liberty Сериалы FHD
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=16055/index.m3u8
+#EXTINF:0 tvg-rec="0",Liberty Кино ENG 4K
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=17060/index.m3u8
+#EXTINF:0 tvg-rec="0",Liberty Мульт ENG 4K
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=17061/index.m3u8
+#EXTINF:0 tvg-rec="0",Liberty Мульт UKR 4K
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=18044/index.m3u8
+#EXTINF:0 tvg-rec="0",Liberty Кино UKR 4K
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=18045/index.m3u8
+#EXTINF:0 tvg-rec="0",Liberty РусФильм 4K
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=18046/index.m3u8
+#EXTINF:0 tvg-rec="0",Liberty Мульт 4K
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=18051/index.m3u8
+#EXTINF:0 tvg-rec="0",Liberty Индия 4K
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=18160/index.m3u8
+#EXTINF:0 tvg-rec="0",Liberty Куб 4K
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=18161/index.m3u8
+#EXTINF:0 tvg-rec="0",Liberty Семейный 4K
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=18178/index.m3u8
+#EXTINF:0 tvg-rec="0",CineMan Скорая Помощь
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=15100/index.m3u8
+#EXTINF:0 tvg-rec="0",CineMan Симпсоны
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=15101/index.m3u8
+#EXTINF:0 tvg-rec="0",CineMan MiniSeries
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=19437/index.m3u8
+#EXTINF:0 tvg-rec="0",MS Prisons HD
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=15137/index.m3u8
+#EXTINF:0 tvg-rec="0",MS Toons HD
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=15138/index.m3u8
+#EXTINF:0 tvg-rec="0",MS Magic 4K
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=16143/index.m3u8
+#EXTINF:0 tvg-rec="0",MS Young Blood HD
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=16147/index.m3u8
+#EXTINF:0 tvg-rec="0",MS Animated HD
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=17024/index.m3u8
+#EXTINF:0 tvg-rec="0",Citrus Marvel
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=16051/index.m3u8
+#EXTINF:0 tvg-rec="0",Citrus Cartoon
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=16050/index.m3u8
+#EXTINF:0 tvg-rec="0",Fresh Cinema
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=19287/index.m3u8
+#EXTINF:0 tvg-rec="0",Fresh Kids
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=19288/index.m3u8
+#EXTINF:0 tvg-rec="0",Fresh Comedy
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=19289/index.m3u8
+#EXTINF:0 tvg-rec="0",Fresh Premiere
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=19290/index.m3u8
+#EXTINF:0 tvg-rec="0",Fresh Family
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=19291/index.m3u8
+#EXTINF:0 tvg-rec="0",Fresh Rating
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=19292/index.m3u8
+#EXTINF:0 tvg-rec="0",Fresh VHS
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=19293/index.m3u8
+#EXTINF:0 tvg-rec="0",Fresh Fantastic
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=19294/index.m3u8
+#EXTINF:0 tvg-rec="0",Fresh Series
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=19295/index.m3u8
+#EXTINF:0 tvg-rec="0",Fresh Horror
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=19296/index.m3u8
+#EXTINF:0 tvg-rec="0",Fresh Adventure
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=19297/index.m3u8
+#EXTINF:0 tvg-rec="0",Fresh Romantic
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=19298/index.m3u8
+#EXTINF:0 tvg-rec="0",Fresh Russian
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=19299/index.m3u8
+#EXTINF:0 tvg-rec="0",Fresh Thriller
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=19300/index.m3u8
+#EXTINF:0 tvg-rec="0",Fresh Soviet
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=19301/index.m3u8
+#EXTINF:0 tvg-rec="0",Cine+ Classic HD FR
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=17039/index.m3u8
+#EXTINF:0 tvg-rec="0",Eye Media HD
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=17064/index.m3u8
+#EXTINF:0 tvg-rec="0",Eye Oscar HD
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=17065/index.m3u8
+#EXTINF:0 tvg-rec="0",Eye Frozen HD
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=17066/index.m3u8
+#EXTINF:0 tvg-rec="0",Eye Criminal HD
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=17067/index.m3u8
+#EXTINF:0 tvg-rec="0",Eye Modern HD
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=17068/index.m3u8
+#EXTINF:0 tvg-rec="0",START Air HD
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=18036/index.m3u8
+#EXTINF:0 tvg-rec="0",VB Российские Сериалы
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=18043/index.m3u8
+#EXTINF:0 tvg-rec="0",Magic Karate HD
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=18061/index.m3u8
+#EXTINF:0 tvg-rec="0",Magic VHS HD
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=18062/index.m3u8
+#EXTINF:0 tvg-rec="0",Magic Comedy HD
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=18063/index.m3u8
+#EXTINF:0 tvg-rec="0",Magic Disney HD
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=18064/index.m3u8
+#EXTINF:0 tvg-rec="0",Magic Thriller HD
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=18065/index.m3u8
+#EXTINF:0 tvg-rec="0",Magic Action HD
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=18066/index.m3u8
+#EXTINF:0 tvg-rec="0",Magic Galaxy HD
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=18067/index.m3u8
+#EXTINF:0 tvg-rec="0",Magic Horror HD
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=18068/index.m3u8
+#EXTINF:0 tvg-rec="0",Magic Family HD
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=18170/index.m3u8
+#EXTINF:0 tvg-rec="0",Magic Love HD
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=18171/index.m3u8
+#EXTINF:0 tvg-rec="0",Tviksel Кино 1 HD
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=18069/index.m3u8
+#EXTINF:0 tvg-rec="0",Tviksel Кино 2 HD
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=18070/index.m3u8
+#EXTINF:0 tvg-rec="0",Tviksel Кино 1 International
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=18071/index.m3u8
+#EXTINF:0 tvg-rec="0",Tviksel Военное кино HD
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=18072/index.m3u8
+#EXTINF:0 tvg-rec="0",Tviksel Детское кино HD
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=18073/index.m3u8
+#EXTINF:0 tvg-rec="0",Tviksel Детское кино International
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=18074/index.m3u8
+#EXTINF:0 tvg-rec="0",Триколор Шерлок Холмс и доктор Ватсон
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=18126/index.m3u8
+#EXTINF:0 tvg-rec="0",Триколор След
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=18127/index.m3u8
+#EXTINF:0 tvg-rec="0",Триколор Ментовские войны
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=18128/index.m3u8
+#EXTINF:0 tvg-rec="0",Триколор Мелодрамы
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=18129/index.m3u8
+#EXTINF:0 tvg-rec="0",Триколор Семнадцать мгновений весны
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=18130/index.m3u8
+#EXTINF:0 tvg-rec="0",Триколор Некрасивая подружка
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=18131/index.m3u8
+#EXTINF:0 tvg-rec="0",Триколор Три богатыря
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=18132/index.m3u8
+#EXTINF:0 tvg-rec="0",Триколор Сибирские деревянные дома
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=18133/index.m3u8
+#EXTINF:0 tvg-rec="0",Триколор Знание
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=18134/index.m3u8
+#EXTINF:0 tvg-rec="0",Триколор Советские мультфильмы
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=18135/index.m3u8
+#EXTINF:0 tvg-rec="0",Триколор Смешарики
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=18136/index.m3u8
+#EXTINF:0 tvg-rec="0",Триколор Комедии
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=18137/index.m3u8
+#EXTINF:0 tvg-rec="0",Миллет HD (Крым)
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=19258/index.m3u8
+#EXTINF:0 tvg-rec="0",BOX Franchise HD
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=19274/index.m3u8
+#EXTINF:0 tvg-rec="0",BOX Hybrid HD
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=19275/index.m3u8
+#EXTINF:0 tvg-rec="0",BOX Anime HD
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=19276/index.m3u8
+#EXTINF:0 tvg-rec="0",BOX Gangster HD
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=19277/index.m3u8
+#EXTINF:0 tvg-rec="0",BOX Oscar HD
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=19278/index.m3u8
+#EXTINF:0 tvg-rec="0",BOX Memory HD
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=19279/index.m3u8
+#EXTINF:0 tvg-rec="0",BOX Game HD
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=19284/index.m3u8
+#EXTINF:0 tvg-rec="0",BOX Spy HD
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=19285/index.m3u8
+#EXTINF:0 tvg-rec="0",BOX Travel HD
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=19418/index.m3u8
+#EXTINF:0 tvg-rec="0",BOX Western HD
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=19419/index.m3u8
+#EXTINF:0 tvg-rec="0",BOX Zombie HD
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=19420/index.m3u8
+#EXTINF:0 tvg-rec="0",BOX Cyber HD
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=19421/index.m3u8
+#EXTINF:0 tvg-rec="0",PG Insomnia HD
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=19398/index.m3u8
+#EXTINF:0 tvg-rec="0",MYTV
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=19407/index.m3u8
+#EXTINF:0 tvg-rec="0",MYTV 2
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=19408/index.m3u8
+#EXTINF:0 tvg-rec="0",MYTV HIT
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=19410/index.m3u8
+#EXTINF:0 tvg-rec="0",MYTV 3
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=19411/index.m3u8
+#EXTINF:0 tvg-rec="0",MM OldSchool HD
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=19413/index.m3u8
+#EXTINF:0 tvg-rec="0",MM Family Guy HD
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=19414/index.m3u8
+#EXTINF:0 tvg-rec="0",Citrus Live HD
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=19436/index.m3u8
+#EXTINF:0 tvg-rec="0",Рибалка HD UA
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=31743/index.m3u8
+#EXTINF:0 tvg-rec="0",Суспільне Крим FHD UA
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=31746/index.m3u8
+#EXTINF:0 tvg-rec="0",Перший Західний HD UA
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=31752/index.m3u8
+#EXTINF:0 tvg-rec="0",Терра UA
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=31753/index.m3u8
+#EXTINF:0 tvg-rec="0",UTravel HD UA
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=31762/index.m3u8
+#EXTINF:0 tvg-rec="0",Viasat Kino Comedy HD
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=31764/index.m3u8
+#EXTINF:0 tvg-rec="0",Viasat Kino HD
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=31765/index.m3u8
+#EXTINF:0 tvg-rec="0",Viasat Nature CEE HD
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=31766/index.m3u8
+#EXTINF:0 tvg-rec="0",Viasat Kino World
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=31767/index.m3u8
+#EXTINF:0 tvg-rec="0",Ісландія HD UA
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=31769/index.m3u8
+#EXTINF:0 tvg-rec="0",Галичина HD UA
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=31772/index.m3u8
+#EXTINF:0 tvg-rec="0",Kvartal TV HD UA
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=31780/index.m3u8
+#EXTINF:0 tvg-rec="0",11 Канал HD (Дніпро) UA
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=31785/index.m3u8
+#EXTINF:0 tvg-rec="0",36.6 TV UA
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=31787/index.m3u8
+#EXTINF:0 tvg-rec="0",4ever Cinema HD UA
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=31788/index.m3u8
+#EXTINF:0 tvg-rec="0",Cine+ Kids HD UA
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=31796/index.m3u8
+#EXTINF:0 tvg-rec="0",Cine+ Legend HD UA
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=31797/index.m3u8
+#EXTINF:0 tvg-rec="0",D1 HD UA
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=31798/index.m3u8
+#EXTINF:0 tvg-rec="0",Fashion TV HD UA
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=31804/index.m3u8
+#EXTINF:0 tvg-rec="0",Kinosweet HD UA
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=31816/index.m3u8
+#EXTINF:0 tvg-rec="0",StrahTV Ольга HD
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=31718/index.m3u8
+#EXTINF:0 tvg-rec="0",StrahTV Репка HD
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=31719/index.m3u8
+#EXTINF:0 tvg-rec="0",StrahTV Страх 2.0 HD
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=31720/index.m3u8
+#EXTINF:0 tvg-rec="0",StrahTV Фантастика 2.0 HD
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=31722/index.m3u8
+#EXTINF:0 tvg-rec="0",Українське радіо 1 UA
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=31724/index.m3u8
+#EXTINF:0 tvg-rec="0",Українське радіо 3 UA
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=31725/index.m3u8
+#EXTINF:0 tvg-rec="0",Фауна UA
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=31727/index.m3u8
+#EXTINF:0 tvg-rec="0",StrahTV Байки из склепа
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=31711/index.m3u8
+#EXTINF:0 tvg-rec="0",StrahTV Кинодром HD
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=31714/index.m3u8
+#EXTINF:0 tvg-rec="0",StrahTV Громовы
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=31712/index.m3u8
+#EXTINF:0 tvg-rec="0",StrahTV Коломбо
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=31713/index.m3u8
+#EXTINF:0 tvg-rec="0",StrahTV Однажды в милиции
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=31715/index.m3u8
+#EXTINF:0 tvg-rec="0",Z!History HD
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=31695/index.m3u8
+#EXTINF:0 tvg-rec="0",Z!Biography HD
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=31697/index.m3u8
+#EXTINF:0 tvg-rec="0",Z!Military HD
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=31696/index.m3u8
+#EXTINF:0 tvg-rec="0",Z!Adventure HD
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=31698/index.m3u8
+#EXTINF:0 tvg-rec="0",Z!Detective HD
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=31699/index.m3u8
+#EXTINF:0 tvg-rec="0",Z!Family HD
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=31701/index.m3u8
+#EXTINF:0 tvg-rec="0",Z!Drama HD
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=31700/index.m3u8
+#EXTINF:0 tvg-rec="0",Z!Fantasy HD
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=31703/index.m3u8
+#EXTINF:0 tvg-rec="0",Z!Russian HD
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=31704/index.m3u8
+#EXTINF:0 tvg-rec="0",Z!Science HD
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=31705/index.m3u8
+#EXTINF:0 tvg-rec="0",Z!Fun HD
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=31706/index.m3u8
+#EXTINF:0 tvg-rec="0",Z!Fantastic HD
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=31702/index.m3u8
+#EXTINF:0 tvg-rec="0",Z!Thriller HD
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=31693/index.m3u8
+#EXTINF:0 tvg-rec="0",Z!Action HD
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=31694/index.m3u8
+#EXTINF:0 tvg-rec="0",Calle 13 HD ES
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=31836/index.m3u8
+#EXTINF:0 tvg-rec="0",M+ Drama HD ES
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=31866/index.m3u8
+#EXTINF:0 tvg-rec="0",M+ Acción HD ES
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=31868/index.m3u8
+#EXTINF:0 tvg-rec="0",M+ Comedia HD ES
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=31869/index.m3u8
+#EXTINF:0 tvg-rec="0",M+ Cine Español HD ES
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=31870/index.m3u8
+#EXTINF:0 tvg-rec="0",M+ Estrenos HD ES
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=31872/index.m3u8
+#EXTINF:0 tvg-rec="0",Warner TV HD ES
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=31873/index.m3u8
+#EXTINF:0 tvg-rec="0",AXN HD ES
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=31877/index.m3u8
+#EXTINF:0 tvg-rec="0",SYFY HD ES
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=31880/index.m3u8
+#EXTINF:0 tvg-rec="0",Atreseries HD ES
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=31882/index.m3u8
+#EXTINF:0 tvg-rec="0",TCM HD ES
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=31883/index.m3u8
+#EXTINF:0 tvg-rec="0",КиноСезон HD
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=31889/index.m3u8
+#EXTINF:0 tvg-rec="0",Suspenso HD ES
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=31906/index.m3u8
+#EXTINF:0 tvg-rec="0",КиноКульт HD
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=31914/index.m3u8
+#EXTINF:0 tvg-rec="0",Госфильмофонд. Машина времени HD
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=31929/index.m3u8
+#EXTINF:0 tvg-rec="0",VHS-ка Сериал HD
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=31931/index.m3u8
+#EXTINF:0 tvg-rec="0",Зал 2
+#EXTGRP:🎬 Film
+#EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
+https://3bneoplay65.xyz/M2/stream.php?stream=2569/index.m3u8
+
+#EXTINF:-1,[Sc] Cinema
+#EXTGRP:Sc-Film
+http://162.19.205.146/12000/index.m3u8?token=2BA6E49CC7B2
+#EXTINF:-1,[Sc] Mult
+#EXTGRP:Sc-Film
+http://162.19.205.146/11999/index.m3u8?token=2BA6E49CC7B2
+#EXTINF:-1,[Sc] Louis de Funes
+#EXTGRP:Sc-Film
+http://162.19.205.146/11997/index.m3u8?token=2BA6E49CC7B2
+#EXTINF:-1,[Sc] James Bond
+#EXTGRP:Sc-Film
+http://162.19.205.146/11998/index.m3u8?token=2BA6E49CC7B2
+#EXTINF:-1,[Sc] Mission Impossible
+#EXTGRP:Sc-Film
+http://162.19.205.146/11996/index.m3u8?token=2BA6E49CC7B2
+#EXTINF:-1,[Sc] Jurassic Park
+#EXTGRP:Sc-Film
+http://162.19.205.146/11995/index.m3u8?token=2BA6E49CC7B2
+#EXTINF:-1,[Sc] Pirates of the Caribbean
+#EXTGRP:Sc-Film
+http://162.19.205.146/11994/index.m3u8?token=2BA6E49CC7B2
+#EXTINF:-1,[Sc] Harry Potter
+#EXTGRP:Sc-Film
+http://162.19.205.146/11993/index.m3u8?token=2BA6E49CC7B2
+#EXTINF:-1,[Sc] The Lord of the Rings & The Hobbit
+#EXTGRP:Sc-Film
+http://162.19.205.146/11992/index.m3u8?token=2BA6E49CC7B2
+#EXTINF:-1,[Sc] Star Wars
+#EXTGRP:Sc-Film
+http://162.19.205.146/11991/index.m3u8?token=2BA6E49CC7B2
+#EXTINF:-1,[Sc] Terminator
+#EXTGRP:Sc-Film
+http://162.19.205.146/11990/index.m3u8?token=2BA6E49CC7B2
+#EXTINF:-1,[Sc] Transformers
+#EXTGRP:Sc-Film
+http://162.19.205.146/11989/index.m3u8?token=2BA6E49CC7B2
+#EXTINF:-1,[Sc] Форсаж
+#EXTGRP:Sc-Film
+http://162.19.205.146/11988/index.m3u8?token=2BA6E49CC7B2
+#EXTINF:-1,[Sc] Такси
+#EXTGRP:Sc-Film
+http://162.19.205.146/11987/index.m3u8?token=2BA6E49CC7B2
+#EXTINF:-1,[Sc] Железный человек
+#EXTGRP:Sc-Film
+http://162.19.205.146/11986/index.m3u8?token=2BA6E49CC7B2
+#EXTINF:-1,[Sc] Сумерки. Сага.
+#EXTGRP:Sc-Film
+http://162.19.205.146/11985/index.m3u8?token=2BA6E49CC7B2
+#EXTINF:-1,[Sc] Хищник
+#EXTGRP:Sc-Film
+http://162.19.205.146/11984/index.m3u8?token=2BA6E49CC7B2
+#EXTINF:-1,[Sc] Побег из тюрьмы
+#EXTGRP:Sc-Film
+http://162.19.205.146/11983/index.m3u8?token=2BA6E49CC7B2
+#EXTINF:-1,[Sc] Люди Икс
+#EXTGRP:Sc-Film
+http://162.19.205.146/11982/index.m3u8?token=2BA6E49CC7B2
+#EXTINF:-1,[Sc] Чужой
+#EXTGRP:Sc-Film
+http://162.19.205.146/11981/index.m3u8?token=2BA6E49CC7B2
+#EXTINF:-1,[Sc] Бэтмен
+#EXTGRP:Sc-Film
+http://162.19.205.146/11980/index.m3u8?token=2BA6E49CC7B2
+#EXTINF:-1,[Sc] Рокки
+#EXTGRP:Sc-Film
+http://162.19.205.146/11979/index.m3u8?token=2BA6E49CC7B2
+#EXTINF:-1,[Sc] Джон Уик
+#EXTGRP:Sc-Film
+http://162.19.205.146/11978/index.m3u8?token=2BA6E49CC7B2
+#EXTINF:-1,[Sc] Пункт назначения
+#EXTGRP:Sc-Film
+http://162.19.205.146/11977/index.m3u8?token=2BA6E49CC7B2
+#EXTINF:-1,[Sc] Kolombo
+#EXTGRP:Sc-Film
+http://162.19.205.146/11976/index.m3u8?token=2BA6E49CC7B2
+#EXTINF:-1,[Sc] Puaro
+#EXTGRP:Sc-Film
+http://162.19.205.146/11975/index.m3u8?token=2BA6E49CC7B2
+#EXTINF:-1,[Sc] Полицейская академия
+#EXTGRP:Sc-Film
+http://162.19.205.146/11974/index.m3u8?token=2BA6E49CC7B2
+#EXTINF:-1,[Sc] Секретные материалы
+#EXTGRP:Sc-Film
+http://162.19.205.146/11973/index.m3u8?token=2BA6E49CC7B2
+#EXTINF:-1,[Sc] Секс в большом городе
+#EXTGRP:Sc-Film
+http://162.19.205.146/11972/index.m3u8?token=2BA6E49CC7B2
+#EXTINF:-1,[Sc] Закон каменных джунглей
+#EXTGRP:Sc-Film
+http://162.19.205.146/11971/index.m3u8?token=2BA6E49CC7B2
+#EXTINF:-1,[Sc] Аутсорс
+#EXTGRP:Sc-Film
+http://162.19.205.146/11970/index.m3u8?token=2BA6E49CC7B2
+#EXTINF:-1,[Sc] Анжелика
+#EXTGRP:Sc-Film
+http://162.19.205.146/11969/index.m3u8?token=2BA6E49CC7B2
+#EXTINF:-1,[Sc] Zorro
+#EXTGRP:Sc-Film
+http://162.19.205.146/11968/index.m3u8?token=2BA6E49CC7B2
+#EXTINF:-1,[Sc] Крепкий орешек
+#EXTGRP:Sc-Film
+http://162.19.205.146/20622/index.m3u8?token=2BA6E49CC7B2
+#EXTINF:-1,[Sc] Робин из Шервуда
+#EXTGRP:Sc-Film
+http://162.19.205.146/20623/index.m3u8?token=2BA6E49CC7B2
+#EXTINF:-1,[Sc] Star Trek
+#EXTGRP:Sc-Film
+http://162.19.205.146/20624/index.m3u8?token=2BA6E49CC7B2
+#EXTINF:-1,[Sc] Физрук
+#EXTGRP:Sc-Film
+http://162.19.205.146/12001/index.m3u8?token=2BA6E49CC7B2
+#EXTINF:-1,[Sc] Интерны
+#EXTGRP:Sc-Film
+http://162.19.205.146/12002/index.m3u8?token=2BA6E49CC7B2
+#EXTINF:-1,[Sc] Жуки
+#EXTGRP:Sc-Film
+http://162.19.205.146/12003/index.m3u8?token=2BA6E49CC7B2
+#EXTINF:-1,[Sc] Полицейский с Рублёвки
+#EXTGRP:Sc-Film
+http://162.19.205.146/12004/index.m3u8?token=2BA6E49CC7B2
+#EXTINF:-1,[Sc] Девушки с Макаровым
+#EXTGRP:Sc-Film
+http://162.19.205.146/12005/index.m3u8?token=2BA6E49CC7B2
+#EXTINF:-1,[Sc] Рикошет
+#EXTGRP:Sc-Film
+http://162.19.205.146/12006/index.m3u8?token=2BA6E49CC7B2
+#EXTINF:-1,[Sc] ЧОП
+#EXTGRP:Sc-Film
+http://162.19.205.146/12007/index.m3u8?token=2BA6E49CC7B2
+#EXTINF:-1,[Sc] Евгенич
+#EXTGRP:Sc-Film
+http://162.19.205.146/12008/index.m3u8?token=2BA6E49CC7B2
+#EXTINF:-1,[Sc] СашаТаня
+#EXTGRP:Sc-Film
+http://162.19.205.146/12009/index.m3u8?token=2BA6E49CC7B2
+#EXTINF:-1,[Sc] Ольга
+#EXTGRP:Sc-Film
+http://162.19.205.146/12010/index.m3u8?token=2BA6E49CC7B2
+#EXTINF:-1,[Sc] Патриот
+#EXTGRP:Sc-Film
+http://162.19.205.146/12011/index.m3u8?token=2BA6E49CC7B2
+#EXTINF:-1,[Sc] Высокие ставки
+#EXTGRP:Sc-Film
+http://162.19.205.146/12012/index.m3u8?token=2BA6E49CC7B2
+#EXTINF:-1,[Sc] Пять минут тишины
+#EXTGRP:Sc-Film
+http://162.19.205.146/12013/index.m3u8?token=2BA6E49CC7B2
+#EXTINF:-1,[Sc] Заповедный спецназ
+#EXTGRP:Sc-Film
+http://162.19.205.146/12014/index.m3u8?token=2BA6E49CC7B2
+#EXTINF:-1,[Sc] Мажор
+#EXTGRP:Sc-Film
+http://162.19.205.146/12015/index.m3u8?token=2BA6E49CC7B2
+#EXTINF:-1,[Sc] Мир! Дружба! Жвачка!
+#EXTGRP:Sc-Film
+http://162.19.205.146/12016/index.m3u8?token=2BA6E49CC7B2
+#EXTINF:-1,[Sc] Полярный
+#EXTGRP:Sc-Film
+http://162.19.205.146/12017/index.m3u8?token=2BA6E49CC7B2
+#EXTINF:-1,[Sc] Дальнобойщики
+#EXTGRP:Sc-Film
+http://162.19.205.146/12018/index.m3u8?token=2BA6E49CC7B2
+#EXTINF:-1,[Sc] Экипаж 314
+#EXTGRP:Sc-Film
+http://162.19.205.146/12019/index.m3u8?token=2BA6E49CC7B2
+#EXTINF:-1,[Sc] Чернобыль: Зона отчуждения
+#EXTGRP:Sc-Film
+http://162.19.205.146/12020/index.m3u8?token=2BA6E49CC7B2
+#EXTINF:-1,[Sc] Проект Анна Николаевна
+#EXTGRP:Sc-Film
+http://162.19.205.146/12021/index.m3u8?token=2BA6E49CC7B2
+#EXTINF:-1,[Sc] Бригада
+#EXTGRP:Sc-Film
+http://162.19.205.146/12022/index.m3u8?token=2BA6E49CC7B2
+#EXTINF:-1,[Sc] Бумер и Жмурки
+#EXTGRP:Sc-Film
+http://162.19.205.146/12023/index.m3u8?token=2BA6E49CC7B2
+#EXTINF:-1,[Sc] Друзья
+#EXTGRP:Sc-Film
+http://162.19.205.146/12024/index.m3u8?token=2BA6E49CC7B2
+#EXTINF:-1,[Sc] Беверли-Хиллз 90210
+#EXTGRP:Sc-Film
+http://162.19.205.146/12025/index.m3u8?token=2BA6E49CC7B2
+#EXTINF:-1,[Sc] Лесник
+#EXTGRP:Sc-Film
+http://162.19.205.146/12027/index.m3u8?token=2BA6E49CC7B2
+#EXTINF:-1,[Sc] Сваты
+#EXTGRP:Sc-Film
+http://162.19.205.146/12028/index.m3u8?token=2BA6E49CC7B2
+#EXTINF:-1,[Sc] Телохранители
+#EXTGRP:Sc-Film
+http://162.19.205.146/12029/index.m3u8?token=2BA6E49CC7B2
+#EXTINF:-1,[Sc] Шеф
+#EXTGRP:Sc-Film
+http://162.19.205.146/12030/index.m3u8?token=2BA6E49CC7B2
+#EXTINF:-1,[Sc] Первый отдел
+#EXTGRP:Sc-Film
+http://162.19.205.146/12031/index.m3u8?token=2BA6E49CC7B2
+#EXTINF:-1,[Sc] Невский
+#EXTGRP:Sc-Film
+http://162.19.205.146/12032/index.m3u8?token=2BA6E49CC7B2
+#EXTINF:-1,[Sc] Морские дьяволы
+#EXTGRP:Sc-Film
+http://162.19.205.146/12036/index.m3u8?token=2BA6E49CC7B2
+#EXTINF:-1,[Sc] Ментовские войны
+#EXTGRP:Sc-Film
+http://162.19.205.146/12037/index.m3u8?token=2BA6E49CC7B2
+#EXTINF:-1,[Sc] Глухарь
+#EXTGRP:Sc-Film
+http://162.19.205.146/12043/index.m3u8?token=2BA6E49CC7B2
+#EXTINF:-1,[Sc] Карпов
+#EXTGRP:Sc-Film
+http://162.19.205.146/12039/index.m3u8?token=2BA6E49CC7B2
+#EXTINF:-1,[Sc] Пятницкий
+#EXTGRP:Sc-Film
+http://162.19.205.146/12040/index.m3u8?token=2BA6E49CC7B2
+#EXTINF:-1,[Sc] Братаны
+#EXTGRP:Sc-Film
+http://162.19.205.146/12041/index.m3u8?token=2BA6E49CC7B2
+#EXTINF:-1,[Sc] Бандитский Петербург
+#EXTGRP:Sc-Film
+http://162.19.205.146/12042/index.m3u8?token=2BA6E49CC7B2
+#EXTINF:-1,[Sc] Крот
+#EXTGRP:Sc-Film
+http://162.19.205.146/12038/index.m3u8?token=2BA6E49CC7B2
+#EXTINF:-1,[Sc] Реальные пацаны
+#EXTGRP:Sc-Film
+http://162.19.205.146/12033/index.m3u8?token=2BA6E49CC7B2
+#EXTINF:-1,[Sc] Солдаты
+#EXTGRP:Sc-Film
+http://162.19.205.146/12063/index.m3u8?token=2BA6E49CC7B2
+#EXTINF:-1,[Sc] Короче
+#EXTGRP:Sc-Film
+http://162.19.205.146/12034/index.m3u8?token=2BA6E49CC7B2
+#EXTINF:-1,[Sc] Воронины
+#EXTGRP:Sc-Film
+http://162.19.205.146/12064/index.m3u8?token=2BA6E49CC7B2
+#EXTINF:-1,[Sc] Восьмидесятые
+#EXTGRP:Sc-Film
+http://162.19.205.146/12065/index.m3u8?token=2BA6E49CC7B2
+#EXTINF:-1,[Sc] Будулай
+#EXTGRP:Sc-Film
+http://162.19.205.146/12066/index.m3u8?token=2BA6E49CC7B2
+#EXTINF:-1,[Sc] Эпидемия
+#EXTGRP:Sc-Film
+http://162.19.205.146/12067/index.m3u8?token=2BA6E49CC7B2
+#EXTINF:-1,[Sc] Человек-паук
+#EXTGRP:Sc-Film
+http://162.19.205.146/12068/index.m3u8?token=2BA6E49CC7B2
+#EXTINF:-1,[Sc] Супермэн
+#EXTGRP:Sc-Film
+http://162.19.205.146/12069/index.m3u8?token=2BA6E49CC7B2
+#EXTINF:-1,[Sc] Годзилла
+#EXTGRP:Sc-Film
+http://162.19.205.146/12070/index.m3u8?token=2BA6E49CC7B2
+#EXTINF:-1,[Sc] Кинг Конг
+#EXTGRP:Sc-Film
+http://162.19.205.146/12071/index.m3u8?token=2BA6E49CC7B2
+#EXTINF:-1,[Sc] Планета обезьян
+#EXTGRP:Sc-Film
+http://162.19.205.146/12072/index.m3u8?token=2BA6E49CC7B2
+#EXTINF:-1,[Sc] Мегачелюсти
+#EXTGRP:Sc-Film
+http://162.19.205.146/12073/index.m3u8?token=2BA6E49CC7B2
+#EXTINF:-1,[Sc] Гостья из будущего
+#EXTGRP:Sc-Film
+http://162.19.205.146/12180/index.m3u8?token=2BA6E49CC7B2
+#EXTINF:-1,[Sc] Приключения Электроника
+#EXTGRP:Sc-Film
+http://162.19.205.146/12181/index.m3u8?token=2BA6E49CC7B2
+#EXTINF:-1,[Sc] Куми-Куми
+#EXTGRP:Sc-Film
+http://162.19.205.146/12100/index.m3u8?token=2BA6E49CC7B2
+#EXTINF:-1,[Sc] Гриззи и лемминги
+#EXTGRP:Sc-Film
+http://162.19.205.146/12101/index.m3u8?token=2BA6E49CC7B2
+#EXTINF:-1,[Sc] Буба
+#EXTGRP:Sc-Film
+http://162.19.205.146/12102/index.m3u8?token=2BA6E49CC7B2
+#EXTINF:-1,[Sc] Ми-ми-мишки
+#EXTGRP:Sc-Film
+http://162.19.205.146/12103/index.m3u8?token=2BA6E49CC7B2
+#EXTINF:-1,[Sc] Вспыш и чудо-машинки
+#EXTGRP:Sc-Film
+http://162.19.205.146/12104/index.m3u8?token=2BA6E49CC7B2
+#EXTINF:-1,[Sc] Маша и медведь
+#EXTGRP:Sc-Film
+http://162.19.205.146/12105/index.m3u8?token=2BA6E49CC7B2
+#EXTINF:-1,[Sc] Фиксики
+#EXTGRP:Sc-Film
+http://162.19.205.146/12106/index.m3u8?token=2BA6E49CC7B2
+#EXTINF:-1,[Sc] Ну Погоди!
+#EXTGRP:Sc-Film
+http://162.19.205.146/12107/index.m3u8?token=2BA6E49CC7B2
+#EXTINF:-1,[Sc] ALF
+#EXTGRP:Sc-Film
+http://162.19.205.146/12108/index.m3u8?token=2BA6E49CC7B2
+#EXTINF:-1,[Sc] Простоквашино
+#EXTGRP:Sc-Film
+http://162.19.205.146/12109/index.m3u8?token=2BA6E49CC7B2
+#EXTINF:-1,[Sc] Том и Джерри
+#EXTGRP:Sc-Film
+http://162.19.205.146/12110/index.m3u8?token=2BA6E49CC7B2
+#EXTINF:-1,[Sc] Говорящий Том и Друзья
+#EXTGRP:Sc-Film
+http://162.19.205.146/12111/index.m3u8?token=2BA6E49CC7B2
+#EXTINF:-1,[Sc] Приключения Ам Няма
+#EXTGRP:Sc-Film
+http://162.19.205.146/12112/index.m3u8?token=2BA6E49CC7B2
+#EXTINF:-1,[Sc] Чип и Дейл спешат на помощь
+#EXTGRP:Sc-Film
+http://162.19.205.146/12113/index.m3u8?token=2BA6E49CC7B2
+#EXTINF:-1,[Sc] Утиные истории
+#EXTGRP:Sc-Film
+http://162.19.205.146/12114/index.m3u8?token=2BA6E49CC7B2
+#EXTINF:-1,[Sc] Приключения мишек Гамми
+#EXTGRP:Sc-Film
+http://162.19.205.146/12115/index.m3u8?token=2BA6E49CC7B2
+#EXTINF:-1,[Sc] Лунтик и его друзья
+#EXTGRP:Sc-Film
+http://162.19.205.146/12116/index.m3u8?token=2BA6E49CC7B2
+#EXTINF:-1,[Sc] Розовая пантера
+#EXTGRP:Sc-Film
+http://162.19.205.146/12117/index.m3u8?token=2BA6E49CC7B2
+#EXTINF:-1,[Sc] Приключения супергероя SamSam
+#EXTGRP:Sc-Film
+http://162.19.205.146/12118/index.m3u8?token=2BA6E49CC7B2
+#EXTINF:-1,[Sc] Приключения кота Леопольда
+#EXTGRP:Sc-Film
+http://162.19.205.146/12119/index.m3u8?token=2BA6E49CC7B2
+#EXTINF:-1,[Sc] Русалочка
+#EXTGRP:Sc-Film
+http://162.19.205.146/12120/index.m3u8?token=2BA6E49CC7B2
+#EXTINF:-1,[Sc] Футурама
+#EXTGRP:Sc-Film
+http://162.19.205.146/12121/index.m3u8?token=2BA6E49CC7B2
+#EXTINF:-1,[Sc] Пингвины из Мадагаскара
+#EXTGRP:Sc-Film
+http://162.19.205.146/12122/index.m3u8?token=2BA6E49CC7B2
+#EXTINF:-1,[Sc] Симпсоны
+#EXTGRP:Sc-Film
+http://162.19.205.146/12123/index.m3u8?token=2BA6E49CC7B2
+#EXTINF:-1,[Sc] Губка Боб
+#EXTGRP:Sc-Film
+http://162.19.205.146/12124/index.m3u8?token=2BA6E49CC7B2
+#EXTINF:-1,[Sc] Щенячий патруль
+#EXTGRP:Sc-Film
+http://162.19.205.146/12125/index.m3u8?token=2BA6E49CC7B2
+#EXTINF:-1,[Sc] Барашек Шон
+#EXTGRP:Sc-Film
+http://162.19.205.146/12126/index.m3u8?token=2BA6E49CC7B2
+#EXTINF:-1,[Sc] Черный плащ
+#EXTGRP:Sc-Film
+http://162.19.205.146/12127/index.m3u8?token=2BA6E49CC7B2
+#EXTINF:-1,[Sc] Три кота
+#EXTGRP:Sc-Film
+http://162.19.205.146/12128/index.m3u8?token=2BA6E49CC7B2
+#EXTINF:-1,[Sc] Барбоскины
+#EXTGRP:Sc-Film
+http://162.19.205.146/12129/index.m3u8?token=2BA6E49CC7B2
+#EXTINF:-1,[Sc] Белка и стрелка
+#EXTGRP:Sc-Film
+http://162.19.205.146/12130/index.m3u8?token=2BA6E49CC7B2
+#EXTINF:-1,[Sc] Грузовичок Лёва
+#EXTGRP:Sc-Film
+http://162.19.205.146/12131/index.m3u8?token=2BA6E49CC7B2
+#EXTINF:-1,[Sc] Свинка Пеппа
+#EXTGRP:Sc-Film
+http://162.19.205.146/12132/index.m3u8?token=2BA6E49CC7B2
+#EXTINF:-1,[Sc] Лео и Тиг
+#EXTGRP:Sc-Film
+http://162.19.205.146/12133/index.m3u8?token=2BA6E49CC7B2
+#EXTINF:-1,[Sc] Как казаки...
+#EXTGRP:Sc-Film
+http://162.19.205.146/12134/index.m3u8?token=2BA6E49CC7B2
+#EXTINF:-1,[Sc] Мир наизнанку
+#EXTGRP:Sc-Film
+http://162.19.205.146/12200/index.m3u8?token=2BA6E49CC7B2
+#EXTINF:-1,[Sc] Следствие вели
+#EXTGRP:Sc-Film
+http://162.19.205.146/12201/index.m3u8?token=2BA6E49CC7B2
+#EXTINF:-1,[Sc] Криминальная Россия
+#EXTGRP:Sc-Film
+http://162.19.205.146/12202/index.m3u8?token=2BA6E49CC7B2
+#EXTINF:-1,[Sc] Орёл и решка
+#EXTGRP:Sc-Film
+http://162.19.205.146/12203/index.m3u8?token=2BA6E49CC7B2
+#EXTINF:-1,[Sc] Mike Tyson Professional fights
+#EXTGRP:Sc-Film
+http://162.19.205.146/12400/index.m3u8?token=2BA6E49CC7B2
+#EXTINF:-1,[Sc] Федор Емельяненко
+#EXTGRP:Sc-Film
+http://162.19.205.146/12401/index.m3u8?token=2BA6E49CC7B2
 
 #EXTINF:0 tvg-logo="https://i.postimg.cc/PqR3cRnN/In-Shot-20260518-101237404.png" group-title="🏆COMBAT🏆",FIGHT TV
 http://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/70e45fc8-1f6c-4492-ac26-9868f70f4e02/manifest.m3u8
@@ -8288,7 +10797,7 @@ https://raw.githubusercontent.com/dedmasteriptv/ATV-Cinema/refs/heads/main/Z_Act
 #EXTINF:0 tvg-logo="https://i.imgur.com/M4bnpjW.jpeg" group-title="ŞABAN",🇹🇷Hababam Sinifi
 http://enomaxtv.xyz:8080/aNDY6JaN/hpqAnwHXc8BY/796931
 #EXTINF:0 tvg-logo="https://i.imgur.com/M4bnpjW.jpeg" group-title="ŞABAN",🇹🇷Kemal Sunal_1
-http://ha1.159843.xyz:80/live/01nuri01/01082023nri/332512.ts
+
 #EXTINF:0 tvg-logo="https://i.imgur.com/M4bnpjW.jpeg" group-title="ŞABAN",🇹🇷Kemal Sunal_2
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/M4bnpjW.jpeg" group-title="ŞABAN",🇹🇷Kemal Sunal_3 
@@ -8302,15 +10811,15 @@ http://ha1.159843.xyz:80/live/01nuri01/01082023nri/332512.ts
 #EXTINF:0 tvg-logo="https://i.imgur.com/M4bnpjW.jpeg" group-title="ŞABAN",🇹🇷Kemal Sunal_8
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/M4bnpjW.jpeg" group-title="ŞABAN",Şener Şen
-http://teknom.store:2095/suleymanknpkgl21/f32Edxu38f/153227
+
 #EXTINF:-1 tvg-id="" tvg-name="TR➾ Zeki & Metin TV" tvg-logo="https://i.hizliresim.com/5o2n0gf.png" group-title="ŞABAN",TR➾ Zeki & Metin TV
-http://teknom.store:2095/suleymanknpkgl21/f32Edxu38f/75839
+
 #EXTINF:-1 tvg-id="" tvg-name="TR➾ MAXIMTV KEMAL SUNAL 1" tvg-logo="https://i.hizliresim.com/jidytl1.png" group-title="ŞABAN",TR➾ MAXIMTV KEMAL SUNAL 1
-http://teknom.store:2095/suleymanknpkgl21/f32Edxu38f/123072
+
 #EXTINF:-1 tvg-id="" tvg-name="TR➾ MAXIMTV KEMAL SUNAL 2" tvg-logo="https://i.hizliresim.com/8z4gn80.png" group-title="ŞABAN",TR➾ MAXIMTV KEMAL SUNAL 2
-http://teknom.store:2095/suleymanknpkgl21/f32Edxu38f/70077
+
 #EXTINF:-1 tvg-id="" tvg-name="TR➾ MAXIMTV KEMAL SUNAL 3" tvg-logo="https://i.hizliresim.com/r5k8yxq.png" group-title="ŞABAN",TR➾ MAXIMTV KEMAL SUNAL 3
-http://teknom.store:2095/suleymanknpkgl21/f32Edxu38f/105268
+
 
 #EXTINF:-1 tvg-id="" tvg-name="ŞENER ŞEN 1" tvg-logo="https://www.tvlogolar.xyz/logo/Ozel/Sener.Sen.png" group-title="ŞABAN",ŞENER ŞEN 1
 http://magf.xyz:8080/Erkanyilmazkissing11/tg8pRNtNcgUC11/672070

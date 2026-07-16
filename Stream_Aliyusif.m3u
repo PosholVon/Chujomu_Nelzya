@@ -2828,7 +2828,7 @@ https://3bneoplay65.xyz/M2/stream.php?stream=13001/index.m3u8
 #EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
 https://3bneoplay65.xyz/M2/stream.php?stream=13002/index.m3u8
 #EXTINF:0 tvg-rec="0",Premier Sports 2 HD UK
-#EXTGRP:🇦🇿 Azərbaycan
+#EXTGRP:🎬 Film
 #EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
 https://3bneoplay65.xyz/M2/stream.php?stream=2069/index.m3u8
 #EXTINF:0 tvg-rec="0",TOP BUDO HD
@@ -2836,7 +2836,7 @@ https://3bneoplay65.xyz/M2/stream.php?stream=2069/index.m3u8
 #EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
 https://3bneoplay65.xyz/M2/stream.php?stream=13003/index.m3u8
 #EXTINF:0 tvg-rec="0",TOP Cinema HD
-
+#EXTGRP:🎬 Film
 #EXTVLCOPT:http-user-agent=VLC/3.0.0 LibVLC/3.0.0
 https://3bneoplay65.xyz/M2/stream.php?stream=13004/index.m3u8
 #EXTINF:0 tvg-rec="0",TOP USSR HD

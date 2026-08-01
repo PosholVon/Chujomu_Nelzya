@@ -49,7 +49,7 @@ http://str.yodacdn.net/ntv/tracks-v1a1/mono.ts.m3u8
 http://85.132.78.122:8050/hls/stream/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d07HQv94/EL-TV-2020.png", EL TV
 #EXTGRP:🇦🇿 Azərbaycan 🇦🇿
-https://live.eltv.az/live/eltv/chunklist_w1920626794.m3u8
+http://85.132.53.162:1935/live/eltv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/SxR28nX0/Qafqaz-TV-2017-h-h.png", Qafqaz TV
 #EXTGRP:🇦🇿 Azərbaycan 🇦🇿
 http://str.yodacdn.net/qafkaz/tracks-v1a1/mono.ts.m3u8
@@ -1411,6 +1411,9 @@ https://lives.atv.az:5443/KANAL-S/streams/kanals.m3u8
 #EXTINF:-1 tvg-logo="https://ntv.az/assets/images/logo.png?v=2", Naxçıvan TV
 #EXTGRP:FLUSSONIC.IZONE.AZ
 http://str.yodacdn.net/ntv/index.m3u8
+#EXTINF:-1,El tv
+#EXTGRP:FLUSSONIC.IZONE.AZ
+https://live.eltv.az/live/eltv/chunklist_w1920626794.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/SxR28nX0/Qafqaz-TV-2017-h-h.png", Qafqaz TV
 #EXTGRP:FLUSSONIC.IZONE.AZ
 https://str.yodacdn.net/qafkaz/index.m3u8

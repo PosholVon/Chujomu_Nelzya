@@ -113,9 +113,10 @@ https://canli.gopsentv.com:3604/stream/play.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qpfuy53.png",CinePlus Yesilcam
 #EXTGRP:🇦🇿 Azərbaycan 🇦🇿
 http://cineplus-yesilcam.supersatadmin.workers.dev/cineplusyesilcam.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/SBhSXwk/Cine5tv.jpg",CINE5 TV
+#EXTINF:-1 tvg-logo="https://www.cine5tv.com/wp-content/uploads/2025/10/cinelogo.png",CINE5 TV
 #EXTGRP:🇦🇿 Azərbaycan 🇦🇿
 http://b7453.ant07.art/live/aktas.xxx/14102022xyx/170295.m3u8
+
 #EXTINF:-1 tvg-logo="https://ia600906.us.archive.org/17/items/cine-7-tezene/CINE7.gif" group-title="🇦🇿 Azərbaycan 🇦🇿",CİNE7
 http://162.212.179.32/akamaissh101/ssh101/cine_7/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://ia800906.us.archive.org/17/items/cine-7-tezene/CINE7_PLUS.gif.gif" group-title="🇦🇿 Azərbaycan 🇦🇿",CİNE7 +PLUS

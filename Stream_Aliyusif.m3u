@@ -214,7 +214,8 @@ http://162.212.179.32:80/akamaissh101/ssh101/teber_tv7/chunks.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/UVnzoF5.jpeg" group-title="🇦🇿 Azərbaycan 🇦🇿",TEBER KRAL 
 https://catcast.ismailturret.workers.dev/50457.m3u8
 #EXTINF:0 tvg-logo="https://i.postimg.cc/kGGdms8M/In-Shot-20260531-161329581.png" group-title="🇦🇿 Azərbaycan 🇦🇿",DENGE movie TV
-
+#EXTINF:-1 tvg-logo="https://files.catbox.moe/5mqlit.jpeg" group-title="🇦🇿 Azərbaycan 🇦🇿",KAMAL SUNAL TV
+https://kamal-sunal.baba-zirvede.workers.dev/kamal-sunal.m3u8
 #EXTINF:0 tvg-id="3"tvg-logo="https://i.postimg.cc/HsY46nFr/In-Shot-20251214-120450045.png",ŞABAN TV
 #EXTGRP:🇦🇿 Azərbaycan 🇦🇿
 https://tv191.radyotelekom.com.tr:3996/stream/play.m3u8

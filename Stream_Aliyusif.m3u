@@ -67,6 +67,9 @@ https://stream.ftv.az/live/ftv.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img2/9131.png", Show plus tv
 #EXTGRP:🇦🇿 Azərbaycan 🇦🇿
 https://rtmp.showplus.tv/hls/myshow.m3u8
+#EXTINF:-1 tvg-logo="",TTV az
+#EXTGRP:🇦🇿 Azərbaycan 🇦🇿
+https://a8.radyotelekom.com.tr:3170/hybrid/play.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xgsAXgV.png", S TV sinema
 #EXTGRP:🇦🇿 Azərbaycan 🇦🇿
 https://a8.radyotelekom.com.tr:3179/stream/play.m3u8

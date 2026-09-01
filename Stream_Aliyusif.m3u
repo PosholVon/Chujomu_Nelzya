@@ -501,6 +501,9 @@ https://janya-ayaztv.vgcdn.net/ptnr-Vipo%20TV/title-Ayaz_TV/v1/vglive-sk-934820/
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/pTRPMbdh/In-Shot-20250303-143546125.png",MAHNI TV
 #EXTGRP:🇦🇿 Azərbaycan 🇦🇿
 https:/stream.yayim.az/MahniTV/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/m1CQBN5.png",NEOPLAY az
+#EXTGRP:🇦🇿 Azərbaycan 🇦🇿
+https://a8.radyotelekom.com.tr:3800/stream/play.m3u8
 #EXTINF:0 tvg-logo="https://i.postimg.cc/mrmM5jLg/In-Shot-20260811-225755283.png" group-title="🇦🇿 Azərbaycan 🇦🇿",MAX TV
 https://cdn4.yayin.com.tr/maxtv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Ro0HPDJ.png", AZ Music HD

@@ -162,7 +162,30 @@ http://88.99.165.164:6878/ace/getstream?id=ba95d17dc4f2c6710a5f42837f0fbbc023f71
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/F15rXPRp/39109846-ico.png",NATİVE TV
 #EXTGRP:🇦🇿 Azərbaycan 🇦🇿
 http://162.212.179.32/akamaissh101/ssh101/nativetv/chunks.m3u8
-
+#EXTINF:0 tvg-logo="https://i.postimg.cc/0QkhyhYR/In-Shot-20260831-102531514.png",Moviesmart Cassic 
+#EXTGRP:🇦🇿 Azərbaycan 🇦🇿
+http://88.99.165.164:6878/ace/getstream?infohash=115360d941218ec8e8ed303e00a20fa1d966517d&pid=898
+#EXTINF:0 tvg-logo="https://i.postimg.cc/brTxNF95/In-Shot-20260831-102930172.png",Moviesmart Türk 
+#EXTGRP:🇦🇿 Azərbaycan 🇦🇿
+http://88.99.165.164:6878/ace/getstream?id=2bd20ae512bd540d535fba41da249e6ce1d1febd&pid=3991
+#EXTINF:0 tvg-logo="https://i.postimg.cc/fTvsDjnL/In-Shot-20260831-103326287.png",SİNEMA TV 
+#EXTGRP:🇦🇿 Azərbaycan 🇦🇿
+http://88.99.165.164:6878/ace/getstream?id=6c39acff088fd7f2fc692363b2351b52fd00c91a&pid=22858
+#EXTINF:0 tvg-logo="https://i.postimg.cc/fbYCT9Pb/In-Shot-20260817-082222489.png",F MAX 
+#EXTGRP:🇦🇿 Azərbaycan 🇦🇿
+http://162.212.179.32/akamaissh101/ssh101/kanalfmax/chunks.m3u8
+#EXTINF:0 tvg-logo="https://i.postimg.cc/XXMhw1sQ/In-Shot-20260824-092854395.png",YEŞİLÇAM komedi
+#EXTGRP:🇦🇿 Azərbaycan 🇦🇿
+http://82.70.45.131/Uyan.php?ID=Yesilcam Komedi
+#EXTINF:0 tvg-logo="https://i.postimg.cc/KYvZk4kJ/In-Shot-20260824-093004053.png",YEŞİLÇAM klasik
+#EXTGRP:🇦🇿 Azərbaycan 🇦🇿
+http://82.70.45.131/Uyan.php?ID=Yesilcam Klasik
+#EXTINF:0 tvg-logo="https://i.postimg.cc/KctdbxjN/In-Shot-20260824-093717490.png",YABANCI SİNEMA
+#EXTGRP:🇦🇿 Azərbaycan 🇦🇿
+http://82.70.45.131/Uyan.php?ID=Yabancı Sinema
+#EXTINF:0 tvg-logo="https://i.postimg.cc/6p63RMFG/In-Shot-20260824-094829720.png",SİNEMA TÜRK 1
+#EXTGRP:🇦🇿 Azərbaycan 🇦🇿
+http://82.70.45.131/Giniko.php?ID=1217
 #EXTINF:-1 tvg-logo="https://i.imgur.com/U3IjbqP.png",  ISVIÇRE TVᵀᴿ
 #EXTGRP:🇦🇿 Azərbaycan 🇦🇿
 https://i41.ozelip.com:3269/hybrid/play.m3u8

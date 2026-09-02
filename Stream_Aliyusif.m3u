@@ -7,10 +7,10 @@ http://str.yodacdn.net/azertv/index.m3u8
 https://live.itv.az/itv.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img2/9134.png", ATV
 #EXTGRP:🇦🇿 Azərbaycan 🇦🇿
-http://flussonic.izone.az:80/azadazerbaycan/mono.m3u8
+https://lives.atv.az:5443/ATV_TV_STREAM/streams/atvcanli.m3u8
 #EXTINF:-1  tvg-id="xezer"  tvg-logo="https://iptvx.one/picons/xezer.png",Xezer tv
 #EXTGRP:🇦🇿 Azərbaycan 🇦🇿
-http://flussonic.izone.az:80/xezertv/mono.m3u8
+https://xezerxeber.az/stream/main_stream.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img2/2553.png", Space TV
 #EXTGRP:🇦🇿 Azərbaycan 🇦🇿
 http://str.yodacdn.net/space/index.m3u8
@@ -43,6 +43,9 @@ http://flussonic.izone.az:80/cbc/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/QCbpbW00/Gunaz-tv-svg.png", GünAz TV
 #EXTGRP:🇦🇿 Azərbaycan 🇦🇿
 https://tv.gunaz.tv/hls/live.m3u8
+#EXTINF:0 tvg-logo="https://i.postimg.cc/509wxFt1/In-Shot-20260611-194938140.png",SƏHƏR TV 
+#EXTGRP:🇦🇿 Azərbaycan 🇦🇿
+https://lb-cdn.sepehrtv.ir/securelive3/saharazarsd/576p.m3u8
 #EXTINF:-1 tvg-logo="https://ntv.az/assets/images/logo.png?v=2", Naxçıvan TV
 #EXTGRP:🇦🇿 Azərbaycan 🇦🇿
 http://str.yodacdn.net/ntv/tracks-v1a1/mono.ts.m3u8
@@ -67,7 +70,7 @@ https://stream.ftv.az/live/ftv.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img2/9131.png", Show plus tv
 #EXTGRP:🇦🇿 Azərbaycan 🇦🇿
 https://rtmp.showplus.tv/hls/myshow.m3u8
-#EXTINF:-1 tvg-logo="",TTV az
+#EXTINF:-1 tvg-logo="https://r.resimlink.com/nO8IrLXf_sy.png",TTV az
 #EXTGRP:🇦🇿 Azərbaycan 🇦🇿
 https://a8.radyotelekom.com.tr:3170/hybrid/play.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xgsAXgV.png", S TV sinema
@@ -123,9 +126,43 @@ http://162.212.179.32/akamaissh101/ssh101/084952510aa/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yWcGNHj.png", Pati tvᵀᴿ
 #EXTGRP:🇦🇿 Azərbaycan 🇦🇿
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/5jd1nmms/38876648-ico.png",TELEON
+#EXTGRP:🇦🇿 Azərbaycan 🇦🇿
+https://cdn-teleonchannels.yayin.com.tr/teleonchannels/teleonchannels/chunklist_w2028408927.m3u8
+#EXTINF:-1 tvg-logo="https://www.bikanal.com/frontend/img/logo.webp",Bİ KANAL
+#EXTGRP:🇦🇿 Azərbaycan 🇦🇿
+https://bikanal-live.ercdn.net/bikanal/bikanal.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/ZKFnSm80/17418-Picsart-Background-Remover-jpg.png",BONCUK TV
+#EXTGRP:🇦🇿 Azərbaycan 🇦🇿
+http://104.238.23.191/BoncukTV/live/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/dV3mvSwf/38332657-ico.png",YANSIMA SİNEMA TV
+#EXTGRP:🇦🇿 Azərbaycan 🇦🇿
+http://162.212.179.32/akamaissh101/ssh101/ysmtvmedya/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/ZnfBM4Bb/38842185-ico.png",YANSIMA NOSTALJİ TV
+#EXTGRP:🇦🇿 Azərbaycan 🇦🇿
+http://162.212.179.32/akamaissh101/ssh101/ymdanstv/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d0Nj381Z/37587142-ico.png",RİZE TÜRK
+#EXTGRP:🇦🇿 Azərbaycan 🇦🇿
+https://yayin.rizeturk.com:3777/hybrid/play.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/7PFn2g5q/38943114-ico.png",MAX YERLİ
+#EXTGRP:🇦🇿 Azərbaycan 🇦🇿
+http://162.212.179.32/akamaissh101/ssh101/maxyerli/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/pLZf44qp/39030030-ico.png",MAX PREMİUM
+#EXTGRP:🇦🇿 Azərbaycan 🇦🇿
+http://162.212.179.32/akamaissh101/ssh101/maxpremier/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/FR2304sL/39030647-ico.png",MAX STAR
+#EXTGRP:🇦🇿 Azərbaycan 🇦🇿
+http://162.212.179.32/akamaissh101/ssh101/maxstar/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VAG8ZQ5.png", SDM TVᵀᴿ
 #EXTGRP:🇦🇿 Azərbaycan 🇦🇿
 https://host.onlineradyotv.net:8081/sdmtv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/FKrtZvwT/images-removebg-preview-(3).png",FX
+#EXTGRP:🇦🇿 Azərbaycan 🇦🇿
+http://88.99.165.164:6878/ace/getstream?id=ba95d17dc4f2c6710a5f42837f0fbbc023f710d2&pid=46724
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/F15rXPRp/39109846-ico.png",NATİVE TV
+#EXTGRP:🇦🇿 Azərbaycan 🇦🇿
+http://162.212.179.32/akamaissh101/ssh101/nativetv/chunks.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/U3IjbqP.png",  ISVIÇRE TVᵀᴿ
 #EXTGRP:🇦🇿 Azərbaycan 🇦🇿
 https://i41.ozelip.com:3269/hybrid/play.m3u8

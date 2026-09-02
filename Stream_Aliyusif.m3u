@@ -90,7 +90,7 @@ https://pastebin.com/raw/C13XaXTB
 https://premiumiptv.bykerimoff.workers.dev/stream/nowmusic.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/ydy7DCw5/1762835780517.png", HTV sinema
 #EXTGRP:🇦🇿 Azərbaycan 🇦🇿
-http://enomaxtv.xyz:8080/aNDY6JaN/hpqAnwHXc8BY/793348
+
 #EXTINF:-1 tvg-id="db997967-6f59-443a-b497-e5a659b0efb4" tvg-name="AZ:Kinozal" tvg-logo="https://a3mw.aile.tv/storage/ded6a62303bc14d1e9ff9af62f77d355" group-title="🇦🇿 Azərbaycan 🇦🇿",🇦🇿Ailə Tv🇦🇿Kinozal
 http://46.229.251.61:80/143361760/584890241/65147
 #EXTINF:-1 tvg-logo="http://epg.one/img2/9128.png", ATV Cinema AZ
@@ -186,6 +186,9 @@ http://82.70.45.131/Uyan.php?ID=Yabancı Sinema
 #EXTINF:0 tvg-logo="https://i.postimg.cc/6p63RMFG/In-Shot-20260824-094829720.png",SİNEMA TÜRK 1
 #EXTGRP:🇦🇿 Azərbaycan 🇦🇿
 http://82.70.45.131/Giniko.php?ID=1217
+#EXTINF:0 tvg-id="3"tvg-logo="https://i.postimg.cc/5NqDy2Z1/In-Shot-20260901-195625661.png",DIZI TV
+#EXTGRP:🇦🇿 Azərbaycan 🇦🇿
+http://82.70.45.131/Antena.php?ID=406
 #EXTINF:-1 tvg-logo="https://i.imgur.com/U3IjbqP.png",  ISVIÇRE TVᵀᴿ
 #EXTGRP:🇦🇿 Azərbaycan 🇦🇿
 https://i41.ozelip.com:3269/hybrid/play.m3u8

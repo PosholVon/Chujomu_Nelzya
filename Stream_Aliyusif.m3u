@@ -91,6 +91,9 @@ https://pastebin.com/raw/C13XaXTB
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/XYV2ysXs/In-Shot-20260516-212209897.png",KANAL 65 
 #EXTGRP:🇦🇿 Azərbaycan 🇦🇿
 https://premiumiptv.bykerimoff.workers.dev/stream/nowmusic.m3u8
+#EXTINF:-1 tvg-logo="",NOW Cinema 
+#EXTGRP:🇦🇿 Azərbaycan 🇦🇿
+https://now-cinema.bykerimoff.workers.dev/stream/nowcinema.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/ydy7DCw5/1762835780517.png", HTV sinema
 #EXTGRP:🇦🇿 Azərbaycan 🇦🇿
 https://pastebin.com/raw/m3UBDTLW

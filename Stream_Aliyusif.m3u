@@ -73,7 +73,7 @@ https://rtmp.showplus.tv/hls/myshow.m3u8
 #EXTINF:-1 tvg-logo="https://r.resimlink.com/nO8IrLXf_sy.png",TTV az
 #EXTGRP:🇦🇿 Azərbaycan 🇦🇿
 https://a8.radyotelekom.com.tr:3170/hybrid/play.m3u8
-#EXTINF:-1 tvg-logo="", İsmayıllı tv
+#EXTINF:0 tvg-logo="https://i.postimg.cc/zGN8RtQC/In-Shot-20250209-192718561.png",İSMAYILLI TV
 #EXTGRP:🇦🇿 Azərbaycan 🇦🇿
 https://a8.radyotelekom.com.tr:3170/hybrid/play.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xgsAXgV.png", S TV sinema
@@ -91,7 +91,7 @@ https://pastebin.com/raw/C13XaXTB
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/XYV2ysXs/In-Shot-20260516-212209897.png",KANAL 65 
 #EXTGRP:🇦🇿 Azərbaycan 🇦🇿
 https://premiumiptv.bykerimoff.workers.dev/stream/nowmusic.m3u8
-#EXTINF:-1 tvg-logo="",NOW Cinema 
+#EXTINF:0 tvg-logo="https://i.postimg.cc/dVKb6Ncr/In-Shot-20250214-184544111.png",NOW CINEMA 
 #EXTGRP:🇦🇿 Azərbaycan 🇦🇿
 https://now-cinema.bykerimoff.workers.dev/stream/nowcinema.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/ydy7DCw5/1762835780517.png", HTV sinema

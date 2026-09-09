@@ -95,10 +95,10 @@ https://premiumiptv.bykerimoff.workers.dev/stream/nowmusic.m3u8
 #EXTGRP:🇦🇿 Azərbaycan 🇦🇿
 https://now-cinema.bykerimoff.workers.dev/stream/nowcinema.m3u8
 #EXTINF:0 tvg-logo="https://i.postimg.cc/dVKb6Ncr/In-Shot-20250214-184544111.png",NOW CINEMA action
-#EXTGRP:🇦🇿 Azərbaycan
+#EXTGRP:🇦🇿 Azərbaycan 🇦🇿
 https://now-cinema-action.bykerimoff.workers.dev/nowcinema.m3u8
 #EXTINF:0 tvg-logo="https://i.postimg.cc/dVKb6Ncr/In-Shot-20250214-184544111.png",NOW CINEMA horror 
-#EXTGRP:🇦🇿 Azərbaycan
+#EXTGRP:🇦🇿 Azərbaycan 🇦🇿
 https://now-cinema-action.bykerimoff.workers.dev/nowcinema-horror.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/ydy7DCw5/1762835780517.png", HTV sinema
 #EXTGRP:🇦🇿 Azərbaycan 🇦🇿

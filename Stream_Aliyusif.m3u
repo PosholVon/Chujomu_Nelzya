@@ -78,7 +78,7 @@ https://a8.radyotelekom.com.tr:3170/hybrid/play.m3u8
 https://a8.radyotelekom.com.tr:3170/hybrid/play.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xgsAXgV.png", S TV sinema
 #EXTGRP:🇦🇿 Azərbaycan 🇦🇿
-https://a8.radyotelekom.com.tr:3179/stream/play.m3u8
+https://ip100.radyotelekomtv.com:3274/hybrid/play.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/5N4mghBq/In-Shot-20260510-202245174.png", Diginet Cinema tv
 #EXTGRP:🇦🇿 Azərbaycan 🇦🇿
 https://a8.radyotelekom.com.tr:3276/stream/play.m3u8

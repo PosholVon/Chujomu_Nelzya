@@ -945,6 +945,9 @@ https://catcast.ismailturret.workers.dev/playercizgifilm-maşınlar.m3u8
 https://catcast.ismailturret.workers.dev/playercizgifilm-madagascar.m3u8
 #EXTINF:0 tvg-id="50957" tvg-name="PlayerCizgiFilm Şrek&Ejdaha" tvg-logo="https://img.catcast.tv/uploads/03042026/logos/50957-69cff1514aabb.png" group-title="⚡️PLAYER TV🇦🇿DedMasterIPTV🇦🇿",PlayerCizgiFilm Şrek&Ejdaha
 https://catcast.ismailturret.workers.dev/playercizgifilm-rekejdaha.m3u8
+#EXTINF:-1 tvg-name="PlayerCizgiFilm Aze-dublaj"tvg-logo="",PlayerCizgiFilm Aze-dublaj
+#EXTGRP:⚡️PLAYER TV🇦🇿DedMasterIPTV🇦🇿
+https://catcast.ismailturret.workers.dev/playercizgifilm-aze-dublaj.m3u8
 #EXTINF:0 tvg-id="50538" tvg-name="PlayerTOY Mahnıları" tvg-logo="https://img.catcast.tv/uploads/16022026/logos/50538-6992c7f789dd2.png" group-title="⚡️PLAYER TV🇦🇿DedMasterIPTV🇦🇿",PlayerTOY Mahnıları
 https://catcast.ismailturret.workers.dev/playertoy-mahnlar.m3u8
 #EXTINF:0 tvg-id="50350" tvg-name="PlayerMusic Aze" tvg-logo="https://img.catcast.tv/uploads/15022026/logos/50350-6990ed0d9e8d2.png" group-title="⚡️PLAYER TV🇦🇿DedMasterIPTV🇦🇿",PlayerMusic Aze

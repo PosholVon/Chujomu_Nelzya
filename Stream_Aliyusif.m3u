@@ -72,7 +72,7 @@ https://stream.ftv.az/live/ftv.m3u8
 https://rtmp.showplus.tv/hls/myshow.m3u8
 #EXTINF:-1 tvg-logo="https://r.resimlink.com/nO8IrLXf_sy.png",TTV az
 #EXTGRP:🇦🇿 Azərbaycan 🇦🇿
-https://a8.radyotelekom.com.tr:3170/hybrid/play.m3u8
+
 #EXTINF:0 tvg-logo="https://i.postimg.cc/zGN8RtQC/In-Shot-20250209-192718561.png",İSMAYILLI TV
 #EXTGRP:🇦🇿 Azərbaycan 🇦🇿
 https://a8.radyotelekom.com.tr:3170/hybrid/play.m3u8
@@ -102,7 +102,7 @@ https://raw.githubusercontent.com/dedmasteriptv/ATV-Cinema/refs/heads/main/ATVCi
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qHQSpxW.png", Sirius
 #EXTGRP:🇦🇿 Azərbaycan 🇦🇿
 https://raw.githubusercontent.com/Elvin4K/restream/refs/heads/pro4k/1siriustv.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/qHQSpxW.png", Sirius
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qHQSpxW.png", Sirius tv hd
 #EXTGRP:🇦🇿 Azərbaycan 🇦🇿
 https://streamsat.siriustvhd-onlineclap.workers.dev/siriustvhd.m3u8
 #EXTINF:-1 tvg-logo="", Fix tv

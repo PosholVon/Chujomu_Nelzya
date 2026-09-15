@@ -104,7 +104,7 @@ https://raw.githubusercontent.com/dedmasteriptv/ATV-Cinema/refs/heads/main/ATVCi
 https://raw.githubusercontent.com/Elvin4K/restream/refs/heads/pro4k/1siriustv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qHQSpxW.png", Sirius tv hd
 #EXTGRP:🇦🇿 Azərbaycan 🇦🇿
-https://streamsat.siriustvhd-onlineclap.workers.dev/siriustvhd.m3u8
+https://streamsat.siriushdtv-onlineclap.workers.dev/siriustvhd.m3u8
 #EXTINF:-1 tvg-logo="", Fix tv
 #EXTGRP:🇦🇿 Azərbaycan 🇦🇿
 https://yayin.venomlink.com/live/mystream/main_stream.m3u8

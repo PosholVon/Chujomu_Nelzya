@@ -91,20 +91,11 @@ https://pastebin.com/raw/C13XaXTB
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/XYV2ysXs/In-Shot-20260516-212209897.png",KANAL 65 
 #EXTGRP:🇦🇿 Azərbaycan 🇦🇿
 https://premiumiptv.bykerimoff.workers.dev/stream/nowmusic.m3u8
-#EXTINF:0 tvg-logo="https://i.postimg.cc/dVKb6Ncr/In-Shot-20250214-184544111.png",NOW CINEMA 
-#EXTGRP:🇦🇿 Azərbaycan 🇦🇿
-https://now-cinema.bykerimoff.workers.dev/stream/nowcinema.m3u8
-#EXTINF:0 tvg-logo="https://i.postimg.cc/dVKb6Ncr/In-Shot-20250214-184544111.png",NOW CINEMA action
-#EXTGRP:🇦🇿 Azərbaycan 🇦🇿
-https://now-cinema-action.bykerimoff.workers.dev/nowcinema.m3u8
-#EXTINF:0 tvg-logo="https://i.postimg.cc/dVKb6Ncr/In-Shot-20250214-184544111.png",NOW CINEMA horror 
-#EXTGRP:🇦🇿 Azərbaycan 🇦🇿
-https://now-cinema-action.bykerimoff.workers.dev/nowcinema-horror.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/ydy7DCw5/1762835780517.png", HTV sinema
 #EXTGRP:🇦🇿 Azərbaycan 🇦🇿
 https://pastebin.com/raw/m3UBDTLW
 #EXTINF:-1 tvg-id="db997967-6f59-443a-b497-e5a659b0efb4" tvg-name="AZ:Kinozal" tvg-logo="https://a3mw.aile.tv/storage/ded6a62303bc14d1e9ff9af62f77d355" group-title="🇦🇿 Azərbaycan 🇦🇿",🇦🇿Ailə Tv🇦🇿Kinozal
-http://46.229.251.61:80/143361760/584890241/65147
+
 #EXTINF:-1 tvg-logo="http://epg.one/img2/9128.png", ATV Cinema AZ
 #EXTGRP:🇦🇿 Azərbaycan 🇦🇿
 https://raw.githubusercontent.com/dedmasteriptv/ATV-Cinema/refs/heads/main/ATVCinema.m3u8
@@ -164,7 +155,7 @@ http://162.212.179.32/akamaissh101/ssh101/maxyerli/playlist.m3u8
 http://162.212.179.32/akamaissh101/ssh101/maxpremier/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/FR2304sL/39030647-ico.png",MAX STAR
 #EXTGRP:🇦🇿 Azərbaycan 🇦🇿
-http://162.212.179.32/akamaissh101/ssh101/maxstar/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VAG8ZQ5.png", SDM TVᵀᴿ
 #EXTGRP:🇦🇿 Azərbaycan 🇦🇿
 https://host.onlineradyotv.net:8081/sdmtv/tracks-v1a1/mono.m3u8
@@ -186,27 +177,31 @@ http://88.99.165.164:6878/ace/getstream?id=6c39acff088fd7f2fc692363b2351b52fd00c
 #EXTINF:0 tvg-logo="https://i.postimg.cc/fbYCT9Pb/In-Shot-20260817-082222489.png",F MAX 
 #EXTGRP:🇦🇿 Azərbaycan 🇦🇿
 http://162.212.179.32/akamaissh101/ssh101/kanalfmax/chunks.m3u8
-#EXTINF:0 tvg-logo="https://i.postimg.cc/XXMhw1sQ/In-Shot-20260824-092854395.png",YEŞİLÇAM komedi
-#EXTGRP:🇦🇿 Azərbaycan 🇦🇿
-http://82.70.45.131/Uyan.php?ID=Yesilcam Komedi
-#EXTINF:0 tvg-logo="https://i.postimg.cc/KYvZk4kJ/In-Shot-20260824-093004053.png",YEŞİLÇAM klasik
-#EXTGRP:🇦🇿 Azərbaycan 🇦🇿
-http://82.70.45.131/Uyan.php?ID=Yesilcam Klasik
-#EXTINF:0 tvg-logo="https://i.postimg.cc/KctdbxjN/In-Shot-20260824-093717490.png",YABANCI SİNEMA
-#EXTGRP:🇦🇿 Azərbaycan 🇦🇿
-http://82.70.45.131/Uyan.php?ID=Yabancı Sinema
-#EXTINF:0 tvg-logo="https://i.postimg.cc/6p63RMFG/In-Shot-20260824-094829720.png",SİNEMA TÜRK 1
-#EXTGRP:🇦🇿 Azərbaycan 🇦🇿
-http://82.70.45.131/Giniko.php?ID=1217
-#EXTINF:0 tvg-id="3"tvg-logo="https://i.postimg.cc/5NqDy2Z1/In-Shot-20260901-195625661.png",DIZI TV
-#EXTGRP:🇦🇿 Azərbaycan 🇦🇿
-http://82.70.45.131/Antena.php?ID=406
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/U3IjbqP.png",  ISVIÇRE TVᵀᴿ
 #EXTGRP:🇦🇿 Azərbaycan 🇦🇿
 https://i41.ozelip.com:3269/hybrid/play.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/wjChc8vs/logo-31.png", Deniz posdasıᵀᴿ
 #EXTGRP:🇦🇿 Azərbaycan 🇦🇿
 https://live.artidijitalmedya.com/artidijital_denizpostasi/denizpostasi/playlist.m3u8
+#EXTINF:0 tvg-logo="https://i.postimg.cc/c6qm6NVS/In-Shot-20260818-182657138.png" group-title="🇦🇿 Azərbaycan 🇦🇿",KANAL F
+https://boztv.smartiptvworld.workers.dev/kanalfmedya.m3u8
+#EXTINF:0 tvg-logo="https://i.postimg.cc/xC0rjq7X/In-Shot-20260823-075420672.png" group-title="🇦🇿 Azərbaycan 🇦🇿",TEBER 1 
+https://boztv.smartiptvworld.workers.dev/teber_1.m3u8
+#EXTINF:0 tvg-logo="https://i.postimg.cc/xC0rjq7X/In-Shot-20260823-075420672.png" group-title="🇦🇿 Azərbaycan 🇦🇿",TEBER 2 
+https://boztv.smartiptvworld.workers.dev/teber_2.m3u8
+#EXTINF:0 tvg-logo="https://i.postimg.cc/xC0rjq7X/In-Shot-20260823-075420672.png" group-title="🇦🇿 Azərbaycan 🇦🇿",TEBER 3
+https://boztv.smartiptvworld.workers.dev/teber_3.m3u8
+#EXTINF:0 tvg-logo="https://i.postimg.cc/xC0rjq7X/In-Shot-20260823-075420672.png" group-title="🇦🇿 Azərbaycan 🇦🇿",TEBER 4
+https://boztv.smartiptvworld.workers.dev/teber_4.m3u8
+#EXTINF:0 tvg-logo="https://i.postimg.cc/xC0rjq7X/In-Shot-20260823-075420672.png" group-title="🇦🇿 Azərbaycan 🇦🇿",TEBER
+https://boztv.smartiptvworld.workers.dev/teber_5.m3u8
+#EXTINF:0 tvg-logo="https://i.postimg.cc/xC0rjq7X/In-Shot-20260823-075420672.png" group-title="🇦🇿 Azərbaycan 🇦🇿",TEBER 6 
+https://boztv.smartiptvworld.workers.dev/teber_6.m3u8
+#EXTINF:0 tvg-logo="https://i.postimg.cc/xC0rjq7X/In-Shot-20260823-075420672.png" group-title="🇦🇿 Azərbaycan 🇦🇿",TEBER 7
+https://boztv.smartiptvworld.workers.dev/teber_7.m3u8
+#EXTINF:0 tvg-logo="https://i.postimg.cc/xC0rjq7X/In-Shot-20260823-075420672.png" group-title="🇦🇿 Azərbaycan 🇦🇿",TEBER 8 
+https://boztv.smartiptvworld.workers.dev/teber_8.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/UVnzoF5.jpeg" group-title="🇦🇿 Azərbaycan 🇦🇿",TEBER KRAL 
 https://catcast.ismailturret.workers.dev/50457.m3u8
 #EXTINF:0 tvg-logo="https://i.postimg.cc/kGGdms8M/In-Shot-20260531-161329581.png" group-title="🇦🇿 Azərbaycan 🇦🇿",DENGE movie TV
@@ -258,12 +253,12 @@ https://pastebin.com/raw/jrBhv7V7
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/2yYVPz0L/In-Shot-20260403-220516775.png",SIRIUS TV Az Film
 #EXTGRP:🇦🇿 Azərbaycan 🇦🇿
 https://catcast.ismailturret.workers.dev/sirius_az_film.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tCz7czL.png",-belgesel
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tCz7czL.png",indistan-filimleri-az
 #EXTGRP:🇦🇿 Azərbaycan 🇦🇿
-https://raw.githubusercontent.com/BY-KERIMOFF/by-kerimoff-stream/refs/heads/main/catcast/by-kerimoff-belgesel.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tCz7czL.png",-kend-heyati
+https://catcast.ismailturret.workers.dev/hindistan-filimleri-az.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tCz7czL.png",hindistan-filimleri-az-2
 #EXTGRP:🇦🇿 Azərbaycan 🇦🇿
-https://raw.githubusercontent.com/BY-KERIMOFF/by-kerimoff-stream/refs/heads/main/catcast/by-kerimoff-kend-heyati.m3u8
+https://catcast.ismailturret.workers.dev/hindistan-filimleri-az-2.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tCz7czL.png",-gaydasiz doyusler
 #EXTGRP:🇦🇿 Azərbaycan 🇦🇿
 https://raw.githubusercontent.com/BY-KERIMOFF/by-kerimoff-stream/refs/heads/main/catcast/by-kerimoff-gaydasiz-doyusler.m3u8

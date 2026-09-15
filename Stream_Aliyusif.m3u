@@ -102,6 +102,12 @@ https://raw.githubusercontent.com/dedmasteriptv/ATV-Cinema/refs/heads/main/ATVCi
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qHQSpxW.png", Sirius
 #EXTGRP:🇦🇿 Azərbaycan 🇦🇿
 https://raw.githubusercontent.com/Elvin4K/restream/refs/heads/pro4k/1siriustv.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qHQSpxW.png", Sirius
+#EXTGRP:🇦🇿 Azərbaycan 🇦🇿
+https://streamsat.siriustvhd-onlineclap.workers.dev/siriustvhd.m3u8
+#EXTINF:-1 tvg-logo="", Fix tv
+#EXTGRP:🇦🇿 Azərbaycan 🇦🇿
+https://yayin.venomlink.com/live/mystream/main_stream.m3u8
 #EXTINF:0 tvg-logo="https://i.postimg.cc/WbDzWXbq/In-Shot-20260806-202852487.png" group-title="🇦🇿 Azərbaycan 🇦🇿",RIHAT TV 
 https://cdn4.yayin.com.tr/rihattv/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-logo="https://i.postimg.cc/Wztwp8Mn/In-Shot-20260807-111425434.png" group-title="🇦🇿 Azərbaycan 🇦🇿",Mr Bean 
@@ -259,12 +265,6 @@ https://catcast.ismailturret.workers.dev/hindistan-filimleri-az.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tCz7czL.png",hindistan-filimleri-az-2
 #EXTGRP:🇦🇿 Azərbaycan 🇦🇿
 https://catcast.ismailturret.workers.dev/hindistan-filimleri-az-2.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tCz7czL.png",-gaydasiz doyusler
-#EXTGRP:🇦🇿 Azərbaycan 🇦🇿
-https://raw.githubusercontent.com/BY-KERIMOFF/by-kerimoff-stream/refs/heads/main/catcast/by-kerimoff-gaydasiz-doyusler.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tCz7czL.png",-Horror
-#EXTGRP:🇦🇿 Azərbaycan 🇦🇿
-https://raw.githubusercontent.com/BY-KERIMOFF/by-kerimoff-stream/refs/heads/main/catcast/by-kerimoff-horror.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tCz7czL.png",-hind-filmleri
 #EXTGRP:🇦🇿 Azərbaycan 🇦🇿
 https://raw.githubusercontent.com/BY-KERIMOFF/by-kerimoff-stream/refs/heads/main/catcast/by-kerimof-hind-filmleri.m3u8
@@ -277,27 +277,12 @@ https://raw.githubusercontent.com/BY-KERIMOFF/by-kerimoff-stream/refs/heads/main
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tCz7czL.png",-bozbash-production
 #EXTGRP:🇦🇿 Azərbaycan 🇦🇿
 https://raw.githubusercontent.com/BY-KERIMOFF/by-kerimoff-stream/refs/heads/main/catcast/by-kerimoff-bozbash-production.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tCz7czL.png",-Yesilcam
-#EXTGRP:🇦🇿 Azərbaycan 🇦🇿
-https://raw.githubusercontent.com/BY-KERIMOFF/by-kerimoff-stream/refs/heads/main/catcast/by-kerimoff-yesilcam.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tCz7czL.png",Hababam tv
 #EXTGRP:🇦🇿 Azərbaycan 🇦🇿
 https://catcast.ismailturret.workers.dev/hababam.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tCz7czL.png",-bu seherde
 #EXTGRP:🇦🇿 Azərbaycan 🇦🇿
 https://raw.githubusercontent.com/BY-KERIMOFF/by-kerimoff-stream/refs/heads/main/catcast/by-kerimoff-bu-seherde.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tCz7czL.png",-bu seherde+
-#EXTGRP:🇦🇿 Azərbaycan 🇦🇿
-https://raw.githubusercontent.com/BY-KERIMOFF/by-kerimoff-stream/refs/heads/main/catcast/by-kerimoff-bu-seherde2.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tCz7czL.png", Buğlama tv
-#EXTGRP:🇦🇿 Azərbaycan 🇦🇿
-https://raw.githubusercontent.com/BY-KERIMOFF/by-kerimoff-stream/refs/heads/main/catcast/by-kerimoff-buglama.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tCz7czL.png", Komedixana tv
-#EXTGRP:🇦🇿 Azərbaycan 🇦🇿
-https://raw.githubusercontent.com/BY-KERIMOFF/by-kerimoff-stream/refs/heads/main/catcast/by-kerimoff-comedyxana.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tCz7czL.png", AZkomedi tv
-#EXTGRP:🇦🇿 Azərbaycan 🇦🇿
-https://raw.githubusercontent.com/BY-KERIMOFF/by-kerimoff-stream/refs/heads/main/catcast/by-kerimoff-azcomedy.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tCz7czL.png",Vetendash_A az
 #EXTGRP:🇦🇿 Azərbaycan 🇦🇿
 https://raw.githubusercontent.com/BY-KERIMOFF/by-kerimoff-stream/refs/heads/main/catcast/vetendasa.m3u8

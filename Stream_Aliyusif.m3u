@@ -95,7 +95,18 @@ https://premiumiptv.bykerimoff.workers.dev/stream/nowmusic.m3u8
 #EXTGRP:🇦🇿 Azərbaycan 🇦🇿
 https://pastebin.com/raw/m3UBDTLW
 #EXTINF:-1 tvg-id="db997967-6f59-443a-b497-e5a659b0efb4" tvg-name="AZ:Kinozal" tvg-logo="https://a3mw.aile.tv/storage/ded6a62303bc14d1e9ff9af62f77d355" group-title="🇦🇿 Azərbaycan 🇦🇿",🇦🇿Ailə Tv🇦🇿Kinozal
-
+#EXTINF:-1 tvg-logo="",Now cinema 
+#EXTGRP:🇦🇿 Azərbaycan 🇦🇿
+https://now-cinema-premiumt5tv.bykerimoff.workers.dev/nowcinema.m3u8
+#EXTINF:-1 tvg-logo="",Now action
+#EXTGRP:🇦🇿 Azərbaycan 🇦🇿
+https://now-cinema-premiumt5tv.bykerimoff.workers.dev/nowcinema-3.m3u8
+#EXTINF:-1 tvg-logo="",Now horror 
+#EXTGRP:🇦🇿 Azərbaycan 🇦🇿
+https://now-cinema-premiumt5tv.bykerimoff.workers.dev/nowcinema-horror.m3u8
+#EXTINF:-1 tvg-logo="",Now bilim kurgu
+#EXTGRP:🇦🇿 Azərbaycan 🇦🇿
+https://now-cinema-premiumt5tv.bykerimoff.workers.dev/nowbilimkurgu.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img2/9128.png", ATV Cinema AZ
 #EXTGRP:🇦🇿 Azərbaycan 🇦🇿
 https://raw.githubusercontent.com/dedmasteriptv/ATV-Cinema/refs/heads/main/ATVCinema.m3u8

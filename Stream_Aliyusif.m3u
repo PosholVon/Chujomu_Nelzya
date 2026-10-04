@@ -108,6 +108,8 @@ https://streamsat.siriushdtv-onlineclap.workers.dev/siriustvhd.m3u8
 #EXTINF:-1 tvg-logo="https://r.resimlink.com/pCE1b.png", Fix tv
 #EXTGRP:🇦🇿 Azərbaycan 🇦🇿
 https://yayin.venomlink.com/live/mystream/main_stream.m3u8
+#EXTINF:0 tvg-logo="https://i.postimg.cc/0QrvfpL0/In-Shot-20250516-082658023.png" group-title="🇦🇿 Azərbaycan 🇦🇿",TV1
+https://telecast.srthub.net/hls/20850e6a-19a8-df31-6690-7e8af2cdf531/streams/v3/play.m3u8
 #EXTINF:0 tvg-logo="https://i.postimg.cc/WbDzWXbq/In-Shot-20260806-202852487.png" group-title="🇦🇿 Azərbaycan 🇦🇿",RIHAT TV 
 https://cdn4.yayin.com.tr/rihattv/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-logo="https://i.postimg.cc/Wztwp8Mn/In-Shot-20260807-111425434.png" group-title="🇦🇿 Azərbaycan 🇦🇿",Mr Bean 
@@ -161,6 +163,8 @@ http://162.212.179.32/akamaissh101/ssh101/maxyerli/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/pLZf44qp/39030030-ico.png",MAX PREMİUM
 #EXTGRP:🇦🇿 Azərbaycan 🇦🇿
 http://162.212.179.32/akamaissh101/ssh101/maxpremier/playlist.m3u8
+#EXTINF:0 tvg-id="3"tvg-logo="https://i.postimg.cc/tR5kJjpx/In-Shot-20260517-113022210.png" group-title="🇦🇿 Azərbaycan 🇦🇿",TE TV 
+https://host.onlineradyotv.net:8081/tetv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VAG8ZQ5.png", SDM TVᵀᴿ
 #EXTGRP:🇦🇿 Azərbaycan 🇦🇿
 https://host.onlineradyotv.net:8081/sdmtv/tracks-v1a1/mono.m3u8

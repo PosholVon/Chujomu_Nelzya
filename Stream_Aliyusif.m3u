@@ -105,7 +105,7 @@ https://raw.githubusercontent.com/Elvin4K/restream/refs/heads/pro4k/1siriustv.m3
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qHQSpxW.png", Sirius tv hd
 #EXTGRP:🇦🇿 Azərbaycan 🇦🇿
 https://streamsat.siriushdtv-onlineclap.workers.dev/siriustvhd.m3u8
-#EXTINF:-1 tvg-logo="", Fix tv
+#EXTINF:-1 tvg-logo="https://r.resimlink.com/pCE1b.png", Fix tv
 #EXTGRP:🇦🇿 Azərbaycan 🇦🇿
 https://yayin.venomlink.com/live/mystream/main_stream.m3u8
 #EXTINF:0 tvg-logo="https://i.postimg.cc/WbDzWXbq/In-Shot-20260806-202852487.png" group-title="🇦🇿 Azərbaycan 🇦🇿",RIHAT TV 
@@ -119,6 +119,12 @@ https://canliyayin.cine1.com.tr/memfs/cbaef080-a742-4644-9e9e-2b9f6a5103c3_outpu
 https://live.artidijitalmedya.com/artidijital_tivi6/tivi6/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/59Cd5mGN/viasat-epic-drama.png" group-title="🇦🇿 Azərbaycan 🇦🇿",VİASAT EPİC DRAMA
 http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:C0:8F:65&stream=1471701&extension=ts&play_token=POSWGUQYoB
+#EXTINF:-1 tvg-logo="https://r.resimlink.com/VP-NLRX.png" group-title="🇦🇿 Azərbaycan 🇦🇿",RESURRECTİON CHANNEL
+https://raw.githubusercontent.com/ibrahim9071/kick/refs/heads/main/streams/resurrection-channel-tv.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjHpHfvc/TRT-logo-(2018-)-svg.webp" group-title="🇦🇿 Azərbaycan 🇦🇿",TRT NOSTALJİ
+https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/dizi-tv/playlist/0.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/QMMFHtqd/39399820-ico.png" group-title="🇦🇿 Azərbaycan 🇦🇿",TELE YEŞİLÇAM
+http://162.212.179.32/akamaissh101/ssh101/0212tv/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/KYtcqRKT/37576965-ico.png" group-title="🇦🇿 Azərbaycan 🇦🇿",TVB
 https://ip44.radyotelekomtv.com:3958/stream/play.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/wT6V9GD3/37586347-ico.png" group-title="🇦🇿 Azərbaycan 🇦🇿",FİLMSCREEN İNTERNATİONAL
@@ -132,18 +138,12 @@ http://cineplus-yesilcam.supersatadmin.workers.dev/cineplusyesilcam.m3u8
 https://host.onlineradyotv.net:8081/cine5tv/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-logo="https://i.postimg.cc/0jy0fHyz/In-Shot-20260817-082059850.png" group-title="🇦🇿 Azərbaycan 🇦🇿",FUSİON 
 http://162.212.179.32/akamaissh101/ssh101/084952510aa/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/yWcGNHj.png", Pati tvᵀᴿ
-#EXTGRP:🇦🇿 Azərbaycan 🇦🇿
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/5jd1nmms/38876648-ico.png",TELEON
 #EXTGRP:🇦🇿 Azərbaycan 🇦🇿
 https://cdn-teleonchannels.yayin.com.tr/teleonchannels/teleonchannels/chunklist_w2028408927.m3u8
 #EXTINF:-1 tvg-logo="https://www.bikanal.com/frontend/img/logo.webp",Bİ KANAL
 #EXTGRP:🇦🇿 Azərbaycan 🇦🇿
 https://bikanal-live.ercdn.net/bikanal/bikanal.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/ZKFnSm80/17418-Picsart-Background-Remover-jpg.png",BONCUK TV
-#EXTGRP:🇦🇿 Azərbaycan 🇦🇿
-http://104.238.23.191/BoncukTV/live/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/dV3mvSwf/38332657-ico.png",YANSIMA SİNEMA TV
 #EXTGRP:🇦🇿 Azərbaycan 🇦🇿
 http://162.212.179.32/akamaissh101/ssh101/ysmtvmedya/chunks.m3u8
@@ -153,45 +153,23 @@ http://162.212.179.32/akamaissh101/ssh101/ymdanstv/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d0Nj381Z/37587142-ico.png",RİZE TÜRK
 #EXTGRP:🇦🇿 Azərbaycan 🇦🇿
 https://yayin.rizeturk.com:3777/hybrid/play.m3u8
+#EXTINF:-1 tvg-logo="https://r.resimlink.com/ui9jCyKLJbY.png" group-title="🇦🇿 Azərbaycan 🇦🇿",MAX TV
+http://maxmedya.duckdns.org/akamaissh101/ssh101/maxtv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/7PFn2g5q/38943114-ico.png",MAX YERLİ
 #EXTGRP:🇦🇿 Azərbaycan 🇦🇿
 http://162.212.179.32/akamaissh101/ssh101/maxyerli/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/pLZf44qp/39030030-ico.png",MAX PREMİUM
 #EXTGRP:🇦🇿 Azərbaycan 🇦🇿
 http://162.212.179.32/akamaissh101/ssh101/maxpremier/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/FR2304sL/39030647-ico.png",MAX STAR
-#EXTGRP:🇦🇿 Azərbaycan 🇦🇿
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VAG8ZQ5.png", SDM TVᵀᴿ
 #EXTGRP:🇦🇿 Azərbaycan 🇦🇿
 https://host.onlineradyotv.net:8081/sdmtv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/FKrtZvwT/images-removebg-preview-(3).png",FX
-#EXTGRP:🇦🇿 Azərbaycan 🇦🇿
-http://88.99.165.164:6878/ace/getstream?id=ba95d17dc4f2c6710a5f42837f0fbbc023f710d2&pid=46724
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/F15rXPRp/39109846-ico.png",NATİVE TV
-#EXTGRP:🇦🇿 Azərbaycan 🇦🇿
-http://162.212.179.32/akamaissh101/ssh101/nativetv/chunks.m3u8
-#EXTINF:0 tvg-logo="https://i.postimg.cc/0QkhyhYR/In-Shot-20260831-102531514.png",Moviesmart Cassic 
-#EXTGRP:🇦🇿 Azərbaycan 🇦🇿
-http://88.99.165.164:6878/ace/getstream?infohash=115360d941218ec8e8ed303e00a20fa1d966517d&pid=898
-#EXTINF:0 tvg-logo="https://i.postimg.cc/brTxNF95/In-Shot-20260831-102930172.png",Moviesmart Türk 
-#EXTGRP:🇦🇿 Azərbaycan 🇦🇿
-http://88.99.165.164:6878/ace/getstream?id=2bd20ae512bd540d535fba41da249e6ce1d1febd&pid=3991
-#EXTINF:0 tvg-logo="https://i.postimg.cc/fTvsDjnL/In-Shot-20260831-103326287.png",SİNEMA TV 
-#EXTGRP:🇦🇿 Azərbaycan 🇦🇿
-http://88.99.165.164:6878/ace/getstream?id=6c39acff088fd7f2fc692363b2351b52fd00c91a&pid=22858
-#EXTINF:0 tvg-logo="https://i.postimg.cc/fbYCT9Pb/In-Shot-20260817-082222489.png",F MAX 
-#EXTGRP:🇦🇿 Azərbaycan 🇦🇿
-http://162.212.179.32/akamaissh101/ssh101/kanalfmax/chunks.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/U3IjbqP.png",  ISVIÇRE TVᵀᴿ
 #EXTGRP:🇦🇿 Azərbaycan 🇦🇿
 https://i41.ozelip.com:3269/hybrid/play.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/wjChc8vs/logo-31.png", Deniz posdasıᵀᴿ
 #EXTGRP:🇦🇿 Azərbaycan 🇦🇿
 https://live.artidijitalmedya.com/artidijital_denizpostasi/denizpostasi/playlist.m3u8
-#EXTINF:0 tvg-logo="https://i.postimg.cc/c6qm6NVS/In-Shot-20260818-182657138.png" group-title="🇦🇿 Azərbaycan 🇦🇿",KANAL F
-https://boztv.smartiptvworld.workers.dev/kanalfmedya.m3u8
 #EXTINF:0 tvg-logo="https://i.postimg.cc/xC0rjq7X/In-Shot-20260823-075420672.png" group-title="🇦🇿 Azərbaycan 🇦🇿",TEBER 1 
 https://boztv.smartiptvworld.workers.dev/teber_1.m3u8
 #EXTINF:0 tvg-logo="https://i.postimg.cc/xC0rjq7X/In-Shot-20260823-075420672.png" group-title="🇦🇿 Azərbaycan 🇦🇿",TEBER 2 
@@ -216,6 +194,8 @@ https://catcast.ismailturret.workers.dev/50457.m3u8
 https://tv191.radyotelekom.com.tr:3996/stream/play.m3u8
 #EXTINF:0 tvg-logo="https://i.postimg.cc/br7hSHP2/In-Shot-20260531-073742477.png" group-title="🇦🇿 Azərbaycan 🇦🇿",FLUX TV
 https://a8.radyotelekom.com.tr:3232/stream/play.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/4ySpcvvF/37593099-ico.png" group-title="🇦🇿 Azərbaycan 🇦🇿",CENNET MAHALLESİ TV
+https://playlist.fasttvcdn.com/pl/3k4ks1xutgm1fve4w1r6vq/cennetmahallesi/playlist/0.m3u8
 #EXTINF:0 tvg-logo="https://i.postimg.cc/rwM3jDB6/akkaontvust.png",AKKON TV
 #EXTGRP:🇦🇿 Azərbaycan 🇦🇿
 https://ip.akkontv.com:3205/stream/play.m3u8

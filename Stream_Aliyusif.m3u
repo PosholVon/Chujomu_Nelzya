@@ -8594,42 +8594,61 @@ https://raw.githubusercontent.com/dedmasteriptv/ATV-Cinema/refs/heads/main/BoxOs
 #EXTGRP:Kino Action
 https://raw.githubusercontent.com/dedmasteriptv/ATV-Cinema/refs/heads/main/Z_Action.m3u8
 
-#EXTINF:-1 tvg-logo="http://dolby-zorextv.dynuddns.net:8080/LOGO.YENI/TR/YESILCAM/KATAGORI.png" group-title="ŞABAN", TR: HABABAM SINIFI
-http://eagleat.xyz:8080/srF3sbyP/gQx5fJEJPK/58632
-#EXTINF:0 tvg-logo="https://i.imgur.com/M4bnpjW.jpeg" group-title="ŞABAN",🇹🇷Hababam Sinifi
-http://enomaxtv.xyz:8080/aNDY6JaN/hpqAnwHXc8BY/796931
-#EXTINF:0 tvg-logo="https://i.imgur.com/M4bnpjW.jpeg" group-title="ŞABAN",🇹🇷Kemal Sunal_1
-http://eagleat.xyz:8080/srF3sbyP/gQx5fJEJPK/43127
-#EXTINF:0 tvg-logo="https://i.imgur.com/M4bnpjW.jpeg" group-title="ŞABAN",🇹🇷Kemal Sunal_2
-http://eagleat.xyz:8080/srF3sbyP/gQx5fJEJPK/90885
-#EXTINF:0 tvg-logo="https://i.imgur.com/M4bnpjW.jpeg" group-title="ŞABAN",🇹🇷Kemal Sunal_3 
-http://eagleat.xyz:8080/srF3sbyP/gQx5fJEJPK/20964
-#EXTINF:0 tvg-logo="https://i.imgur.com/M4bnpjW.jpeg" group-title="ŞABAN",🇹🇷Kemal Sunal_4 
-http://eagleat.xyz:8080/srF3sbyP/gQx5fJEJPK/11137
-#EXTINF:0 tvg-logo="https://i.imgur.com/M4bnpjW.jpeg" group-title="ŞABAN",🇹🇷Kemal Sunal_5 
-http://eagleat.xyz:8080/srF3sbyP/gQx5fJEJPK/222189
-#EXTINF:0 tvg-logo="https://i.imgur.com/M4bnpjW.jpeg" group-title="ŞABAN",🇹🇷Kemal Sunal_7
-http://eagleat.xyz:8080/srF3sbyP/gQx5fJEJPK/222190
-#EXTINF:0 tvg-logo="https://i.imgur.com/M4bnpjW.jpeg" group-title="ŞABAN",🇹🇷Kemal Sunal_8
-http://eagleat.xyz:8080/srF3sbyP/gQx5fJEJPK/222191
-#EXTINF:-1 tvg-logo="http://dolby-zorextv.dynuddns.net:8080/LOGO.YENI/TR/YESILCAM/KATAGORI.png" group-title="ŞABAN", TR: ŞENER ŞEN 1
-http://eagleat.xyz:8080/srF3sbyP/gQx5fJEJPK/9330
-#EXTINF:-1 tvg-logo="http://dolby-zorextv.dynuddns.net:8080/LOGO.YENI/TR/YESILCAM/KATAGORI.png" group-title="ŞABAN", TR: ŞENER ŞEN 2
-http://eagleat.xyz:8080/srF3sbyP/gQx5fJEJPK/64658
-#EXTINF:-1 tvg-logo="http://zorexlogo.dynuddns.com:8080/zrx/YESILCAM/SENER.SEN.png" group-title="ŞABAN", TR: ŞENER ŞEN HD
-http://eagleat.xyz:8080/srF3sbyP/gQx5fJEJPK/222199
+
+#EXTINF:-1 tvg-id="" tvg-name="TR: KEMAL SUNAL 1 ʜᴅ" tvg-logo="http://bluelogo8991.duckdns.org:2095/LOGO.YENI/TR/YESILCAM/KEMAL.SUNAL.01.png" group-title="ŞABAN",TR: KEMAL SUNAL 1 ʜᴅ
+http://mrtbox.xyz:2095/hsn8055/rdd3605yy00zz/123072
+#EXTINF:-1 tvg-id="" tvg-name="TR: KEMAL SUNAL 2 ʜᴅ" tvg-logo="http://bluelogo8991.duckdns.org:2095/LOGO.YENI/TR/YESILCAM/KEMAL.SUNAL.02.png" group-title="ŞABAN",TR: KEMAL SUNAL 2 ʜᴅ
+http://mrtbox.xyz:2095/hsn8055/rdd3605yy00zz/70077
+#EXTINF:-1 tvg-id="" tvg-name="TR: KEMAL SUNAL 3 ʜᴅ" tvg-logo="http://bluelogo8991.duckdns.org:2095/LOGO.YENI/TR/YESILCAM/KEMAL.SUNAL.03.png" group-title="ŞABAN",TR: KEMAL SUNAL 3 ʜᴅ
+http://mrtbox.xyz:2095/hsn8055/rdd3605yy00zz/105268
+#EXTINF:-1 tvg-id="" tvg-name="TR: ŞENER ŞEN ʜᴅ" tvg-logo="http://bluelogo8991.duckdns.org:2095/LOGO.YENI/TR/YESILCAM/SENER.SEN.png" group-title="ŞABAN",TR: ŞENER ŞEN ʜᴅ
+http://mrtbox.xyz:2095/hsn8055/rdd3605yy00zz/153227
+#EXTINF:-1 tvg-id="" tvg-name="TR: ZEKİ METİN ʜᴅ" tvg-logo="http://bluelogo8991.duckdns.org:2095/LOGO.YENI/TR/YESILCAM/ZEKI.ILE.METIN.png" group-title="ŞABAN",TR: ZEKİ METİN ʜᴅ
+http://mrtbox.xyz:2095/hsn8055/rdd3605yy00zz/75839
+#EXTINF:-1 tvg-id="" tvg-name="TR: HABAMAM SINIFI ʜᴅ" tvg-logo="http://bluelogo8991.duckdns.org:2095/LOGO.YENI/TR/YESILCAM/HABABAM.SINIFI.png" group-title="ŞABAN",TR: HABAMAM SINIFI ʜᴅ
+http://mrtbox.xyz:2095/hsn8055/rdd3605yy00zz/95631
+
+#EXTINF:-1 tvg-id="" tvg-name="ŞENER ŞEN 1" tvg-logo="https://www.logolarimiz.com/logo/Ozel/Sener.Sen.png" group-title="ŞABAN",ŞENER ŞEN 1
+http://vip-08.xyz:8080/B73eurfrJV/4CG65zZnKD/672070
+#EXTINF:-1 tvg-id="" tvg-name="ŞENER ŞEN 2" tvg-logo="https://www.logolarimiz.com/logo/Ozel/Sener.Sen.png" group-title="ŞABAN",ŞENER ŞEN 2
+http://vip-08.xyz:8080/B73eurfrJV/4CG65zZnKD/672069
+#EXTINF:-1 tvg-id="" tvg-name="ŞENER ŞEN 3" tvg-logo="https://www.logolarimiz.com/logo/Ozel/Sener.Sen.png" group-title="ŞABAN",ŞENER ŞEN 3
+http://vip-08.xyz:8080/B73eurfrJV/4CG65zZnKD/672068
+#EXTINF:-1 tvg-id="" tvg-name="ZEKİ VE METİN 1" tvg-logo="https://www.logolarimiz.com/logo/Ozel/Zeki.Metin.png" group-title="ŞABAN",ZEKİ VE METİN 1
+http://vip-08.xyz:8080/B73eurfrJV/4CG65zZnKD/672058
+#EXTINF:-1 tvg-id="" tvg-name="ZEKİ VE METİN 2" tvg-logo="https://www.logolarimiz.com/logo/Ozel/Zeki.Metin.png" group-title="ŞABAN",ZEKİ VE METİN 2
+http://vip-08.xyz:8080/B73eurfrJV/4CG65zZnKD/672057
+#EXTINF:-1 tvg-id="" tvg-name="ZEKİ VE METİN 3" tvg-logo="https://www.logolarimiz.com/logo/Ozel/Zeki.Metin.png" group-title="ŞABAN",ZEKİ VE METİN 3
+http://vip-08.xyz:8080/B73eurfrJV/4CG65zZnKD/672056
+#EXTINF:-1 tvg-id="" tvg-name="ZEKİ VE METİN 4" tvg-logo="https://www.logolarimiz.com/logo/Ozel/Zeki.Metin.png" group-title="ŞABAN",ZEKİ VE METİN 4
+http://vip-08.xyz:8080/B73eurfrJV/4CG65zZnKD/672055
+#EXTINF:-1 tvg-id="" tvg-name="ZEKİ VE METİN 5" tvg-logo="https://www.logolarimiz.com/logo/Ozel/Zeki.Metin.png" group-title="ŞABAN",ZEKİ VE METİN 5
+http://vip-08.xyz:8080/B73eurfrJV/4CG65zZnKD/672054
+#EXTINF:-1 tvg-id="" tvg-name="KEMAL SUNAL 1" tvg-logo="https://www.logolarimiz.com/logo/Ozel/Kemal.Sunal.png" group-title="ŞABAN",KEMAL SUNAL 1
+http://vip-08.xyz:8080/B73eurfrJV/4CG65zZnKD/672053
+#EXTINF:-1 tvg-id="" tvg-name="KEMAL SUNAL 2" tvg-logo="https://www.logolarimiz.com/logo/Ozel/Kemal.Sunal.png" group-title="ŞABAN",KEMAL SUNAL 2
+http://vip-08.xyz:8080/B73eurfrJV/4CG65zZnKD/672052
+#EXTINF:-1 tvg-id="" tvg-name="KEMAL SUNAL 3" tvg-logo="https://www.logolarimiz.com/logo/Ozel/Kemal.Sunal.png" group-title="ŞABAN",KEMAL SUNAL 3
+http://vip-08.xyz:8080/B73eurfrJV/4CG65zZnKD/672051
+#EXTINF:-1 tvg-id="" tvg-name="KEMAL SUNAL 4" tvg-logo="https://www.logolarimiz.com/logo/Ozel/Kemal.Sunal.png" group-title="ŞABAN",KEMAL SUNAL 4
+http://vip-08.xyz:8080/B73eurfrJV/4CG65zZnKD/672050
+#EXTINF:-1 tvg-id="" tvg-name="KEMAL SUNAL 5" tvg-logo="https://www.logolarimiz.com/logo/Ozel/Kemal.Sunal.png" group-title="ŞABAN",KEMAL SUNAL 5
+http://vip-08.xyz:8080/B73eurfrJV/4CG65zZnKD/672049
+#EXTINF:-1 tvg-id="" tvg-name="KEMAL SUNAL 6" tvg-logo="https://www.logolarimiz.com/logo/Ozel/Kemal.Sunal.png" group-title="ŞABAN",KEMAL SUNAL 6
+http://vip-08.xyz:8080/B73eurfrJV/4CG65zZnKD/672048
+#EXTINF:-1 tvg-id="" tvg-name="KEMAL SUNAL 7" tvg-logo="https://www.logolarimiz.com/logo/Ozel/Kemal.Sunal.png" group-title="ŞABAN",KEMAL SUNAL 7
+http://vip-08.xyz:8080/B73eurfrJV/4CG65zZnKD/672047
+#EXTINF:-1 tvg-id="" tvg-name="KEMAL SUNAL 8" tvg-logo="https://www.logolarimiz.com/logo/Ozel/Kemal.Sunal.png" group-title="ŞABAN",KEMAL SUNAL 8
+http://vip-08.xyz:8080/B73eurfrJV/4CG65zZnKD/672046
+#EXTINF:-1 tvg-id="" tvg-name="KEMAL SUNAL 9" tvg-logo="https://www.logolarimiz.com/logo/Ozel/Kemal.Sunal.png" group-title="ŞABAN",KEMAL SUNAL 9
+http://vip-08.xyz:8080/B73eurfrJV/4CG65zZnKD/672045
+#EXTINF:-1 tvg-id="" tvg-name="ZEKI METIN TV" tvg-logo="http://sltv-logo.cms-s.com/logo/turkeyT/zeki_metin.png" group-title="ŞABAN",ZEKI METIN TV
+http://vip-08.xyz:8080/B73eurfrJV/4CG65zZnKD/646605
+#EXTINF:-1 tvg-id="" tvg-name="SENER SEN 7/24 FILM TV" tvg-logo="http://sltv-logo.cms-s.com/logo/turkeyT/sener_sen.png" group-title="ŞABAN",SENER SEN 7/24 FILM TV
+http://vip-08.xyz:8080/B73eurfrJV/4CG65zZnKD/646617
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/M4bnpjW.jpeg" group-title="ŞABAN",Şener Şen
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:67:7B:DD&stream=1472655&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="TR➾ Zeki & Metin TV" tvg-logo="https://i.hizliresim.com/5o2n0gf.png" group-title="ŞABAN",TR➾ Zeki & Metin TV
-http://eagleat.xyz:8080/srF3sbyP/gQx5fJEJPK/222206
-#EXTINF:-1 tvg-id="" tvg-name="TR➾ MAXIMTV KEMAL SUNAL 1" tvg-logo="https://i.hizliresim.com/jidytl1.png" group-title="ŞABAN",TR➾ MAXIMTV KEMAL SUNAL 1
-
-#EXTINF:-1 tvg-id="" tvg-name="TR➾ MAXIMTV KEMAL SUNAL 2" tvg-logo="https://i.hizliresim.com/8z4gn80.png" group-title="ŞABAN",TR➾ MAXIMTV KEMAL SUNAL 2
-
-#EXTINF:-1 tvg-id="" tvg-name="TR➾ MAXIMTV KEMAL SUNAL 3" tvg-logo="https://i.hizliresim.com/r5k8yxq.png" group-title="ŞABAN",TR➾ MAXIMTV KEMAL SUNAL 3
-
-
 #EXTINF:-1 tvg-id="" tvg-name="ŞENER ŞEN 1" tvg-logo="https://www.tvlogolar.xyz/logo/Ozel/Sener.Sen.png" group-title="ŞABAN",ŞENER ŞEN 1
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:67:7B:DD&stream=1472652&extension=ts
 #EXTINF:-1 tvg-id="" tvg-name="ŞENER ŞEN 2" tvg-logo="https://www.tvlogolar.xyz/logo/Ozel/Sener.Sen.png" group-title="ŞABAN",ŞENER ŞEN 2
@@ -8637,33 +8656,6 @@ http://main.light-ott.net:80/play/live.php?mac=00:1A:79:67:7B:DD&stream=1472653&
 #EXTINF:-1 tvg-id="" tvg-name="ŞENER ŞEN 3" tvg-logo="https://www.tvlogolar.xyz/logo/Ozel/Sener.Sen.png" group-title="ŞABAN",ŞENER ŞEN 3
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:67:7B:DD&stream=1472654&extension=ts
 #EXTINF:-1 tvg-id="" tvg-name="ZEKİ VE METİN 1" tvg-logo="https://www.tvlogolar.xyz/logo/Ozel/Zeki.Metin.png" group-title="ŞABAN",ZEKİ VE METİN 1
-
-#EXTINF:-1 tvg-id="" tvg-name="ZEKİ VE METİN 2" tvg-logo="https://www.tvlogolar.xyz/logo/Ozel/Zeki.Metin.png" group-title="ŞABAN",ZEKİ VE METİN 2
-
-#EXTINF:-1 tvg-id="" tvg-name="ZEKİ VE METİN 3" tvg-logo="https://www.tvlogolar.xyz/logo/Ozel/Zeki.Metin.png" group-title="ŞABAN",ZEKİ VE METİN 3
-
-#EXTINF:-1 tvg-id="" tvg-name="ZEKİ VE METİN 4" tvg-logo="https://www.tvlogolar.xyz/logo/Ozel/Zeki.Metin.png" group-title="ŞABAN",ZEKİ VE METİN 4
-
-#EXTINF:-1 tvg-id="" tvg-name="ZEKİ VE METİN 5" tvg-logo="https://www.tvlogolar.xyz/logo/Ozel/Zeki.Metin.png" group-title="ŞABAN",ZEKİ VE METİN 5
-
-#EXTINF:-1 tvg-id="" tvg-name="KEMAL SUNAL 1" tvg-logo="https://www.tvlogolar.xyz/logo/Ozel/Kemal.Sunal.png" group-title="ŞABAN",KEMAL SUNAL 1
-
-#EXTINF:-1 tvg-id="" tvg-name="KEMAL SUNAL 2" tvg-logo="https://www.tvlogolar.xyz/logo/Ozel/Kemal.Sunal.png" group-title="ŞABAN",KEMAL SUNAL 2
-
-#EXTINF:-1 tvg-id="" tvg-name="KEMAL SUNAL 3" tvg-logo="https://www.tvlogolar.xyz/logo/Ozel/Kemal.Sunal.png" group-title="ŞABAN",KEMAL SUNAL 3
-
-#EXTINF:-1 tvg-id="" tvg-name="KEMAL SUNAL 4" tvg-logo="https://www.tvlogolar.xyz/logo/Ozel/Kemal.Sunal.png" group-title="ŞABAN",KEMAL SUNAL 4
-
-#EXTINF:-1 tvg-id="" tvg-name="KEMAL SUNAL 5" tvg-logo="https://www.tvlogolar.xyz/logo/Ozel/Kemal.Sunal.png" group-title="ŞABAN",KEMAL SUNAL 5
-
-#EXTINF:-1 tvg-id="" tvg-name="KEMAL SUNAL 6" tvg-logo="https://www.tvlogolar.xyz/logo/Ozel/Kemal.Sunal.png" group-title="ŞABAN",KEMAL SUNAL 6
-
-#EXTINF:-1 tvg-id="" tvg-name="KEMAL SUNAL 7" tvg-logo="https://www.tvlogolar.xyz/logo/Ozel/Kemal.Sunal.png" group-title="ŞABAN",KEMAL SUNAL 7
-
-#EXTINF:-1 tvg-id="" tvg-name="KEMAL SUNAL 8" tvg-logo="https://www.tvlogolar.xyz/logo/Ozel/Kemal.Sunal.png" group-title="ŞABAN",KEMAL SUNAL 8
-
-#EXTINF:-1 tvg-id="" tvg-name="KEMAL SUNAL 9" tvg-logo="https://www.tvlogolar.xyz/logo/Ozel/Kemal.Sunal.png" group-title="ŞABAN",KEMAL SUNAL 9
-
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/M4bnpjW.jpeg" group-title="ŞABAN",Kemal Sunal 1
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:67:7B:DD&stream=1472683&extension=ts
@@ -8690,14 +8682,6 @@ http://nxtbox.uk:80/onurYagci/q2nz3S5/128905
 http://nxtbox.uk:80/onurYagci/q2nz3S5/125238
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/M4bnpjW.jpeg" group-title="ŞABAN",(TR) Şener Şen 2
 http://nxtbox.uk:80/onurYagci/q2nz3S5/128946
-#EXTINF:-1 tvg-id="kemalsunal" tvg-logo="https://i.imgur.com/M4bnpjW.jpeg" group-title="ŞABAN",(TR) Kemal Sunal 70'ler 1
-http://nxtbox.uk:80/onurYagci/q2nz3S5/122190
-#EXTINF:-1 tvg-id="kemalsunal" tvg-logo="https://i.imgur.com/M4bnpjW.jpeg" group-title="ŞABAN",(TR) Kemal Sunal 70'ler 2
-http://nxtbox.uk:80/onurYagci/q2nz3S5/122191
-#EXTINF:-1 tvg-id="kemalsunal" tvg-logo="https://i.imgur.com/M4bnpjW.jpeg" group-title="ŞABAN",(TR) Kemal Sunal 80'ler 1
-http://nxtbox.uk:80/onurYagci/q2nz3S5/122192
-#EXTINF:-1 tvg-id="kemalsunal" tvg-logo="https://i.imgur.com/M4bnpjW.jpeg" group-title="ŞABAN",(TR) Kemal Sunal 80'ler 2
-http://nxtbox.uk:80/onurYagci/q2nz3S5/122193
 
 #EXTINF:-1 tvg-id="" tvg-name="KEMAL SUNAL" tvg-logo="https://i.ibb.co/PsCn2zC2/6895f80c8315be2b8a01fe15.png" group-title="ŞABAN",KEMAL SUNAL
 http://enomaxtv.xyz:8080/aNDY6JaN/hpqAnwHXc8BY/664330
@@ -8722,27 +8706,6 @@ http://enomaxtv.xyz:8080/aNDY6JaN/hpqAnwHXc8BY/553855
 http://enomaxtv.xyz:8080/aNDY6JaN/hpqAnwHXc8BY/553854
 #EXTINF:-1 tvg-id="" tvg-name="FILM 7/24 | YESİLCAM KEMAL SUNAL USTA 5" tvg-logo="https://i.ibb.co/PsCn2zC2/6895f80c8315be2b8a01fe15.png" group-title="ŞABAN",FILM 7/24 | YESİLCAM KEMAL SUNAL USTA 5
 http://enomaxtv.xyz:8080/aNDY6JaN/hpqAnwHXc8BY/553853
-
-#EXTINF:-1 tvg-id="" tvg-name="FILIM 24/7 KEMAL SUNAL 1" tvg-logo="https://i.ibb.co/PsCn2zC2/6895f80c8315be2b8a01fe15.png" group-title="ŞABAN",FILIM 24/7 KEMAL SUNAL 1
-http://enomaxtv.xyz:8080/aNDY6JaN/hpqAnwHXc8BY/553830
-#EXTINF:-1 tvg-id="" tvg-name="FILIM 24/7 KEMAL SUNAL 2" tvg-logo="https://i.ibb.co/PsCn2zC2/6895f80c8315be2b8a01fe15.png" group-title="ŞABAN",FILIM 24/7 KEMAL SUNAL 2
-http://enomaxtv.xyz:8080/aNDY6JaN/hpqAnwHXc8BY/553829
-#EXTINF:-1 tvg-id="" tvg-name="FILIM 24/7 KEMAL SUNAL 3" tvg-logo="https://i.ibb.co/PsCn2zC2/6895f80c8315be2b8a01fe15.png" group-title="ŞABAN",FILIM 24/7 KEMAL SUNAL 3
-http://enomaxtv.xyz:8080/aNDY6JaN/hpqAnwHXc8BY/553828
-#EXTINF:-1 tvg-id="" tvg-name="FILIM 24/7 KEMAL SUNAL 4" tvg-logo="https://i.ibb.co/PsCn2zC2/6895f80c8315be2b8a01fe15.png" group-title="ŞABAN",FILIM 24/7 KEMAL SUNAL 4
-http://enomaxtv.xyz:8080/aNDY6JaN/hpqAnwHXc8BY/553827
-#EXTINF:-1 tvg-id="" tvg-name="FILM 7/24 ZEKI VE METIN" tvg-logo="https://i.ibb.co/PsCn2zC2/6895f80c8315be2b8a01fe15.png" group-title="ŞABAN",FILM 7/24 ZEKI VE METIN
-http://enomaxtv.xyz:8080/aNDY6JaN/hpqAnwHXc8BY/553826
-#EXTINF:-1 tvg-id="" tvg-name="4K KEMAL SUNAL 1" tvg-logo="https://i.ibb.co/PsCn2zC2/6895f80c8315be2b8a01fe15.png" group-title="ŞABAN",4K KEMAL SUNAL 1
-http://enomaxtv.xyz:8080/aNDY6JaN/hpqAnwHXc8BY/796948
-#EXTINF:-1 tvg-id="" tvg-name="4K KEMAL SUNAL 2" tvg-logo="https://i.ibb.co/PsCn2zC2/6895f80c8315be2b8a01fe15.png" group-title="ŞABAN",4K KEMAL SUNAL 2
-http://enomaxtv.xyz:8080/aNDY6JaN/hpqAnwHXc8BY/796947
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ekiptv/Logo/main/Gulsahfilm.jpeg",Film Gülşah 
-#EXTGRP:ŞABAN
-https://raw.githubusercontent.com/tecotv2025/tecotv/main/playlist/Kemal_Sunal_Tv.m3u8
-#EXTINF:-1 group-title="ŞABAN" tvg-logo="https://assets.uzunmuhalefet.com/logos/4f326473-7ee6-40a1-b848-4512dc28b5d6.png" tvg-url="https://www.akkontv.com/" tvg-id="",Akkon TV
-https://streams.uzunmuhalefet.com/stream/74555614-af2a-40ca-aaba-eaa665343c5c.m3u8
 
 #EXTINF:-1 group-title="🇹🇷 Türk 🇹🇷" tvg-logo="https://www.tvlogolar.xyz/europa/turkey/kanald.png" tvg-url="https://www.kanald.com.tr/" tvg-id="KanalD.tr",Kanal D
 https://streams.uzunmuhalefet.com/stream/6bdc8fb5-3e82-4b44-a0b1-6ab9fdc35d3f.m3u8

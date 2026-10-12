@@ -105,6 +105,23 @@ https://raw.githubusercontent.com/Elvin4K/restream/refs/heads/pro4k/1siriustv.m3
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qHQSpxW.png", Sirius tv hd
 #EXTGRP:🇦🇿 Azərbaycan 🇦🇿
 https://streamsat.siriushdtv-onlineclap.workers.dev/siriustvhd.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qHQSpxW.png", Sirius_klassika_tv
+#EXTGRP:🇦🇿 Azərbaycan 🇦🇿
+https://catcast-bana-sor.biz-az.workers.dev/index.m3u8?id=sirius_klassika_tv
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qHQSpxW.png", Sirius-tamasatv
+#EXTGRP:🇦🇿 Azərbaycan 🇦🇿
+https://catcast-bana-sor.biz-az.workers.dev/index.m3u8?id=sirius-tamasatv
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qHQSpxW.png", Sirius-citytv
+#EXTGRP:🇦🇿 Azərbaycan 🇦🇿
+https://catcast-bana-sor.biz-az.workers.dev/index.m3u8?id=sirius-citytv
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qHQSpxW.png", Sirius-hdworldcup2026
+#EXTGRP:🇦🇿 Azərbaycan 🇦🇿
+https://catcast-bana-sor.biz-az.workers.dev/index.m3u8?id=sirius-hdworldcup2026
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qHQSpxW.png",SIRIUS TV Az Film
+#EXTGRP:🇦🇿 Azərbaycan 🇦🇿
+https://catcast.ismailturret.workers.dev/sirius_az_film.m3u8
+
 #EXTINF:-1 tvg-logo="https://r.resimlink.com/pCE1b.png", Fix tv
 #EXTGRP:🇦🇿 Azərbaycan 🇦🇿
 https://yayin.venomlink.com/live/mystream/main_stream.m3u8
@@ -247,9 +264,6 @@ https://catcast.ismailturret.workers.dev/turkuzplay1.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/VkdXZ2VX/In-Shot-20260216-091910542.png",Az Film
 #EXTGRP:🇦🇿 Azərbaycan 🇦🇿
 https://pastebin.com/raw/jrBhv7V7
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/2yYVPz0L/In-Shot-20260403-220516775.png",SIRIUS TV Az Film
-#EXTGRP:🇦🇿 Azərbaycan 🇦🇿
-https://catcast.ismailturret.workers.dev/sirius_az_film.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tCz7czL.png",indistan-filimleri-az
 #EXTGRP:🇦🇿 Azərbaycan 🇦🇿
 https://catcast.ismailturret.workers.dev/hindistan-filimleri-az.m3u8

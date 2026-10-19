@@ -90,7 +90,16 @@ https://pastebin.com/raw/Vd6CBdPn
 https://pastebin.com/raw/C13XaXTB
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/XYV2ysXs/In-Shot-20260516-212209897.png",KANAL 65 
 #EXTGRP:🇦🇿 Azərbaycan 🇦🇿
-https://premiumiptv.bykerimoff.workers.dev/stream/nowmusic.m3u8
+https://kanal65.xyz/now-cinema/index.php?id=4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/XYV2ysXs/In-Shot-20260516-212209897.png",Now Cinema Ailə
+#EXTGRP:🇦🇿 Azərbaycan 🇦🇿
+https://kanal65.xyz/now-cinema/index.php?id=1
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/XYV2ysXs/In-Shot-20260516-212209897.png",Now Cinema 
+#EXTGRP:🇦🇿 Azərbaycan 🇦🇿
+https://kanal65.xyz/now-cinema/index.php?id=2
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/XYV2ysXs/In-Shot-20260516-212209897.png",Now-series
+#EXTGRP:🇦🇿 Azərbaycan 🇦🇿
+https://kanal65.xyz/now-cinema/index.php?id=3   
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/ydy7DCw5/1762835780517.png", HTV sinema
 #EXTGRP:🇦🇿 Azərbaycan 🇦🇿
 https://pastebin.com/raw/m3UBDTLW

@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="http://epg.one/img2/2134.png", AzTv
 #EXTGRP:🇦🇿 Azərbaycan 🇦🇿
-http://str.yodacdn.net/azertv/index.m3u8
+http://erlyvideo.izone.az:80/aztv/mono.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img2/2555.png", İctimai TV
 #EXTGRP:🇦🇿 Azərbaycan 🇦🇿
 https://live.itv.az/itv.m3u8
@@ -10,10 +10,10 @@ https://live.itv.az/itv.m3u8
 https://lives.atv.az:5443/ATV_TV_STREAM/streams/atvcanli.m3u8
 #EXTINF:-1  tvg-id="xezer"  tvg-logo="https://iptvx.one/picons/xezer.png",Xezer tv
 #EXTGRP:🇦🇿 Azərbaycan 🇦🇿
-http://str.yodacdn.net/xazartv/index.m3u8
+http://erlyvideo.izone.az:80/xezertv/mono.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img2/2553.png", Space TV
 #EXTGRP:🇦🇿 Azərbaycan 🇦🇿
-http://str.yodacdn.net/space/index.m3u8
+http://erlyvideo.izone.az:80/spacetv/mono.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img2/2635.png", ARB TV
 #EXTGRP:🇦🇿 Azərbaycan 🇦🇿
 http://flussonic.izone.az:80/arb/mono.m3u8
@@ -70,12 +70,6 @@ https://stream.ftv.az/live/ftv.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img2/9131.png", Show plus tv
 #EXTGRP:🇦🇿 Azərbaycan 🇦🇿
 https://rtmp.showplus.tv/hls/myshow.m3u8
-#EXTINF:-1 tvg-logo="https://r.resimlink.com/nO8IrLXf_sy.png",TTV az
-#EXTGRP:🇦🇿 Azərbaycan 🇦🇿
-
-#EXTINF:0 tvg-logo="https://i.postimg.cc/zGN8RtQC/In-Shot-20250209-192718561.png",İSMAYILLI TV
-#EXTGRP:🇦🇿 Azərbaycan 🇦🇿
-https://a8.radyotelekom.com.tr:3170/hybrid/play.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xgsAXgV.png", S TV sinema
 #EXTGRP:🇦🇿 Azərbaycan 🇦🇿
 https://ip100.radyotelekomtv.com:3274/hybrid/play.m3u8
@@ -100,6 +94,9 @@ https://kanal65.xyz/now-cinema/index.php?id=2
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/XYV2ysXs/In-Shot-20260516-212209897.png",Now-series
 #EXTGRP:🇦🇿 Azərbaycan 🇦🇿
 https://kanal65.xyz/now-cinema/index.php?id=3   
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/XYV2ysXs/In-Shot-20260516-212209897.png",Now Netflix
+#EXTGRP:🇦🇿 Azərbaycan 🇦🇿
+https://kanal65.xyz/now-cinema/index.php?id=5
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/ydy7DCw5/1762835780517.png", HTV sinema
 #EXTGRP:🇦🇿 Azərbaycan 🇦🇿
 https://pastebin.com/raw/m3UBDTLW

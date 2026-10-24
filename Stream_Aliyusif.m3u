@@ -85,16 +85,16 @@ https://pastebin.com/raw/C13XaXTB
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/XYV2ysXs/In-Shot-20260516-212209897.png",KANAL 65 
 #EXTGRP:🇦🇿 Azərbaycan 🇦🇿
 https://kanal65.xyz/now-cinema/index.php?id=4
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/XYV2ysXs/In-Shot-20260516-212209897.png",Now Cinema Ailə
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/2fsxxtab.png",Now Cinema Ailə
 #EXTGRP:🇦🇿 Azərbaycan 🇦🇿
 https://kanal65.xyz/now-cinema/index.php?id=1
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/XYV2ysXs/In-Shot-20260516-212209897.png",Now Cinema 
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/drfqvbnj.png",Now Cinema 
 #EXTGRP:🇦🇿 Azərbaycan 🇦🇿
 https://kanal65.xyz/now-cinema/index.php?id=2
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/XYV2ysXs/In-Shot-20260516-212209897.png",Now-series
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/gsm0ekvo.png",Now-series
 #EXTGRP:🇦🇿 Azərbaycan 🇦🇿
 https://kanal65.xyz/now-cinema/index.php?id=3   
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/XYV2ysXs/In-Shot-20260516-212209897.png",Now Netflix
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/0sbkmhzp.png",Now Netflix
 #EXTGRP:🇦🇿 Azərbaycan 🇦🇿
 https://kanal65.xyz/now-cinema/index.php?id=5
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/ydy7DCw5/1762835780517.png", HTV sinema
@@ -156,7 +156,21 @@ https://telezen-stream.wisp.uno/telezen.m3u8
 http://45.158.14.16/ZemTv/live/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/rmazzvnz.png" group-title="🇦🇿 Azərbaycan 🇦🇿",ZEM SİNEMA TV
 http://104.238.23.210/hls/stream.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/tr/b/bb/T%C3%BCrkmax_logosu.png?utm_source=tr.wikipedia.org&utm_campaign=index&utm_content=thumbnail_unsca" group-title="🇦🇿 Azərbaycan 🇦🇿",TÜRKMAX
+#EXTINF:-1 tvg-logo="https://resmim.net/cdn/2026/10/24/HXt62b.png" group-title="🇦🇿 Azərbaycan 🇦🇿",DİGİMAX
+http://162.212.179.32/akamaissh101/ssh101/seriesone@/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://resmim.net/cdn/2026/10/24/HXPSKL.png" group-title="🇦🇿 Azərbaycan 🇦🇿",DİGİMAX PLUS
+http://maxmedya.duckdns.org/akamaissh101/ssh101/digimax2/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://ia601404.us.archive.org/9/items/t.star_10_21_2026/MEGA_ON.png" group-title="🇦🇿 Azərbaycan 🇦🇿",MEGA ON
+http://162.212.179.32/akamaissh101/ssh101/mega_on/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/1nyeqpar.png" group-title="🇦🇿 Azərbaycan 🇦🇿",TÜRK 6
+http://162.212.179.32/akamaissh101/ssh101/turk6/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/on1bgkjg.png" group-title="🇦🇿 Azərbaycan 🇦🇿",ZİRVE SA
+http://maxmedya.duckdns.org/akamaissh101/ssh101/zirvesa/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/nfphas7u.png" group-title="🇦🇿 Azərbaycan 🇦🇿",ZİRVE SA SİNEMA
+http://maxmedya.duckdns.org/akamaissh101/ssh101/zirvesinema/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/u6wrmv9y.png" group-title="🇦🇿 Azərbaycan 🇦🇿",İZLE GO
+http://maxmedya.duckdns.org/akamaissh101/ssh101/izlego/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://ia601404.us.archive.org/9/items/t.star_10_21_2026/Turkmax.png" group-title="🇦🇿 Azərbaycan 🇦🇿",TÜRKMAX
 http://162.212.179.32/akamaissh101/ssh101/turk_max/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://r.resimlink.com/N2zd14iDu.png" group-title="🇦🇿 Azərbaycan 🇦🇿",TV7
 http://162.212.179.32/akamaissh101/ssh101/tv7tv/chunks.m3u8
@@ -670,6 +684,8 @@ http://185.32.44.154/sehiyye/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img2/2636.png", CBC Sport
 #EXTGRP:🇦🇿 Azərbaycan 🇦🇿
 http://flussonic.izone.az:80/cbcsporthd/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Zq8nBTCX/15235-removebg-preview.png" group-title="🇦🇿 Azərbaycan 🇦🇿",SPORT TV
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/ZEEDV4QP6HVZU3YXP49H3ECB/31926/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/01/%C4%B0dman_TV_logo.png",Idman tv(yoda.az)
 #EXTGRP:🇦🇿 Azərbaycan 🇦🇿
 http://str.yodacdn.net/idmantele/index.m3u8

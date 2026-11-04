@@ -870,6 +870,955 @@ http://s2.00x00.es/21102/index.m3u8?token=4913C457E8DE
 #EXTGRP:Азербайджанские
 http://s2.00x00.es/21103/index.m3u8?token=4913C457E8DE
 
+#EXTINF:-1 group-title="ТУРЦИЯ", 360 TV
+http://turkmedya-live.ercdn.net/tv360/tv360_720p.m3u8
+#EXTINF:-1 group-title="ТУРЦИЯ", TRT EBA
+http://tv-e-okul01.medya.trt.com.tr/master_720.m3u8
+#EXTINF:-1 group-title="ТУРЦИЯ", 24 TV
+http://turkmedya-live.ercdn.net/tv24/tv24_720p.m3u8
+#EXTINF:-1 group-title="ТУРЦИЯ", RMTV
+http://transcoder1.bitcare.eu/streaming/rimextv/rmtv.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="ТУРЦИЯ", DHA WEB
+https://603c568fccdf5.streamlock.net/live2/dhaweb2/chunklist.m3u8
+#EXTINF:-1 group-title="ТУРЦИЯ", UYGUR TV
+https://592f1881b3d5f.streamlock.net:1443/santraltv_742/santraltv_742/chunklist_w572083400.m3u8
+#EXTINF:-1 group-title="ТУРЦИЯ", TV4
+http://turkmedya-live.ercdn.net/tv4/tv4_720p.m3u8
+#EXTINF:-1 group-title="ТУРЦИЯ", ETV KAYSERI (720P)
+https://live.artidijitalmedya.com/artidijital_etv/etv/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="ТУРЦИЯ", TON TV
+https://live.artidijitalmedya.com/artidijital_tontv/tontv/chunks.m3u8
+#EXTINF:-1 group-title="ТУРЦИЯ", ANADOLUNET | 2
+https://live.artidijitalmedya.com/artidijital_anadolunet/anadolunet/chunks.m3u8
+#EXTINF:-1 group-title="ТУРЦИЯ", MAVIKARADENIZ
+https://live.artidijitalmedya.com/artidijital_mavikaradeniz/mavikaradeniz/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="ТУРЦИЯ", BURSA AS TV (900P)
+https://live.artidijitalmedya.com/artidijital_astv/astv/playlist.m3u8
+#EXTINF:-1 group-title="ТУРЦИЯ", TON TV (720P) [NOT 24/7]
+https://live.artidijitalmedya.com/artidijital_tontv/tontv/playlist.m3u8
+#EXTINF:-1 group-title="ТУРЦИЯ", RMTV
+http://transcoder1.bitcare.eu/streaming/rimextv/rmtv.m3u8
+#EXTINF:-1 group-title="ТУРЦИЯ", TEVE2
+http://teve2vod.duhnet.tv/S12/HLS_VOD/382843_2e5b/index.m3u8
+#EXTINF:-1 group-title="ТУРЦИЯ", TRT AVAZ
+http://tv-trtavaz.medya.trt.com.tr/master_720.m3u8
+#EXTINF:-1 group-title="ТУРЦИЯ", TRT COCUK
+http://tv-trtcocuk.medya.trt.com.tr/master_720.m3u8
+#EXTINF:-1 group-title="ТУРЦИЯ", BİRLİK HABER TV
+https://live.euromediacenter.com/bhatv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="ТУРЦИЯ", HÜR TV
+https://live.euromediacenter.com/hurtv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="ТУРЦИЯ", BRUKSEL TURK
+https://live.euromediacenter.com/brukselturk/index.m3u8
+#EXTINF:-1 group-title="ТУРЦИЯ", TRT 1
+http://tv-trt1-hls.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 group-title="ТУРЦИЯ", TRT DIYANET COCUK
+http://tv-trtdiyanetcocuk.medya.trt.com.tr/master_720.m3u8
+#EXTINF:-1 group-title="ТУРЦИЯ", TRT HABER
+http://tv-trthaber.medya.trt.com.tr/master_720.m3u8
+#EXTINF:-1 group-title="ТУРЦИЯ", TRT EBA LISE
+http://tv-e-okul02.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 group-title="ТУРЦИЯ", TRT 1
+http://tv-trt1.medya.trt.com.tr/master_720.m3u8
+#EXTINF:-1 group-title="ТУРЦИЯ", TRT HABER HD
+http://tv-trthaber.medya.trt.com.tr/master_1080.m3u8
+#EXTINF:-1 group-title="ТУРЦИЯ", TRT KURDÎ
+http://tv-trtkurdi.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 group-title="ТУРЦИЯ", KANAL 58
+https://live.artidijitalmedya.com/artidijital_kanal58/kanal58/playlist.m3u8
+#EXTINF:-1 group-title="ТУРЦИЯ", HUNAT TV
+https://live.artidijitalmedya.com/artidijital_hunattv/hunattv/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="ТУРЦИЯ", DIYAR TV (720P)
+https://live.artidijitalmedya.com/artidijital_diyartv/diyartv/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="ТУРЦИЯ", KONYA OLAY TV
+https://live.artidijitalmedya.com/artidijital_konyaolaytv/konyaolaytv/playlist.m3u8
+#EXTINF:-1 group-title="ТУРЦИЯ", ASTV | ARTI
+https://live.artidijitalmedya.com/artidijital_astv/astv/chunks.m3u8
+#EXTINF:-1 group-title="ТУРЦИЯ", TON TV
+https://live.artidijitalmedya.com/artidijital_tontv/tontv/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="ТУРЦИЯ", URFANATIK
+https://live.artidijitalmedya.com/artidijital_urfanatiktv/urfanatiktv/chunks.m3u8
+#EXTINF:-1 group-title="ТУРЦИЯ", KANAL PULUS
+https://live.artidijitalmedya.com/artidijital_kanalplus/kanalplus/mpeg/chunks.m3u8
+#EXTINF:-1 group-title="ТУРЦИЯ", SAT7 TÜRK (1080P)
+https://live.artidijitalmedya.com/artidijital_sat7turk/sat7turk/playlist.m3u8
+#EXTINF:-1 group-title="ТУРЦИЯ", POWERTÜRK TV
+https://live.artidijitalmedya.com/artidijital_powerturktv/powerturktv/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="ТУРЦИЯ", KANAL D
+http://kdlive.duhnet.tv/S2/HLS_LIVE/kanalddainp/track_4_1250/playlist.m3u8
+#EXTINF:-1 group-title="ТУРЦИЯ", KONYA OLAY TV
+https://live.artidijitalmedya.com/artidijital_konyaolaytv/konyaolaytv/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="ТУРЦИЯ", VTV
+https://live.artidijitalmedya.com/artidijital_kanalv/kanalv/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="ТУРЦИЯ", KENT TURK
+https://live.artidijitalmedya.com/artidijital_kentturktv/kentturktv/chunks.m3u8
+#EXTINF:-1 group-title="ТУРЦИЯ", URFA NATIK TV (720P)
+https://live.artidijitalmedya.com/artidijital_urfanatiktv/urfanatiktv/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="ТУРЦИЯ", TR:CIFTCI TV HD
+https://live.artidijitalmedya.com/artidijital_ciftcitv/ciftcitv/chunks.m3u8
+#EXTINF:-1 group-title="ТУРЦИЯ", TEVE2
+https://ackaxsqacw.turknet.ercdn.net/ozfkfbbjba/teve2/teve2.m3u8
+#EXTINF:-1 group-title="ТУРЦИЯ", KANAL 3
+https://live.artidijitalmedya.com/artidijital_kanal3/kanal3/chunks.m3u8
+#EXTINF:-1 group-title="ТУРЦИЯ", ES TV (720P)
+https://live.artidijitalmedya.com/artidijital_estv/estv/playlist.m3u8
+#EXTINF:-1 group-title="ТУРЦИЯ", BURSA AS TV (900P)
+https://live.artidijitalmedya.com/artidijital_astv/astv/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="ТУРЦИЯ", KONYA OLAY TV
+https://live.artidijitalmedya.com/artidijital_konyaolaytv/konyaolaytv/chunks.m3u8
+#EXTINF:-1 group-title="ТУРЦИЯ", KANAL V
+https://live.artidijitalmedya.com/artidijital_kanalv/kanalv/chunks.m3u8
+#EXTINF:-1 group-title="ТУРЦИЯ", MERCAN TV
+https://live.artidijitalmedya.com/artidijital_mercantv/mercantv/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="ТУРЦИЯ", POWER TURK HD
+https://live.artidijitalmedya.com/artidijital_powerturktv/powerturktv/playlist.m3u8
+#EXTINF:-1 group-title="ТУРЦИЯ", BRTV
+https://live.artidijitalmedya.com/artidijital_brtv/brtv/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="ТУРЦИЯ", KANAL 12 (720P)
+https://live.artidijitalmedya.com/artidijital_kanal12/kanal12/playlist.m3u8
+#EXTINF:-1 group-title="ТУРЦИЯ", KANAL 26
+https://live.artidijitalmedya.com/artidijital_kanal26/kanal26/playlist.m3u8
+#EXTINF:-1 group-title="ТУРЦИЯ", GZT
+https://mn-nl.mncdn.com/gzttv/gzttv/playlist.m3u8
+#EXTINF:-1 group-title="ТУРЦИЯ", CGTN DOCUMENTARY
+https://mn-nl.mncdn.com/dogusdyg_drone/cgtn/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="ТУРЦИЯ", GZT (1080P)
+https://mn-nl.mncdn.com/gzttv/gzttv/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="ТУРЦИЯ", GZT TV
+https://mn-nl.mncdn.com/gzttv/gzttv/chunklist.m3u8
+#EXTINF:-1 group-title="ТУРЦИЯ", CGTN DOCUMENTARY
+https://mn-nl.mncdn.com/dogusdyg_drone/cgtn/playlist.m3u8
+#EXTINF:-1 group-title="ТУРЦИЯ", TRT KURDI
+http://tv-trtkurdi.medya.trt.com.tr/master_720.m3u8
+#EXTINF:-1 group-title="ТУРЦИЯ", CGTN TV
+https://mn-nl.mncdn.com/dogusdyg_drone/cgtn/chunklist.m3u8
+#EXTINF:-1 group-title="ТУРЦИЯ", ULKE TV
+https://livetv.radyotvonline.net/kanal7live/ulketv/playlist.m3u8
+#EXTINF:-1 group-title="ТУРЦИЯ", CAN TV
+https://livetv.canbroadcast.com:7443/canlican/tv.m3u8
+#EXTINF:-1 group-title="ТУРЦИЯ", KANAL 7 AVRUPA
+https://livetv.radyotvonline.net/kanal7live/kanal7avr/chunklist.m3u8
+#EXTINF:-1 group-title="ТУРЦИЯ", TRT TURK
+http://tv-trtturk.medya.trt.com.tr/master_720.m3u8
+#EXTINF:-1 group-title="ТУРЦИЯ", TRT WORLD
+http://tv-trtworld.medya.trt.com.tr/master_720.m3u8
+#EXTINF:-1 group-title="ТУРЦИЯ", ULKE TV
+https://livetv.radyotvonline.net/kanal7live/ulketv/chunklist.m3u8
+#EXTINF:-1 group-title="ТУРЦИЯ", TRT WORLD
+http://tv-trtworld.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 group-title="ТУРЦИЯ", KANAL FIRAT
+https://live.artidijitalmedya.com/artidijital_kanalfirat/kanalfirat/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="ТУРЦИЯ", KIBRIS TV
+https://play.kibristv.com/stream/hls/stream.m3u8
+#EXTINF:-1 group-title="ТУРЦИЯ", MECLİS TV
+https://meclistv-live.ercdn.net/meclistv/meclistv.m3u8
+#EXTINF:-1 group-title="ТУРЦИЯ", KANAL 23
+https://live.artidijitalmedya.com/artidijital_kanal23/kanal23/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="ТУРЦИЯ", OLAY TÜRK TV KAYSERI
+https://live.artidijitalmedya.com/artidijital_olayturk/olayturk/playlist.m3u8
+#EXTINF:-1 group-title="ТУРЦИЯ", KANAL15 | ARTI
+https://live.artidijitalmedya.com/artidijital_kanal15/kanal15/chunks.m3u8
+#EXTINF:-1 group-title="ТУРЦИЯ", TBMM TV
+https://meclistv-live.ercdn.net/meclistv/meclistv_720p.m3u8
+#EXTINF:-1 group-title="ТУРЦИЯ", TV 264 SAKARYA
+https://mc1.mediatriple.net/videoonlylive/mtdxkkitgbrckilive/broadcast_5ee244263fd6d.smil/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="ТУРЦИЯ", TBMM TV
+https://meclistv-live.ercdn.net/meclistv/meclistv.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="ТУРЦИЯ", TV 264
+https://mc1.mediatriple.net/videoonlylive/mtdxkkitgbrckilive/broadcast_5ee244263fd6d.smil/playlist.m3u8
+#EXTINF:-1 group-title="ТУРЦИЯ", FINEST TV
+https://media.finest.tv/hls/live.m3u8
+#EXTINF:-1 group-title="ТУРЦИЯ", TBMM TV
+https://meclistv-live.ercdn.net/meclistv/meclistv_720p.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="ТУРЦИЯ", TV 264
+https://mc1.mediatriple.net/videoonlylive/mtdxkkitgbrckilive/broadcast_5ee244263fd6d.smil/playlist.m3u8?q=zi/
+#EXTINF:-1 group-title="ТУРЦИЯ", TEVE 2
+http://teve2.duhnet.tv/S2/HLS_LIVE/teve2np/track_4_1000/playlist.m3u8
+#EXTINF:-1 group-title="ТУРЦИЯ", TEVE 2 SD
+http://teve2.duhnet.tv/S2/HLS_LIVE/teve2np/track_3_750/playlist.m3u8?q=zi/
+#EXTINF:-1 group-title="ТУРЦИЯ", BALKAN TURK
+https://live.euromediacenter.com/balkanturktv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="ТУРЦИЯ", KANAL 34
+https://live.euromediacenter.com/kanal34/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="ТУРЦИЯ", HAYATA DAİR HERŞEY TÜRK TV
+https://live.euromediacenter.com/hdhturk/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="ТУРЦИЯ", TV MOR
+https://live.euromediacenter.com/tvmor/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="ТУРЦИЯ", DHA
+https://603c568fccdf5.streamlock.net/live/dhaweb1_C5efC/playlist.m3u8
+#EXTINF:-1 group-title="ТУРЦИЯ", MOR TV
+https://live.euromediacenter.com/tvmor/index.m3u8
+#EXTINF:-1 group-title="ТУРЦИЯ", ÜRETEN TÜRKIYE TV
+https://live.euromediacenter.com/uretenturkiye/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="ТУРЦИЯ", ON6 TV
+https://live.euromediacenter.com/on6tvyayin/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="ТУРЦИЯ", BÜRÜKSEL TV
+https://live.euromediacenter.com/brukselturk/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="ТУРЦИЯ", EZGI TV
+https://live.euromediacenter.com/ezgitv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="ТУРЦИЯ", SEN1ORDUSUN TV
+https://live.euromediacenter.com/sen1ordusun/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="ТУРЦИЯ", EZGİ TV
+https://live.euromediacenter.com/ezgitv/index.m3u8
+#EXTINF:-1 group-title="ТУРЦИЯ", KANAL 7 AVRUPA
+https://livetv.radyotvonline.net/kanal7live/kanal7avr/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="ТУРЦИЯ", CAN TV
+https://livetv.canbroadcast.com:7443/canlican/tv.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="ТУРЦИЯ", HABER 61
+http://win8.yayin.com.tr/haber61tv/smil:haber61tv.smil/playlist.m3u8
+#EXTINF:-1 group-title="ТУРЦИЯ", POWER TV
+https://livetv.powerapp.com.tr/powerTV/powerhd.smil/playlist.m3u8
+#EXTINF:-1 group-title="ТУРЦИЯ", POWER TV (1080P)
+https://livetv.powerapp.com.tr/powerTV/powerhd.smil/playlists.m3u8
+#EXTINF:-1 group-title="ТУРЦИЯ", KANAL 7 AVRUPA
+https://livetv.radyotvonline.net/kanal7live/kanal7avr/playlist.m3u8
+#EXTINF:-1 group-title="ТУРЦИЯ", ERZURUM WEB TV
+http://win29.yayin.com.tr/erzurumwebtv/erzurumwebtv/iptvdelisi.m3u8
+#EXTINF:-1 group-title="ТУРЦИЯ", NRB TV
+http://uni10rtmp.tulix.tv/nrbtvlive/nrbtvlive.stream/playlist.m3u8
+#EXTINF:-1 group-title="ТУРЦИЯ", HIMLEN TV7
+http://vod.tv7.fi:1935/tv7-se/_definst_/mp4:tv7-se.stream_360p/playlist.m3u8
+#EXTINF:-1 group-title="ТУРЦИЯ", STINGRAY NATURESCAPE
+https://lotus.stingray.com/manifest/naturescape-a003-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 group-title="ТУРЦИЯ", HABER 61
+http://win8.yayin.com.tr/haber61tv/smil:haber61tv.smil/playlist.m3u8?q=zi/
+#EXTINF:-1 group-title="ТУРЦИЯ", TVM 3
+http://tvm3.vedge.infomaniak.com/livecast/tvm3/playlist.m3u8
+#EXTINF:-1 group-title="ТУРЦИЯ", MELTEM TV
+http://vhxyrsly.rocketcdn.com/meltemtv/playlist.m3u8
+#EXTINF:-1 group-title="ТУРЦИЯ", ETV KAYSERI (720P)
+https://live.artidijitalmedya.com/artidijital_etv/etv/playlist.m3u8
+#EXTINF:-1 group-title="ТУРЦИЯ", ATV
+http://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_360p.m3u8
+#EXTINF:-1 group-title="ТУРЦИЯ", TABII TV
+http://live.tabitv.workers.dev/?ID=tabii TV
+#EXTINF:-1 group-title="ТУРЦИЯ", A HABER HD
+http://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/ahaber/ahaber_1080p.m3u8
+#EXTINF:-1 group-title="ТУРЦИЯ", ROGUE TV
+http://rougetv.vedge.infomaniak.com/livecast/rougetv/playlist.m3u8
+#EXTINF:-1 group-title="ТУРЦИЯ", MERCAN TV
+https://live.artidijitalmedya.com/artidijital_mercantv/mercantv/playlist.m3u8
+#EXTINF:-1 group-title="ТУРЦИЯ", SUN RTV
+https://live.artidijitalmedya.com/artidijital_sunrtv/sunrtv/playlist.m3u8
+#EXTINF:-1 group-title="ТУРЦИЯ", TRT AVAZ
+https://s04.watcher.uz/4/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6MjcwMTc3LCJsb2dpbiI6InR2LTI3MDE3NyIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNjUwMjgzMDI3fQ.LadLj4b6plIxTGCWntQQqsQGZ3R9EsvwhaXQd1sur2g%3A15
+#EXTINF:-1 group-title="ТУРЦИЯ", POWER LOVE
+http://livetv.powerapp.com.tr/plove/love.smil/playlist.m3u8?q=zi/
+#EXTINF:-1 group-title="ТУРЦИЯ", POWER TÜRK AKUSTIK
+http://livetv.powerapp.com.tr/pturkakustik/akustik.smil/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="ТУРЦИЯ", KANAL 34
+http://live.euromediacenter.com/kanal34/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="ТУРЦИЯ", KANAL FIRAT
+https://live.artidijitalmedya.com/artidijital_kanalfirat/kanalfirat/playlist.m3u8
+#EXTINF:-1 group-title="ТУРЦИЯ", POWER DANCE
+http://livetv.powerapp.com.tr/dance/dance.smil/playlist.m3u8
+#EXTINF:-1 group-title="ТУРЦИЯ", OLAYTÜRK KAYSERI
+https://live.artidijitalmedya.com/artidijital_olayturk/olayturk/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="ТУРЦИЯ", ATV
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_1080p.m3u8
+#EXTINF:-1 group-title="ТУРЦИЯ", ATV HD
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv.m3u8
+#EXTINF:-1 group-title="ТУРЦИЯ", TIVI 6 (720P)
+https://live.artidijitalmedya.com/artidijital_tivi6/tivi6/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="ТУРЦИЯ", DENIZ POSTASı TV
+https://live.artidijitalmedya.com/artidijital_denizpostasi/denizpostasi/playlist.m3u8
+#EXTINF:-1 group-title="ТУРЦИЯ", ER TV
+https://live.artidijitalmedya.com/artidijital_ertv_new/ertv/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="ТУРЦИЯ", TEMPO TV
+https://live.artidijitalmedya.com/artidijital_tempotv/tempotv/chunks.m3u8
+#EXTINF:-1 group-title="ТУРЦИЯ", MINIKAGO
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago_cocuk/minikago_cocuk_720p.m3u8
+#EXTINF:-1 group-title="ТУРЦИЯ", ER TV
+https://live.artidijitalmedya.com/artidijital_ertv_new/ertv/playlist.m3u8
+#EXTINF:-1 group-title="ТУРЦИЯ", MINIKA GO
+http://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago/minikago_720p.m3u8?tv=1
+#EXTINF:-1 group-title="ТУРЦИЯ", A2 TV
+http://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/a2tv/a2tv.m3u8
+#EXTINF:-1 group-title="ТУРЦИЯ", AKSU TV
+https://live.artidijitalmedya.com/artidijital_aksutv/aksutv/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="ТУРЦИЯ", DENIZ POSTASı
+https://live.artidijitalmedya.com/artidijital_denizpostasi/denizpostasi/chunks.m3u8
+#EXTINF:-1 group-title="ТУРЦИЯ", A 2
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/a2tv/a2tv.m3u8
+#EXTINF:-1 group-title="ТУРЦИЯ", MK TV
+https://live.artidijitalmedya.com/artidijital_mavikaradeniz/mavikaradeniz/chunks.m3u8
+#EXTINF:-1 group-title="ТУРЦИЯ", TBMM TV
+http://meclistv-live.ercdn.net/meclistv/meclistv.m3u8
+#EXTINF:-1 group-title="ТУРЦИЯ", POWER TÜRK SLOW
+http://livetv.powerapp.com.tr/pturkslow/slow.smil/playlist.m3u8
+#EXTINF:-1 group-title="ТУРЦИЯ", TVNET
+http://mn-nl.mncdn.com/tvnet/tvnet/chunklist.m3u8
+#EXTINF:-1 group-title="ТУРЦИЯ", DENIZ POSTASı TV
+https://live.artidijitalmedya.com/artidijital_denizpostasi/denizpostasi/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="ТУРЦИЯ", AL HORREYA
+http://media.smc-host.com:1935/alhorreya.tv/alhorreya.smil/playlist.m3u8
+#EXTINF:-1 group-title="ТУРЦИЯ", POWER TURK TAPTAZE
+http://livetv.powerapp.com.tr/pturktaptaze/taptaze.smil/playlist.m3u8
+#EXTINF:-1 group-title="ТУРЦИЯ", VTV
+https://live.artidijitalmedya.com/artidijital_kanalv/kanalv/playlist.m3u8
+#EXTINF:-1 group-title="ТУРЦИЯ", POWER TV
+http://livetv.powerapp.com.tr/powerTV/powerhd.smil/playlist.m3u8?q=zi/
+#EXTINF:-1 group-title="ТУРЦИЯ", POWER TÜRK SLOW
+http://livetv.powerapp.com.tr/pturkslow/slow.smil/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="ТУРЦИЯ", POWER DANCE
+http://livetv.powerapp.com.tr/dance/dance.smil/playlist.m3u8?q=zi/
+#EXTINF:-1 group-title="ТУРЦИЯ", POWER TÜRK
+http://livetv.powerapp.com.tr/powerturkTV/powerturkhd.smil/playlist.m3u8?q=zi/
+#EXTINF:-1 group-title="ТУРЦИЯ", POWER TÜRK TAPTAZE (1080P)
+http://livetv.powerapp.com.tr/pturktaptaze/taptaze.smil/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="ТУРЦИЯ", FINEST TV
+http://media.finest.tv/hls/live.m3u8
+#EXTINF:-1 group-title="ТУРЦИЯ", KANAL 12
+http://live.artidijitalmedya.com/artidijital_kanal12/kanal12/playlist.m3u8
+#EXTINF:-1 group-title="ТУРЦИЯ", ES TV
+http://live.artidijitalmedya.com/artidijital_estv/estv/playlist.m3u8
+#EXTINF:-1 group-title="ТУРЦИЯ", TEVE2
+http://live.duhnet.tv/S2/HLS_LIVE/teve2np/playlist.m3u8
+#EXTINF:-1 group-title="ТУРЦИЯ", BALKAN TURK
+http://live.euromediacenter.com/balkanturktv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="ТУРЦИЯ", MALATYA VUSLAT TV
+http://live.artidijitalmedya.com/artidijital_vuslattv/vuslattv/playlist.m3u8
+#EXTINF:-1 group-title="ТУРЦИЯ", EURO DNP
+http://live.duhnet.tv/S2/HLS_LIVE/eurodnp/track_4_1000/playlist.m3u8
+#EXTINF:-1 group-title="ТУРЦИЯ", DREAM TÜRK
+http://live.duhnet.tv/S2/HLS_LIVE/dreamturknp/playlist.m3u8
+#EXTINF:-1 group-title="ТУРЦИЯ", FINEST TV
+http://media.finest.tv/hls/live.m3u8?q=zi/
+#EXTINF:-1 group-title="ТУРЦИЯ", TR:FINEST TV
+http://media.finest.tv/hls/live.m3u8?HasBahCa
+#EXTINF:-1 group-title="ТУРЦИЯ", TBMM
+http://meclistv-live.ercdn.net/meclistv/meclistv_720p.m3u8
+#EXTINF:-1 group-title="ТУРЦИЯ", KANAL D
+http://live.duhnet.tv/S2/HLS_LIVE/kanalddainp/playlist.m3u8
+#EXTINF:-1 group-title="ТУРЦИЯ", EURO D
+http://live.duhnet.tv/S2/HLS_LIVE/eurodnp/playlist.m3u8
+#EXTINF:-1 group-title="ТУРЦИЯ", POWER TÜRK TAPTAZE
+http://livetv.powerapp.com.tr/pturktaptaze/taptaze.smil/playlist.m3u8?q=zi/
+#EXTINF:-1 group-title="ТУРЦИЯ", EKOL TV
+http://ekoltv-live.ercdn.net/ekoltv/ekoltv_1080p.m3u8
+#EXTINF:-1 group-title="ТУРЦИЯ", DIYANET TV
+http://eustr73.mediatriple.net/videoonlylive/mtikoimxnztxlive/broadcast_5e3bf95a47e07.smil/playlist.m3u8
+#EXTINF:-1 group-title="ТУРЦИЯ", SHOW TV
+http://ip1.orgip.net/5509/video.m3u8?token=Ab2b7066c8
+#EXTINF:-1 group-title="ТУРЦИЯ", DMAX (BACKUP)
+http://dygvideo.dygdigital.com/live/hls/dmaxdai?m3u8
+#EXTINF:-1 group-title="ТУРЦИЯ", DIYANET TV
+http://eustr73.mediatriple.net/videoonlylive/mtikoimxnztxlive/broadcast_5e3bf95a47e07.smil/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="ТУРЦИЯ", TRT DİYANET
+http://eustr73.mediatriple.net/videoonlylive/mtikoimxnztxlive/broadcast_5e3bf95a47e07.smil/playlist.m3u8?q=zi/
+#EXTINF:-1 group-title="ТУРЦИЯ", SEMERKAND TV
+https://b01c02nl.mediatriple.net/videoonlylive/mtisvwurbfcyslive/broadcast_58d915bd40efc.smil/playlist.m3u8?q=zi/
+#EXTINF:-1 group-title="ТУРЦИЯ", NATURE TIME
+https://amg00090-blueantmedia-naturetime-samsungfr-yakbf.amagi.tv/playlist/amg00090-blueantmedia-naturetime-samsungfr/playlist.m3u8
+#EXTINF:-1 group-title="ТУРЦИЯ", KANALD_YEDEK
+https://ackaxsqacw.turknet.ercdn.net/ozfkfbbjba/kanald/kanald.m3u8
+#EXTINF:-1 group-title="ТУРЦИЯ", ALMAHRIAH TV
+https://starmenajo.com/hls/almahriah/index.m3u8
+#EXTINF:-1 group-title="ТУРЦИЯ", KANAL AVRUPA
+https://api-tv27.yayin.com.tr/kanalavrupa/index.m3u8
+#EXTINF:-1 group-title="ТУРЦИЯ", POWERTÜRK TAPTAZE
+https://listen.powerapp.com.tr/pturktaptaze/taptaze.smil/playlist.m3u8
+#EXTINF:-1 group-title="ТУРЦИЯ", TGRT HABER
+https://b01c02nl.mediatriple.net/videoonlylive/mtsxxkzwwuqtglive/broadcast_5fe4598be8e5d.smil/playlist.m3u8
+#EXTINF:-1 group-title="ТУРЦИЯ", STAR TV TURK
+http://dygvideo.dygdigital.com/live/hls/startv4puhu?m3u8
+#EXTINF:-1 group-title="ТУРЦИЯ", NUMBER 1 DAMAR
+https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e198784bdc_1/playlist.m3u8
+#EXTINF:-1 group-title="ТУРЦИЯ", BEYAZ TV
+https://beyaztv-live.daioncdn.net/beyaztv/beyaztv_1080p.m3u8
+#EXTINF:-1 group-title="ТУРЦИЯ", BEYAZ TV
+https://beyaztv-live.daioncdn.net/beyaztv/beyaztv_720p.m3u8
+#EXTINF:-1 group-title="ТУРЦИЯ", URFA NATIK TV
+https://live.artidijitalmedya.com/artidijital_urfanatiktv/urfanatiktv/playlist.m3u8
+#EXTINF:-1 group-title="ТУРЦИЯ", KENT TÜRK TV
+https://live.artidijitalmedya.com/artidijital_kentturktv/kentturktv/playlist.m3u8
+#EXTINF:-1 group-title="ТУРЦИЯ", INTISAD TV
+http://host.onlineradyotv.net:8080/intisadtv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="ТУРЦИЯ", SHOW TV
+http://ip1.orgip.net/5503/video.m3u8?token=Ab2b7066c8
+#EXTINF:-1 group-title="ТУРЦИЯ", BEYAZ TV
+https://beyaztv-live.daioncdn.net/beyaztv/beyaztv.m3u8
+#EXTINF:-1 group-title="ТУРЦИЯ", NTV
+http://dygvideo.dygdigital.com/live/hls/ntv4puhu?m3u8
+#EXTINF:-1 group-title="ТУРЦИЯ", NTV TURKEY
+http://dygvideo.dygdigital.com/live/hls/puhuntvdai?m3u8
+#EXTINF:-1 group-title="ТУРЦИЯ", KANAL D
+http://ip1.orgip.net/5504/video.m3u8?token=Ab2b7066c8
+#EXTINF:-1 group-title="ТУРЦИЯ", NUMBER 1 ASK
+https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e18f9cea15_1/playlist.m3u8
+#EXTINF:-1 group-title="ТУРЦИЯ", NUMBER 1 TV
+https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e17cd59e8b.smil/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="ТУРЦИЯ", KANAL41
+https://live.artidijitalmedya.com/artidijital_tv41/tv41/playlist.m3u8
+#EXTINF:-1 group-title="ТУРЦИЯ", POWERTV | ARTI
+https://live.artidijitalmedya.com/artidijital_powertv/powertv/chunks.m3u8
+#EXTINF:-1 group-title="ТУРЦИЯ", ANADOLU TV
+https://live.artidijitalmedya.com/artidijital_anadolunet/anadolunet/playlist.m3u8
+#EXTINF:-1 group-title="ТУРЦИЯ", KANAL 15
+https://live.artidijitalmedya.com/artidijital_kanal15/kanal15/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="ТУРЦИЯ", SHOW TV
+http://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/showtv/showtv.m3u8
+#EXTINF:-1 group-title="ТУРЦИЯ", SHOW MAX
+http://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/showmax/showmax.m3u8
+#EXTINF:-1 group-title="ТУРЦИЯ", TIVI 6 (720P)
+https://live.artidijitalmedya.com/artidijital_tivi6/tivi6/playlist.m3u8
+#EXTINF:-1 group-title="ТУРЦИЯ", KAY TV
+https://live.artidijitalmedya.com/artidijital_kaytv/kaytv/playlist.m3u8
+#EXTINF:-1 group-title="ТУРЦИЯ", SAT7 | ARTI
+https://live.artidijitalmedya.com/artidijital_sat7turk/sat7turk/chunks.m3u8
+#EXTINF:-1 group-title="ТУРЦИЯ", VUSLAT TV
+https://live.artidijitalmedya.com/artidijital_vuslattv/vuslattv/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="ТУРЦИЯ", TEMPO TV
+https://live.artidijitalmedya.com/artidijital_tempotv/tempotv/playlist.m3u8
+#EXTINF:-1 group-title="ТУРЦИЯ", BRTV
+https://live.artidijitalmedya.com/artidijital_brtv/brtv/chunks.m3u8
+#EXTINF:-1 group-title="ТУРЦИЯ", DIYAR TV (720P)
+https://live.artidijitalmedya.com/artidijital_diyartv/diyartv/playlist.m3u8
+#EXTINF:-1 group-title="ТУРЦИЯ", FTV TÜRK
+http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8?q=zi/
+#EXTINF:-1 group-title="ТУРЦИЯ", NR1
+https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e17cd59e8b.smil/playlist.m3u8
+#EXTINF:-1 group-title="ТУРЦИЯ", KANAL 7
+http://ip1.orgip.net/5505/video.m3u8?token=Ab2b7066c8
+#EXTINF:-1 group-title="ТУРЦИЯ", STAR TV
+http://ip1.orgip.net/5510/video.m3u8?token=Ab2b7066c8
+#EXTINF:-1 group-title="ТУРЦИЯ", ALMAHRIAH TV
+https://starmenajo.com/hls/almahriah/index.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="ТУРЦИЯ", POWERTÜRK SLOW
+https://listen.powerapp.com.tr/pturkslow/slow.smil/playlist.m3u8
+#EXTINF:-1 group-title="ТУРЦИЯ", LUYS TV
+https://b01c02nl.mediatriple.net/videoonlylive/mtpayqrfkgirxelive/broadcast_5e91c5ac96898.smil/playlist.m3u8
+#EXTINF:-1 group-title="ТУРЦИЯ", LUYS TV
+https://b01c02nl.mediatriple.net/videoonlylive/mtpayqrfkgirxelive/broadcast_5e91c5ac96898.smil/playlist.m3u8?q=zi/
+#EXTINF:-1 group-title="ТУРЦИЯ", AKSU TV
+https://live.artidijitalmedya.com/artidijital_aksutv/aksutv/playlist.m3u8
+#EXTINF:-1 group-title="ТУРЦИЯ", SAT 7 TURK
+https://live.artidijitalmedya.com/artidijital_sat7turk/sat7turk/chunks.m3u8?
+#EXTINF:-1 group-title="ТУРЦИЯ", MC EU TV
+https://rrr.sz.xlcdn.com/?account=mceutv&file=mc2&type=live&service=wowza&protocol=https&output=playlist.m3u8
+#EXTINF:-1 group-title="ТУРЦИЯ", NUMBER 1 DAMAR
+https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e198784bdc_1/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="ТУРЦИЯ", FASHION ONE
+https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e2ee6997cb_1/playlist.m3u8
+#EXTINF:-1 group-title="ТУРЦИЯ", NR1 DAMAR
+https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e19877b340.smil/playlist.m3u8
+#EXTINF:-1 group-title="ТУРЦИЯ", BRT 2
+https://edge.kuzeykibrissmart.tv/brt2hd/bant1/chunks.m3u8
+#EXTINF:-1 group-title="ТУРЦИЯ", FLASH HABER
+https://flashhaber-live.ercdn.net/flashhaber/flashhaber.m3u8
+#EXTINF:-1 group-title="ТУРЦИЯ", BRT 1
+https://edge.kuzeykibrissmart.tv/brt1hd/bant1/chunks.m3u8
+#EXTINF:-1 group-title="ТУРЦИЯ", KIBRIS ADA TV
+https://edge.kuzeykibrissmart.tv/adatv/bant1/chunks.m3u8
+#EXTINF:-1 group-title="ТУРЦИЯ", KIBRIS GENC TV
+https://edge.kuzeykibrissmart.tv/kibrisgenctv/bant1/chunks.m3u8
+#EXTINF:-1 group-title="ТУРЦИЯ", DOST TV TR
+https://dost.stream.emsal.im/tv/live.m3u8
+#EXTINF:-1 group-title="ТУРЦИЯ", FLASH HABER
+https://flashhaber-live.ercdn.net/flashhaber/flashhaber_1080p.m3u8
+#EXTINF:-1 group-title="ТУРЦИЯ", KIBRIS KANAL T
+https://edge.kuzeykibrissmart.tv/kanalt/bant1/chunks.m3u8
+#EXTINF:-1 group-title="ТУРЦИЯ", LINE TV
+https://edge1.socialsmart.tv/linetv/bant1/playlist.m3u8
+#EXTINF:-1 group-title="ТУРЦИЯ", CAYTV
+https://edge1.socialsmart.tv/caytv/bant1/chunks.m3u8
+#EXTINF:-1 group-title="ТУРЦИЯ", URFANATIK TV
+https://edge1.socialsmart.tv/urfanatiktv/bant1/chunks.m3u8
+#EXTINF:-1 group-title="ТУРЦИЯ", UR FANATIK TV YEDEK
+https://edge1.socialsmart.tv/urfanatiktv/bant1/chunks.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="ТУРЦИЯ", TÜRK HABER
+https://edge1.socialsmart.tv/turkhaber/bant1/chunks.m3u8
+#EXTINF:-1 group-title="ТУРЦИЯ", TV 2020
+https://edge.kuzeykibrissmart.tv/tv2020/bant1/chunks.m3u8
+#EXTINF:-1 group-title="ТУРЦИЯ", TÜRK HABER
+https://edge1.socialsmart.tv/turkhaber/bant1/playlist.m3u8
+#EXTINF:-1 group-title="ТУРЦИЯ", TV 1 (720P)
+https://edge1.socialsmart.tv/tv1/bant1/playlist.m3u8
+#EXTINF:-1 group-title="ТУРЦИЯ", BIRTV
+https://edge1.socialsmart.tv/birtv/bant1/playlist.m3u8
+#EXTINF:-1 group-title="ТУРЦИЯ", ICEL TV
+https://edge1.socialsmart.tv/iceltv/bant1/playlist.m3u8
+#EXTINF:-1 group-title="ТУРЦИЯ", NATURAL TV
+https://edge1.socialsmart.tv/naturaltv/bant1/playlist.m3u8
+#EXTINF:-1 group-title="ТУРЦИЯ", TV1
+https://edge1.socialsmart.tv/tv1/bant1/chunks.m3u8
+#EXTINF:-1 group-title="ТУРЦИЯ", DIYANET TV (1080P)
+https://eustr73.mediatriple.net/videoonlylive/mtikoimxnztxlive/broadcast_5e3bf95a47e07.smil/playlist.m3u8
+#EXTINF:-1 group-title="ТУРЦИЯ", DIYANET TV
+https://eustr73.mediatriple.net/videoonlylive/mtikoimxnztxlive/broadcast_5e3bf95a47e07.smil/playlist.m3u8?q=zi/
+#EXTINF:-1 group-title="ТУРЦИЯ", METROPOL
+https://edge1.socialsmart.tv/metropoltv/smil/metropoltv/bant1/chunks.m3u8
+#EXTINF:-1 group-title="ТУРЦИЯ", UR FANATIK TV YEDEK
+https://edge1.socialsmart.tv/urfanatiktv/bant1/chunks.m3u8?q=zi/
+#EXTINF:-1 group-title="ТУРЦИЯ", DOST TV
+https://dost.stream.emsal.im/tv/live.m3u8?q=zi/
+#EXTINF:-1 group-title="ТУРЦИЯ", DW ENGLISH (1080P)
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8?q=zi/
+#EXTINF:-1 group-title="ТУРЦИЯ", NOW TV
+https://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="ТУРЦИЯ", STAR TV
+https://dogus.daioncdn.net/startv/startv_720p.m3u8?app=startv_web
+#EXTINF:-1 group-title="ТУРЦИЯ", DOST HD TV
+https://dost.stream.emsal.im/tv/live.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="ТУРЦИЯ", KIBRIS
+https://edge.kuzeykibrissmart.tv/kibristv/bant1/chunks.m3u8
+#EXTINF:-1 group-title="ТУРЦИЯ", FİLMSCREEN
+https://edge-e3.evrideo.tv/f2dcbecf-5af0-47db-a82e-032112050a23_1000027346_HLS/manifest.m3u8
+#EXTINF:-1 group-title="ТУРЦИЯ", NOW
+https://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv.m3u8
+#EXTINF:-1 group-title="ТУРЦИЯ", LINE TV
+https://edge1.socialsmart.tv/linetv/bant1/chunks.m3u8
+#EXTINF:-1 group-title="ТУРЦИЯ", KANAL 32
+https://edge1.socialsmart.tv/kanal32/bant1/playlist.m3u8
+#EXTINF:-1 group-title="ТУРЦИЯ", HABER61 TV
+https://win8.yayin.com.tr/haber61tv/smil:haber61tv.smil/playlist.m3u8?q=zi/
+#EXTINF:-1 group-title="ТУРЦИЯ", FORTUNA TV
+https://edge1.socialsmart.tv/ftvturk/bant1/playlist.m3u8
+#EXTINF:-1 group-title="ТУРЦИЯ", TV100
+https://ensonhaber-live.ercdn.net/tv100/tv100.m3u8
+#EXTINF:-1 group-title="ТУРЦИЯ", FIRATTV
+https://edge1.socialsmart.tv/frttv/bant1/chunks.m3u8
+#EXTINF:-1 group-title="ТУРЦИЯ", CAY TV
+https://edge1.socialsmart.tv/caytv/bant1/chunks.m3u8?q=zi/
+#EXTINF:-1 group-title="ТУРЦИЯ", CAY TV (720P)
+https://edge1.socialsmart.tv/caytv/bant1/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="ТУРЦИЯ", CHANNEL NEWSASIA
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+#EXTINF:-1 group-title="ТУРЦИЯ", TNA WRESTLING
+https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883039
+#EXTINF:-1 group-title="ТУРЦИЯ", THE SHOPPING CHANNEL
+https://tscstreaming-lh.akamaihd.net/i/TSCLiveStreaming_1@91031/master.m3u8
+#EXTINF:-1 group-title="ТУРЦИЯ", PERSIANA TURKIYE
+https://turkhls.persiana.live/hls/stream.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="ТУРЦИЯ", TÜRKHABER
+https://edge1.socialsmart.tv/turkhaber/bant1/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="ТУРЦИЯ", HABER 61
+https://win8.yayin.com.tr/haber61tv/smil:haber61tv.smil/playlist.m3u8
+#EXTINF:-1 group-title="ТУРЦИЯ", STAR (BACKUP)
+https://dogus.daioncdn.net/startv/startv.m3u8?app=a20ac41e-bdc3-4aa1-934d-26b484480ac9
+#EXTINF:-1 group-title="ТУРЦИЯ", HABER GLOBAL
+https://ensonhaber-live.ercdn.net/haberglobal/haberglobal_720p.m3u8
+#EXTINF:-1 group-title="ТУРЦИЯ", SATRANÇ TV
+http://139.162.182.79/live/test/index.m3u8
+#EXTINF:-1 group-title="ТУРЦИЯ", BRIC-SATRANC TV
+http://139.162.182.79/live/test/index.m3u8?q=zi/
+#EXTINF:-1 group-title="ТУРЦИЯ", FINANS TURK TV
+https://yayin30.haber100.com/live/finansturk/playlist.m3u8
+#EXTINF:-1 group-title="ТУРЦИЯ", KANAL7_YEDEK_2
+https://yurhnwtpys.turknet.ercdn.net/cvmbjbpmdx/kanal7/kanal7.m3u8
+#EXTINF:-1 group-title="ТУРЦИЯ", M TÜRK
+https://edge1.socialsmart.tv/muglaturk/bant1/playlist.m3u8
+#EXTINF:-1 group-title="ТУРЦИЯ", ETV MANISA
+https://edge1.socialsmart.tv/manisaetv/bant1/playlist.m3u8
+#EXTINF:-1 group-title="ТУРЦИЯ", ZAROK TV
+https://zindikurmanci.zaroktv.com.tr/hls/stream.m3u8
+#EXTINF:-1 group-title="ТУРЦИЯ", ON4
+https://edge1.socialsmart.tv/on4/bant1/chunks.m3u8
+#EXTINF:-1 group-title="ТУРЦИЯ", ERZURUM WEB TV
+https://win29.yayin.com.tr/erzurumwebtv/erzurumwebtv/playlist.m3u8
+#EXTINF:-1 group-title="ТУРЦИЯ", HABER TURK
+https://ensonhaber-live.ercdn.net/haberturk/haberturk_720p.m3u8
+#EXTINF:-1 group-title="ТУРЦИЯ", ÇAY TV
+https://edge1.socialsmart.tv/caytv/bant1/playlist.m3u8
+#EXTINF:-1 group-title="ТУРЦИЯ", POSTA TV
+https://win1.yayin.com.tr/postatv/postatv/playlist.m3u8
+#EXTINF:-1 group-title="ТУРЦИЯ", MUĞLA TÜRK
+https://edge1.socialsmart.tv/muglaturk/bant1/chunks.m3u8
+#EXTINF:-1 group-title="ТУРЦИЯ", ZAROK TV
+https://zindikurmanci.zaroktv.com.tr/hls/stream.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="ТУРЦИЯ", BENGU TURK
+https://ensonhaber-live.ercdn.net/benguturk/benguturk_720p.m3u8
+#EXTINF:-1 group-title="ТУРЦИЯ", EKOL HABER
+https://ekoltv-live.ercdn.net/ekoltv/ekoltv.m3u8
+#EXTINF:-1 group-title="ТУРЦИЯ", BIR TV
+https://edge.socialsmart.tv/birtv/bant1/chunks.m3u8
+#EXTINF:-1 group-title="ТУРЦИЯ", KANAL 7
+https://kanal7-live.daioncdn.net/kanal7/kanal7.m3u8
+#EXTINF:-1 group-title="ТУРЦИЯ", ONS TV
+https://cdn-onstv.yayin.com.tr/onstv/index.m3u8
+#EXTINF:-1 group-title="ТУРЦИЯ", KANAL 7 FHD TR
+https://kanal7.daioncdn.net/kanal7/kanal7_480p.m3u8?&sid=630s3zibbjtp&app=f99587ad-1637-494d-8255-da35b09d17a1&ce=3
+#EXTINF:-1 group-title="ТУРЦИЯ", KANAL 7
+https://kanal7-live.daioncdn.net/kanal7/kanal7_720p.m3u8
+#EXTINF:-1 group-title="ТУРЦИЯ", NR1 FASHION ONE
+http://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e2ee6997cb_1/playlist.m3u8
+#EXTINF:-1 group-title="ТУРЦИЯ", NR1 ASK
+http://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e18f9c54e6.smil/chunks.m3u8
+#EXTINF:-1 group-title="ТУРЦИЯ", ONSTV
+https://cdn-onstv.yayin.com.tr/onstv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="ТУРЦИЯ", MYZEN TV
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01255-secomcofites-my-myzen-en-plex/playlist.m3u8
+#EXTINF:-1 group-title="ТУРЦИЯ", HALK TV
+https://halktv.daioncdn.net/halktv/halktv_1080p.m3u8?app=c86957d3-74a7-44da-9ad2-dc358c769609
+#EXTINF:-1 group-title="ТУРЦИЯ", TRT 1
+https://helga.iptv2022.com/sh/trt_1/index.m3u8
+#EXTINF:-1 group-title="ТУРЦИЯ", BLOOMBERG HT
+http://ciner.daioncdn.net/bloomberght/bloomberght_720p.m3u8?q=zi/
+#EXTINF:-1 group-title="ТУРЦИЯ", CNBC-E
+https://hnpsechtsc.turknet.ercdn.net/xpnvudnlsv/cnbc-e/cnbc-e.m3u8
+#EXTINF:-1 group-title="ТУРЦИЯ", TGRT HABER
+https://canli.tgrthaber.com/tgrt.m3u8
+#EXTINF:-1 group-title="ТУРЦИЯ", KANAL 7
+https://kanal7-live.daioncdn.net/kanal7/kanal7.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="ТУРЦИЯ", 7 TV
+https://kanal7-live.daioncdn.net/kanal7/kanal7_1080p.m3u8
+#EXTINF:-1 group-title="ТУРЦИЯ", TGRT HABER
+https://canli.tgrthaber.com/tgrt.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="ТУРЦИЯ", NUMBER 1 DAMAR
+http://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e198784bdc_1/playlist.m3u8
+#EXTINF:-1 group-title="ТУРЦИЯ", TRT HABER
+https://stream8.cinerama.uz/1257/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="ТУРЦИЯ", TRT AVAZ
+https://stream8.cinerama.uz/1258/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="ТУРЦИЯ", NR1
+http://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e17cd6360b_1/playlist.m3u8
+#EXTINF:-1 group-title="ТУРЦИЯ", NR1 DAMAR
+http://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e19877b340.smil/chunks.m3u8
+#EXTINF:-1 group-title="ТУРЦИЯ", KOZA TV
+http://176.65.153.35:6003/play/a019/index.m3u8
+#EXTINF:-1 group-title="ТУРЦИЯ", TGRT HABER
+http://b01c02nl.mediatriple.net/videoonlylive/mtsxxkzwwuqtglive/broadcast_5fe4598be8e5d.smil/playlist.m3u8
+#EXTINF:-1 group-title="ТУРЦИЯ", NR1 DANCE
+http://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e2aa89e721.smil/playlist.m3u8
+#EXTINF:-1 group-title="ТУРЦИЯ", ORDU BEL TV
+https://cdn1-ordubeltv.yayin.com.tr/ordubeltv/ordubeltv/playlist.m3u8
+#EXTINF:-1 group-title="ТУРЦИЯ", KANAL 23 SEÇENEK 3
+https://cdn13-kanal23.yayin.com.tr/kanal23/ngrp:kanal23/playlist.m3u8
+#EXTINF:-1 group-title="ТУРЦИЯ", FLASH HABER
+http://b01c02nl.mediatriple.net/videoonlylive/mtyycglqauzjhlive/broadcast_67c053c48829f.smil/playlist.m3u8
+#EXTINF:-1 group-title="ТУРЦИЯ", ORDUBELEDIYE
+https://cdn1-ordubeltv.yayin.com.tr/ordubeltv/ordubeltv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="ТУРЦИЯ", NTV HD
+http://dogus.daioncdn.net/ntv/ntv_1080p.m3u8
+#EXTINF:-1 group-title="ТУРЦИЯ", STAR (BACKUP)
+http://dygvideo.dygdigital.com/live/hls/stardai?m3u8
+#EXTINF:-1 group-title="ТУРЦИЯ", KANAL23 | D
+https://cdn13-kanal23.yayin.com.tr/kanal23/ngrp:kanal23/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="ТУРЦИЯ", ORDU BB TV
+https://cdn1-ordubeltv.yayin.com.tr/ordubeltv/ordubeltv/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="ТУРЦИЯ", HABER 61 TV
+https://cdn-haber61tv.yayin.com.tr/haber61tv/smil:haber61tv.smil/index.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="ТУРЦИЯ", HABER 61 TV
+http://cdn-haber61tv.yayin.com.tr/haber61tv/smil:haber61tv.smil/index.m3u8?q=zi/
+#EXTINF:-1 group-title="ТУРЦИЯ", HABER61 TV
+http://cdn-haber61tv.yayin.com.tr/haber61tv/smil:haber61tv.smil/index.m3u8
+#EXTINF:-1 group-title="ТУРЦИЯ", HABER61 TV
+https://cdn-haber61tv.yayin.com.tr/haber61tv/smil:haber61tv.smil/index.m3u8
+#EXTINF:-1 group-title="ТУРЦИЯ", KANAL AVRUPA
+http://cdn-kanalavrupa.yayin.com.tr/kanalavrupa/tracks-v2a1/mono.m3u8
+#EXTINF:-1 group-title="ТУРЦИЯ", TR:HABER 61 TV
+https://cdn-haber61tv.yayin.com.tr/haber61tv/smil:haber61tv.smil/index.m3u8?HasBahCa
+#EXTINF:-1 group-title="ТУРЦИЯ", REHBER TV
+http://cdn4.yayin.com.tr/rehbertv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="ТУРЦИЯ", KANAL53
+https://kanal53.ozelip.com:3448/hybrid/play.m3u8
+#EXTINF:-1 group-title="ТУРЦИЯ", AFROTURK TV
+https://edge.socialsmart.tv/naturaltv/bant1/playlist.m3u8
+#EXTINF:-1 group-title="ТУРЦИЯ", TÜRK HABER
+https://edge1.socialsmart.tv/turkhaber/bant1/playlist.m3u8?q=zi/
+#EXTINF:-1 group-title="ТУРЦИЯ", TV 52
+https://edge1.socialsmart.tv/tv52/bant1/playlist.m3u8
+#EXTINF:-1 group-title="ТУРЦИЯ", KIBRIS SIM TV
+https://edge.kuzeykibrissmart.tv/simtv/bant1/chunks.m3u8
+#EXTINF:-1 group-title="ТУРЦИЯ", MELTEM TV
+https://vhxyrsly.rocketcdn.com/meltemtv/playlist.m3u8
+#EXTINF:-1 group-title="ТУРЦИЯ", HABER61 TV (720P)
+https://cdn-haber61tv.yayin.com.tr/haber61tv/smil:haber61tv.smil/index.m3u8?q=zi/
+#EXTINF:-1 group-title="ТУРЦИЯ", ALTAS TV
+https://edge1.socialsmart.tv/altastv/bant1/playlist.m3u8
+#EXTINF:-1 group-title="ТУРЦИЯ", GUNEYDOGU TV
+https://edge1.socialsmart.tv/gtv/bant1/playlist.m3u8
+#EXTINF:-1 group-title="ТУРЦИЯ", KANAL D
+https://kdlive.duhnet.tv/S2/HLS_LIVE/kanalddainp/track_4_1250/playlist.m3u8
+#EXTINF:-1 group-title="ТУРЦИЯ", KANAL D RO.
+https://stream1.kanald.ro/iphone/knd-live.m3u8
+#EXTINF:-1 group-title="ТУРЦИЯ", NUMBER 1 ASK
+http://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e18f9cea15_1/playlist.m3u8
+#EXTINF:-1 group-title="ТУРЦИЯ", 4U TV
+https://hls.4utv.live/hls/stream.m3u8
+#EXTINF:-1 group-title="ТУРЦИЯ", SITELER TV
+https://ip100.radyotelekomtv.com:3534/hybrid/play.m3u8
+#EXTINF:-1 group-title="ТУРЦИЯ", SITELER TV
+https://ip100.radyotelekomtv.com:3534/stream/play.m3u8
+#EXTINF:-1 group-title="ТУРЦИЯ", KANAL D
+https://stream1.kanald.ro/iphone/knd-live_low/index.m3u8
+#EXTINF:-1 group-title="ТУРЦИЯ", TABİİ TV
+http://ceokzokgtd.erbvr.com/tabiitv/tabiitv.m3u8
+#EXTINF:-1 group-title="ТУРЦИЯ", SEMERKAND TV
+http://b01c02nl.mediatriple.net/videoonlylive/mtisvwurbfcyslive/broadcast_58d915bd40efc.smil/playlist.m3u8?q=zi/
+#EXTINF:-1 group-title="ТУРЦИЯ", LALEGUL TV
+https://lbl.netmedya.net/hls/lalegultv.m3u8
+#EXTINF:-1 group-title="ТУРЦИЯ", LALEGÜL TV
+https://lbl.netmedya.net/hls/lalegultv.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="ТУРЦИЯ", SEMERKAND TV
+http://b01c02nl.mediatriple.net/videoonlylive/mtisvwurbfcyslive/broadcast_58d915bd40efc.smil/playlist.m3u8
+#EXTINF:-1 group-title="ТУРЦИЯ", HABER 61 TV
+https://cdn-haber61tv.yayin.com.tr/haber61tv/smil:haber61tv.smil/playlist.m3u8
+#EXTINF:-1 group-title="ТУРЦИЯ", METEOROLOJI TV
+http://b01c02nl.mediatriple.net/videoonlylive/mtfgdbkwkjllolive/broadcast_5b1673b7c36b7.smil/playlist.m3u8?q=zi/
+#EXTINF:-1 group-title="ТУРЦИЯ", TGRT BELGESEL TV
+http://b01c02nl.mediatriple.net/videoonlylive/mtsxxkzwwuqtglive/broadcast_5fe462afc6a0e.smil/playlist.m3u8
+#EXTINF:-1 group-title="ТУРЦИЯ", HABER 61 TV
+https://cdn-haber61tv.yayin.com.tr/haber61tv/smil:haber61tv.smil/chunklist_w894465842_b1796000.m3u8
+#EXTINF:-1 group-title="ТУРЦИЯ", FİT YAŞA TV
+https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/fit-yasa-tv/playlist/0.m3u8
+#EXTINF:-1 group-title="ТУРЦИЯ", SAĞLIK CHANNEL TV
+https://live.euromediacenter.com/saglikchannel/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="ТУРЦИЯ", TEVE 2 ▹ 2
+https://live.duhnet.tv/S2/HLS_LIVE/teve2np/track_4_1000/playlist.m3u8
+#EXTINF:-1 group-title="ТУРЦИЯ", TEVE 2
+https://live.duhnet.tv/S2/HLS_LIVE/teve2np/playlist.m3u8
+#EXTINF:-1 group-title="ТУРЦИЯ", EURO D
+https://live.duhnet.tv/S2/HLS_LIVE/eurodnp/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="ТУРЦИЯ", EURO D
+https://live.duhnet.tv/S2/HLS_LIVE/eurodnp/track_4_1000/playlist.m3u8
+#EXTINF:-1 group-title="ТУРЦИЯ", KANAL D
+https://live.duhnet.tv/S2/HLS_LIVE/kanalddainp/track_4_1250/playlist.m3u8
+#EXTINF:-1 group-title="ТУРЦИЯ", DREAM TÜRK
+https://live.duhnet.tv/S2/HLS_LIVE/dreamturknp/playlist.m3u8
+#EXTINF:-1 group-title="ТУРЦИЯ", EURO D
+https://live.duhnet.tv/S2/HLS_LIVE/eurodnp/track_3_750/playlist.m3u8
+#EXTINF:-1 group-title="ТУРЦИЯ", ASR-I-SAADET-TV
+https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/asr-i-saadet-tv/playlist/0.m3u8
+#EXTINF:-1 group-title="ТУРЦИЯ", SYRIA TV
+http://svs.itworkscdn.net/syriatvlive/syriatv.smil/playlist_dvr.m3u8
+#EXTINF:-1 group-title="ТУРЦИЯ", AILE TV
+https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/aile-tv/playlist/0.m3u8
+#EXTINF:-1 group-title="ТУРЦИЯ", CHILL TV
+https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/chill-tv/playlist/0.m3u8
+#EXTINF:-1 group-title="ТУРЦИЯ", EURO D
+https://live.duhnet.tv/S2/HLS_LIVE/eurodnp/playlist.m3u8
+#EXTINF:-1 group-title="ТУРЦИЯ", TARIH TV
+https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/Tarih-tv/playlist/0.m3u8
+#EXTINF:-1 group-title="ТУРЦИЯ", ASRI SERIF TV
+https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/asr-i-serif-tv/playlist/0.m3u8
+#EXTINF:-1 group-title="ТУРЦИЯ", SAT7 TÜRK
+http://svs.itworkscdn.net/sat7turklive/sat7turk.smil/playlist.m3u8
+#EXTINF:-1 group-title="ТУРЦИЯ", BRTV
+https://live.artidijitalmedya.com/artidijital_brtv/brtv/playlist.m3u8
+#EXTINF:-1 group-title="ТУРЦИЯ", ÇIFTÇI TV
+https://live.artidijitalmedya.com/artidijital_ciftcitv/ciftcitv/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="ТУРЦИЯ", SUN RTV
+https://live.artidijitalmedya.com/artidijital_sunrtv/sunrtv/chunks.m3u8
+#EXTINF:-1 group-title="ТУРЦИЯ", KAY TV
+https://live.artidijitalmedya.com/artidijital_kaytv/kaytv/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="ТУРЦИЯ", KANAL 3
+https://live.artidijitalmedya.com/artidijital_kanal3/kanal3/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="ТУРЦИЯ", SAT 7 TURK
+http://svs.itworkscdn.net/sat7turklive/sat7turk.smil/sat7turkpublish/sat7turk_source/chunks_dvr.m3u8
+#EXTINF:-1 group-title="ТУРЦИЯ", COCUK OZEL TV
+https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/cocuklara-ozel-tv/playlist/0.m3u8
+#EXTINF:-1 group-title="ТУРЦИЯ", MERCAN TV
+https://live.artidijitalmedya.com/artidijital_mercantv/mercantv/chunks.m3u8
+#EXTINF:-1 group-title="ТУРЦИЯ", AKSU TV
+https://live.artidijitalmedya.com/artidijital_aksutv/aksutv/chunks.m3u8
+#EXTINF:-1 group-title="ТУРЦИЯ", BELGESEL TV
+https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/belgesel-tv/playlist/0.m3u8
+#EXTINF:-1 group-title="ТУРЦИЯ", VUSLAT TV
+https://live.artidijitalmedya.com/artidijital_vuslattv/vuslattv/chunks.m3u8
+#EXTINF:-1 group-title="ТУРЦИЯ", TIVI 6 HD
+https://live.artidijitalmedya.com/artidijital_tivi6/tivi6/chunks.m3u8
+#EXTINF:-1 group-title="ТУРЦИЯ", KANAL 3
+https://live.artidijitalmedya.com/artidijital_kanal3/kanal3/playlist.m3u8
+#EXTINF:-1 group-title="ТУРЦИЯ", HUNAT TV
+https://live.artidijitalmedya.com/artidijital_hunattv/hunattv/playlist.m3u8
+#EXTINF:-1 group-title="ТУРЦИЯ", KENT TÜRK TV
+https://live.artidijitalmedya.com/artidijital_kentturktv/kentturktv/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="ТУРЦИЯ", MAVIKARADENIZ
+https://live.artidijitalmedya.com/artidijital_mavikaradeniz/mavikaradeniz/playlist.m3u8
+#EXTINF:-1 group-title="ТУРЦИЯ", FORTUNA TÜRK TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
+#EXTINF:-1 group-title="ТУРЦИЯ", SUN RTV
+https://live.artidijitalmedya.com/artidijital_sunrtv/sunrtv/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="ТУРЦИЯ", LIFE TV
+https://live.artidijitalmedya.com/artidijital_lifetv/lifetv/playlist.m3u8
+#EXTINF:-1 group-title="ТУРЦИЯ", HUNAT TV
+https://live.artidijitalmedya.com/artidijital_hunattv/hunattv/chunks.m3u8
+#EXTINF:-1 group-title="ТУРЦИЯ", TEMPO TV
+https://live.artidijitalmedya.com/artidijital_tempotv/tempotv/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="ТУРЦИЯ", POWERTÜRK
+https://live.artidijitalmedya.com/artidijital_powerturktv/powerturktv/chunks.m3u8
+#EXTINF:-1 group-title="ТУРЦИЯ", KANAL 23 HD
+https://live.artidijitalmedya.com/artidijital_kanal23/kanal23/chunks.m3u8
+#EXTINF:-1 group-title="ТУРЦИЯ", SAT7 TÜRK (1080P)
+https://live.artidijitalmedya.com/artidijital_sat7turk/sat7turk/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="ТУРЦИЯ", POWER TV
+https://live.artidijitalmedya.com/artidijital_powertv/powertv/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="ТУРЦИЯ", LIFE TV
+https://live.artidijitalmedya.com/artidijital_lifetv/lifetv/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="ТУРЦИЯ", ERTV | ARTI
+https://live.artidijitalmedya.com/artidijital_ertv_new/ertv/chunks.m3u8
+#EXTINF:-1 group-title="ТУРЦИЯ", ERCIYES TV
+https://live.artidijitalmedya.com/artidijital_erciyestv/erciyestv/chunks.m3u8
+#EXTINF:-1 group-title="ТУРЦИЯ", OLAYTÜRK | ARTI
+https://live.artidijitalmedya.com/artidijital_olayturk/olayturk/chunks.m3u8
+#EXTINF:-1 group-title="ТУРЦИЯ", TV41
+https://live.artidijitalmedya.com/artidijital_tv41/tv41/chunks.m3u8
+#EXTINF:-1 group-title="ТУРЦИЯ", KANAL FIRAT
+https://live.artidijitalmedya.com/artidijital_kanalfirat/kanalfirat/chunks.m3u8
+#EXTINF:-1 group-title="ТУРЦИЯ", TV 8
+https://rkhubpaomb.turknet.ercdn.net/fwjkgpasof/tv8/tv8.m3u8
+#EXTINF:-1 group-title="ТУРЦИЯ", KANAL PLUS
+https://live.artidijitalmedya.com/artidijital_kanalplus/kanalplus/mpeg/playlist.m3u8
+#EXTINF:-1 group-title="ТУРЦИЯ", HABERTÜRK_YEDEK
+https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/haberturktv/haberturktv.m3u8
+#EXTINF:-1 group-title="ТУРЦИЯ", ES TV
+https://live.artidijitalmedya.com/artidijital_estv/estv/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="ТУРЦИЯ", BLOOMBERG
+https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/bloomberght/bloomberght.m3u8
+#EXTINF:-1 group-title="ТУРЦИЯ", DREAM TÜRK
+https://live.duhnet.tv/S2/HLS_LIVE/dreamturknp/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="ТУРЦИЯ", SHOW TV HD
+https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/showtv/showtv_1080p.m3u8
+#EXTINF:-1 group-title="ТУРЦИЯ", SHOWMAX_YEDEK
+https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/showmax/showmax.m3u8
+#EXTINF:-1 group-title="ТУРЦИЯ", LIFE TV
+https://live.artidijitalmedya.com/artidijital_lifetv/lifetv/chunks.m3u8
+#EXTINF:-1 group-title="ТУРЦИЯ", ÇIFTÇI TV
+https://live.artidijitalmedya.com/artidijital_ciftcitv/ciftcitv/playlist.m3u8
+#EXTINF:-1 group-title="ТУРЦИЯ", DIYAR TV
+https://live.artidijitalmedya.com/artidijital_diyartv/diyartv/chunks.m3u8
+#EXTINF:-1 group-title="ТУРЦИЯ", TV 41
+https://live.artidijitalmedya.com/artidijital_tv41/tv41/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="ТУРЦИЯ", SHOWTV_YEDEK
+https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/showtv/showtv.m3u8
+#EXTINF:-1 group-title="ТУРЦИЯ", TV 8.5
+https://rkhubpaomb.turknet.ercdn.net/fwjkgpasof/tv8bucuk/tv8bucuk.m3u8
+#EXTINF:-1 group-title="ТУРЦИЯ", KANAL 15
+https://live.artidijitalmedya.com/artidijital_kanal15/kanal15/playlist.m3u8
+#EXTINF:-1 group-title="ТУРЦИЯ", ANADOLU NET TV
+https://live.artidijitalmedya.com/artidijital_anadolunet/anadolunet/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="ТУРЦИЯ", KANAL 23
+https://live.artidijitalmedya.com/artidijital_kanal23/kanal23/playlist.m3u8
+#EXTINF:-1 group-title="ТУРЦИЯ", RTB ANEKA (720P)
+https://d1211whpimeups.cloudfront.net/smil:rtb2/playlist.m3u8
+#EXTINF:-1 group-title="ТУРЦИЯ", TABİI TV
+https://ceokzokgtd.erbvr.com/tabiitv/tabiitv_1080p.m3u8
+#EXTINF:-1 group-title="ТУРЦИЯ", TEVE 2 HD
+https://teve2.duhnet.tv/S2/HLS_LIVE/teve2np/playlist.m3u8
+#EXTINF:-1 group-title="ТУРЦИЯ", QAF TV
+https://customer-9vqui33qma2rownb.cloudflarestream.com/7792e558fe54e23bdd4b462ec275cdba/manifest/video.m3u8
+#EXTINF:-1 group-title="ТУРЦИЯ", UN WEB TV (540P)
+https://cdnapi.kaltura.com/p/2503451/sp/250345100/playManifest/entryId/1_gb6tjmle/protocol/https/format/applehttp/a.m3u8?q=zi/
+#EXTINF:-1 group-title="ТУРЦИЯ", SAT 7 TÜRK
+https://svs.itworkscdn.net/sat7turklive/sat7turk.smil/playlist_dvr.m3u8
+#EXTINF:-1 group-title="ТУРЦИЯ", TVSAT
+http://89.38.8.130:39443
+#EXTINF:-1 group-title="ТУРЦИЯ", REHBER TV
+https://cdn4.yayin.com.tr/rehbertv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="ТУРЦИЯ", TV 24
+https://turkmedya-live.ercdn.net/tv24/tv24_360p.m3u8
+#EXTINF:-1 group-title="ТУРЦИЯ", TELE 1 TV
+https://tele1-live.ercdn.net/tele1/tele1.m3u8
+#EXTINF:-1 group-title="ТУРЦИЯ", BLOOMBERG HT
+https://tv.ensonhaber.com/bloomberght/bloomberght.m3u8
+#EXTINF:-1 group-title="ТУРЦИЯ", 24 HABER HD
+https://tv.ensonhaber.com/tv24/tv24.m3u8
+#EXTINF:-1 group-title="ТУРЦИЯ", KANAL HAYAT
+https://tbn02a.ltnschedule.com/hls/nx21i.m3u8
+#EXTINF:-1 group-title="ТУРЦИЯ", TEVE 2 SD
+https://teve2.duhnet.tv/S2/HLS_LIVE/teve2np/track_3_750/playlist.m3u8
+#EXTINF:-1 group-title="ТУРЦИЯ", TELE 1
+https://tele1-live.ercdn.net/tele1/tele1.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="ТУРЦИЯ", BLOOMBERG HT HD
+https://ciner.daioncdn.net/bloomberght/bloomberght.m3u8
+#EXTINF:-1 group-title="ТУРЦИЯ", TV 4 TURK
+https://turkmedya-live.ercdn.net/tv4/tv4_720p.m3u8
+#EXTINF:-1 group-title="ТУРЦИЯ", TV360 HD
+https://turkmedya-live.ercdn.net/tv360/tv360.m3u8
+#EXTINF:-1 group-title="ТУРЦИЯ", TV 24
+https://turkmedya-live.ercdn.net/tv24/tv24.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="ТУРЦИЯ", TV 24
+https://turkmedya-live.ercdn.net/tv24/tv24.m3u8
+#EXTINF:-1 group-title="ТУРЦИЯ", TGRT HABER
+https://tgrthaber-live.daioncdn.net/tgrthaber/tgrthaber_720p.m3u8
+#EXTINF:-1 group-title="ТУРЦИЯ", TGRT HABER HD
+https://tgrthaber-live.daioncdn.net/tgrthaber/tgrthaber.m3u8
+#EXTINF:-1 group-title="ТУРЦИЯ", TGRT HABER
+https://tgrthaber-live.daioncdn.net/tgrthaber/tgrthaber_1080p.m3u8
+#EXTINF:-1 group-title="ТУРЦИЯ", K-TV
+https://d1pz8zear993v8.cloudfront.net/hlsme/kathtv.m3u8
+#EXTINF:-1 group-title="ТУРЦИЯ", SAT7
+https://svs.itworkscdn.net/sat7turklive/sat7turk.smil/sat7turkpublish/sat7turk_source/chunks.m3u8
+#EXTINF:-1 group-title="ТУРЦИЯ", TEVE2 (1080P)
+https://teve2vod.duhnet.tv/S12/HLS_VOD/382843_2e5b/index.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="ТУРЦИЯ", BLOOMBERG HT
+https://ciner.daioncdn.net/bloomberght/bloomberght_720p.m3u8
+#EXTINF:-1 group-title="ТУРЦИЯ", SHOW TV
+https://ciner.daioncdn.net/showtv/showtv.m3u8?ce=3&app=4bc856ef-4c68-4a94-bc87-37dfaaa66558
+#EXTINF:-1 group-title="ТУРЦИЯ", PERSIANA TURKIYE
+https://turkhls.persiana.live/hls/stream.m3u8
+#EXTINF:-1 group-title="ТУРЦИЯ", TV360
+https://turkmedya-live.ercdn.net/tv360/tv360_720p.m3u8
+#EXTINF:-1 group-title="ТУРЦИЯ", 24 TV HD
+https://turkmedya-live.ercdn.net/tv24/tv24_720p.m3u8
+#EXTINF:-1 group-title="ТУРЦИЯ", TV4
+https://turkmedya-live.ercdn.net/tv4/tv4_720p.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="ТУРЦИЯ", TRT EBA
+https://tv-e-okul01.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 group-title="ТУРЦИЯ", 360 TV
+https://turkmedya-live.ercdn.net/tv360/tv360_1080p.m3u8
+#EXTINF:-1 group-title="ТУРЦИЯ", TRT KURDÎ
+https://tv-trtkurdi.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 group-title="ТУРЦИЯ", TV4
+https://turkmedya-live.ercdn.net/tv4/tv4.m3u8
+#EXTINF:-1 group-title="ТУРЦИЯ", TRTAVAZ_2
+https://tv-trtavaz.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 group-title="ТУРЦИЯ", TRT ARAPCA
+https://tv-trtarabi.medya.trt.com.tr/master_1080.m3u8
+#EXTINF:-1 group-title="ТУРЦИЯ", 24 TV HD
+https://turkmedya-live.ercdn.net/tv24/tv24_720p.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="ТУРЦИЯ", TRT ARAPCA
+https://tv-trtarabi.medya.trt.com.tr/master_720.m3u8
+#EXTINF:-1 group-title="ТУРЦИЯ", TRT KURDI
+https://tv-trtkurdi.medya.trt.com.tr/master_360.m3u8
+#EXTINF:-1 group-title="ТУРЦИЯ", TRT HABER HD
+https://tv-trthaber.medya.trt.com.tr/master_360.m3u8
+#EXTINF:-1 group-title="ТУРЦИЯ", KANAL 58 HD
+https://live.artidijitalmedya.com/artidijital_kanal58/kanal58/chunks.m3u8
+#EXTINF:-1 group-title="ТУРЦИЯ", TRT HABER
+https://tv-trthaber.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 group-title="ТУРЦИЯ", TRT TÜRK
+https://tv-trtturk.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 group-title="ТУРЦИЯ", TRT KURDI
+https://tv-trtkurdi.medya.trt.com.tr/master_720.m3u8
+#EXTINF:-1 group-title="ТУРЦИЯ", TRT HABER
+https://tv-trthaber.medya.trt.com.tr/master_720.m3u8
+#EXTINF:-1 group-title="ТУРЦИЯ", TRT TÜRK TR
+https://tv-trtturk.medya.trt.com.tr/master_720.m3u8
+#EXTINF:-1 group-title="ТУРЦИЯ", TRT WORLD
+https://tv-trtworld.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 group-title="ТУРЦИЯ", 1TV GEO
+https://tv.cdn.xsg.ge/gpb-1tv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="ТУРЦИЯ", KANAL D
+https://demiroren.daioncdn.net/kanald/kanald.m3u8?app=da2109ea-5dfe-4107-89ab-23593336ed61
+#EXTINF:-1 group-title="ТУРЦИЯ", ALCARRIA TV
+http://217.182.77.27/live/alcarriatv-livestream.m3u8
+#EXTINF:-1 group-title="ТУРЦИЯ", GLOBAL HABER TV TR
+https://tv.ensonhaber.com/haberglobal/haberglobal.m3u8
+#EXTINF:-1 group-title="ТУРЦИЯ", TRT HABER FHD
+https://tv.ensonhaber.com/trthaber/trthaber_1080p.m3u8
+#EXTINF:-1 group-title="ТУРЦИЯ", TRT WORLD
+https://tv-trtworld.medya.trt.com.tr/master_360.m3u8
+#EXTINF:-1 group-title="ТУРЦИЯ", TRT WORLD
+https://tv-trtworld.medya.trt.com.tr/master_720.m3u8
+#EXTINF:-1 group-title="ТУРЦИЯ", TEVE 2
+https://demiroren.daioncdn.net/teve2/teve2.m3u8?app=6aab838a-437e-4a1b-bbd0-e30f79cdbbbd
+#EXTINF:-1 group-title="ТУРЦИЯ", KANAL D
+https://demiroren.daioncdn.net/kanald/kanald.m3u8?app=kanald_web
+#EXTINF:-1 group-title="ТУРЦИЯ", TRTARAPÇA
+https://tv-trtarabi.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 group-title="ТУРЦИЯ", TRT TURK EUROPA
+https://tv-trtturk.medya.trt.com.tr/master_360.m3u8
+#EXTINF:-1 group-title="ТУРЦИЯ", KANAL D
+https://demiroren.daioncdn.net/kanald/kanald.m3u8?app=kanald_web&ce=3
+#EXTINF:-1 group-title="ТУРЦИЯ", NTV
+https://dogus-live.daioncdn.net/ntv/playlist.m3u8
+#EXTINF:-1 group-title="ТУРЦИЯ", HABERTÜRK TV
+https://tv.ensonhaber.com/haberturk/haberturk.m3u8
+#EXTINF:-1 group-title="ТУРЦИЯ", BENGÜTÜRK TV HD
+https://tv.ensonhaber.com/benguturk/benguturk.m3u8
+
 #EXTINF:0 tvg-logo="https://i.postimg.cc/sDtVR5pk/In-Shot-20260824-210532169.png" group-title="Catcast",BAYZAN musiс
 https://catcast-bana-sor.biz-az.workers.dev/index.m3u8?id=bayzan-music
 #EXTINF:0 tvg-logo="https://i.postimg.cc/sDtVR5pk/In-Shot-20260824-210532169.png" group-title="Catcast",BAYZAN hits 

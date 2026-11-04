@@ -154,6 +154,14 @@ http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:C0:8F:65&stream=14717
 https://raw.githubusercontent.com/ibrahim9071/kick/refs/heads/main/streams/resurrection-channel-tv.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/NjHpHfvc/TRT-logo-(2018-)-svg.webp" group-title="🇦🇿 Azərbaycan 🇦🇿",TRT NOSTALJİ
 https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/dizi-tv/playlist/0.m3u8
+#EXTINF:0 tvg-id="3"tvg-logo="https://i.postimg.cc/5NqDy2Z1/In-Shot-20260901-195625661.png"group-title="🇦🇿 Azərbaycan 🇦🇿",DIZI TV 
+http://stream.mcquack.net/46/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/5NqDy2Z1/In-Shot-20260901-195625661.png" group-title="🇦🇿 Azərbaycan 🇦🇿", DIZI 1
+https://demiroren.daioncdn.net/wdaa1icvrx6m7uadvqs0dw/zalim_istanbul_dizi/playlist.m3u8?app=kanald_web&ce=3?=.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/5NqDy2Z1/In-Shot-20260901-195625661.png" group-title="🇦🇿 Azərbaycan 🇦🇿", DIZI 2 
+https://demiroren.daioncdn.net/wdaa1icvrx6m7uadvqs0dw/tatli_intikam_dizi/playlist.m3u8?app=kanald_web&ce=3?=.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/5NqDy2Z1/In-Shot-20260901-195625661.png" group-title="🇦🇿 Azərbaycan 🇦🇿", DIZI 3
+https://demiroren.daioncdn.net/wdaa1icvrx6m7uadvqs0dw/Siyah_beyaz_ask_dizi/playlist.m3u8?app=kanald_web&ce=3?=.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/QMMFHtqd/39399820-ico.png" group-title="🇦🇿 Azərbaycan 🇦🇿",TELE YEŞİLÇAM
 http://162.212.179.32/akamaissh101/ssh101/0212tv/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/HTWLwcJB/n-Shot-20261003-233516627.png" group-title="🇦🇿 Azərbaycan 🇦🇿",TELEZEN
@@ -861,6 +869,105 @@ http://s2.00x00.es/21102/index.m3u8?token=4913C457E8DE
 #EXTINF:-1 tvg-name="PlayerKomedi Azerbaycan Film 2" group-title="Азербайджанские",PlayerKomedi Azerbaycan Film 2
 #EXTGRP:Азербайджанские
 http://s2.00x00.es/21103/index.m3u8?token=4913C457E8DE
+
+#EXTINF:0 tvg-logo="https://i.postimg.cc/sDtVR5pk/In-Shot-20260824-210532169.png" group-title="Catcast",BAYZAN musiс
+https://catcast-bana-sor.biz-az.workers.dev/index.m3u8?id=bayzan-music
+#EXTINF:0 tvg-logo="https://i.postimg.cc/sDtVR5pk/In-Shot-20260824-210532169.png" group-title="Catcast",BAYZAN hits 
+https://catcast-bana-sor.biz-az.workers.dev/index.m3u8?id=bayzan-hits
+#EXTINF:0 tvg-logo="https://i.postimg.cc/sDtVR5pk/In-Shot-20260824-210532169.png" group-title="Catcast",BAYZAN slow 
+https://catcast-bana-sor.biz-az.workers.dev/index.m3u8?id=bayzan-slow
+#EXTINF:0 tvg-logo="https://i.postimg.cc/sDtVR5pk/In-Shot-20260824-210532169.png" group-title="Catcast",ULDUZ 
+https://catcast-bana-sor.biz-az.workers.dev/index.m3u8?id=ulduz-tv
+#EXTINF:0 tvg-logo="https://i.postimg.cc/sDtVR5pk/In-Shot-20260824-210532169.png" group-title="Catcast",Hind filmleri 
+https://catcast-bana-sor.biz-az.workers.dev/index.m3u8?id=by-kerimof-hind-filmleri.m3u8
+#EXTINF:0 tvg-logo="https://i.postimg.cc/sDtVR5pk/In-Shot-20260824-210532169.png" group-title="Catcast",Retro filmleri 
+https://catcast-bana-sor.biz-az.workers.dev/index.m3u8?id=by-kerimoff-azeri-retro-filmle.m3u8
+#EXTINF:0 tvg-logo="https://i.postimg.cc/sDtVR5pk/In-Shot-20260824-210532169.png" group-title="Catcast",Retro filmleri 2 
+https://catcast-bana-sor.biz-az.workers.dev/index.m3u8?id=by-kerimoff-retro-filmler-2.m3u8
+#EXTINF:0 tvg-logo="https://i.postimg.cc/sDtVR5pk/In-Shot-20260824-210532169.png" group-title="Catcast",SIRIUS KLASSIKA 
+https://catcast.ismailturret.workers.dev/sirius_klassika_tv.m3u8
+#EXTINF:0 tvg-logo="https://i.postimg.cc/sDtVR5pk/In-Shot-20260824-210532169.png" group-title="Catcast",SIRIUS CİTY TV 
+https://catcast.ismailturret.workers.dev/sirius-citytv.m3u8
+#EXTINF:0 tvg-logo="https://i.postimg.cc/sDtVR5pk/In-Shot-20260824-210532169.png" group-title="Catcast",SIRIUS TAMAŞA TV 
+https://catcast.ismailturret.workers.dev/sirius-tamasatv.m3u8
+#EXTINF:0 tvg-logo="https://i.postimg.cc/sDtVR5pk/In-Shot-20260824-210532169.png" group-title="Catcast",SIRIUS WORLD CUP TV 
+https://catcast.ismailturret.workers.dev/sirius-hdworldcup2026.m3u8
+#EXTINF:0 tvg-logo="https://i.postimg.cc/sDtVR5pk/In-Shot-20260824-210532169.png" group-title="Catcast",Bozbash 
+https://catcast-bana-sor.biz-az.workers.dev/index.m3u8?id=by-kerimoff-bozbash-production.m3u8
+#EXTINF:0 tvg-logo="https://i.postimg.cc/sDtVR5pk/In-Shot-20260824-210532169.png" group-title="Catcast",Slow musiqiler 
+https://catcast-bana-sor.biz-az.workers.dev/index.m3u8?id=by-kerimoff-slow-musiqiler.m3u8
+#EXTINF:0 tvg-logo="https://i.postimg.cc/sDtVR5pk/In-Shot-20260824-210532169.png" group-title="Catcast",Vetendas A 
+https://catcast-bana-sor.biz-az.workers.dev/index.m3u8?id=vetendasa.m3u8
+#EXTINF:0 tvg-logo="https://i.postimg.cc/sDtVR5pk/In-Shot-20260824-210532169.png" group-title="Catcast",Alvin Ovcu 
+https://catcast-bana-sor.biz-az.workers.dev/index.m3u8?id=AlvinOvcu
+#EXTINF:0 tvg-logo="https://i.postimg.cc/sDtVR5pk/In-Shot-20260824-210532169.png" group-title="Catcast",Alvin Music 
+https://catcast-bana-sor.biz-az.workers.dev/index.m3u8?id=alvinmusic
+#EXTINF:0 tvg-logo="https://i.postimg.cc/sDtVR5pk/In-Shot-20260824-210532169.png" group-title="Catcast",Balacan 
+https://catcast-bana-sor.biz-az.workers.dev/index.m3u8?id=balacan-tv-diginet
+#EXTINF:0 tvg-logo="https://i.postimg.cc/sDtVR5pk/In-Shot-20260824-210532169.png" group-title="Catcast",Yansima slow sarkilar 
+https://catcast-bana-sor.biz-az.workers.dev/index.m3u8?id=yansimaslowsarkilar
+#EXTINF:0 tvg-logo="https://i.postimg.cc/sDtVR5pk/In-Shot-20260824-210532169.png" group-title="Catcast",Fanatik music 
+https://catcast-bana-sor.biz-az.workers.dev/index.m3u8?id=fanatikmusicnesetertas
+#EXTINF:0 tvg-logo="https://i.postimg.cc/sDtVR5pk/In-Shot-20260824-210532169.png" group-title="Catcast",Fanatik pepe 
+https://catcast-bana-sor.biz-az.workers.dev/index.m3u8?id=fanatikkidspepee
+#EXTINF:0 tvg-logo="https://i.postimg.cc/sDtVR5pk/In-Shot-20260824-210532169.png" group-title="Catcast",Fanatik dag 
+https://catcast-bana-sor.biz-az.workers.dev/index.m3u8?id=fanatikmaxdag
+#EXTINF:0 tvg-logo="https://i.postimg.cc/sDtVR5pk/In-Shot-20260824-210532169.png" group-title="Catcast",Fanatik korku 
+https://catcast-bana-sor.biz-az.workers.dev/index.m3u8?id=fanatikmaxkorku
+#EXTINF:0 tvg-logo="https://i.postimg.cc/sDtVR5pk/In-Shot-20260824-210532169.png" group-title="Catcast",Fanatik kurtlar vadisi 
+https://catcast-bana-sor.biz-az.workers.dev/index.m3u8?id=fanatikprimekurtlarvadisi
+#EXTINF:0 tvg-logo="https://i.postimg.cc/sDtVR5pk/In-Shot-20260824-210532169.png" group-title="Catcast",Fanatik korsan 
+https://catcast-bana-sor.biz-az.workers.dev/index.m3u8?id=fanatikmaxboxkarayipkorsanlari
+#EXTINF:0 tvg-logo="https://i.postimg.cc/sDtVR5pk/In-Shot-20260824-210532169.png" group-title="Catcast",Fanatik esref tek 
+https://catcast-bana-sor.biz-az.workers.dev/index.m3u8?id=fanatikprimeesreftek
+#EXTINF:0 tvg-logo="https://i.postimg.cc/sDtVR5pk/In-Shot-20260824-210532169.png" group-title="Catcast",Fanatik ed stafford 
+https://catcast-bana-sor.biz-az.workers.dev/index.m3u8?id=fanatikprimeEdStafford
+#EXTINF:0 tvg-logo="https://i.postimg.cc/sDtVR5pk/In-Shot-20260824-210532169.png" group-title="Catcast",Fanatik avrupa yakasi 
+https://catcast-bana-sor.biz-az.workers.dev/index.m3u8?id=fanatikprimeavrupayakasi
+#EXTINF:0 tvg-logo="https://i.postimg.cc/sDtVR5pk/In-Shot-20260824-210532169.png" group-title="Catcast",Fanatik music nostalji 
+https://catcast-bana-sor.biz-az.workers.dev/index.m3u8?id=fanatikmusicnostalji
+#EXTINF:0 tvg-logo="https://i.postimg.cc/sDtVR5pk/In-Shot-20260824-210532169.png" group-title="Catcast",Fanatik deadpool
+https://catcast-bana-sor.biz-az.workers.dev/index.m3u8?id=fanatikmaxdeadpool
+#EXTINF:0 tvg-logo="https://i.postimg.cc/sDtVR5pk/In-Shot-20260824-210532169.png" group-title="Catcast",Fanatik kids sarkilar 
+https://catcast-bana-sor.biz-az.workers.dev/index.m3u8?id=fanatikkidsarkilar
+#EXTINF:0 tvg-logo="https://i.postimg.cc/sDtVR5pk/In-Shot-20260824-210532169.png" group-title="Catcast",Fanatik music rojda 
+https://catcast-bana-sor.biz-az.workers.dev/index.m3u8?id=fanatikmusicrojda
+#EXTINF:0 tvg-logo="https://i.postimg.cc/sDtVR5pk/In-Shot-20260824-210532169.png" group-title="Catcast",Fanatik tom jerry 
+https://catcast-bana-sor.biz-az.workers.dev/index.m3u8?id=fanatikkidstomjerry
+#EXTINF:0 tvg-logo="https://i.postimg.cc/sDtVR5pk/In-Shot-20260824-210532169.png" group-title="Catcast",Fanatik caillou 
+https://catcast-bana-sor.biz-az.workers.dev/index.m3u8?id=fanatikkidscaillou
+#EXTINF:0 tvg-logo="https://i.postimg.cc/sDtVR5pk/In-Shot-20260824-210532169.png" group-title="Catcast",Fanatik bizimkiler 
+https://catcast-bana-sor.biz-az.workers.dev/index.m3u8?id=fanatikprimebizimkiler
+#EXTINF:0 tvg-logo="https://i.postimg.cc/sDtVR5pk/In-Shot-20260824-210532169.png" group-title="Catcast",STV-AZ 
+https://catcast-bana-sor.biz-az.workers.dev/index.m3u8?id=stv-az
+#EXTINF:0 tvg-logo="https://i.postimg.cc/sDtVR5pk/In-Shot-20260824-210532169.png" group-title="Catcast",STVAZ 
+https://catcast-bana-sor.biz-az.workers.dev/index.m3u8?id=stvaz
+#EXTINF:0 tvg-logo="https://i.postimg.cc/sDtVR5pk/In-Shot-20260824-210532169.png" group-title="Catcast",Karisik yayin 
+https://catcast-bana-sor.biz-az.workers.dev/index.m3u8?id=karisikyayin
+#EXTINF:0 tvg-logo="https://i.postimg.cc/sDtVR5pk/In-Shot-20260824-210532169.png" group-title="Catcast",Playbox 
+https://catcast-bana-sor.biz-az.workers.dev/index.m3u8?id=playbox-mzk
+#EXTINF:0 tvg-logo="https://i.postimg.cc/sDtVR5pk/In-Shot-20260824-210532169.png" group-title="Catcast",Perdenin ardindakilar 
+https://catcast-bana-sor.biz-az.workers.dev/index.m3u8?id=perdenin-ardndakiler
+#EXTINF:0 tvg-logo="https://i.postimg.cc/sDtVR5pk/In-Shot-20260824-210532169.png" group-title="Catcast",Filmbox cocuk 
+https://catcast-bana-sor.biz-az.workers.dev/index.m3u8?id=filmboxcocuk
+#EXTINF:0 tvg-logo="https://i.postimg.cc/sDtVR5pk/In-Shot-20260824-210532169.png" group-title="Catcast",Niloya 
+https://catcast-bana-sor.biz-az.workers.dev/index.m3u8?id=niloya
+#EXTINF:0 tvg-logo="https://i.postimg.cc/sDtVR5pk/In-Shot-20260824-210532169.png" group-title="Catcast",Rihat tv 
+https://catcast-bana-sor.biz-az.workers.dev/index.m3u8?id=rihattv
+#EXTINF:0 tvg-logo="https://i.postimg.cc/sDtVR5pk/In-Shot-20260824-210532169.png" group-title="Catcast",Show tv az 
+https://catcast-bana-sor.biz-az.workers.dev/index.m3u8?id=showtvaz
+#EXTINF:0 tvg-logo="https://i.postimg.cc/sDtVR5pk/In-Shot-20260824-210532169.png" group-title="Catcast",Now music 
+https://catcast-bana-sor.biz-az.workers.dev/index.m3u8?id=now-music
+#EXTINF:0 tvg-logo="https://i.postimg.cc/sDtVR5pk/In-Shot-20260824-210532169.png" group-title="Catcast",Ela music 
+https://catcast-bana-sor.biz-az.workers.dev/index.m3u8?id=elamusic
+#EXTINF:0 tvg-logo="https://i.postimg.cc/sDtVR5pk/In-Shot-20260824-210532169.png" group-title="Catcast",Mustafa Ceceli 
+https://catcast-bana-sor.biz-az.workers.dev/index.m3u8?id=mustafa-ceceli
+#EXTINF:0 tvg-logo="https://i.postimg.cc/sDtVR5pk/In-Shot-20260824-210532169.png" group-title="Catcast",Kral turk 
+https://catcast-bana-sor.biz-az.workers.dev/index.m3u8?id=kralturk
+#EXTINF:0 tvg-logo="https://i.postimg.cc/sDtVR5pk/In-Shot-20260824-210532169.png" group-title="Catcast",K.Sunal 
+https://catcast-bana-sor.biz-az.workers.dev/index.m3u8?id=ksunal
+#EXTINF:0 tvg-logo="https://i.postimg.cc/sDtVR5pk/In-Shot-20260824-210532169.png" group-title="Catcast",Kanal 56 
+https://catcast-bana-sor.biz-az.workers.dev/index.m3u8?id=kanal65
 
 #EXTINF:0 tvg-id="50341" tvg-name="PlayerCınema Action" tvg-logo="https://img.catcast.tv/uploads/10022026/logos/50341-698b353944331.png" group-title="⚡️PLAYER TV🇦🇿DedMasterIPTV🇦🇿",PlayerCınema Action 1
 https://catcast.ismailturret.workers.dev/playercınema.m3u8

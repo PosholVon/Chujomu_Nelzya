@@ -84,25 +84,25 @@ http://s2.00x00.es/11452/index.m3u8?token=4913C457E8DE
 https://pastebin.com/raw/C13XaXTB
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/XYV2ysXs/In-Shot-20260516-212209897.png",KANAL 65 
 #EXTGRP:🇦🇿 Azərbaycan 🇦🇿
-https://kanal65.xyz/now-cinema/index.php?id=4
+https://now-cinema-prox.bykerimoff.workers.dev/kanal65.m3u8
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/2fsxxtab.png",Now Cinema Ailə
 #EXTGRP:🇦🇿 Azərbaycan 🇦🇿
-https://kanal65.xyz/now-cinema/index.php?id=1
+https://now-cinema-prox.bykerimoff.workers.dev/nowcinema-aile.m3u8
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/drfqvbnj.png",Now Cinema 
 #EXTGRP:🇦🇿 Azərbaycan 🇦🇿
-https://kanal65.xyz/now-cinema/index.php?id=2
+https://now-cinema-prox.bykerimoff.workers.dev/nowcinema.m3u8
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/gsm0ekvo.png",Now-series
 #EXTGRP:🇦🇿 Azərbaycan 🇦🇿
-https://kanal65.xyz/now-cinema/index.php?id=3   
+https://now-cinema-prox.bykerimoff.workers.dev/nowseries.m3u8
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/0sbkmhzp.png",Now Comedy
 #EXTGRP:🇦🇿 Azərbaycan 🇦🇿
-https://kanal65.xyz/now-cinema/index.php?id=5
+https://now-cinema-prox.bykerimoff.workers.dev/nowcomedy.m3u8
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/0sbkmhzp.png",Now Retro 
 #EXTGRP:🇦🇿 Azərbaycan 🇦🇿
-https://kanal65.xyz/now-cinema/now-retro/index.m3u8
+https://now-cinema-prox.bykerimoff.workers.dev/nowretro.m3u8
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/0sbkmhzp.png",Now Music
 #EXTGRP:🇦🇿 Azərbaycan 🇦🇿
-https://kanal65.xyz/now-cinema/now-music/index.m3u8
+https://now-cinema-prox.bykerimoff.workers.dev/nowmusic.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/ydy7DCw5/1762835780517.png", HTV sinema
 #EXTGRP:🇦🇿 Azərbaycan 🇦🇿
 https://pastebin.com/raw/m3UBDTLW

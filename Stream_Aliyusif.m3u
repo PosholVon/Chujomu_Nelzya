@@ -94,15 +94,15 @@ https://now-cinema-prox.bykerimoff.workers.dev/nowcinema.m3u8
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/gsm0ekvo.png",Now-series
 #EXTGRP:🇦🇿 Azərbaycan 🇦🇿
 https://now-cinema-prox.bykerimoff.workers.dev/nowseries.m3u8
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/0sbkmhzp.png",Now Comedy
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/0sbkmhzp.png",Now BilimKurgu
 #EXTGRP:🇦🇿 Azərbaycan 🇦🇿
-https://now-cinema-prox.bykerimoff.workers.dev/nowcomedy.m3u8
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/0sbkmhzp.png",Now Retro 
+https://now-cinema-prox.bykerimoff.workers.dev/nowbilimkurgu.m3u8
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/0sbkmhzp.png",Now Horror 
 #EXTGRP:🇦🇿 Azərbaycan 🇦🇿
-https://now-cinema-prox.bykerimoff.workers.dev/nowretro.m3u8
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/0sbkmhzp.png",Now Music
+https://now-cinema-prox.bykerimoff.workers.dev/nowhorror.m3u8
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/0sbkmhzp.png",Now Action 
 #EXTGRP:🇦🇿 Azərbaycan 🇦🇿
-https://now-cinema-prox.bykerimoff.workers.dev/nowmusic.m3u8
+https://now-cinema-prox.bykerimoff.workers.dev/nowaction.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/ydy7DCw5/1762835780517.png", HTV sinema
 #EXTGRP:🇦🇿 Azərbaycan 🇦🇿
 https://pastebin.com/raw/m3UBDTLW

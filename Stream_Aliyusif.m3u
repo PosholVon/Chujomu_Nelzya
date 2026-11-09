@@ -130,6 +130,13 @@ https://catcast-bana-sor.biz-az.workers.dev/index.m3u8?id=sirius-citytv
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qHQSpxW.png", Sirius-hdworldcup2026
 #EXTGRP:🇦🇿 Azərbaycan 🇦🇿
 https://catcast-bana-sor.biz-az.workers.dev/index.m3u8?id=sirius-hdworldcup2026
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qHQSpxW.png", Sirius-PlanetTV
+#EXTGRP:🇦🇿 Azərbaycan 🇦🇿
+https://catcast-bana-sor.biz-az.workers.dev/index.m3u8?id=sirius-planettv
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qHQSpxW.png", Sirius-NatureTV
+#EXTGRP:🇦🇿 Azərbaycan 🇦🇿
+https://catcast-bana-sor.biz-az.workers.dev/index.m3u8?id=sirius-naturetv
+sirius-naturetv
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qHQSpxW.png",SIRIUS TV Az Film
 #EXTGRP:🇦🇿 Azərbaycan 🇦🇿
 https://catcast.ismailturret.workers.dev/sirius_az_film.m3u8
@@ -338,6 +345,9 @@ https://pastebin.com/raw/NqSksEqR
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KhRtHJf.png", YANSIMA SİNEMA HDᵀᴿ
 #EXTGRP:🇦🇿 Azərbaycan 🇦🇿
 https://pastebin.com/raw/zEQM5cJg
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KhRtHJf.png", YANSIMA-NostaljiTV
+#EXTGRP:🇦🇿 Azərbaycan 🇦🇿
+https://catcast-bana-sor.biz-az.workers.dev/index.m3u8?id=yansma-nostaljitv
 #EXTINF:-1 tvg-id="50751" tvg-name="underworld" tvg-logo="https://catcast.tv/assets/no-logo.svg",Underworld
 #EXTGRP:🇦🇿 Azərbaycan 🇦🇿
 https://catcast-bana-sor.biz-az.workers.dev/index.m3u8/?id=underworld.m3u8
@@ -388,6 +398,12 @@ https://catcast.biz-az.workers.dev/index.m3u8/?id=playbox-mzk.m3u8
 #EXTINF:-1,Yansimaslowsarkilar
 #EXTGRP:🇦🇿 Azərbaycan 🇦🇿
 https://catcast-bana-sor.biz-az.workers.dev/index.m3u8/?id=yansimaslowsarkilar.m3u8
+#EXTINF:-1,YansimaTv-Slow
+#EXTGRP:🇦🇿 Azərbaycan 🇦🇿
+https://catcast-bana-sor.biz-az.workers.dev/index.m3u8?id=yansma-muzik-tv-slow
+#EXTINF:-1,Yansima-Rap music
+#EXTGRP:🇦🇿 Azərbaycan 🇦🇿
+https://catcast-bana-sor.biz-az.workers.dev/index.m3u8?id=yansma-rap-muzik-tv
 #EXTINF:0 tvg-logo="https://i.postimg.cc/nMbhTjkB/In-Shot-20260526-222014638.png" group-title="🇦🇿 Azərbaycan 🇦🇿",BEST Hits
 https://catcast.ismailturret.workers.dev/best-hits.m3u8
 #EXTINF:0 tvg-logo="https://i.postimg.cc/pTdFP4n1/In-Shot-20260209-102448898.png" group-title="🇦🇿 Azərbaycan 🇦🇿",MANIFEST MUSIC
@@ -469,6 +485,9 @@ https://catcast.ismailturret.workers.dev/bayzan-hits.m3u8
 #EXTINF:-1 tvg-logo="https://img.catcast.tv/uploads/02062026/logos/27146-6a1ea9a719a3f.png",Bayzan-SLOW
 #EXTGRP:🇦🇿 Azərbaycan 🇦🇿
 https://catcast.ismailturret.workers.dev/bayzan-slow.m3u8
+#EXTINF:-1 tvg-logo="https://img.catcast.tv/uploads/02062026/logos/27146-6a1ea9a719a3f.png",Bayzan-Classic
+#EXTGRP:🇦🇿 Azərbaycan 🇦🇿
+https://catcast-bana-sor.biz-az.workers.dev/index.m3u8?id=bayzanclassic
 #EXTINF:-1 tvg-logo="https://img.catcast.tv/uploads/22112025/banners/48064-692173b54a5d2.png",SHOW_AZ music
 #EXTGRP:🇦🇿 Azərbaycan 🇦🇿
 http://catcast.ismailturret.workers.dev/showtvaz.m3u8

@@ -110,7 +110,7 @@ https://pastebin.com/raw/m3UBDTLW
 
 #EXTINF:-1 tvg-logo="http://epg.one/img2/9128.png", ATV Cinema AZ
 #EXTGRP:🇦🇿 Azərbaycan 🇦🇿
-https://raw.githubusercontent.com/dedmasteriptv/ATV-Cinema/refs/heads/main/ATVCinema.m3u8
+http://s2.00x00.es/11937/index.m3u8?token=4913C457E8DE
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qHQSpxW.png", Sirius
 #EXTGRP:🇦🇿 Azərbaycan 🇦🇿
 https://raw.githubusercontent.com/Elvin4K/restream/refs/heads/pro4k/1siriustv.m3u8
@@ -155,10 +155,6 @@ https://amg00627-amg00627c40-rakuten-uk-5725.playouts.now.amagi.tv/playlist/amg0
 https://canliyayin.cine1.com.tr/memfs/cbaef080-a742-4644-9e9e-2b9f6a5103c3_output_0.m3u8
 #EXTINF:0 tvg-logo="https://i.postimg.cc/L8ZDCPhF/In-Shot-20250405-171957432.png" group-title="🇦🇿 Azərbaycan 🇦🇿",TİVİ6 
 https://live.artidijitalmedya.com/artidijital_tivi6/tivi6/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/59Cd5mGN/viasat-epic-drama.png" group-title="🇦🇿 Azərbaycan 🇦🇿",VİASAT EPİC DRAMA
-http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:C0:8F:65&stream=1471701&extension=ts&play_token=POSWGUQYoB
-#EXTINF:-1 tvg-logo="https://r.resimlink.com/VP-NLRX.png" group-title="🇦🇿 Azərbaycan 🇦🇿",RESURRECTİON CHANNEL
-https://raw.githubusercontent.com/ibrahim9071/kick/refs/heads/main/streams/resurrection-channel-tv.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/NjHpHfvc/TRT-logo-(2018-)-svg.webp" group-title="🇦🇿 Azərbaycan 🇦🇿",TRT NOSTALJİ
 https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/dizi-tv/playlist/0.m3u8
 #EXTINF:0 tvg-id="3"tvg-logo="https://i.postimg.cc/5NqDy2Z1/In-Shot-20260901-195625661.png"group-title="🇦🇿 Azərbaycan 🇦🇿",DIZI TV 
@@ -169,46 +165,7 @@ https://demiroren.daioncdn.net/wdaa1icvrx6m7uadvqs0dw/zalim_istanbul_dizi/playli
 https://demiroren.daioncdn.net/wdaa1icvrx6m7uadvqs0dw/tatli_intikam_dizi/playlist.m3u8?app=kanald_web&ce=3?=.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/5NqDy2Z1/In-Shot-20260901-195625661.png" group-title="🇦🇿 Azərbaycan 🇦🇿", DIZI 3
 https://demiroren.daioncdn.net/wdaa1icvrx6m7uadvqs0dw/Siyah_beyaz_ask_dizi/playlist.m3u8?app=kanald_web&ce=3?=.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/QMMFHtqd/39399820-ico.png" group-title="🇦🇿 Azərbaycan 🇦🇿",TELE YEŞİLÇAM
-http://162.212.179.32/akamaissh101/ssh101/0212tv/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/HTWLwcJB/n-Shot-20261003-233516627.png" group-title="🇦🇿 Azərbaycan 🇦🇿",TELEZEN
-https://telezen-stream.wisp.uno/telezen.m3u8
-#EXTINF:-1 tvg-logo="https://r.resimlink.com/FNzM91rxK.png" group-title="🇦🇿 Azərbaycan 🇦🇿",ZEM TV
-http://45.158.14.16/ZemTv/live/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/rmazzvnz.png" group-title="🇦🇿 Azərbaycan 🇦🇿",ZEM SİNEMA TV
-http://104.238.23.210/hls/stream.m3u8
-#EXTINF:-1 tvg-logo="https://resmim.net/cdn/2026/10/24/HXt62b.png" group-title="🇦🇿 Azərbaycan 🇦🇿",DİGİMAX
-http://162.212.179.32/akamaissh101/ssh101/seriesone@/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://resmim.net/cdn/2026/10/24/HXPSKL.png" group-title="🇦🇿 Azərbaycan 🇦🇿",DİGİMAX PLUS
-http://maxmedya.duckdns.org/akamaissh101/ssh101/digimax2/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://ia601404.us.archive.org/9/items/t.star_10_21_2026/MEGA_ON.png" group-title="🇦🇿 Azərbaycan 🇦🇿",MEGA ON
-http://162.212.179.32/akamaissh101/ssh101/mega_on/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/1nyeqpar.png" group-title="🇦🇿 Azərbaycan 🇦🇿",TÜRK 6
-http://162.212.179.32/akamaissh101/ssh101/turk6/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/on1bgkjg.png" group-title="🇦🇿 Azərbaycan 🇦🇿",ZİRVE SA
-http://maxmedya.duckdns.org/akamaissh101/ssh101/zirvesa/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/nfphas7u.png" group-title="🇦🇿 Azərbaycan 🇦🇿",ZİRVE SA SİNEMA
-http://maxmedya.duckdns.org/akamaissh101/ssh101/zirvesinema/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/u6wrmv9y.png" group-title="🇦🇿 Azərbaycan 🇦🇿",İZLE GO
-http://maxmedya.duckdns.org/akamaissh101/ssh101/izlego/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://ia601404.us.archive.org/9/items/t.star_10_21_2026/Turkmax.png" group-title="🇦🇿 Azərbaycan 🇦🇿",TÜRKMAX
-http://162.212.179.32/akamaissh101/ssh101/turk_max/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://r.resimlink.com/N2zd14iDu.png" group-title="🇦🇿 Azərbaycan 🇦🇿",TV7
-http://162.212.179.32/akamaissh101/ssh101/tv7tv/chunks.m3u8
-#EXTINF:0 tvg-logo="https://i.postimg.cc/c6qm6NVS/In-Shot-20260818-182657138.png" group-title="🇦🇿 Azərbaycan 🇦🇿",KANAL F 
-https://boztv.smartiptvworld.workers.dev/kanalfmedya.m3u8
-#EXTINF:0 tvg-logo="https://i.postimg.cc/BQpNLCbH/In-Shot-20261012-170044672.png" group-title="🇦🇿 Azərbaycan 🇦🇿",DENGE MOVIE TV 
-https://boztv.smartiptvworld.workers.dev/dengemovie.m3u8
-#EXTINF:0 tvg-logo="https://i.postimg.cc/BQpNLCbH/In-Shot-20261012-170044672.png" group-title="🇦🇿 Azərbaycan 🇦🇿",DENGE YESILCAM TV 
-https://boztv.smartiptvworld.workers.dev/denge1.m3u8
-#EXTINF:0 tvg-logo="https://ia600105.us.archive.org/14/items/teber-star/STAR1.png" group-title="🇦🇿 Azərbaycan 🇦🇿",STAR 1
-http://162.212.179.32:80/akamaissh101/ssh101/tilaf_tv/chunks.m3u8
-#EXTINF:0 tvg-logo="https://ia600105.us.archive.org/14/items/teber-star/STAR2.png" group-title="🇦🇿 Azərbaycan 🇦🇿",STAR 2 
-http://162.212.179.32:80/akamaissh101/ssh101/tilaf_tv2/chunks.m3u8
-#EXTINF:0 tvg-logo="https://ia600105.us.archive.org/14/items/teber-star/STAR2.png" group-title="🇦🇿 Azərbaycan 🇦🇿",STAR 3 
-http://162.212.179.32:80/akamaissh101/ssh101/tilaf_tv3/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://ia601404.us.archive.org/9/items/t.star_10_21_2026/HBB_TV.gif" group-title="🇦🇿 Azərbaycan 🇦🇿",HBB
-http://162.212.179.32/akamaissh101/ssh101/hbb_tv/chunks.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/KYtcqRKT/37576965-ico.png" group-title="🇦🇿 Azərbaycan 🇦🇿",TVB
 https://ip44.radyotelekomtv.com:3958/stream/play.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/wT6V9GD3/37586347-ico.png" group-title="🇦🇿 Azərbaycan 🇦🇿",FİLMSCREEN İNTERNATİONAL
@@ -220,33 +177,15 @@ https://canli.gopsentv.com:3604/stream/play.m3u8
 http://cineplus-yesilcam.supersatadmin.workers.dev/cineplusyesilcam.m3u8
 #EXTINF:0 tvg-id="3"tvg-logo="https://i.postimg.cc/d3pKrTr2/In-Shot-20260517-111931520.png" group-title="🇦🇿 Azərbaycan 🇦🇿",CİNE5 
 https://host.onlineradyotv.net:8081/cine5tv/tracks-v1a1/mono.m3u8
-#EXTINF:0 tvg-logo="https://i.postimg.cc/0jy0fHyz/In-Shot-20260817-082059850.png" group-title="🇦🇿 Azərbaycan 🇦🇿",FUSİON 
-http://162.212.179.32/akamaissh101/ssh101/084952510aa/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/5jd1nmms/38876648-ico.png",TELEON
 #EXTGRP:🇦🇿 Azərbaycan 🇦🇿
 https://cdn-teleonchannels.yayin.com.tr/teleonchannels/teleonchannels/chunklist_w2028408927.m3u8
 #EXTINF:-1 tvg-logo="https://www.bikanal.com/frontend/img/logo.webp",Bİ KANAL
 #EXTGRP:🇦🇿 Azərbaycan 🇦🇿
 https://bikanal-live.ercdn.net/bikanal/bikanal.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/dV3mvSwf/38332657-ico.png",YANSIMA SİNEMA TV
-#EXTGRP:🇦🇿 Azərbaycan 🇦🇿
-http://162.212.179.32/akamaissh101/ssh101/ysmtvmedya/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/ZnfBM4Bb/38842185-ico.png",YANSIMA NOSTALJİ TV
-#EXTGRP:🇦🇿 Azərbaycan 🇦🇿
-http://162.212.179.32/akamaissh101/ssh101/ymdanstv/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d0Nj381Z/37587142-ico.png",RİZE TÜRK
 #EXTGRP:🇦🇿 Azərbaycan 🇦🇿
 https://yayin.rizeturk.com:3777/hybrid/play.m3u8
-#EXTINF:-1 tvg-logo="https://r.resimlink.com/ui9jCyKLJbY.png" group-title="🇦🇿 Azərbaycan 🇦🇿",MAX TV
-http://maxmedya.duckdns.org/akamaissh101/ssh101/maxtv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/q7zJ3PBF/22382-removebg-preview.png" group-title="🇦🇿 Azərbaycan 🇦🇿",MAX DİZİ
-http://162.212.179.32/akamaissh101/ssh101/maxdizi/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/7PFn2g5q/38943114-ico.png",MAX YERLİ
-#EXTGRP:🇦🇿 Azərbaycan 🇦🇿
-http://162.212.179.32/akamaissh101/ssh101/maxyerli/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/pLZf44qp/39030030-ico.png",MAX PREMİUM
-#EXTGRP:🇦🇿 Azərbaycan 🇦🇿
-http://162.212.179.32/akamaissh101/ssh101/maxpremier/playlist.m3u8
 #EXTINF:0 tvg-id="3"tvg-logo="https://i.postimg.cc/tR5kJjpx/In-Shot-20260517-113022210.png" group-title="🇦🇿 Azərbaycan 🇦🇿",TE TV 
 https://host.onlineradyotv.net:8081/tetv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/jS1HX7WF/37615020-ico.png" group-title="🇦🇿 Azərbaycan 🇦🇿",PATİ TV
@@ -302,16 +241,10 @@ https://catcast.ismailturret.workers.dev/mrbean.m3u8
 #EXTINF:-1 tvg-name="MEGA Saban"tvg-logo="https://img.catcast.tv/uploads/04062025/banners/48695-683f783bd2ce8.png",MEGA Saban
 #EXTGRP:🇦🇿 Azərbaycan 🇦🇿
 https://catcast.ismailturret.workers.dev/ksunal.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/M4bnpjW.jpeg",Şaban tv
-#EXTGRP:🇦🇿 Azərbaycan 🇦🇿
-https://pastebin.com/raw/8PzddLb1
 #EXTINF:-1 tvg-logo="https://img.catcast.tv/uploads/10042025/logos/14862-67f7da5a4db6c.png",Komedi Turk
 #EXTGRP:🇦🇿 Azərbaycan 🇦🇿
 https://catcast.ismailturret.workers.dev/turkuzplay1.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/VkdXZ2VX/In-Shot-20260216-091910542.png",Az Film
-#EXTGRP:🇦🇿 Azərbaycan 🇦🇿
-https://pastebin.com/raw/jrBhv7V7
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tCz7czL.png",indistan-filimleri-az
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tCz7czL.png",Hindistan-filimleri-az
 #EXTGRP:🇦🇿 Azərbaycan 🇦🇿
 https://catcast.ismailturret.workers.dev/hindistan-filimleri-az.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tCz7czL.png",hindistan-filimleri-az-2
@@ -332,9 +265,6 @@ https://raw.githubusercontent.com/BY-KERIMOFF/by-kerimoff-stream/refs/heads/main
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tCz7czL.png",Hababam tv
 #EXTGRP:🇦🇿 Azərbaycan 🇦🇿
 https://catcast.ismailturret.workers.dev/hababam.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tCz7czL.png",-bu seherde
-#EXTGRP:🇦🇿 Azərbaycan 🇦🇿
-https://raw.githubusercontent.com/BY-KERIMOFF/by-kerimoff-stream/refs/heads/main/catcast/by-kerimoff-bu-seherde.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tCz7czL.png",Vetendash_A az
 #EXTGRP:🇦🇿 Azərbaycan 🇦🇿
 https://raw.githubusercontent.com/BY-KERIMOFF/by-kerimoff-stream/refs/heads/main/catcast/vetendasa.m3u8
@@ -351,9 +281,6 @@ https://catcast-bana-sor.biz-az.workers.dev/index.m3u8?id=yansma-nostaljitv
 #EXTINF:-1 tvg-id="50751" tvg-name="underworld" tvg-logo="https://catcast.tv/assets/no-logo.svg",Underworld
 #EXTGRP:🇦🇿 Azərbaycan 🇦🇿
 https://catcast-bana-sor.biz-az.workers.dev/index.m3u8/?id=underworld.m3u8
-#EXTINF:-1 tvg-id="50694" tvg-name="bladebox" tvg-logo="https://catcast.tv/assets/no-logo.svg",Bladebox
-#EXTGRP:🇦🇿 Azərbaycan 🇦🇿
-https://pastebin.com/raw/1sspZXqS
 
 #EXTINF:-1 tvg-logo="https://img.catcast.tv/uploads/01042026/banners/50938-69cd8303c4840.png",Fanatik Max Dag
 #EXTGRP:🇦🇿 Azərbaycan 🇦🇿
@@ -393,8 +320,6 @@ https://catcast-bana-sor.biz-az.workers.dev/index.m3u8/?id=fanatikmusicrojda.m3u
 https://catcast-bana-sor.biz-az.workers.dev/index.m3u8/?id=fanatikmusicnostalji.m3u8
 #EXTINF:0 tvg-logo="https://i.postimg.cc/pTnz3Yj6/In-Shot-20251124-163426357.png" group-title="🇦🇿 Azərbaycan 🇦🇿",KRALPOP
 http://dygvideo.dygdigital.com/live/hls/kralpop
-#EXTINF:0 tvg-logo="https://i.postimg.cc/NGSjNPby/In-Shot-20260317-133517335.png"group-title="🇦🇿 Azərbaycan 🇦🇿",PLAYBOX MÜZİK tr
-https://catcast.biz-az.workers.dev/index.m3u8/?id=playbox-mzk.m3u8
 #EXTINF:-1,Yansimaslowsarkilar
 #EXTGRP:🇦🇿 Azərbaycan 🇦🇿
 https://catcast-bana-sor.biz-az.workers.dev/index.m3u8/?id=yansimaslowsarkilar.m3u8
@@ -404,8 +329,6 @@ https://catcast-bana-sor.biz-az.workers.dev/index.m3u8?id=yansma-muzik-tv-slow
 #EXTINF:-1,Yansima-Rap music
 #EXTGRP:🇦🇿 Azərbaycan 🇦🇿
 https://catcast-bana-sor.biz-az.workers.dev/index.m3u8?id=yansma-rap-muzik-tv
-#EXTINF:0 tvg-logo="https://i.postimg.cc/nMbhTjkB/In-Shot-20260526-222014638.png" group-title="🇦🇿 Azərbaycan 🇦🇿",BEST Hits
-https://catcast.ismailturret.workers.dev/best-hits.m3u8
 #EXTINF:0 tvg-logo="https://i.postimg.cc/pTdFP4n1/In-Shot-20260209-102448898.png" group-title="🇦🇿 Azərbaycan 🇦🇿",MANIFEST MUSIC
 https://catcast.ismailturret.workers.dev/m-724.m3u8
 #EXTINF:0 tvg-logo="https://i.postimg.cc/gkykB4xc/In-Shot-20260209-101752277.png" group-title="🇦🇿 Azərbaycan 🇦🇿",MİX MUSİC
@@ -416,9 +339,6 @@ http://catcast.ismailturret.workers.dev/concept-music.m3u8
 #EXTINF:0 tvg-logo="https://img.catcast.tv/uploads/15082023/logos/21748-64db7e97da72c.png",SONG TV
 #EXTGRP:🇦🇿 Azərbaycan 🇦🇿
 http://catcast.ismailturret.workers.dev/song.m3u8
-#EXTINF:0,tv-stas
-#EXTGRP:🇦🇿 Azərbaycan 🇦🇿
-http://catcast.ismailturret.workers.dev/tv-stas.m3u8
 #EXTINF:0,М1
 #EXTGRP:🇦🇿 Azərbaycan 🇦🇿
 http://catcast.ismailturret.workers.dev/м1-2011.m3u8
@@ -428,18 +348,12 @@ http://catcast.ismailturret.workers.dev/viva-tv90.m3u8
 #EXTINF:0,CLUB
 #EXTGRP:🇦🇿 Azərbaycan 🇦🇿
 http://catcast.ismailturret.workers.dev/club.m3u8
-#EXTINF:0,viva tv
-#EXTGRP:🇦🇿 Azərbaycan 🇦🇿
-http://catcast.ismailturret.workers.dev/vivatv.m3u8
 #EXTINF:0 tvg-logo="https://img.catcast.tv/uploads/07092025/banners/45441-68bd18b8dd828.jpg",Musicmax
 #EXTGRP:🇦🇿 Azərbaycan 🇦🇿
 http://catcast.ismailturret.workers.dev/musicmax.m3u8
 #EXTINF:0,dans tv
 #EXTGRP:🇦🇿 Azərbaycan 🇦🇿
 http://catcast.ismailturret.workers.dev/m-724.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/8IdzWtT.png", Rihat TV music
-#EXTGRP:🇦🇿 Azərbaycan 🇦🇿
-https://pastebin.com/raw/xcEgRVmj
 #EXTINF:-1 tvg-logo="https://img.catcast.tv/uploads/10092025/banners/48076-68c1c541356ea.png",EKRAN85
 #EXTGRP:🇦🇿 Azərbaycan 🇦🇿
 https://catcast.ismailturret.workers.dev/rihattv.m3u8
@@ -452,27 +366,12 @@ https://catcast.ismailturret.workers.dev/stvaz.m3u8
 #EXTINF:-1 tvg-logo="https://img.catcast.tv/uploads/12072024/banners/47437-669061dfa8088.png",KANAL 65 Music original
 #EXTGRP:🇦🇿 Azərbaycan 🇦🇿
 http://catcast.ismailturret.workers.dev/kanal65.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tCz7czL.png",-Meyxana-tv
-#EXTGRP:🇦🇿 Azərbaycan 🇦🇿
-https://raw.githubusercontent.com/BY-KERIMOFF/by-kerimoff-stream/refs/heads/main/catcast/by-kerimoff-meyxana-tv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tCz7czL.png",-Slow Musiqiler
 #EXTGRP:🇦🇿 Azərbaycan 🇦🇿
 https://raw.githubusercontent.com/BY-KERIMOFF/by-kerimoff-stream/refs/heads/main/catcast/by-kerimoff-slow-musiqiler.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tCz7czL.png",Mugam dunyamiz
-#EXTGRP:🇦🇿 Azərbaycan 🇦🇿
-https://raw.githubusercontent.com/BY-KERIMOFF/by-kerimoff-stream/refs/heads/main/catcast/b-kerimoff-Mugam-dunyamiz.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tCz7czL.png",Solo Konsert
-#EXTGRP:🇦🇿 Azərbaycan 🇦🇿
-https://raw.githubusercontent.com/BY-KERIMOFF/by-kerimoff-stream/refs/heads/main/catcast/by_kerimoff_solo_konsert.m3u8
-#EXTINF:-1tvg-logo="https://i.postimg.cc/nrKjK27R/In-Shot-20250214-113847550.png" ,NOW Music tv az-1
-#EXTGRP:🇦🇿 Azərbaycan 🇦🇿
-https://catcast.ismailturret.workers.dev/megatvaz.m3u8
-#EXTINF:-1 tvg-logo="https://img.catcast.tv/uploads/16052025/banners/48694-68267c083c337.png",NOW Music az-2
+#EXTINF:-1 tvg-logo="https://img.catcast.tv/uploads/16052025/banners/48694-68267c083c337.png",NOW Music az
 #EXTGRP:🇦🇿 Azərbaycan 🇦🇿
 https://catcast.ismailturret.workers.dev/now-music.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://img.catcast.tv/uploads/16052025/banners/48694-68267c083c337.png",Now Music AZ-3 yeni
-#EXTGRP:🇦🇿 Azərbaycan 🇦🇿
-https://premiumiptv.bykerimoff.workers.dev/stream/nowmusic.m3u8
 #EXTINF:-1 tvg-logo="https://img.catcast.tv/uploads/09072023/banners/43591-64aa73a719166.png",DREAMSTAR MUZİK az
 #EXTGRP:🇦🇿 Azərbaycan 🇦🇿
 https://pastebin.com/raw/EhSk9Ydm
@@ -494,9 +393,6 @@ http://catcast.ismailturret.workers.dev/showtvaz.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/9MWGr1rn/In-Shot-20260209-105343609.png",Ulduz Music az
 #EXTGRP:🇦🇿 Azərbaycan 🇦🇿
 https://catcast.ismailturret.workers.dev/ulduz-tv.m3u8
-#EXTINF:-1 tvg-logo="https://img.freeflagicons.com/thumb/music_icon/azerbaijan/azerbaijan_640.png",Music Tv Az
-#EXTGRP:🇦🇿 Azərbaycan 🇦🇿
-https://pastebin.com/raw/vk5b4nn0
 #EXTINF:-1 tvg-logo="https://img.catcast.tv/uploads/21012026/banners/50312-697110c9cedd5.png",ELA MUSIC turk
 #EXTGRP:🇦🇿 Azərbaycan 🇦🇿
 https://catcast.ismailturret.workers.dev/elamusic.m3u8
@@ -521,15 +417,12 @@ https://catcast.ismailturret.workers.dev/alvinmusic.m3u8
 #EXTGRP:🇦🇿 Azərbaycan 🇦🇿
 https://catcast.ismailturret.workers.dev/viva-tvrussia.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/m1CQBN5.png", GemAZ HD
-#EXTGRP:🇦🇿 Azərbaycan 🇦🇿
-http://80.225.233.237/GLPersian.php?ID=GemAZ_HD
 #EXTINF:-1 tvg-logo="https://knmusictv.com/wp-content/themes/tmbtvaz/img/tmbtv.png"  group-title="🇦🇿 Azərbaycan 🇦🇿", KN music box
 https://cdn4.yayin.com.tr/kntv/video.m3u8
 #EXTINF:-1 tvg-logo="http://team.ga/images/chIcons/2957.png"  group-title="🇦🇿 Azərbaycan 🇦🇿", Könül music
 https://cdn4.yayin.com.tr/bakixebertv/video.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/pXQ8b7b4/icon.png"  group-title="🇦🇿 Azərbaycan 🇦🇿", Ayaz TV
-https://janya-ayaztv.vgcdn.net/ptnr-Vipo%20TV/title-Ayaz_TV/v1/vglive-sk-934820/AyazTV_1500k.m3u8
+http://s2.00x00.es/20913/index.m3u8?token=4913C457E8DE
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/pTRPMbdh/In-Shot-20250303-143546125.png",MAHNI TV
 #EXTGRP:🇦🇿 Azərbaycan 🇦🇿
 https://mahnitvonline.xyz/mahnitv/index.m3u8
@@ -547,42 +440,31 @@ https://cdn4.yayin.com.tr/musicplus/video.m3u8
 #EXTINF:-1 tvg-logo="http://team.ga/images/chIcons/2556.png"  group-title="🇦🇿 Azərbaycan 🇦🇿", Music AZ HIT
 https://cdn4.yayin.com.tr/musicazhit/video.m3u8
 #EXTINF:-1 tvg-logo="https://static.tildacdn.com/tild6532-3636-4163-a164-353430643662/RMP_LOGO_BLACK.png",Russian Music
-#EXTGRP:🇦🇿 Azərbaycan 🇦🇿
 
-#EXTINF:0 tvg-logo="https://i.postimg.cc/SNBTYBtT/In-Shot-20260619-201408888.png" group-title="🇦🇿 Azərbaycan 🇦🇿",Retrox music 
-http://boztv.smartiptvworld.workers.dev/retroxmusictv.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/6prVYgqM/tmbtaz-png.png"  group-title="🇦🇿 Azərbaycan 🇦🇿", TMB TV
-https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-az/tmb-azerbaycan.m3u8
+
 #EXTINF:-1 tvg-logo="https://yoda.az/logos/tmb.png",TMB tr
 #EXTGRP:🇦🇿 Azərbaycan 🇦🇿
-https://str.yodacdn.net/tmbtr/tracks-v1a1/mono.m3u8
+http://erlyvideo.izone.az:80/tmb/mono.m3u8
 #EXTINF:-1 tvg-id="VostokTV.ru" tvg-logo="https://i.imgur.com/X1RysL8.png" tvg-name="Восток ТВ" group-title="🇦🇿 Azərbaycan 🇦🇿",Vostok TV [720x576]
 #EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
 http://911play.ru:3456/live/VostokSite/cdnVostaoc911tv123456/489.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/DySv6ZKX/In-Shot-20251019-100938269.png",Mega TV Music
-#EXTGRP:🇦🇿 Azərbaycan 🇦🇿
-http://145.239.37.125:20458/megatv/megatv/playlist.m3u8
+
 #EXTINF:-1 tvg-id="AzStarTV.ca@SD" tvg-logo="https://i.imgur.com/di3XX5L.png" , AzStar
 #EXTGRP:🇦🇿 Azərbaycan 🇦🇿
 http://live.azstartv.com/azstar/azstar_720p/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/8cBDyLJJ/In-Shot-20250209-204416916.png", MTV Azerbaycan
 #EXTGRP:🇦🇿 Azərbaycan 🇦🇿
-http://str.yodacdn.net/mtvaz/index.m3u8
+http://s2.00x00.es/11451/index.m3u8?token=4913C457E8DE
 #EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/416/406/png-transparent-remix-music-disc-jockey-song-typo-miscellaneous-music-video-flower-thumbnail.png",Hind 7X Music
 #EXTGRP:🇦🇿 Azərbaycan 🇦🇿
 https://stream.e2is.in/hls/7xMusic.m3u8
-#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/416/406/png-transparent-remix-music-disc-jockey-song-typo-miscellaneous-music-video-flower-thumbnail.png",Hind Music
-#EXTGRP:🇦🇿 Azərbaycan 🇦🇿
-https://fl1003.bozztv.com/ushba-t4/tracks-v1a1/mono.m3u8
 https://live20.bozztv.com/giatvplayout7/ushba-t4/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="🇦🇿 Azərbaycan 🇦🇿" tvg-logo="https://i.ibb.co/THRsQ6M/resize-13.png",Balle Balle hind music
 https://mcncdndigital.com/balleballetv/index.m3u8
 #EXTINF:-1 group-title="🇦🇿 Azərbaycan 🇦🇿" tvg-logo="https://i.postimg.cc/dQGjf1Sp/image-2025-09-08-T101022-455.png",PTC Music
 https://d2lk5u59tns74c.cloudfront.net/out/v1/f913cf893c594f73b114216e74a2efbc/index.m3u8
-#EXTINF:-1 group-title="🇦🇿 Azərbaycan 🇦🇿" tvg-logo="https://i.postimg.cc/dQGjf1Sp/image-2025-09-08-T101022-455.png",Punjabi Hits
-https://legitpro.co.in/punjabihits/punjabihits/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="🇦🇿 Azərbaycan 🇦🇿",AFN Music
-https://bozztv.com/1gbw5/tintv2/tintv2/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.postimg.cc/9F9xVg1n/In-Shot-20251028-200620068.png" group-title="🇦🇿 Azərbaycan 🇦🇿",HİNDİ HİTS 
 http://146.59.253.52:8080/hindihitshd/index.m3u8
 #EXTINF:0 tvg-logo="https://i.postimg.cc/6p8CwfCr/In-Shot-20260508-182945298.png" group-title="🇦🇿 Azərbaycan 🇦🇿",ENERJY TV music 
@@ -602,14 +484,16 @@ https://cdn.streamlane.tv/hls/aghanitv/index.m3u8
 #EXTINF:0 tvg-logo="https://i.postimg.cc/rwz7Tp6r/In-Shot-20251028-200054270.png" group-title="🇦🇿 Azərbaycan 🇦🇿",ARABİCA 
 http://istream.binarywaves.com:8081/hls/arabica/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/C5Cr0Zxt/Kanal-35-loqo.png", Kanal 35
+
+#EXTINF:-1 tvg-name="ATV VIVACE",ATV VIVACE
 #EXTGRP:🇦🇿 Azərbaycan 🇦🇿
-https://str2.yodacdn.net/kanal35/tracks-v1a1/mono.m3u8
+http://s2.00x00.es/11938/index.m3u8?token=4913C457E8DE
 #EXTINF:-1 tvg-logo="http://epg.one/img2/9136.png", KATV1 AZ
 #EXTGRP:🇦🇿 Azərbaycan 🇦🇿
-http://30f247f9.edmonst.net/iptv/VZL5TK4EKTYM2DYT7B8V5PXT/16042/index.m3u8
+http://s2.00x00.es/11941/index.m3u8?token=4913C457E8DE
 #EXTINF:-1 tvg-logo="http://epg.one/img2/2552.png", ARB Güneş
 #EXTGRP:🇦🇿 Azərbaycan 🇦🇿
-https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/arb-gunes.m3u8
+http://erlyvideo.izone.az:80/arbgunesh/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7wMWI2w.png",Fanatik Kids Pepee
 #EXTGRP:🇦🇿 Azərbaycan 🇦🇿
@@ -633,31 +517,12 @@ https://catcast.ismailturret.workers.dev/ben10.m3u8
 #EXTINF:-1 tvg-logo="https://img.catcast.tv/uploads/26022026/logos/27146-69a07881100d5.png",BalacanTV
 #EXTGRP:🇦🇿 Azərbaycan 🇦🇿
 https://catcast.ismailturret.workers.dev/balacan-tv-diginet.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tCz7czL.png",Masa ve Ayi
-#EXTGRP:🇦🇿 Azərbaycan 🇦🇿
-https://raw.githubusercontent.com/BY-KERIMOFF/by-kerimoff-stream/refs/heads/main/catcast/b-kerimoff-masa-veayi.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tCz7czL.png",-animasyon
-#EXTGRP:🇦🇿 Azərbaycan 🇦🇿
-https://raw.githubusercontent.com/BY-KERIMOFF/by-kerimoff-stream/refs/heads/main/catcast/by-kerimoff-animasyon.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tCz7czL.png",-Keloglan
-#EXTGRP:🇦🇿 Azərbaycan 🇦🇿
-https://raw.githubusercontent.com/BY-KERIMOFF/by-kerimoff-stream/refs/heads/main/catcast/by-kerimoff-keloglan.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tCz7czL.png",Az mult
-#EXTGRP:🇦🇿 Azərbaycan 🇦🇿
-https://pastebin.com/raw/60xEChv6
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tCz7czL.png",MR.BEAN mult
-#EXTGRP:🇦🇿 Azərbaycan 🇦🇿
-https://pastebin.com/raw/ZyFm7xDR
 #EXTINF:0 tvg-logo="https://img.catcast.tv/uploads/27042024/banners/46757-662d07c589149.png",Шоу Тома и Джерри
 #EXTGRP:🇦🇿 Azərbaycan 🇦🇿
 http://catcast.ismailturret.workers.dev/мультфильмшоу-томаиджерри.m3u8
 #EXTINF:0 tvg-logo="https://img.catcast.tv/uploads/28042024/banners/46775-662e075cc6109.png",Том и Джерри
 #EXTGRP:🇦🇿 Azərbaycan 🇦🇿
 http://catcast.ismailturret.workers.dev/том-иджерри.m3u8
-#EXTINF:0 tvg-logo="https://i.postimg.cc/zGBXDWXg/In-Shot-20260529-144002865.png" group-title="🇦🇿 Azərbaycan 🇦🇿",Maşa və Ayı
-https://catcast.ismailturret.workers.dev/ktv__
-#EXTINF:0 tvg-logo="https://i.postimg.cc/66VG0jS0/In-Shot-20251013-202038830.png" group-title="🇦🇿 Azərbaycan 🇦🇿",Çizgi Filmi
-https://streams.uzunmuhalefet.com/stream/f18c5afc-97bb-4790-b124-dd17c70b6217.m3u8
 #EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/843/693/png-transparent-masha-and-the-bear-illustration-masha-and-the-bear-stuffed-animals-cuddly-toys-animation-television-show-masha-and-the-bear-television-child-animals-thumbnail.png",Sinema Masha i medved
 #EXTGRP:🇦🇿 Azərbaycan 🇦🇿
 https://pastebin.com/raw/ydXMtMSL
@@ -665,12 +530,6 @@ https://pastebin.com/raw/ydXMtMSL
 #EXTGRP:🇦🇿 Azərbaycan 🇦🇿
 https://pastebin.com/raw/qBGuwUeg
 
-#EXTINF:0 tvg-id="babytv" tvg-name="Baby TV" tvg-logo="https://img.dsmartgo.com.tr/content/V/vi/11890/Thumbnail.png" group-title="🇦🇿 Azərbaycan 🇦🇿",Baby TV 
-http://umperisn.mywire.org/index.php?id=481409&token=DeaTHLesS
-#EXTINF:0 tvg-id="disneyjunior" tvg-name="Disney Junior" tvg-logo="https://img.dsmartgo.com.tr/content/n/ct/22903/Thumbnail.png" group-title="🇦🇿 Azərbaycan 🇦🇿",Disney Junior 
-http://umperisn.mywire.org/index.php?id=481408&token=DeaTHLesS
-#EXTINF:0 tvg-id="disneyjunior" tvg-name="Disney Junior" tvg-logo="https://i.postimg.cc/t4SJvgcc/In-Shot-20260511-103349123.png" group-title="🇦🇿 Azərbaycan 🇦🇿",CARTOONITO 
-http://umperisn.mywire.org/index.php?id=593150&token=DeaTHLesS
 #EXTINF:0 tvg-logo="https://i.postimg.cc/qBNd5CY7/In-Shot-20260807-115055814.png" group-title="🇦🇿 Azərbaycan 🇦🇿",AQLVOY 
 https://stream8.cinerama.uz/1205/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-logo="https://i.postimg.cc/T2Stvqb2/In-Shot-20260301-114437616.png" group-title="🇦🇿 Azərbaycan 🇦🇿",FİDAN(uşaq)
@@ -695,22 +554,15 @@ https://glb.bozztv.com/glb/ushba78/index.m3u8
 https://bl.rutube.ru/livestream/ed497bdb28846536f3928849f8f7e469/index.m3u8?s=8hKIWF5Ng40B0-kW7qvWBA&e=2070122249&scheme=https
 #EXTINF:-1  group-title="🇦🇿 Azərbaycan 🇦🇿"  tvg-id="no_epg_mult"  tvg-logo="https://i.postimg.cc/RCgvJhdQ/image.png" ,CHD TVᴴᴰ
 http://194.26.229.213/souzmultfilm/index.m3u8
-#EXTINF:-1  group-title="🇦🇿 Azərbaycan 🇦🇿"  tvg-id="no_epg_mult"  tvg-logo="https://veranzo.ru/other/icons/Детское Кино.png" ,СССР МУЛЬТЫ
-https://live20.bozztv.com/giatvplayout7/ushba80/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1  group-title="🇦🇿 Azərbaycan 🇦🇿"  tvg-id="no_epg_mult"  tvg-logo="https://pic.rtbcdn.ru/video/2024-12-17/a0/43/a043f227f5730b843bc9bb827bce8bde.jpg?width=500" ,Mr.Bean Cartoonᴴᴰ
 https://bl.rutube.ru/livestream/0e9e44725d5d5ab7ee92c10b40215419/index.m3u8?s=Mc7fgOzI6ZPVFjFNmO4mtw&e=2065265033&scheme=https
-#EXTINF:-1  group-title="🇦🇿 Azərbaycan 🇦🇿"  tvg-id="zal-11-tricolor" ,Смешарики
-https://tinyurl.com/aleks-u-romki-47/18136/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/g0NBNhsH/In-Shot-20250929-203142405.png",TOM and JERRY
-#EXTGRP:🇦🇿 Azərbaycan 🇦🇿
-https://live20.bozztv.com/giatvplayout7/giatv-208314/playlist.m3u8
+
 
 #EXTINF:-1 tvg-logo="http://epg.one/img2/9130.png", ATV Vivace AZ
 #EXTGRP:🇦🇿 Azərbaycan 🇦🇿
-http://69985ba4.rossteleccom.net/iptv/3MKGMVU86EYR56/16068/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/RCWDXCBG/VIP-TV-LOGO-FULL.png", VIP TV
-#EXTGRP:🇦🇿 Azərbaycan 🇦🇿
-http://str.yodacdn.net/vip/tracks-v1a1/mono.ts.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/WpQsbxbw/S-hiyy-TV.png", Səhiyyə Tv
 #EXTGRP:🇦🇿 Azərbaycan 🇦🇿
 http://185.32.44.154/sehiyye/index.m3u8
@@ -718,16 +570,19 @@ http://185.32.44.154/sehiyye/index.m3u8
 #EXTGRP:🇦🇿 Azərbaycan 🇦🇿
 http://flussonic.izone.az:80/cbcsporthd/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Zq8nBTCX/15235-removebg-preview.png" group-title="🇦🇿 Azərbaycan 🇦🇿",SPORT TV
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/ZEEDV4QP6HVZU3YXP49H3ECB/31926/index.m3u8
+http://s2.00x00.es/11944/index.m3u8?token=4913C457E8DE
+#EXTINF:-1 tvg-name="Sport TV 2 AZ" ,Sport TV 2 AZ
+#EXTGRP:🇦🇿 Azərbaycan 🇦🇿
+http://s2.00x00.es/11942/index.m3u8?token=4913C457E8DE
+#EXTINF:-1 tvg-name="TVNet Sport",TVNet Sport
+#EXTGRP:🇦🇿 Azərbaycan 🇦🇿
+http://s2.00x00.es/11943/index.m3u8?token=4913C457E8DE
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/01/%C4%B0dman_TV_logo.png",Idman tv(yoda.az)
 #EXTGRP:🇦🇿 Azərbaycan 🇦🇿
-http://str.yodacdn.net/idmantele/index.m3u8
-#EXTINF:0 tvg-logo="https://i.postimg.cc/509wxFt1/In-Shot-20260611-194938140.png" group-title="🇦🇿 Azərbaycan 🇦🇿",SƏHƏR TV 
-https://lb-cdn.sepehrtv.ir/securelive3/saharazarsd/576p.m3u8
+http://s2.00x00.es/11446/index.m3u8?token=4913C457E8DE
 #EXTINF:0 tvg-logo="https://i.postimg.cc/KYvDsfdB/logo.png" group-title="🇦🇿 Azərbaycan 🇦🇿",VİLAYƏT TV 
 https://nl.livekadeh.com/hls2/vilayet.m3u8
-#EXTINF:0 tvg-logo="https://i.postimg.cc/DZGJCby1/logo-hadi-tv.png" group-title="🇦🇿 Azərbaycan 🇦🇿",HADİ TV
-https://bucharest.zeuscdn724.com/lb0/H3/index.m3u8
+
 #EXTINF:0 tvg-logo="https://i.postimg.cc/fWBRS6dR/In-Shot-20260128-115309657.png" group-title="🇦🇿 Azərbaycan 🇦🇿",Qərbi Azərbaycan
 https://ncdn.telewebion.ir/azarbayjangharbi/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/KYd9RVqF/In-Shot-20250209-195931309.png",Son Umid TV
@@ -2198,208 +2053,6 @@ https://catcast.ismailturret.workers.dev/playerzevqmusic.m3u8
 https://catcast.ismailturret.workers.dev/playermusic.m3u8
 #EXTINF:0 tvg-id="50578" tvg-name="PlayerHind MUSIC" tvg-logo="https://img.catcast.tv/uploads/20022026/logos/50578-6998335b5d46d.png" group-title="⚡️PLAYER TV🇦🇿DedMasterIPTV🇦🇿",PlayerHind MUSIC
 https://catcast.ismailturret.workers.dev/playerhind-music.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/ncnKdCZf/In-Shot-20260516-212609623.png",PREMIUM IPTV
-#EXTGRP:🇦🇿 Kanal65[BY-Kerimoff]
-https://raw.githubusercontent.com/BY-KERIMOFF/by-kerimoff-stream/refs/heads/main/catcast/premium_tv.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/XYV2ysXs/In-Shot-20260516-212209897.png",KANAL 65 
-#EXTGRP:🇦🇿 Kanal65[BY-Kerimoff]
-https://a8.radyotelekom.com.tr:3349/hybrid/play.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/DZb5KDpp/In-Shot-20260516-212319022.png",KANAL 65 [comedy]
-#EXTGRP:🇦🇿 Kanal65[BY-Kerimoff]
-https://a8.radyotelekom.com.tr:3909/hybrid/play.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/ncnKdCZf/In-Shot-20260516-212609623.png",KANAL 65 [Meyxana tv]
-#EXTGRP:🇦🇿 Kanal65[BY-Kerimoff]
-https://raw.githubusercontent.com/BY-KERIMOFF/by-kerimoff-stream/refs/heads/main/catcast/by-kerimoff-meyxana-tv.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/ncnKdCZf/In-Shot-20260516-212609623.png",KANAL 65 [Horror]
-#EXTGRP:🇦🇿 Kanal65[BY-Kerimoff]
-https://raw.githubusercontent.com/BY-KERIMOFF/by-kerimoff-stream/refs/heads/main/catcast/by-kerimoff-horror.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/ncnKdCZf/In-Shot-20260516-212609623.png",KANAL 65 [Kənd həyatı]
-#EXTGRP:🇦🇿 Kanal65[BY-Kerimoff]
-https://raw.githubusercontent.com/BY-KERIMOFF/by-kerimoff-stream/refs/heads/main/catcast/by-kerimoff-kend-heyati.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/ncnKdCZf/In-Shot-20260516-212609623.png",KANAL 65 [Hit music]
-#EXTGRP:🇦🇿 Kanal65[BY-Kerimoff]
-https://raw.githubusercontent.com/BY-KERIMOFF/by-kerimoff-stream/refs/heads/main/catcast/kanal65-hits.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/ncnKdCZf/In-Shot-20260516-212609623.png",KANAL 65 [Mr Bean]
-#EXTGRP:🇦🇿 Kanal65[BY-Kerimoff]
-https://raw.githubusercontent.com/BY-KERIMOFF/by-kerimoff-stream/refs/heads/main/catcast/kanal65-mrbean.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/ncnKdCZf/In-Shot-20260516-212609623.png",KANAL 65 [Bu şəhərdə]
-#EXTGRP:🇦🇿 Kanal65[BY-Kerimoff]
-https://raw.githubusercontent.com/BY-KERIMOFF/by-kerimoff-stream/refs/heads/main/catcast/by-kerimoff-bu-seherde.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/ncnKdCZf/In-Shot-20260516-212609623.png",KANAL 65 [Bu şəhərdə 2]
-#EXTGRP:🇦🇿 Kanal65[BY-Kerimoff]
-https://raw.githubusercontent.com/BY-KERIMOFF/by-kerimoff-stream/refs/heads/main/catcast/by-kerimoff-bu-seherde2.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/ncnKdCZf/In-Shot-20260516-212609623.png",KANAL 65 [Belgesel]
-#EXTGRP:🇦🇿 Kanal65[BY-Kerimoff]
-https://raw.githubusercontent.com/BY-KERIMOFF/by-kerimoff-stream/refs/heads/main/catcast/by-kerimoff-belgesel.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/ncnKdCZf/In-Shot-20260516-212609623.png",KANAL 65 [Hind filmləri]
-#EXTGRP:🇦🇿 Kanal65[BY-Kerimoff]
-https://raw.githubusercontent.com/BY-KERIMOFF/by-kerimoff-stream/refs/heads/main/catcast/by-kerimof-hind-filmleri.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/ncnKdCZf/In-Shot-20260516-212609623.png",KANAL 65 [Comedyxana]
-#EXTGRP:🇦🇿 Kanal65[BY-Kerimoff]
-https://raw.githubusercontent.com/BY-KERIMOFF/by-kerimoff-stream/refs/heads/main/catcast/by-kerimoff-comedyxana.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/ncnKdCZf/In-Shot-20260516-212609623.png",KANAL 65 [AzKomedi]
-#EXTGRP:🇦🇿 Kanal65[BY-Kerimoff]
-https://raw.githubusercontent.com/BY-KERIMOFF/by-kerimoff-stream/refs/heads/main/catcast/by-kerimoff-azcomedy.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/ncnKdCZf/In-Shot-20260516-212609623.png",KANAL 65 [QAYDASIZ DOYUS]
-#EXTGRP:🇦🇿 Kanal65[BY-Kerimoff]
-https://raw.githubusercontent.com/BY-KERIMOFF/by-kerimoff-stream/refs/heads/main/catcast/by-kerimoff-gaydasiz-doyusler.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/ncnKdCZf/In-Shot-20260516-212609623.png",KANAL 65 [Retro Cinema AZ]
-#EXTGRP:🇦🇿 Kanal65[BY-Kerimoff]
-https://raw.githubusercontent.com/BY-KERIMOFF/by-kerimoff-stream/refs/heads/main/catcast/by-kerimoff-azeri-retro-filmle.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/ncnKdCZf/In-Shot-20260516-212609623.png",KANAL 65 [Retro Cinema AZ 2]
-#EXTGRP:🇦🇿 Kanal65[BY-Kerimoff]
-https://raw.githubusercontent.com/BY-KERIMOFF/by-kerimoff-stream/heads/main/catcast/by-kerimoff-retro-filmler-2.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/ncnKdCZf/In-Shot-20260516-212609623.png",KANAL 65 [Bozbash Production]
-#EXTGRP:🇦🇿 Kanal65[BY-Kerimoff]
-https://raw.githubusercontent.com/BY-KERIMOFF/by-kerimoff-stream/refs/heads/main/catcast/by-kerimoff-bozbash-production.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/ncnKdCZf/In-Shot-20260516-212609623.png",KANAL 65 [Animasyon]
-#EXTGRP:🇦🇿 Kanal65[BY-Kerimoff]
-https://raw.githubusercontent.com/BY-KERIMOFF/by-kerimoff-stream/refs/heads/main/catcast/by-kerimoff-animasyon.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/ncnKdCZf/In-Shot-20260516-212609623.png",KANAL 65 [kanal-65]
-#EXTGRP:🇦🇿 Kanal65[BY-Kerimoff]
-https://raw.githubusercontent.com/BY-KERIMOFF/by-kerimoff-stream/refs/heads/main/catcast/kanal-65.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/ncnKdCZf/In-Shot-20260516-212609623.png",KANAL 65 [Keloglan]
-#EXTGRP:🇦🇿 Kanal65[BY-Kerimoff]
-https://raw.githubusercontent.com/BY-KERIMOFF/by-kerimoff-stream/refs/heads/main/catcast/by-kerimoff-keloglan.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/ncnKdCZf/In-Shot-20260516-212609623.png",KANAL 65 [Masa ve Ayi]
-#EXTGRP:🇦🇿 Kanal65[BY-Kerimoff]
-https://raw.githubusercontent.com/BY-KERIMOFF/by-kerimoff-stream/refs/heads/main/catcast/b-kerimoff-masa-veayi.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/ncnKdCZf/In-Shot-20260516-212609623.png",KANAL 65 [Music]
-#EXTGRP:🇦🇿 Kanal65[BY-Kerimoff]
-https://raw.githubusercontent.com/BY-KERIMOFF/by-kerimoff-stream/refs/heads/main/catcast/kanal65-music.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/ncnKdCZf/In-Shot-20260516-212609623.png",KANAL 65 [MuGAM]
-#EXTGRP:🇦🇿 Kanal65[BY-Kerimoff]
-https://raw.githubusercontent.com/BY-KERIMOFF/by-kerimoff-stream/refs/heads/main/catcast/b-kerimoff-Mugam-dunyamiz.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/ncnKdCZf/In-Shot-20260516-212609623.png",KANAL 65 [Slow Musiqilər]
-#EXTGRP:🇦🇿 Kanal65[BY-Kerimoff]
-https://raw.githubusercontent.com/BY-KERIMOFF/by-kerimoff-stream/refs/heads/main/catcast/by-kerimoff-slow-musiqiler.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/ncnKdCZf/In-Shot-20260516-212609623.png",KANAL 65 [BUGLAMA]
-#EXTGRP:🇦🇿 Kanal65[BY-Kerimoff]
-https://raw.githubusercontent.com/BY-KERIMOFF/by-kerimoff-stream/refs/heads/main/catcast/by-kerimoff-buglama.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/ncnKdCZf/In-Shot-20260516-212609623.png",KANAL 65 [SOLO KONSERT]
-#EXTGRP:🇦🇿 Kanal65[BY-Kerimoff]
-https://raw.githubusercontent.com/BY-KERIMOFF/by-kerimoff-stream/refs/heads/main/catcast/by_kerimoff_solo_konsert.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/ncnKdCZf/In-Shot-20260516-212609623.png",KANAL 65 [YESILCAM FILMLERI]
-#EXTGRP:🇦🇿 Kanal65[BY-Kerimoff]
-https://raw.githubusercontent.com/BY-KERIMOFF/by-kerimoff-stream/refs/heads/main/catcast/by-kerimoff-yesilcam.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/ncnKdCZf/In-Shot-20260516-212609623.png",KANAL 65 [VETENDAS A]
-#EXTGRP:🇦🇿 Kanal65[BY-Kerimoff]
-https://raw.githubusercontent.com/BY-KERIMOFF/by-kerimoff-stream/refs/heads/main/catcast/vetendasa.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/ncnKdCZf/In-Shot-20260516-212609623.png",KANAL 65 [KEMAL SUNAL]
-#EXTGRP:🇦🇿 Kanal65[BY-Kerimoff]
-https://raw.githubusercontent.com/BY-KERIMOFF/by-kerimoff-stream/refs/heads/main/catcast/ksunal.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/ncnKdCZf/In-Shot-20260516-212609623.png",KANAL 65 [HitsMusicTv]
-#EXTGRP:🇦🇿 Kanal65[BY-Kerimoff]
-https://raw.githubusercontent.com/BY-KERIMOFF/by-kerimoff-stream/refs/heads/main/catcast/HitsMusicTv.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/ncnKdCZf/In-Shot-20260516-212609623.png",KANAL 65 [alvin-music]
-#EXTGRP:🇦🇿 Kanal65[BY-Kerimoff]
-https://raw.githubusercontent.com/BY-KERIMOFF/by-kerimoff-stream/refs/heads/main/catcast/alvin-music.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/ncnKdCZf/In-Shot-20260516-212609623.png",KANAL 65 [alvin-Ovcu]
-#EXTGRP:🇦🇿 Kanal65[BY-Kerimoff]
-https://raw.githubusercontent.com/BY-KERIMOFF/by-kerimoff-stream/refs/heads/main/catcast/alvin-ovcu.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/ncnKdCZf/In-Shot-20260516-212609623.png",KANAL 65 [balacan-tv-diginet]
-#EXTGRP:🇦🇿 Kanal65[BY-Kerimoff]
-https://raw.githubusercontent.com/BY-KERIMOFF/by-kerimoff-stream/refs/heads/main/catcast/balacan-tv-diginet.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/ncnKdCZf/In-Shot-20260516-212609623.png",KANAL 65 [bayzan-hits]
-#EXTGRP:🇦🇿 Kanal65[BY-Kerimoff]
-https://raw.githubusercontent.com/BY-KERIMOFF/by-kerimoff-stream/refs/heads/main/catcast/bayzan-hits.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/ncnKdCZf/In-Shot-20260516-212609623.png",KANAL 65 [bayzan-music]
-#EXTGRP:🇦🇿 Kanal65[BY-Kerimoff]
-https://raw.githubusercontent.com/BY-KERIMOFF/by-kerimoff-stream/refs/heads/main/catcast/bayzan-music.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/ncnKdCZf/In-Shot-20260516-212609623.png",KANAL 65 [fanatikmaxkorku]
-#EXTGRP:🇦🇿 Kanal65[BY-Kerimoff]
-https://raw.githubusercontent.com/BY-KERIMOFF/by-kerimoff-stream/refs/heads/main/catcast/fanatikmaxkorku.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/ncnKdCZf/In-Shot-20260516-212609623.png",KANAL 65 [Fanatik Max Yesilcam]
-#EXTGRP:🇦🇿 Kanal65[BY-Kerimoff]
-https://raw.githubusercontent.com/BY-KERIMOFF/by-kerimoff-stream/refs/heads/main/catcast/fanatikmaxyesilcam.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/ncnKdCZf/In-Shot-20260516-212609623.png",KANAL 65 [Kral Teber]
-#EXTGRP:🇦🇿 Kanal65[BY-Kerimoff]
-https://raw.githubusercontent.com/BY-KERIMOFF/by-kerimoff-stream/refs/heads/main/catcast/kralteber.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/ncnKdCZf/In-Shot-20260516-212609623.png",KANAL 65 [M724]
-#EXTGRP:🇦🇿 Kanal65[BY-Kerimoff]
-https://raw.githubusercontent.com/BY-KERIMOFF/by-kerimoff-stream/refs/heads/main/catcast/m-724.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/ncnKdCZf/In-Shot-20260516-212609623.png",KANAL 65 [Niloya]
-#EXTGRP:🇦🇿 Kanal65[BY-Kerimoff]
-https://raw.githubusercontent.com/BY-KERIMOFF/by-kerimoff-stream/refs/heads/main/catcast/niloya-tv.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/ncnKdCZf/In-Shot-20260516-212609623.png",KANAL 65 [NOW--Music]
-#EXTGRP:🇦🇿 Kanal65[BY-Kerimoff]
-https://raw.githubusercontent.com/BY-KERIMOFF/by-kerimoff-stream/refs/heads/main/catcast/now--music.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/ncnKdCZf/In-Shot-20260516-212609623.png",KANAL 65 [Now-Music]
-#EXTGRP:🇦🇿 Kanal65[BY-Kerimoff]
-https://raw.githubusercontent.com/BY-KERIMOFF/by-kerimoff-stream/refs/heads/main/catcast/now-music.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/ncnKdCZf/In-Shot-20260516-212609623.png",NOW TV yeni
-#EXTGRP:🇦🇿 Kanal65[BY-Kerimoff]
-https://premiumiptv.bykerimoff.workers.dev/stream/nowmusic.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/ncnKdCZf/In-Shot-20260516-212609623.png",KANAL 65 [Rihat Music]
-#EXTGRP:🇦🇿 Kanal65[BY-Kerimoff]
-https://raw.githubusercontent.com/BY-KERIMOFF/by-kerimoff-stream/refs/heads/main/catcast/rihatmusic.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/ncnKdCZf/In-Shot-20260516-212609623.png",KANAL 65 [Tom_and_Cerry]
-#EXTGRP:🇦🇿 Kanal65[BY-Kerimoff]
-https://raw.githubusercontent.com/BY-KERIMOFF/by-kerimoff-stream/refs/heads/main/catcast/tomandjerry.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/ncnKdCZf/In-Shot-20260516-212609623.png",KANAL 65 [TurkuzPlay1]
-#EXTGRP:🇦🇿 Kanal65[BY-Kerimoff]
-https://raw.githubusercontent.com/BY-KERIMOFF/by-kerimoff-stream/refs/heads/main/catcast/turkuzplay1.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/ncnKdCZf/In-Shot-20260516-212609623.png",KANAL 65 [Ulduz tv]
-#EXTGRP:🇦🇿 Kanal65[BY-Kerimoff]
-https://raw.githubusercontent.com/BY-KERIMOFF/by-kerimoff-stream/refs/heads/main/catcast/ulduz-tv.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/ncnKdCZf/In-Shot-20260516-212609623.png",KANAL 65 [Yansima-Slow_Sarkilar]
-#EXTGRP:🇦🇿 Kanal65[BY-Kerimoff]
-https://raw.githubusercontent.com/BY-KERIMOFF/by-kerimoff-stream/refs/heads/main/catcast/yansimaslowsarkilar.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/ncnKdCZf/In-Shot-20260516-212609623.png",KANAL 65 [Relax-tvHD]
-#EXTGRP:🇦🇿 Kanal65[BY-Kerimoff]
-https://raw.githubusercontent.com/BY-KERIMOFF/by-kerimoff-stream/refs/heads/main/catcast/relax-tvhd.m3u8
-
-
 
 #EXTINF:0 tvg-logo="https://i.postimg.cc/nrnVcwWT/In-Shot-20260603-193259155.png" group-title="🇦🇿 Azərbaycan radioları",NAZ radio 
 https://s2.myradiostream.com/5286/listen.mp3

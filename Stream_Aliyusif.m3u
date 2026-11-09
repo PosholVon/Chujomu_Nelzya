@@ -136,7 +136,6 @@ https://catcast-bana-sor.biz-az.workers.dev/index.m3u8?id=sirius-planettv
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qHQSpxW.png", Sirius-NatureTV
 #EXTGRP:🇦🇿 Azərbaycan 🇦🇿
 https://catcast-bana-sor.biz-az.workers.dev/index.m3u8?id=sirius-naturetv
-sirius-naturetv
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qHQSpxW.png",SIRIUS TV Az Film
 #EXTGRP:🇦🇿 Azərbaycan 🇦🇿
 https://catcast.ismailturret.workers.dev/sirius_az_film.m3u8

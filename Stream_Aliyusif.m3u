@@ -84,27 +84,6 @@ http://s2.00x00.es/11452/index.m3u8?token=4913C457E8DE
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cRxhxdA.png", ŞİRVAN TV
 #EXTGRP:🇦🇿 Azərbaycan 🇦🇿
 https://pastebin.com/raw/C13XaXTB
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/XYV2ysXs/In-Shot-20260516-212209897.png",KANAL 65 
-#EXTGRP:🇦🇿 Azərbaycan 🇦🇿
-https://now-cinema-prox.bykerimoff.workers.dev/kanal65.m3u8
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/2fsxxtab.png",Now Cinema Ailə
-#EXTGRP:🇦🇿 Azərbaycan 🇦🇿
-https://now-cinema-prox.bykerimoff.workers.dev/nowcinema-aile.m3u8
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/drfqvbnj.png",Now Cinema 
-#EXTGRP:🇦🇿 Azərbaycan 🇦🇿
-https://now-cinema-prox.bykerimoff.workers.dev/nowcinema.m3u8
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/gsm0ekvo.png",Now-series
-#EXTGRP:🇦🇿 Azərbaycan 🇦🇿
-https://now-cinema-prox.bykerimoff.workers.dev/nowseries.m3u8
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/0sbkmhzp.png",Now BilimKurgu
-#EXTGRP:🇦🇿 Azərbaycan 🇦🇿
-https://now-cinema-prox.bykerimoff.workers.dev/nowbilimkurgu.m3u8
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/0sbkmhzp.png",Now Horror 
-#EXTGRP:🇦🇿 Azərbaycan 🇦🇿
-https://now-cinema-prox.bykerimoff.workers.dev/nowhorror.m3u8
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/0sbkmhzp.png",Now Action 
-#EXTGRP:🇦🇿 Azərbaycan 🇦🇿
-https://now-cinema-prox.bykerimoff.workers.dev/nowaction.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/ydy7DCw5/1762835780517.png", HTV sinema
 #EXTGRP:🇦🇿 Azərbaycan 🇦🇿
 https://pastebin.com/raw/m3UBDTLW
@@ -122,22 +101,22 @@ https://streamsat.siriushdtv-onlineclap.workers.dev/siriustvhd.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qHQSpxW.png", Sirius_klassika_tv
 #EXTGRP:🇦🇿 Azərbaycan 🇦🇿
-https://catcast-bana-sor.biz-az.workers.dev/index.m3u8?id=sirius_klassika_tv
+https://catcast.ismailturret.workers.dev/sirius_klassika_tv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qHQSpxW.png", Sirius-tamasatv
 #EXTGRP:🇦🇿 Azərbaycan 🇦🇿
-https://catcast-bana-sor.biz-az.workers.dev/index.m3u8?id=sirius-tamasatv
+https://catcast.ismailturret.workers.dev/sirius-tamasatv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qHQSpxW.png", Sirius-citytv
 #EXTGRP:🇦🇿 Azərbaycan 🇦🇿
-https://catcast-bana-sor.biz-az.workers.dev/index.m3u8?id=sirius-citytv
+https://catcast.ismailturret.workers.dev/sirius-citytv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qHQSpxW.png", Sirius-hdworldcup2026
 #EXTGRP:🇦🇿 Azərbaycan 🇦🇿
-https://catcast-bana-sor.biz-az.workers.dev/index.m3u8?id=sirius-hdworldcup2026
+https://catcast.ismailturret.workers.dev/sirius-hdworldcup2026.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qHQSpxW.png", Sirius-PlanetTV
 #EXTGRP:🇦🇿 Azərbaycan 🇦🇿
-https://catcast-bana-sor.biz-az.workers.dev/index.m3u8?id=sirius-planettv
+https://catcast.ismailturret.workers.dev/sirius-planettv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qHQSpxW.png", Sirius-NatureTV
 #EXTGRP:🇦🇿 Azərbaycan 🇦🇿
-https://catcast-bana-sor.biz-az.workers.dev/index.m3u8?id=sirius-naturetv
+https://catcast.ismailturret.workers.dev/sirius-naturetv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qHQSpxW.png",SIRIUS TV Az Film
 #EXTGRP:🇦🇿 Azərbaycan 🇦🇿
 https://catcast.ismailturret.workers.dev/sirius_az_film.m3u8

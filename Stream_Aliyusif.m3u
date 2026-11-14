@@ -76,7 +76,8 @@ https://ip100.radyotelekomtv.com:3274/hybrid/play.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/5N4mghBq/In-Shot-20260510-202245174.png", Diginet Cinema tv
 #EXTGRP:🇦🇿 Azərbaycan 🇦🇿
 https://a8.radyotelekom.com.tr:3276/stream/play.m3u8
-#EXTINF:-1 group-title="🇦🇿 Azərbaycan 🇦🇿",Azbrain Cinema
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/t4ZnMcjC/file-000000003d3c82108bda9aab10063195.png",Azbrain Cinema
+#EXTGRP:🇦🇿 Azərbaycan 🇦🇿
 http://80.69.59.104:8090/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eKqeMvf.png", Retro TV az
 #EXTGRP:🇦🇿 Azərbaycan 🇦🇿

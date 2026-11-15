@@ -154,6 +154,20 @@ https://zemmedya.online/2016/hls/fm-f_sinema/index.m3u8
 https://zemmedya.com/free/hls/zem/tv7.m3u8
 #EXTINF:-1 tvg-logo="https://r.resimlink.com/VP-NLRX.png" group-title="🇦🇿 Azərbaycan 🇦🇿",RESURRECTİON CHANNEL
 https://raw.githubusercontent.com/ibrahim9071/kick/refs/heads/main/streams/resurrection-channel-tv.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="🇦🇿 Azərbaycan 🇦🇿",YESILCAM 1 .G
+https://iptv.reeltu.com/vavoo?id=15843353838096cf65cb7d
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="🇦🇿 Azərbaycan 🇦🇿",YESILCAM 2 .G
+https://iptv.reeltu.com/vavoo?id=8685860582340e8bd0469
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="🇦🇿 Azərbaycan 🇦🇿",YESILCAM 3 .G
+https://iptv.reeltu.com/vavoo?id=245742586a1ae349871a9
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="🇦🇿 Azərbaycan 🇦🇿",GLOBAL BOX KEMAL SUNAL .G
+https://iptv.reeltu.com/vavoo?id=4275446197442fb43a2e5e
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="🇦🇿 Azərbaycan 🇦🇿",FIX CINEMA YERLI .G
+https://iptv.reeltu.com/vavoo?id=239201347a28a02eb2603
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="🇦🇿 Azərbaycan 🇦🇿",GLOBAL BOX YERLI .G
+https://iptv.reeltu.com/vavoo?id=23222622101ba7812517d7
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="🇦🇿 Azərbaycan 🇦🇿",GLOBAL BOX Yeşilçam .G
+https://iptv.reeltu.com/vavoo?id=2046943434abdeefd99cc9
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/KYtcqRKT/37576965-ico.png" group-title="🇦🇿 Azərbaycan 🇦🇿",TVB
 https://ip44.radyotelekomtv.com:3958/stream/play.m3u8

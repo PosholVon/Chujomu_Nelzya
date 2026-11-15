@@ -146,6 +146,14 @@ https://demiroren.daioncdn.net/wdaa1icvrx6m7uadvqs0dw/zalim_istanbul_dizi/playli
 https://demiroren.daioncdn.net/wdaa1icvrx6m7uadvqs0dw/tatli_intikam_dizi/playlist.m3u8?app=kanald_web&ce=3?=.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/5NqDy2Z1/In-Shot-20260901-195625661.png" group-title="🇦🇿 Azərbaycan 🇦🇿", DIZI 3
 https://demiroren.daioncdn.net/wdaa1icvrx6m7uadvqs0dw/Siyah_beyaz_ask_dizi/playlist.m3u8?app=kanald_web&ce=3?=.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/rsfSzPXg/8924f0e7-3afa-436f-ad2e-fcedc2f1dbcf-removebg-preview.png" group-title="🇦🇿 Azərbaycan 🇦🇿",KANAL F
+https://zemmedya.com/free/hls/zem/kanalfmedyatv.m3u8
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/lgjgwijl.png" group-title="🇦🇿 Azərbaycan 🇦🇿",F SİNEMA
+https://zemmedya.online/2016/hls/fm-f_sinema/index.m3u8
+#EXTINF:-1 tvg-logo="https://r.resimlink.com/N2zd14iDu.png" group-title="🇦🇿 Azərbaycan 🇦🇿",TV7
+https://zemmedya.com/free/hls/zem/tv7.m3u8
+#EXTINF:-1 tvg-logo="https://r.resimlink.com/VP-NLRX.png" group-title="🇦🇿 Azərbaycan 🇦🇿",RESURRECTİON CHANNEL
+https://raw.githubusercontent.com/ibrahim9071/kick/refs/heads/main/streams/resurrection-channel-tv.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/KYtcqRKT/37576965-ico.png" group-title="🇦🇿 Azərbaycan 🇦🇿",TVB
 https://ip44.radyotelekomtv.com:3958/stream/play.m3u8

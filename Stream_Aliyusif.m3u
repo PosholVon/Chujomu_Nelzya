@@ -200,8 +200,10 @@ https://bikanal-live.ercdn.net/bikanal/bikanal.m3u8
 https://yayin.rizeturk.com:3777/hybrid/play.m3u8
 #EXTINF:0 tvg-id="3"tvg-logo="https://i.postimg.cc/tR5kJjpx/In-Shot-20260517-113022210.png" group-title="🇦🇿 Azərbaycan 🇦🇿",TE TV 
 https://host.onlineradyotv.net:8081/tetv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/jS1HX7WF/37615020-ico.png" group-title="🇦🇿 Azərbaycan 🇦🇿",PATİ TV
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/jS1HX7WF/37615020-ico.png" group-title="🇦🇿 Azərbaycan 🇦🇿",MYWAY TV 2
 http://45.88.139.156/d/live/out.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/jS1HX7WF/37615020-ico.png" group-title="🇦🇿 Azərbaycan 🇦🇿",MYWAY TV
+http://45.88.139.140/d/live/out.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VAG8ZQ5.png", SDM TVᵀᴿ
 #EXTGRP:🇦🇿 Azərbaycan 🇦🇿
 https://host.onlineradyotv.net:8081/sdmtv/tracks-v1a1/mono.m3u8

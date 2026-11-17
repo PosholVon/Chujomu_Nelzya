@@ -109,6 +109,21 @@ https://raw.githubusercontent.com/Elvin4K/restream/refs/heads/pro4k/1siriustv.m3
 #EXTGRP:🇦🇿 Azərbaycan 🇦🇿
 https://streamsat.siriushdtv-onlineclap.workers.dev/siriustvhd.m3u8
 
+#EXTINF:0,now aile
+https://kanal65.xyz/propro/index.php?slug=now-aile/index.m3u8
+#EXTINF:0,now cinema
+https://kanal65.xyz/propro/index.php?slug=now-cinema/index.m3u8
+#EXTINF:0,now war
+https://kanal65.xyz/propro/index.php?slug=now-war/index.m3u8
+#EXTINF:0,kanal 65
+https://kanal65.xyz/propro/index.php?slug=kanal-65/index.m3u8
+#EXTINF:0,NOW action
+https://kanal65.xyz/propro/index.php?slug=now-action/index.m3u8
+#EXTINF:0,now horror
+https://kanal65.xyz/propro/index.php?slug=now-horror/index.m3u8
+#EXTINF:0,now bilimkurgu
+https://kanal65.xyz/propro/index.php?slug=now-bilimkurgu/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qHQSpxW.png", Sirius_klassika_tv
 #EXTGRP:🇦🇿 Azərbaycan 🇦🇿
 https://catcast.ismailturret.workers.dev/sirius_klassika_tv.m3u8

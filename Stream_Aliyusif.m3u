@@ -109,19 +109,26 @@ https://raw.githubusercontent.com/Elvin4K/restream/refs/heads/pro4k/1siriustv.m3
 #EXTGRP:🇦🇿 Azərbaycan 🇦🇿
 https://streamsat.siriushdtv-onlineclap.workers.dev/siriustvhd.m3u8
 
-#EXTINF:0,now aile
+#EXTINF:0 tvg-logo="https://i.hizliresim.com/2fsxxtab.png",now aile
+#EXTGRP:🇦🇿 Azərbaycan 🇦🇿
 https://kanal65.xyz/propro/index.php?slug=now-aile/index.m3u8
-#EXTINF:0,now cinema
+#EXTINF:0 tvg-logo="https://i.hizliresim.com/drfqvbnj.png",now cinema
+#EXTGRP:🇦🇿 Azərbaycan 🇦🇿
 https://kanal65.xyz/propro/index.php?slug=now-cinema/index.m3u8
-#EXTINF:0,now war
+#EXTINF:0 tvg-logo="https://i.hizliresim.com/drfqvbnj.png",now war
+#EXTGRP:🇦🇿 Azərbaycan 🇦🇿
 https://kanal65.xyz/propro/index.php?slug=now-war/index.m3u8
-#EXTINF:0,kanal 65
+#EXTINF:0 tvg-logo="https://i.imgur.com/QW0xBp1.png",kanal 65
+#EXTGRP:🇦🇿 Azərbaycan 🇦🇿
 https://kanal65.xyz/propro/index.php?slug=kanal-65/index.m3u8
-#EXTINF:0,NOW action
+#EXTINF:0 tvg-logo="https://i.hizliresim.com/drfqvbnj.png",NOW action
+#EXTGRP:🇦🇿 Azərbaycan 🇦🇿
 https://kanal65.xyz/propro/index.php?slug=now-action/index.m3u8
-#EXTINF:0,now horror
+#EXTINF:0 tvg-logo="https://i.hizliresim.com/drfqvbnj.png",now horror
+#EXTGRP:🇦🇿 Azərbaycan 🇦🇿
 https://kanal65.xyz/propro/index.php?slug=now-horror/index.m3u8
-#EXTINF:0,now bilimkurgu
+#EXTINF:0 tvg-logo="https://i.hizliresim.com/drfqvbnj.png",now bilimkurgu
+#EXTGRP:🇦🇿 Azərbaycan 🇦🇿
 https://kanal65.xyz/propro/index.php?slug=now-bilimkurgu/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qHQSpxW.png", Sirius_klassika_tv

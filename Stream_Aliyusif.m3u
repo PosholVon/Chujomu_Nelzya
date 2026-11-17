@@ -201,6 +201,25 @@ https://iptv.reeltu.com/vavoo?id=23222622101ba7812517d7
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="🇦🇿 Azərbaycan 🇦🇿",GLOBAL BOX Yeşilçam .G
 https://iptv.reeltu.com/vavoo?id=2046943434abdeefd99cc9
 
+#EXTINF:-1,Em tv
+#EXTGRP:🇦🇿 Azərbaycan 🇦🇿
+https://catcast.ismailturret.workers.dev/emtv.m3u8
+#EXTINF:-1,Ymm-tv
+#EXTGRP:🇦🇿 Azərbaycan 🇦🇿
+https://catcast.ismailturret.workers.dev/ymm-tv.m3u8
+#EXTINF:-1,Ysm tv 1
+#EXTGRP:🇦🇿 Azərbaycan 🇦🇿
+https://catcast.ismailturret.workers.dev/ysmtv1.m3u8
+#EXTINF:-1,Ysm tv 2
+#EXTGRP:🇦🇿 Azərbaycan 🇦🇿
+https://catcast.ismailturret.workers.dev/ysmtv2.m3u8
+#EXTINF:-1,SuperStar 1
+#EXTGRP:🇦🇿 Azərbaycan 🇦🇿
+https://catcast.ismailturret.workers.dev/sperstar1.m3u8
+#EXTINF:-1,SuperStar 2
+#EXTGRP:🇦🇿 Azərbaycan 🇦🇿
+https://catcast.ismailturret.workers.dev/superstar2.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/KYtcqRKT/37576965-ico.png" group-title="🇦🇿 Azərbaycan 🇦🇿",TVB
 https://ip44.radyotelekomtv.com:3958/stream/play.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/wT6V9GD3/37586347-ico.png" group-title="🇦🇿 Azərbaycan 🇦🇿",FİLMSCREEN İNTERNATİONAL

@@ -201,22 +201,22 @@ https://iptv.reeltu.com/vavoo?id=23222622101ba7812517d7
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="🇦🇿 Azərbaycan 🇦🇿",GLOBAL BOX Yeşilçam .G
 https://iptv.reeltu.com/vavoo?id=2046943434abdeefd99cc9
 
-#EXTINF:-1,Em tv
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/ZqfsM06W/file-0000000092f8820ab7de6ace49e21e5d.png",Em tv
 #EXTGRP:🇦🇿 Azərbaycan 🇦🇿
 https://catcast.ismailturret.workers.dev/emtv.m3u8
-#EXTINF:-1,Ymm-tv
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/GhHL7sYS/file-00000000fdcc820a8e10e04800dfc772.png",Ymm-tv
 #EXTGRP:🇦🇿 Azərbaycan 🇦🇿
 https://catcast.ismailturret.workers.dev/ymm-tv.m3u8
-#EXTINF:-1,Ysm tv 1
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/KjV2SJL5/file-00000000a184820aa8115f8fa33bc245.png",Ysm tv 1
 #EXTGRP:🇦🇿 Azərbaycan 🇦🇿
 https://catcast.ismailturret.workers.dev/ysmtv1.m3u8
-#EXTINF:-1,Ysm tv 2
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/85zQ7qmH/file-000000006834820a8b746ae77d10f810.png",Ysm tv 2
 #EXTGRP:🇦🇿 Azərbaycan 🇦🇿
 https://catcast.ismailturret.workers.dev/ysmtv2.m3u8
-#EXTINF:-1,SuperStar 1
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SQwSPxGZ/file-000000002cb8820a81dfe1b9c17ae217.png",SuperStar 1
 #EXTGRP:🇦🇿 Azərbaycan 🇦🇿
 https://catcast.ismailturret.workers.dev/sperstar1.m3u8
-#EXTINF:-1,SuperStar 2
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/pr8HvKZy/file-0000000086b881f6b8c4f338379ce346.png",SuperStar 2
 #EXTGRP:🇦🇿 Azərbaycan 🇦🇿
 https://catcast.ismailturret.workers.dev/superstar2.m3u8
 

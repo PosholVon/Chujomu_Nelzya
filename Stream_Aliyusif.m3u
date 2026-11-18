@@ -93,13 +93,15 @@ https://pastebin.com/raw/m3UBDTLW
 #EXTINF:-1 tvg-logo="http://epg.one/img2/9128.png", ATV Cinema AZ
 #EXTGRP:🇦🇿 Azərbaycan 🇦🇿
 http://s2.00x00.es/11937/index.m3u8?token=4913C457E8DE
-#EXTINF:-1 tvg-name="TV1 HD",TV1 HD
+#EXTINF:0 tvg-logo="https://i.postimg.cc/0QrvfpL0/In-Shot-20250516-082658023.png" group-title="🇦🇿 Azərbaycan 🇦🇿",TV1
+https://telecast.srthub.net/hls/20850e6a-19a8-df31-6690-7e8af2cdf531/streams/v3/play.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/0QrvfpL0/In-Shot-20250516-082658023.png",TV1 HD
 #EXTGRP:🇦🇿 Azərbaycan 🇦🇿
 http://s2.00x00.es/21145/index.m3u8?token=4913C457E8DE
-#EXTINF:-1 tvg-name="RMB HD",RMB HD
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/FHF0YpJb/file-000000006df481f496a5477b2542bc47.png",RMB HD
 #EXTGRP:🇦🇿 Azərbaycan 🇦🇿
 http://s2.00x00.es/21146/index.m3u8?token=4913C457E8DE
-#EXTINF:-1 tvg-name="BTV XEBER HD",BTV XEBER HD
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qvnHCcVC/file-000000000c1c82439de3672b460a3379.png",BTV XEBER HD
 #EXTGRP:🇦🇿 Azərbaycan 🇦🇿
 http://s2.00x00.es/21159/index.m3u8?token=4913C457E8DE
 
@@ -157,8 +159,6 @@ https://catcast.ismailturret.workers.dev/sirius_az_film.m3u8
 #EXTINF:-1 tvg-logo="https://r.resimlink.com/pCE1b.png", Fix tv
 #EXTGRP:🇦🇿 Azərbaycan 🇦🇿
 https://yayin.venomlink.com/live/mystream/main_stream.m3u8
-#EXTINF:0 tvg-logo="https://i.postimg.cc/0QrvfpL0/In-Shot-20250516-082658023.png" group-title="🇦🇿 Azərbaycan 🇦🇿",TV1
-https://telecast.srthub.net/hls/20850e6a-19a8-df31-6690-7e8af2cdf531/streams/v3/play.m3u8
 #EXTINF:0 tvg-logo="https://i.postimg.cc/WbDzWXbq/In-Shot-20260806-202852487.png" group-title="🇦🇿 Azərbaycan 🇦🇿",RIHAT TV 
 https://cdn4.yayin.com.tr/rihattv/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-logo="https://i.postimg.cc/Wztwp8Mn/In-Shot-20260807-111425434.png" group-title="🇦🇿 Azərbaycan 🇦🇿",Mr Bean 
@@ -273,7 +273,7 @@ http://193.123.61.120:3000/kanal/ErsoyFilmcilik
 http://193.123.61.120:3000/kanal/Taff-Pictures
 #EXTINF:-1 tvg-id="" tvg-name="Aksiyon Filmleri" tvg-logo="https://i.ibb.co/nqqzTyyt/aksiyon-filmlertri.jpg" group-title="🇦🇿 Azərbaycan 🇦🇿",Aksiyon Filmleri
 http://193.123.61.120:3000/kanal/TurkAksiyonFilmleri
-#EXTINF:-1 tvg-name="Kemal Sunal",Kemal Sunal
+#EXTINF:-1 tvg-logo"https://i.postimg.cc/t4dFTfT5/file-00000000d8b0820aa890029a65dcc789.png"=,Kemal Sunal
 #EXTGRP:🇦🇿 Azərbaycan 🇦🇿
 http://s2.00x00.es/21136/index.m3u8?token=4913C457E8DE
 #EXTINF:0 tvg-id="3"tvg-logo="https://i.postimg.cc/HsY46nFr/In-Shot-20251214-120450045.png",ŞABAN TV

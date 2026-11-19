@@ -105,28 +105,6 @@ http://s2.00x00.es/21146/index.m3u8?token=4913C457E8DE
 #EXTGRP:🇦🇿 Azərbaycan 🇦🇿
 http://s2.00x00.es/21159/index.m3u8?token=4913C457E8DE
 
-#EXTINF:0 tvg-logo="https://i.hizliresim.com/2fsxxtab.png",now aile
-#EXTGRP:🇦🇿 Azərbaycan 🇦🇿
-https://kanal65.xyz/propro/index.php?slug=now-aile/index.m3u8
-#EXTINF:0 tvg-logo="https://i.hizliresim.com/drfqvbnj.png",now cinema
-#EXTGRP:🇦🇿 Azərbaycan 🇦🇿
-https://kanal65.xyz/propro/index.php?slug=now-cinema/index.m3u8
-#EXTINF:0 tvg-logo="https://i.hizliresim.com/drfqvbnj.png",now war
-#EXTGRP:🇦🇿 Azərbaycan 🇦🇿
-https://kanal65.xyz/propro/index.php?slug=now-war/index.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/QW0xBp1.png",kanal 65
-#EXTGRP:🇦🇿 Azərbaycan 🇦🇿
-https://kanal65.xyz/propro/index.php?slug=kanal-65/index.m3u8
-#EXTINF:0 tvg-logo="https://i.hizliresim.com/drfqvbnj.png",NOW action
-#EXTGRP:🇦🇿 Azərbaycan 🇦🇿
-https://kanal65.xyz/propro/index.php?slug=now-action/index.m3u8
-#EXTINF:0 tvg-logo="https://i.hizliresim.com/drfqvbnj.png",now horror
-#EXTGRP:🇦🇿 Azərbaycan 🇦🇿
-https://kanal65.xyz/propro/index.php?slug=now-horror/index.m3u8
-#EXTINF:0 tvg-logo="https://i.hizliresim.com/drfqvbnj.png",now bilimkurgu
-#EXTGRP:🇦🇿 Azərbaycan 🇦🇿
-https://kanal65.xyz/propro/index.php?slug=now-bilimkurgu/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qHQSpxW.png", Sirius
 #EXTGRP:🇦🇿 Azərbaycan 🇦🇿
 https://raw.githubusercontent.com/Elvin4K/restream/refs/heads/pro4k/1siriustv.m3u8
@@ -178,12 +156,6 @@ https://demiroren.daioncdn.net/wdaa1icvrx6m7uadvqs0dw/zalim_istanbul_dizi/playli
 https://demiroren.daioncdn.net/wdaa1icvrx6m7uadvqs0dw/tatli_intikam_dizi/playlist.m3u8?app=kanald_web&ce=3?=.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/5NqDy2Z1/In-Shot-20260901-195625661.png" group-title="🇦🇿 Azərbaycan 🇦🇿", DIZI 3
 https://demiroren.daioncdn.net/wdaa1icvrx6m7uadvqs0dw/Siyah_beyaz_ask_dizi/playlist.m3u8?app=kanald_web&ce=3?=.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/rsfSzPXg/8924f0e7-3afa-436f-ad2e-fcedc2f1dbcf-removebg-preview.png" group-title="🇦🇿 Azərbaycan 🇦🇿",KANAL F
-https://zemmedya.com/free/hls/zem/kanalfmedyatv.m3u8
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/lgjgwijl.png" group-title="🇦🇿 Azərbaycan 🇦🇿",F SİNEMA
-https://zemmedya.online/2016/hls/fm-f_sinema/index.m3u8
-#EXTINF:-1 tvg-logo="https://r.resimlink.com/N2zd14iDu.png" group-title="🇦🇿 Azərbaycan 🇦🇿",TV7
-https://zemmedya.com/free/hls/zem/tv7.m3u8
 #EXTINF:-1 tvg-logo="https://r.resimlink.com/VP-NLRX.png" group-title="🇦🇿 Azərbaycan 🇦🇿",RESURRECTİON CHANNEL
 https://raw.githubusercontent.com/ibrahim9071/kick/refs/heads/main/streams/resurrection-channel-tv.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="🇦🇿 Azərbaycan 🇦🇿",YESILCAM 1 .G
@@ -365,7 +337,7 @@ https://catcast.ismailturret.workers.dev/fanatikmaxdag.m3u8
 https://catcast.ismailturret.workers.dev/fanatikmaxyesilcam.m3u8
 #EXTINF:-1 tvg-logo="https://img.catcast.tv/uploads/01042026/banners/50938-69cd8303c4840.png",Fanatik Max Korku
 #EXTGRP:🇦🇿 Azərbaycan 🇦🇿
-https://catcast.ismailturret.workers.dev/fanatikprimeavrupayakasi.m3u8
+https://catcast.ismailturret.workers.dev/fanatikmaxkorku.m3u8
 #EXTINF:-1 tvg-logo="https://img.catcast.tv/uploads/01042026/banners/50938-69cd8303c4840.png",Fanatik Prime Avrupa Yakası
 #EXTGRP:🇦🇿 Azərbaycan 🇦🇿
 https://catcast.ismailturret.workers.dev/fanatikprimeavrupayakasi.m3u8

@@ -104,7 +104,7 @@ http://185.118.50.218/tmbaz/video.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qvnHCcVC/file-000000000c1c82439de3672b460a3379.png",BTV XEBER HD
 #EXTGRP:🇦🇿 Azərbaycan 🇦🇿
 https://btvxeber.com/hls/live/main_stream.m3u8
-
+https://btvxeber.com/hls/live/main_stream.m3u8?cookieCheck=1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qHQSpxW.png", Sirius
 #EXTGRP:🇦🇿 Azərbaycan 🇦🇿
 https://raw.githubusercontent.com/Elvin4K/restream/refs/heads/pro4k/1siriustv.m3u8

@@ -92,7 +92,7 @@ https://pastebin.com/raw/m3UBDTLW
 
 #EXTINF:-1 tvg-logo="http://epg.one/img2/9128.png", ATV Cinema AZ
 #EXTGRP:🇦🇿 Azərbaycan 🇦🇿
-http://s2.00x00.es/11937/index.m3u8?token=4913C457E8DE
+https://raw.githubusercontent.com/dedmasteriptv/ATV-Cinema/refs/heads/main/ATVCinema.m3u8
 #EXTINF:0 tvg-logo="https://i.postimg.cc/0QrvfpL0/In-Shot-20250516-082658023.png" group-title="🇦🇿 Azərbaycan 🇦🇿",TV1
 https://telecast.srthub.net/hls/20850e6a-19a8-df31-6690-7e8af2cdf531/streams/v3/play.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/0QrvfpL0/In-Shot-20250516-082658023.png",TV1 HD

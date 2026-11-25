@@ -2435,10 +2435,10 @@ http://flussonic.izone.az:80/nostalgiya/index.m3u8
 http://flussonic.izone.az:80/telekanalkomedia/index.m3u8
 #EXTINF:-1,BOLLYWOOD
 #EXTGRP:FLUSSONIC.IZONE.AZ
-
+https://xykt-fix.github.io/cinerama_edge01/hls/BOLLYWOOD_RU/Movie009.m3u8
 #EXTINF:-1,KİNO TV
 #EXTGRP:FLUSSONIC.IZONE.AZ
-
+http://flussonic.izone.az:80/kinotv/index.m3u8
 #EXTINF:-1,KTO YEST KTO
 #EXTGRP:FLUSSONIC.IZONE.AZ
 http://flussonic.izone.az:80/ktoestkto/index.m3u8
@@ -2466,6 +2466,15 @@ http://flussonic.izone.az:80/cbsreality/index.m3u8
 #EXTINF:-1,DETSKİY
 #EXTGRP:FLUSSONIC.IZONE.AZ
 http://flussonic.izone.az:80/detskiy/index.m3u8
+#EXTINF:-1,Karusel
+#EXTGRP:FLUSSONIC.IZONE.AZ
+http://flussonic.izone.az:80/karusel/index.m3u8
+#EXTINF:-1,Kinosemya
+#EXTGRP:FLUSSONIC.IZONE.AZ
+http://flussonic.izone.az:80/kinosemya/index.m3u8
+#EXTINF:-1,Dom kino
+#EXTGRP:FLUSSONIC.IZONE.AZ
+https://streaming.thestream.cyou/live/44.m3u8
 #EXTINF:-1,NST
 #EXTGRP:FLUSSONIC.IZONE.AZ
 http://flussonic.izone.az:80/nst/index.m3u8

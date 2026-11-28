@@ -176,6 +176,9 @@ https://yayin.venomlink.com/live/mystream/main_stream.m3u8
 https://cdn4.yayin.com.tr/rihattv/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-logo="https://i.postimg.cc/Wztwp8Mn/In-Shot-20260807-111425434.png" group-title="🇦🇿 Azərbaycan 🇦🇿",Mr Bean 
 https://amg00627-amg00627c40-rakuten-uk-5725.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanpopupcc-rakutenuk/playlist.m3u8
+#EXTINF:-1 tvg-logo="", Esma Tv
+#EXTGRP:🇦🇿 Azərbaycan 🇦🇿
+https://217.117.29.109/tv/hls/esmatv-esmatv/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KLhBkdx.png", cine 1
 #EXTGRP:🇦🇿 Azərbaycan 🇦🇿
 https://canliyayin.cine1.com.tr/memfs/cbaef080-a742-4644-9e9e-2b9f6a5103c3_output_0.m3u8
